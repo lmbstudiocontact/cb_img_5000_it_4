@@ -1,0 +1,80 @@
+{
+  "english": "sausage",
+  "phat_am": "ˈsosidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xúch xích",
+          "definition": "(a section of) minced meat seasoned and pushed into a tube of animal gut or a similar material",
+          "world_new": [
+            "section",
+            "meat",
+            "seasoned",
+            "tube",
+            "animal",
+            "gut",
+            "similar",
+            "material"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had sausages for breakfast",
+              "world_new": [
+                "breakfast"
+              ]
+            },
+            {
+              "ex_of_definition": "garlic sausage.",
+              "world_new": [
+                "garlic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The name derives from the sausage's original shape, like that of a \"sabot\".",
+    "Where they are only getting a bit of sausage and a bit of sandwich they are getting sick of it.",
+    "I had a particularly bad sausage this evening.",
+    "My noble kinsman has a weight problem and must not eat the cheaper foods such as pastas and sausage rolls.",
+    "When we asked to see those calculations and the basis on which they were made, there was nothing—not a sausage.",
+    "I'd rather have my head torn off than my sausage.",
+    "If the traders continue to offer it as sausage meat it can be freely sold off the ration.",
+    "The resulting pinch was remarkably stable against sausage instabilities with a 100 : 1 (axial : radial) aspect ratio, and was significantly more uniform than an exploding-wire or jetonly pinch."
+  ],
+  "list_see_also": [
+    "sausage-roll"
+  ],
+  "list_browse": [
+    "sauciness",
+    "saucy",
+    "sauna",
+    "saunter",
+    "sausage",
+    "sausage-roll",
+    "sauté",
+    "savage",
+    "savagely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688834_4115a48fb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688834_a5b95184b6_o.png",
+      "id_image": "sausage_129193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070690_c9390eaf36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070690_c4f6d260bc_o.png",
+      "id_image": "sausage_534583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448783_7081d08d10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448783_6bff544db3_o.png",
+      "id_image": "sausage_877693"
+    }
+  ]
+}

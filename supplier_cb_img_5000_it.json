@@ -1,0 +1,77 @@
+{
+  "english": "supplier",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hãng cung ứng",
+          "definition": "a person or company that supplies goods",
+          "world_new": [
+            "person",
+            "company",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a leading supplier of building materials.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As with the lists of suppliers, the incidental details emerging from such microhistorical scrutiny bring as much enlightenment as the raw financial data.",
+    "These costs were established on the basis of suppliers' list prices.",
+    "It contains contributions from a broad and distributed team of designers, suppliers and analysts.",
+    "In contrast, these documents emphasize the complex relationships between suppliers, workers, makers and retailers, structures not generally discernible from surviving instruments.",
+    "These bids flowed down the chain from customer to supplier until most of the buy bids had filtered to the sellers.",
+    "Sourcing generally deals with the search for and identification of suppliers, materials and services.",
+    "Hence, they normally affect a smaller number of suppliers.",
+    "Since state agencies cease standing on the 'front-line' as service suppliers, they are shielded from consumers' critiques and demands."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "supplementary",
+    "suppleness",
+    "supplicant",
+    "supplication",
+    "supplier",
+    "supply",
+    "support",
+    "supporter",
+    "supporting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336816_925caca1cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336816_6f1455004b_o.png",
+      "id_image": "supplier_1924612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381852_5158781c88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381852_73c2843cba_o.png",
+      "id_image": "supplier_2104119"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381772_befe64218b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381772_6a0c98a77d_o.png",
+      "id_image": "supplier_2910490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336711_23ddfa9293_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336711_ba3972a2f5_o.png",
+      "id_image": "supplier_4003671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691979_1548bfb989_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691979_9b85d071a3_o.png",
+      "id_image": "supplier_6207092"
+    }
+  ]
+}

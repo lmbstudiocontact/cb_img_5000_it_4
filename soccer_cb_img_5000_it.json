@@ -1,0 +1,63 @@
+{
+  "english": "soccer",
+  "phat_am": "ˈsokə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn bóng đá",
+          "definition": "football played according to certain rules",
+          "world_new": [
+            "football",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She enjoys playing soccer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During the first season after these events, expressions of national protest were extremely rare on the soccer bleachers.",
+    "Thus, have the changes in tactics and physical ability of the players enhanced the game of soccer?",
+    "Several social events were also organised, notably soccer football matches that included local gang members and police as players.",
+    "The communication between the soccer robot and host computer is via wireless communication.",
+    "These changes in the rules of basketball and soccer may be sensible responses to \"natural\" enhancements.",
+    "In the center there is a small store, a school for primary and secondary grades, and a soccer field.",
+    "In particular, in the case of the infinite soccer team, the team has the same pattern of value after training as it did before.",
+    "In light of this, we need to reconsider the above assessments of the infinite soccer team."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sober up",
+    "sobering",
+    "soberly",
+    "soberness",
+    "soccer",
+    "sociable",
+    "sociably",
+    "social",
+    "social science"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372497_59962b141f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372497_acebffa9aa_o.png",
+      "id_image": "soccer_4545100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442748_f7584310a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442748_825e3217db_o.png",
+      "id_image": "soccer_5089187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327831_f7fed336ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327831_a699b0db81_o.png",
+      "id_image": "soccer_831178"
+    }
+  ]
+}

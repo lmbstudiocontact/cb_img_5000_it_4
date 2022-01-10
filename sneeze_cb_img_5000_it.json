@@ -1,0 +1,82 @@
+{
+  "english": "sneeze",
+  "phat_am": "sniːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hắt hơi",
+          "definition": "to blow out air suddenly, violently and involuntarily through the nose",
+          "world_new": [
+            "blow",
+            "air",
+            "suddenly",
+            "violently",
+            "involuntarily",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pepper made him sneeze.",
+              "world_new": [
+                "pepper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái, sự hắt hơi",
+          "definition": "an act of sneezing.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are accustomed to hearing only coughs and sneezes from him.",
+    "A hundred thousand pounds is not to be \"sneezed at,\" even on what was originally a very expensive ship, and it would be even more expensive to replace.",
+    "There is a risk of air contamination merely from people speaking, sneezing and breathing.",
+    "However much we may be critical of other things, that is not to be sneezed at and it is of importance.",
+    "Of course, that is not a figure to be sneezed at.",
+    "The £25 million or so which is saved towards the balance of payments is not to be sneezed at; it is something very significant.",
+    "They employ some 400,000 people in this country—that is not to be sneezed at.",
+    "A sum of £200 or £500 per year is not to be sneezed at if you arc an ex-civil servant or anything else."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sneakiness",
+    "sneaking",
+    "sneaky",
+    "sneer",
+    "sneeze",
+    "snide",
+    "sniff",
+    "sniff out",
+    "snigger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374362_c9e2f9c2cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374362_558195f2ef_o.png",
+      "id_image": "sneeze_1497116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329706_03d7297765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329706_28d0ce272b_o.png",
+      "id_image": "sneeze_2720393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444628_1b650cd0cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444628_1dcd21633d_o.png",
+      "id_image": "sneeze_4694796"
+    }
+  ]
+}

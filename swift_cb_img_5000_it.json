@@ -1,0 +1,86 @@
+{
+  "english": "swift",
+  "phat_am": "swift",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mau, nhanh, lẹ",
+          "definition": "fast or quick",
+          "world_new": [
+            "fast",
+            "quick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a swift horse",
+              "world_new": [
+                "horse"
+              ]
+            },
+            {
+              "ex_of_definition": "Our methods are swift and efficient",
+              "world_new": [
+                "efficient"
+              ]
+            },
+            {
+              "ex_of_definition": "a swift-footed animal.",
+              "world_new": [
+                "animal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chim én",
+          "definition": "a type of bird rather like a swallow.",
+          "world_new": [
+            "type",
+            "bird",
+            "rather",
+            "swallow"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many swifts have long swept-back wings that resemble a crescent or a boomerang.",
+    "A bilateral readjustment was swift and fundamentally unanimous.",
+    "The legendary hellbender inhabits the range's swifter streams.",
+    "Determined adherence to socialist rhetoric made liberalisation at the end of the decade unexpectedly swift.",
+    "They each do a series of sets, consisting of five quadrilles played at successively swifter tempos.",
+    "In the century that followed the movement of goods and people was accelerated by increasingly swifter forms of transportation.",
+    "The resemblances between the swallows and swifts are due to convergent evolution reflecting similar life styles.",
+    "However, most swifts are more complicated than this."
+  ],
+  "list_see_also": [
+    "swiftly",
+    "swiftness"
+  ],
+  "list_browse": [
+    "swell up",
+    "swelling",
+    "swelter",
+    "swerve",
+    "swift",
+    "swiftly",
+    "swiftness",
+    "swig",
+    "swill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687564_f7bb1913d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687564_ce82fdb705_o.png",
+      "id_image": "swift_2927923"
+    }
+  ]
+}

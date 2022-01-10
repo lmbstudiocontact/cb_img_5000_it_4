@@ -1,0 +1,129 @@
+{
+  "english": "tab",
+  "phat_am": "tӕb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vạt; miếng (dính vào vật gì để cầm)",
+          "definition": "a small flat piece of some material attached to, or part of, something larger, which stands up so that it can be seen, held, pulled etc",
+          "world_new": [
+            "small",
+            "flat",
+            "piece",
+            "material",
+            "attached",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You open the packet by pulling the tab.",
+              "world_new": [
+                "open",
+                "packet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vạt áo",
+          "definition": "a strip of material attached to a piece of clothing by which it can be hung up",
+          "world_new": [
+            "strip",
+            "material",
+            "attached",
+            "piece",
+            "clothing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hang your jacket up by the tab.",
+              "world_new": [
+                "your",
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẻ",
+          "definition": "a piece of material with a person’s name or some other mark on it, attached to a piece of clothing so that its owner can be identified.",
+          "world_new": [
+            "piece",
+            "material",
+            "name",
+            "mark",
+            "attached",
+            "piece",
+            "clothing",
+            "its",
+            "owner"
+          ]
+        },
+        {
+          "mean_english": "phím tab trên bàn phím",
+          "definition": "(also tab key, tab stop, or tabulator formal a button on a computer or typewriter keyboard that you use to move to a particular place in a line of a document.",
+          "world_new": [
+            "button",
+            "computer",
+            "typewriter",
+            "keyboard",
+            "move",
+            "particular",
+            "place",
+            "line",
+            "document"
+          ]
+        },
+        {
+          "mean_english": "phím tab",
+          "definition": "(also tab key, tab stop, or tabulator formal a function in a word-processing program that you use to move to a particular place in a line of a document.",
+          "world_new": [
+            "function",
+            "program",
+            "move",
+            "particular",
+            "place",
+            "line",
+            "document"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One interpretation is that the output should contain as many tab characters as possible.",
+    "To formalise the problem we have to interpret the phrase 'replaces blanks with tabs where possible'.",
+    "In the following figures, the two tabs that manage the application can be seen.",
+    "By 2004 ravers themselves will be picking up the tab, a development which will surely reduce significantly the already dwindling appeal of the event.",
+    "This was publicly displayed by a uniform with an orange flash shoulder tab.",
+    "By means of this tab, the user can move the arm indicating the relative movement of each joint.",
+    "A formula tab has been left visible to show where the user is expected to provide an input formula.",
+    "Subjects wore snugly fitting rubber thimbles on their right thumb and index finger that were used to hold rigid metal tabs in place directly above their fingernails."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "systolic",
+    "T",
+    "ta",
+    "ta-ta",
+    "tab",
+    "tabby",
+    "table",
+    "table linen",
+    "table tennis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329496_a8938126e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329496_5af0cf0f99_o.png",
+      "id_image": "tab_269100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329466_c5fab5ccc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329466_203db73d96_o.png",
+      "id_image": "tab_4312263"
+    }
+  ]
+}

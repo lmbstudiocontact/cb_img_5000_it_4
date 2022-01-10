@@ -1,0 +1,61 @@
+{
+  "english": "spaghetti",
+  "phat_am": "spəˈɡeti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "món mì ống",
+          "definition": "an Italian food consisting of long strands of pasta",
+          "world_new": [
+            "food",
+            "long",
+            "pasta"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "spaghetti bolognese."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The man eating spaghetti growled.",
+    "I think it was spaghetti.",
+    "Husbands left for work after this meal, and the children had a smaller meal at around 7pm - pizza, fishfingers and chips, spaghetti, pakoras, eggs and biscuits were mentioned.",
+    "One example is 'checkcheck', which is the popular name for fast-food stands (sometimes with seats) serving rice, spaghetti, chicken and salad, and other more 'modern' types of food.",
+    "Spaghetti grows on tall trees."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spaciously",
+    "spaciousness",
+    "spade",
+    "spades",
+    "spaghetti",
+    "spam",
+    "span",
+    "spaniel",
+    "spank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680219_d76695a169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680219_7b4940670d_o.png",
+      "id_image": "spaghetti_333414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680189_166789965d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680189_9f43245d91_o.png",
+      "id_image": "spaghetti_4403046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440023_120b27e419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440023_01ebff1e4f_o.png",
+      "id_image": "spaghetti_4825176"
+    }
+  ]
+}

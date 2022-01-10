@@ -1,0 +1,99 @@
+{
+  "english": "sort",
+  "phat_am": "soːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loại, thứ, hạng",
+          "definition": "a class, type or kind",
+          "world_new": [
+            "class",
+            "type",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like all sorts of books",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "She was wearing a sort of crown.",
+              "world_new": [
+                "wearing",
+                "crown"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phân loại",
+          "definition": "to separate into classes or groups, putting each item in its place",
+          "world_new": [
+            "separate",
+            "item",
+            "its",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sorted the buttons into large ones and small ones.",
+              "world_new": [
+                "large",
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She reported eating all sorts of things she should not have.",
+    "They recognized, of course, that any innate behavioral tendency would need to be realized in a brain mechanism of one sort or another.",
+    "Trophoblasts would seem ideal targets for fetal cell sorting efforts because of their abundance at the fetal-maternal interface.",
+    "First, what sorts of representations are being aligned; and second, how is this alignment achieved?",
+    "The disability movement provides a template for the sort of collective action that could soon take off.",
+    "What sort of disputes did ordinary people bring to court?",
+    "Unlike the first, where relationships had been built and some healing and closure was possible, nothing of the sort occurred in this case.",
+    "Comparing well-defined groups should help us sort out these possibilities."
+  ],
+  "list_see_also": [
+    "sorter",
+    "of a sort / of sorts",
+    "out of sorts",
+    "sort of",
+    "sort out"
+  ],
+  "list_browse": [
+    "sorrowful",
+    "sorrowfully",
+    "sorrowfulness",
+    "sorry",
+    "sort",
+    "sort of",
+    "sort out",
+    "sorter",
+    "sortie"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325696_386b0c93bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325696_1f52fb0fcb_o.png",
+      "id_image": "sort_4598422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325681_9fd5fd3f75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325681_de5e3582b5_o.png",
+      "id_image": "sort_4828897"
+    }
+  ]
+}

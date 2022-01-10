@@ -1,0 +1,125 @@
+{
+  "english": "toll",
+  "phat_am": "təul",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rung chuông",
+          "definition": "to ring (a bell) slowly",
+          "world_new": [
+            "ring",
+            "slowly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The church bell tolled solemnly.",
+              "world_new": [
+                "church",
+                "bell",
+                "solemnly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lệ phí",
+          "definition": "a tax charged for crossing a bridge, driving on certain roads etc",
+          "world_new": [
+            "tax",
+            "charged",
+            "crossing",
+            "bridge",
+            "driving",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All cars pay a toll of $1",
+              "world_new": [
+                "pay"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a toll bridge.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con số thiệt hại",
+          "definition": "an amount of loss or damage suffered, eg as a result of disaster",
+          "world_new": [
+            "amount",
+            "loss",
+            "damage",
+            "result",
+            "disaster"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Every year there is a heavy toll of human lives on the roads.",
+              "world_new": [
+                "year",
+                "heavy",
+                "human"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The expected death tolls of these projects can therefore be entered into the analysis.",
+    "Many people say that it is going backwards in development to return to tolls.",
+    "In an ancient borough, the importance of the large town gate was associated with public order, the collection of tolls and a venue for meetings of guildsmen and freemen.",
+    "We also support clause 21 which amends the procedure for revising tolls.",
+    "Tolls will continue to be charged on large and expensive estuarial crossings which provide exceptional benefit to their users.",
+    "Increased tolls are likely to increase the operating costs of, and may affect the viability of, local businesses.",
+    "To come to the question of imposing tolls on motorways, of course this is not a new proposal and it recurs from time to time.",
+    "If a tolling system were developed and the revenue was spent on the betterment of our road system, many people might be extremely pleased."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tolerant",
+    "tolerantly",
+    "tolerate",
+    "toleration",
+    "toll",
+    "tom-tom",
+    "tomato",
+    "tomb",
+    "tomboy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082365_5117ec3789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082365_8c18f5d317_o.png",
+      "id_image": "toll_1666273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459683_1812b3bd08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459683_9925f5c283_o.png",
+      "id_image": "toll_2554888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344846_6687aa06b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344846_628ba9e83c_o.png",
+      "id_image": "toll_4092025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699924_7345225624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699924_825f9d27c2_o.png",
+      "id_image": "toll_6158062"
+    }
+  ]
+}

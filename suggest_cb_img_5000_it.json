@@ -1,0 +1,109 @@
+{
+  "english": "suggest",
+  "phat_am": "səˈdʒest",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đề nghị, đề xuất",
+          "definition": "to put (an idea etc) before another person etc for consideration; to propose",
+          "world_new": [
+            "idea",
+            "person",
+            "propose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He suggested a different plan",
+              "world_new": [
+                "plan"
+              ]
+            },
+            {
+              "ex_of_definition": "I suggest doing it a different way",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "She suggested to me one or two suitable people for the committee",
+              "world_new": [
+                "suitable",
+                "people",
+                "committee"
+              ]
+            },
+            {
+              "ex_of_definition": "I suggest that we have lunch now.",
+              "world_new": [
+                "I",
+                "lunch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xảy đến với ai, nảy ra trong trí óc",
+          "definition": "to put (an idea etc) into a person’s mind; to hint",
+          "world_new": [
+            "idea",
+            "hint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you suggesting that I’m too old for the job?",
+              "world_new": [
+                "old",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "An explanation suddenly suggested itself to me.",
+              "world_new": [
+                "explanation",
+                "suddenly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The authors suggest that representations from one participant's head are aligned directly with those from the other participant's head.",
+    "It also suggests that traditional ways of telling the story overlook what sustains ordinary folk intent on finding religious meaning and identity.",
+    "The author suggested that this animal might have recovered normal eye alignment.",
+    "The collective results suggest that neural populations, rather than the individual cell, determine the spatial proper ties of its receptive field.",
+    "An array of agent-based models have been suggested over the past two decades.",
+    "The spatial receptive-field structure of these selection units suggests that they may be sensitive to disparity contrast.",
+    "I suggest that there are three fundamental bases of motivationemotion, or primes, which cannot be reduced to reward-punishment.",
+    "This evidence suggests that planning and control each serve a specialized purpose utilizing distinct visual representations."
+  ],
+  "list_see_also": [
+    "suggestion"
+  ],
+  "list_browse": [
+    "sugar-coated",
+    "sugar-free",
+    "sugariness",
+    "sugary",
+    "suggest",
+    "suggestion",
+    "suicidal",
+    "suicidally",
+    "suicide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693919_8d4fb1d78e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693919_6c247a68c3_o.png",
+      "id_image": "suggest_5772809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693889_bf79787033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693889_bbec3c9fbf_o.png",
+      "id_image": "suggest_5906128"
+    }
+  ]
+}

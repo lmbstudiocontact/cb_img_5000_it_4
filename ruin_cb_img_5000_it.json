@@ -1,0 +1,138 @@
+{
+  "english": "ruin",
+  "phat_am": "ˈruːin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đổ nát",
+          "definition": "a broken, collapsed or decayed state",
+          "world_new": [
+            "broken",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The civil war led to the ruin of the city.",
+              "world_new": [
+                "civil",
+                "war",
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên nhân thất bại",
+          "definition": "a cause of collapse, decay etc",
+          "world_new": [
+            "cause",
+            "collapse",
+            "decay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Drink was his ruin."
+            }
+          ]
+        },
+        {
+          "mean_english": "phá sản",
+          "definition": "financial disaster; complete loss of money",
+          "world_new": [
+            "financial",
+            "complete",
+            "loss",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The company is facing ruin.",
+              "world_new": [
+                "company",
+                "facing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tiêu tan",
+          "definition": "to cause ruin to",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The scandal ruined his career.",
+              "world_new": [
+                "scandal",
+                "ruined",
+                "career"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm hư hỏng",
+          "definition": "to spoil; to treat too indulgently",
+          "world_new": [
+            "treat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You are ruining that child!",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Again and again, residents and public officials - their complex motives run from the civic-minded to the selfish - tried to save the city from ruins.",
+    "Remarkable for its natural beauty, its past fertility, its historic landmarks, and its potential for investment, the small collection of villages stood in virtual ruin.",
+    "In dynamical systems exhibiting chaotic itinerancy, there come to exist transition rules between attractor ruins.",
+    "At the same time the monarchy was seen as an alien, intrusive power that ruined social relations and caused the rains to fail.",
+    "The ruined sites, in a dynamic process, become the locus for a variety of parties attuned to different agendas.",
+    "The local administration soon valued the efforts of these settlers and provided help whenever nature proved hostile and ruined their crops.",
+    "Visible in the distance are ruins and palm trees.",
+    "Relating transformation to abandonment is somewhat more difficult, but in a sense the village, already partially abandoned, was transformed into ruins."
+  ],
+  "list_see_also": [
+    "ruination",
+    "ruined",
+    "ruins",
+    "in ruins"
+  ],
+  "list_browse": [
+    "rugby",
+    "rugged",
+    "ruggedly",
+    "ruggedness",
+    "ruin",
+    "ruination",
+    "ruined",
+    "ruins",
+    "rule"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695124_300fafe58d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695124_6c1c7fc343_o.png",
+      "id_image": "ruin_1171212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339876_d000aa6aa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339876_e57e017f92_o.png",
+      "id_image": "ruin_1594699"
+    }
+  ]
+}

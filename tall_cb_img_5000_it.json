@@ -1,0 +1,72 @@
+{
+  "english": "tall",
+  "phat_am": "toːl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cao",
+          "definition": "(of people and thin or narrow objects such as buildings or trees) higher than normal",
+          "world_new": [
+            "people",
+            "thin",
+            "narrow",
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tall man/tree."
+            }
+          ]
+        },
+        {
+          "mean_english": "có chiều cao đặc biệt",
+          "definition": "(of people) having a particular height",
+          "world_new": [
+            "particular",
+            "height"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John is only five feet tall."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As it crosses a deep valley, the pylons at its end are not taller than standard pylons.",
+    "Ganders often have a higher pitched call than the geese, and are taller, while the females are shorter and stockier, with larger keels or lobes.",
+    "However, recent tactics of cross-field kicking have resulted in the success of taller outside backs.",
+    "Only trees taller than 1 m were included in the survey.",
+    "The dentary is long and slender and is dorsoventrally tallest at its caudal margin.",
+    "Blocks of the pie chart clockwise from the bull's-eye represent the percentage of trees where the surrounding canopy is taller than the target tree.",
+    "He gathers the whole town to build the world's tallest human pyramid.",
+    "The central chamber is larger than other rooms with a higher ceiling and taller roof."
+  ],
+  "list_see_also": [
+    "tallness",
+    "a tall order",
+    "a tall story"
+  ],
+  "list_browse": [
+    "talking book",
+    "talking head",
+    "talking point",
+    "talking-to",
+    "tall",
+    "tallness",
+    "tally",
+    "talon",
+    "tamarind"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682274_7e5496758e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682274_3b4803022b_o.png",
+      "id_image": "tall_567396"
+    }
+  ]
+}

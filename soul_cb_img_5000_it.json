@@ -1,0 +1,126 @@
+{
+  "english": "soul",
+  "phat_am": "səul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "linh hồn",
+          "definition": "the spirit; the non-physical part of a person, which is often thought to continue in existence after he or she dies",
+          "world_new": [
+            "part",
+            "person",
+            "thought",
+            "continue",
+            "existence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People often discuss whether animals and plants have souls.",
+              "world_new": [
+                "discuss"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người",
+          "definition": "a person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a wonderful old soul.",
+              "world_new": [
+                "wonderful",
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "linh hồn , trụ cột",
+          "definition": "(of an enterprise etc) the organizer or leader",
+          "world_new": [
+            "enterprise",
+            "organizer",
+            "leader"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is the soul of the whole movement.",
+              "world_new": [
+                "whole",
+                "movement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạc soul",
+          "definition": "soul music",
+          "world_new": [
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her music mixes elements of soul and jazz.",
+              "world_new": [
+                "music",
+                "elements",
+                "jazz"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A number of authors have suggested that we can account for the unity of consciousness by appealing to a substantial self (or soul).",
+    "They belong instead to a spirit realm and, since they lack souls, they gain power over humans.",
+    "If we human beings are a hylomorphic composite of soul and matter, then we are each not identical to our soul.",
+    "The first is the way of the ambitious \"singing soul for music's sake\" (6).",
+    "Neither do they object to the carrion-loving raven, as the soul in this case is also absorbed by the bird and provided for in perpetuity.",
+    "Immaterial souls would simply stand out as surds in the natural world.",
+    "Finally, the term also referred to the human soul as well as the \"vital spirit\" of all living things.",
+    "The variety of these personalities and settings are taken on voluntarily, and are co-ordinated with the choices of personalities and settings of every other soul-entity."
+  ],
+  "list_see_also": [
+    "soulful",
+    "soulfully",
+    "soulless",
+    "soul-destroying",
+    "soul music"
+  ],
+  "list_browse": [
+    "sortie",
+    "SOS",
+    "soufflé",
+    "sought after",
+    "soul",
+    "soul music",
+    "soul-destroying",
+    "soulful",
+    "soulfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680689_2fc8b21207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680689_27d4b52c41_o.png",
+      "id_image": "soul_122860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062415_4ef217f22e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062415_fb81c6194f_o.png",
+      "id_image": "soul_3957315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680654_0f973b99cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680654_538329754e_o.png",
+      "id_image": "soul_4656867"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "english": "suspect",
+  "phat_am": "səˈspekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảm thấy ai đó có tội mà không có bằng chứng",
+          "definition": "to think (a person etc) guilty",
+          "world_new": [
+            "think",
+            "person",
+            "guilty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whom do you suspect (of the crime)?"
+            },
+            {
+              "ex_of_definition": "I suspect him of killing the girl.",
+              "world_new": [
+                "I",
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không tin, hay nghi ngờ",
+          "definition": "to distrust",
+          "world_new": [
+            "distrust"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I suspected her motives / air of honesty.",
+              "world_new": [
+                "I",
+                "air",
+                "honesty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoài nghi, ngờ vực",
+          "definition": "to think probable",
+          "world_new": [
+            "think",
+            "probable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I suspect that she’s trying to hide her true feelings",
+              "world_new": [
+                "I",
+                "trying",
+                "hide",
+                "true"
+              ]
+            },
+            {
+              "ex_of_definition": "I began to suspect a plot.",
+              "world_new": [
+                "I",
+                "plot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người bị tình nghi",
+          "definition": "a person who is thought guilty",
+          "world_new": [
+            "person",
+            "thought",
+            "guilty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are three possible suspects in this murder case.",
+              "world_new": [
+                "possible",
+                "murder",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không đáng tin cậy",
+          "definition": "not trustworthy",
+          "world_new": [
+            "trustworthy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think his statement is suspect.",
+              "world_new": [
+                "I",
+                "think",
+                "statement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The analysis is, however, suspect on several counts.",
+    "I suspect that such cases, if they exist outside fiction, are very rare.",
+    "This is reflected in the prose of the book, making it always entertaining and easy to read if, one suspects, deliberately provocative at times.",
+    "Contrasting social norms have long been suspected of also playing a fundamental role in the evolution of social benefits, and notably unemployment benefits.",
+    "Or perhaps he believes that prior to a conviction suspects should never be jailed?",
+    "The action takes place in a suspect café among 'artists of the second category' engaged in expediting an 'artistic' programme.",
+    "However, there is no biological reason to suspect that these fullterm newborns differed in their hematological status.",
+    "Either that control had weakened by the eighteenth century, or the model of ' social control ' at either period is suspect."
+  ],
+  "list_see_also": [
+    "suspicion",
+    "suspicious",
+    "suspiciously",
+    "suspiciousness"
+  ],
+  "list_browse": [
+    "survivor",
+    "susceptibility",
+    "susceptible",
+    "sushi",
+    "suspect",
+    "suspend",
+    "suspended sentence",
+    "suspenders",
+    "suspense"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335086_9d4dd0c19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335086_ee0df0f519_o.png",
+      "id_image": "suspect_1781247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335051_76045b24e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335051_64b4fc92ae_o.png",
+      "id_image": "suspect_1865686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380042_6d0f0ce4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380042_6da39e6b0d_o.png",
+      "id_image": "suspect_2621952"
+    }
+  ]
+}

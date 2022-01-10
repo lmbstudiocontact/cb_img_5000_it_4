@@ -1,0 +1,101 @@
+{
+  "english": "shuttle",
+  "phat_am": "ˈʃatl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con thoi",
+          "definition": "in weaving, a piece of equipment for carrying the thread backwards and forwards across the other threads.",
+          "world_new": [
+            "piece",
+            "equipment",
+            "thread",
+            "backwards",
+            "across"
+          ]
+        },
+        {
+          "mean_english": "cái suốt",
+          "definition": "a piece of machinery for making loops in the lower thread in a sewing-machine.",
+          "world_new": [
+            "piece",
+            "machinery",
+            "lower",
+            "thread"
+          ]
+        },
+        {
+          "mean_english": "hệ thống giao thông vận tải tuyến đường ngắn",
+          "definition": "an air, train or other transport service etc which operates constantly backwards and forwards between two places",
+          "world_new": [
+            "air",
+            "train",
+            "transport",
+            "service",
+            "constantly",
+            "backwards"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an airline shuttle between London and Edinburgh",
+              "world_new": [
+                "airline"
+              ]
+            },
+            {
+              "ex_of_definition": "space shuttle (= a craft travelling between space stations).",
+              "world_new": [
+                "space",
+                "craft",
+                "space"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, shuttles were rarely singular to one weaver.",
+    "With one exception, all participants speculated on supersonic miracles that would embarass a space shuttle.",
+    "A second way of achieving interdisciplinarity was the intensive visits by consultants and project coordinators who shuttled from one centre to another.",
+    "The yarns are brought together by the activity of causal agents such as the shuttle, loom and weaver, and the end product is the cloth.",
+    "The third was removed from her family because of chronic neglect and has shuttled between foster homes for several years.",
+    "That year, a state investigation of the inspection of factories linked the spread of tuberculosis to weavers' sharing shuttles.",
+    "They believed that it should be 'rendered unnecessary', because sharing shuttles either contributed to cancer of the mouth, tuberculosis, tonsillitis, phthisis, tooth decay or diphtheria.",
+    "In the 1970s, international politics involved the boat people, petrodollars, and shuttle diplomacy."
+  ],
+  "list_see_also": [
+    "shuttlecock"
+  ],
+  "list_browse": [
+    "shut off",
+    "shut up",
+    "shutter",
+    "shuttered",
+    "shuttle",
+    "shuttlecock",
+    "shy",
+    "shyly",
+    "shyness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078145_bd308cc4a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078145_dc940a74a7_o.png",
+      "id_image": "shuttle_2290165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455643_e75a5ebb38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455643_fcf58f1089_o.png",
+      "id_image": "shuttle_4310395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385692_d2f4939c4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385692_6e07f8f0dc_o.png",
+      "id_image": "shuttle_4524856"
+    }
+  ]
+}

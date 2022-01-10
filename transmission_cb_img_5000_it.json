@@ -1,0 +1,80 @@
+{
+  "english": "transmission",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự làm lây lan",
+          "definition": "the act of transmitting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the transmission of disease / radio signals.",
+              "world_new": [
+                "disease",
+                "radio"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự truyền hình, truyền thanh",
+          "definition": "a radio or television broadcast.",
+          "world_new": [
+            "radio",
+            "television",
+            "broadcast"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the first period the traditional ways of transferring property - transfer at death, retirement and remarriage - constituted 44 per cent of all transmissions.",
+    "Apparently, selection did not favour this allele since the number of transmissions to selected offspring was much lower than its companion allele in the heterozygous parent.",
+    "Table 10 shows the purchase prices in different types of land transmissions.",
+    "Collectively, this information provides a meaningful inter pretation of past climate that has been passed down through written and oral transmissions.",
+    "The large motors and high gear-ratio transmissions used in the joints of powerful manipulators result in high friction, which in turn results in tracking errors, stick-slip, and other undesired behaviors.",
+    "Factors that affect planning in a knowledge-based system for mechanical engineering design optimization with application to the design of mechanical power transmissions.",
+    "The difference in performance among these cars will be due to their different transmissions.",
+    "Proprioceptive impairment is possible in the presence of normal motor function because the higher frequency of impulse transmissions in proprioceptive fibres render them more susceptible to blockade by local anaesthetics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "translator",
+    "translucence",
+    "translucency",
+    "translucent",
+    "transmission",
+    "transmit",
+    "transmitter",
+    "transparency",
+    "transparent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074375_f11aaeb62c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074375_9965982551_o.png",
+      "id_image": "transmission_2080315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452108_6a820c262a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452108_4168fdbe52_o.png",
+      "id_image": "transmission_2660127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692549_4f1b83ae43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692549_ccbdcb7271_o.png",
+      "id_image": "transmission_4171403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337226_410194d545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337226_b70e7db1a1_o.png",
+      "id_image": "transmission_4796100"
+    }
+  ]
+}

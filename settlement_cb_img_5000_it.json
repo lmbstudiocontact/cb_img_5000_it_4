@@ -1,0 +1,68 @@
+{
+  "english": "settlement",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự dàn xếp",
+          "definition": "an agreement",
+          "world_new": [
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two sides have at last reached a settlement."
+            }
+          ]
+        },
+        {
+          "mean_english": "khu định cư",
+          "definition": "a small community",
+          "world_new": [
+            "small",
+            "community"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a farming settlement.",
+              "world_new": [
+                "farming"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The project causes submergence of about 2800 hectares of tropical forests, two tribal settlements and stretches of cultivated land of non-tribal settlers.",
+    "They are not, obviously, important centres, but they are inhabited settlements.",
+    "However, the postwar settlements also served the extreme right in certain 'sated' powers.",
+    "We have sketched the basis of a burgeoning rank society in the fairly simple context of small village settlements.",
+    "While fields were enclosed, settlements were dispersed, farm organisation made geometric, the inside of tenant farmhouses were not rationalised or subdivided into individual spaces.",
+    "They include elaborate reconstructions of landscape genesis, systematic regional surveys and large-scale excavations of settlements and cemeteries.",
+    "The latter is insignificant here, as it is away from human settlements.",
+    "The lumber camps that came into being were transient settlements and the laboring population was constantly on the move."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "settle in",
+    "settle old scores",
+    "settle on",
+    "settle up",
+    "settlement",
+    "settler",
+    "seven",
+    "seven-year-old",
+    "seventeen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703094_94b6ed8670_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703094_ebe3854514_o.png",
+      "id_image": "settlement_1411848"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "senator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thượng nghị sĩ",
+          "definition": "(sometimes abbreviated to Sen.in titles) a member of a lawmaking senate",
+          "world_new": [
+            "member",
+            "senate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Senator Smith."
+            }
+          ]
+        },
+        {
+          "mean_english": "thành viên hội đồng nhà nước",
+          "definition": "a member of a Roman senate.",
+          "world_new": [
+            "member",
+            "Roman",
+            "senate"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because senators are better off with practices such as the blue slip than without it, the practice is maintained by all.",
+    "When we compare late-twentieth-century membership trends for senators and citizens affiliated with prominent cross-class associations, social capital theory and reorganization theory offer clearly different expectations.",
+    "We code this variable \"1\" if the individual senator appears in our data set in 1970 or af24.",
+    "That helps to explain, of course, why senators might have been willing to allow opposition party senators to fill out blue slips.",
+    "At that time, a deadline (seven days from a senator's receipt of the blue slip) was added for senators to return the blue slip.",
+    "Thus, senators from small states spend more money from these sources per capita, whereas those from large states spend a smaller amount per capita.",
+    "The second, greater uncertainty for a senator seeking election and reelection came from potential opponents for the seat within their own party.",
+    "That explanation requires that senators' views about desirable rules be shaped directly by their long-term parliamentary interests."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "semitone",
+    "semolina",
+    "Sen",
+    "senate",
+    "senator",
+    "send",
+    "send (someone) packing / send (someone) about his business",
+    "send (someone/something) flying",
+    "send away for"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395087_c952476622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395087_056f992daf_o.png",
+      "id_image": "senator_5608071"
+    }
+  ]
+}

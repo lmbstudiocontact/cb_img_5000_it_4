@@ -1,0 +1,89 @@
+{
+  "english": "shrug",
+  "phat_am": "ʃraɡ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhún vai biểu thị sự nghi ngờ",
+          "definition": "to show doubt, lack of interest etc by raising (the shoulders)",
+          "world_new": [
+            "doubt",
+            "lack",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When I asked him if he knew what had happened, he just shrugged (his shoulders).",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nhún vai",
+          "definition": "an act of shrugging",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave a shrug of disbelief.",
+              "world_new": [
+                "disbelief"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not think that this is to be shrugged off as insignificant.",
+    "What about the countries that are only now shrugging off the shackles of the past?",
+    "The inevitable effect on industrial costs and exports is shrugged off.",
+    "We have no intention of shrugging off our responsibilities.",
+    "Continual talk of perpetuating divisions only damages a great industry that is shrugging off a disastrous political strike.",
+    "As the broadcast industry matured, it shrugged off that lack of sophistication.",
+    "However, it is not true to say that regulations which are shrugged off by large companies are not a burden on smaller companies.",
+    "I do not believe that this is something which can be shrugged off."
+  ],
+  "list_see_also": [
+    "shrug off"
+  ],
+  "list_browse": [
+    "Shrove Tuesday",
+    "Shrovetide",
+    "shrub",
+    "shrubbery",
+    "shrug",
+    "shrug off",
+    "shrunken",
+    "shudder",
+    "shuffle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696484_c06806f6ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696484_7c7c730906_o.png",
+      "id_image": "shrug_5773066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341201_7ea6943aa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341201_4479332ce6_o.png",
+      "id_image": "shrug_5906038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078550_2ea8080389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078550_dd305e6c77_o.png",
+      "id_image": "shrug_6001186"
+    }
+  ]
+}

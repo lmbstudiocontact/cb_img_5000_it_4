@@ -1,0 +1,188 @@
+{
+  "english": "root",
+  "phat_am": "ruːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rễ cây",
+          "definition": "the part of a plant that grows under the ground and draws food and water from the soil",
+          "world_new": [
+            "part",
+            "plant",
+            "ground",
+            "food",
+            "water",
+            "soil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Trees often have deep roots",
+              "world_new": [
+                "deep"
+              ]
+            },
+            {
+              "ex_of_definition": "Carrots and turnips are edible roots.",
+              "world_new": [
+                "edible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chân tóc; chân răng",
+          "definition": "the base of something growing in the body",
+          "world_new": [
+            "base",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the roots of one’s hair/teeth."
+            }
+          ]
+        },
+        {
+          "mean_english": "nguồn gốc",
+          "definition": "cause; origin",
+          "world_new": [
+            "origin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Love of money is the root of all evil",
+              "world_new": [
+                "money",
+                "evil"
+              ]
+            },
+            {
+              "ex_of_definition": "We must get at the root of the trouble.",
+              "world_new": [
+                "trouble"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tổ tiên",
+          "definition": "(in plural) family origins",
+          "world_new": [
+            "family",
+            "origins"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our roots are in Scotland."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bắt rễ",
+          "definition": "to (make something) grow roots",
+          "world_new": [
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These plants aren’t rooting very well"
+            },
+            {
+              "ex_of_definition": "He rooted the plants in compost.",
+              "world_new": [
+                "compost"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dũi đất",
+          "definition": "to poke about in the ground",
+          "world_new": [
+            "poke",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pigs were rooting about for food.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sục sạo",
+          "definition": "to search by turning things over etc",
+          "world_new": [
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She rooted about in the cupboard.",
+              "world_new": [
+                "cupboard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here is the non-restricted root restricting to we fixed earlier.",
+    "Analogous results follow for a negative double root.",
+    "Pairs of terms based on a single root have been avoided.",
+    "The constraint hierarchy in (9) exemplifies the root phonology.",
+    "Just in case the root is monosyllabic, as in (9), the subject prefix is lengthened.",
+    "Nasalisation in the 1st person form is more limited when the root contains an obstruent.",
+    "Let us consider the correspondence relations in (34) in terms of root and affix faith.",
+    "The difficulty with employing a labelled transition system as a specification has its root in the way that negative capabilities are portrayed."
+  ],
+  "list_see_also": [
+    "root beer",
+    "root crop",
+    "root out",
+    "take root"
+  ],
+  "list_browse": [
+    "rooms",
+    "roomy",
+    "roost",
+    "rooster",
+    "root",
+    "root beer",
+    "root crop",
+    "root out",
+    "rope"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387442_114d9a6dc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387442_253d5a768c_o.png",
+      "id_image": "root_1407904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342391_c2f5401034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342391_92ccea07af_o.png",
+      "id_image": "root_3239326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697704_95d371d158_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697704_dfee168966_o.png",
+      "id_image": "root_969361"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "english": "trunk",
+  "phat_am": "traŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thân cây",
+          "definition": "the main stem (of a tree)",
+          "world_new": [
+            "main",
+            "stem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trunk of this tree is five metres thick.",
+              "world_new": [
+                "tree",
+                "thick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "va li",
+          "definition": "a large box or chest for packing or keeping clothes etc in",
+          "world_new": [
+            "large",
+            "box",
+            "chest",
+            "packing",
+            "keeping",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He packed his trunk and sent it to Canada by sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòi của con voi",
+          "definition": "an elephant’s long nose",
+          "world_new": [
+            "long",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The elephant sucked up water into its trunk.",
+              "world_new": [
+                "elephant",
+                "water",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thân người",
+          "definition": "the body (not including the head, arms and legs) of a person (and certain animals)",
+          "world_new": [
+            "body",
+            "including",
+            "head",
+            "arms",
+            "person",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a powerful trunk, but thin arms.",
+              "world_new": [
+                "powerful",
+                "thin",
+                "arms"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thùng xe",
+          "definition": "a boot (of a car)",
+          "world_new": [
+            "boot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Put your baggage in the trunk.",
+              "world_new": [
+                "your",
+                "baggage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Is banding of the pulmonary trunk obsolete for infants with tricuspid atresia and double inlet ventricle with a discordant ventriculoartenal connection?",
+    "A solitary arterial trunk is described when it is not possible to define the connection of the pulmonary arteries to the heart.",
+    "This roughly restores the circumference of the proximal pulmonary trunk bearing the two coronary arteries to what it was before developing the flaps.",
+    "The distance between the posteriorly located pulmonary trunk and the aortic arch and descending aorta was shorter than in cases with concordant connections.",
+    "The posterior wall of the sternum compressed the prosthetic tube and disturbed the flow of the blood from the right ventricle to the pulmonary trunk.",
+    "In cases 2, 6 and 7, re-banding of pulmonary trunk was necessary, subsequent to which we obtained proper flow across the band.",
+    "E: the ratio of the pitch moments is set as 0.7 for the trunk to shake largely front-to-back.",
+    "In the trunk region, several signaling pathways and transcription factors have been implicated in cell fate decisions of neural crest."
+  ],
+  "list_see_also": [
+    "trunks"
+  ],
+  "list_browse": [
+    "trumpeter",
+    "truncated",
+    "truncheon",
+    "trundle",
+    "trunk",
+    "trunks",
+    "truss",
+    "trust",
+    "trustee"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331166_b74d8b5fa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331166_dd126b0715_o.png",
+      "id_image": "trunk_1743644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446173_7245dcdfa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446173_a496766f00_o.png",
+      "id_image": "trunk_826895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686184_f3a358ff03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686184_f69392c695_o.png",
+      "id_image": "trunk_972752"
+    }
+  ]
+}

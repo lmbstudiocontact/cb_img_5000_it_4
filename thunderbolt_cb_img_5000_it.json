@@ -1,0 +1,88 @@
+{
+  "english": "thunderbolt",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng sét",
+          "definition": "a flash of lightning immediately followed by thunder",
+          "world_new": [
+            "flash",
+            "lightning",
+            "immediately",
+            "thunder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was struck by a thunderbolt."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ngạc nhiên",
+          "definition": "a sudden great surprise",
+          "world_new": [
+            "sudden",
+            "great",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her arrival was a complete thunderbolt.",
+              "world_new": [
+                "arrival",
+                "complete"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fire in one of its most sensorily arresting forms is the \"thunderbolt,\" which \"pilots all things\".",
+    "The more thunderbolts he hurls the more we welcome it.",
+    "When opening, its first mascot was the thunderbolts.",
+    "There are now more than 100 such ministers and not a single thunderbolt has hit any kirk in those 25 years.",
+    "On the left side are carved a thunderbolt, a tree and a \"scutum\".",
+    "In the figure shown here, the four wings carry the symbols of the four seasons and a thunderbolt is engraved on the breast.",
+    "The meaning of thokcha can thus be given as first or original iron or thunderbolt iron.",
+    "The act of taking the drug was known as riding the thunderbolt."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "thumbs-up",
+    "thumbtack",
+    "thump",
+    "thunder",
+    "thunderbolt",
+    "thundering",
+    "thunderous",
+    "thunderously",
+    "thundery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703254_8624010bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703254_29c105d57a_o.png",
+      "id_image": "thunderbolt_3426161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085770_77d9990672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085770_914a44397e_o.png",
+      "id_image": "thunderbolt_4669084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463288_b9c458c812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463288_d0c3908947_o.png",
+      "id_image": "thunderbolt_6183229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463363_d6a3428554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463363_c85cbfc347_o.png",
+      "id_image": "thunderbolt_689323"
+    }
+  ]
+}

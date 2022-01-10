@@ -1,0 +1,70 @@
+{
+  "english": "souvenir",
+  "phat_am": "suːvəˈniə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ lưu niệm",
+          "definition": "something (bought, kept or given) which reminds one of a place, person or occasion",
+          "world_new": [
+            "place",
+            "person",
+            "occasion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought the statue as a souvenir of our holiday in Greece.",
+              "world_new": [
+                "I",
+                "statue",
+                "our",
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Representative items, such as statues, monuments, souvenirs, and literature indicated that activists intended to popularize the martyrdom for their own purposes.",
+    "Newly married, he misses his wife, and despatches a message to her, asking for a souvenir which he could take into battle.",
+    "The design of souvenirs is a matter for the manufac- turers.",
+    "The success of souvenir sales and the location of the shop have led to continual overcrowding and lack of space for stock.",
+    "Tourists, who presumably are looking for those souvenirs, were only referred to twice in street contexts.",
+    "A small museum as well as a snack bar, a restaurant, and a souvenir shop were built in the vicinity of the attraction.",
+    "These souvenirs manifested women's personal pasts, not a mythic national past.",
+    "It has not been possible to confirm that imported souvenirs have been sold, but the concessionaires are being reminded of the conditions of their contract."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "southerner",
+    "southernmost",
+    "southward",
+    "southward(s)",
+    "souvenir",
+    "sovereign",
+    "Soviet",
+    "sow",
+    "soy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440353_81a651512a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440353_7a61c76049_o.png",
+      "id_image": "souvenir_2424645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370207_ae95109fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370207_b30d53a790_o.png",
+      "id_image": "souvenir_2664652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440368_7fa8317873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440368_4eeb22a9da_o.png",
+      "id_image": "souvenir_614716"
+    }
+  ]
+}

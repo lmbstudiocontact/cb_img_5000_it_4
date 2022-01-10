@@ -1,0 +1,88 @@
+{
+  "english": "telescope",
+  "phat_am": "ˈteliskəup",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kính thiên văn",
+          "definition": "a kind of tube containing lenses through which distant objects appear closer",
+          "world_new": [
+            "kind",
+            "tube",
+            "distant",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He looked at the ship through his telescope.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lồng vào nhau",
+          "definition": "to push or be pushed together so that one part slides inside another, like the parts of a closing telescope",
+          "world_new": [
+            "push",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The crash telescoped the railway coaches.",
+              "world_new": [
+                "crash",
+                "railway"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are here telescoping into one period a number of claims which would normally have been spread over a much longer time.",
+    "Thirdly, and finally, these telescopes are important to those pursuing space research by means of satellites.",
+    "Another scientist might have proposed a modification in the optical theory governing the operation of the telescopes used in the investigation.",
+    "Nevertheless, there is a continuing and serious problem resulting from telescoping differentials under successive pay policies.",
+    "The engine turned over and the leading two coaches telescoped badly.",
+    "Figure 2 shows the logistical problems of maneuvering long telescopes even on calm days; one did not observe in the wind.",
+    "I am pleased to see that the five-year project has been telescoped into a four-year project instead.",
+    "The practical upshot of these calculations is that it would make sense to search for life on the surface of objects in the outer solar system with ground-based telescopes."
+  ],
+  "list_see_also": [
+    "telescopic",
+    "teletext"
+  ],
+  "list_browse": [
+    "telephone exchange",
+    "telephonist",
+    "telephoto",
+    "teleprinter",
+    "telescope",
+    "telescopic",
+    "teletext",
+    "televise",
+    "television"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090155_af1915752e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090155_bb46e536f4_o.png",
+      "id_image": "telescope_167341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090130_334810dcdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090130_f9ba28da15_o.png",
+      "id_image": "telescope_178545"
+    }
+  ]
+}

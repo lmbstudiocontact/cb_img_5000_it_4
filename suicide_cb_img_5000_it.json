@@ -1,0 +1,68 @@
+{
+  "english": "suicide",
+  "phat_am": "ˈsuːisaid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tự tử",
+          "definition": "the/an act of killing oneself deliberately",
+          "world_new": [
+            "act",
+            "deliberately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She committed suicide",
+              "world_new": [
+                "committed"
+              ]
+            },
+            {
+              "ex_of_definition": "an increasing number of suicides.",
+              "world_new": [
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người tự tử",
+          "definition": "a person who kills himself deliberately.",
+          "world_new": [
+            "person",
+            "deliberately"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "suicidal",
+    "suicidally"
+  ],
+  "list_browse": [
+    "suggest",
+    "suggestion",
+    "suicidal",
+    "suicidally",
+    "suicide",
+    "suit",
+    "suit (someone) down to the ground",
+    "suit down to the ground",
+    "suit oneself"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383477_4a613d34b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383477_c376504ec7_o.png",
+      "id_image": "suicide_2117463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453523_d483e3cf10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453523_4f5e765d22_o.png",
+      "id_image": "suicide_4897489"
+    }
+  ]
+}

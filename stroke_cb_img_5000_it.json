@@ -1,0 +1,266 @@
+{
+  "english": "stroke",
+  "phat_am": "strəuk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đánh, đòn, nhát",
+          "definition": "an act of hitting, or the blow given",
+          "world_new": [
+            "act",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He felled the tree with one stroke of the axe",
+              "world_new": [
+                "tree",
+                "axe"
+              ]
+            },
+            {
+              "ex_of_definition": "the stroke of a whip.",
+              "world_new": [
+                "whip"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động hoặc việc xảy ra duy nhất thành công",
+          "definition": "a sudden occurrence of something",
+          "world_new": [
+            "sudden",
+            "occurrence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stroke of lightning",
+              "world_new": [
+                "lightning"
+              ]
+            },
+            {
+              "ex_of_definition": "an unfortunate stroke of fate",
+              "world_new": [
+                "unfortunate",
+                "fate"
+              ]
+            },
+            {
+              "ex_of_definition": "What a stroke of luck to find that money!",
+              "world_new": [
+                "luck",
+                "find",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng chuông đồng hồ",
+          "definition": "the sound made by a clock striking the hour",
+          "world_new": [
+            "sound",
+            "clock",
+            "striking",
+            "hour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She arrived on the stroke of (= punctually at) ten.",
+              "world_new": [
+                "punctually"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nét bút",
+          "definition": "a movement or mark made in one direction by a pen, pencil, paintbrush etc",
+          "world_new": [
+            "movement",
+            "mark",
+            "direction",
+            "pen",
+            "pencil",
+            "paintbrush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "short, even pencil strokes.",
+              "world_new": [
+                "short",
+                "even",
+                "pencil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sải, nhịp chèo",
+          "definition": "a single pull of an oar in rowing, or a hit with the bat in playing cricket.",
+          "world_new": [
+            "single",
+            "pull",
+            "oar",
+            "hit",
+            "bat",
+            "cricket"
+          ]
+        },
+        {
+          "mean_english": "kiểu bơi",
+          "definition": "a movement of the arms and legs in swimming, or a particular method of swimming",
+          "world_new": [
+            "movement",
+            "arms",
+            "swimming",
+            "particular",
+            "method",
+            "swimming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swam with slow, strong strokes",
+              "world_new": [
+                "slow",
+                "strong"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you do breaststroke/backstroke?"
+            }
+          ]
+        },
+        {
+          "mean_english": "nỗ lực hay hành động",
+          "definition": "an effort or action",
+          "world_new": [
+            "effort",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I haven’t done a stroke (of work) all day.",
+              "world_new": [
+                "I",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đột quỵ",
+          "definition": "a sudden attack of illness which damages the brain, causing paralysis, loss of feeling in the body etc",
+          "world_new": [
+            "sudden",
+            "attack",
+            "illness",
+            "brain",
+            "paralysis",
+            "loss",
+            "feeling",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffered a stroke."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vuốt ve",
+          "definition": "to rub (eg a furry animal) gently and repeatedly in one direction, especially as a sign of affection",
+          "world_new": [
+            "rub",
+            "furry",
+            "gently",
+            "repeatedly",
+            "direction",
+            "sign",
+            "affection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stroked the cat / her hair",
+              "world_new": [
+                "cat",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "The dog loves being stroked.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vuốt ve",
+          "definition": "an act of stroking",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the dog a stroke.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The history of health policy development in advanced industrial democracies is remembered for bold strokes of change initiated during transformative moments.",
+    "She smiled, stroked her skirt with her hands and thanked him.",
+    "Careful patient selection with moderately severe strokes may offset this risk.",
+    "The first occurrence of vertical strokes, however, requires further explanation.",
+    "Reflexion coefficients were then measured for frequencies between three and thirteen radians per second for various wave-maker strokes.",
+    "His last years were overshadowed by a series of strokes which left him severely restricted.",
+    "Although this individual made great effor ts to change the appearance of cer tain letters in the different manuscripts, sufficient identical strokes remain.",
+    "Text must be isolated from other strokes such as marks and sketches."
+  ],
+  "list_see_also": [
+    "at a stroke"
+  ],
+  "list_browse": [
+    "stripling",
+    "striptease",
+    "stripy",
+    "strive",
+    "stroke",
+    "stroll",
+    "stroller",
+    "strong",
+    "strong drink"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342056_9fc75e91e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342056_087876a65d_o.png",
+      "id_image": "stroke_2451380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697179_b93bd10f9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697179_6280217635_o.png",
+      "id_image": "stroke_2844517"
+    }
+  ]
+}

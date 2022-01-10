@@ -1,0 +1,101 @@
+{
+  "english": "salute",
+  "phat_am": "səˈluːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chào, chào hỏi",
+          "definition": "(especially in the forces) to raise the (usually right) hand to the forehead to show respect",
+          "world_new": [
+            "raise",
+            "hand",
+            "forehead",
+            "respect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They saluted their commanding officer.",
+              "world_new": [
+                "their",
+                "commanding",
+                "officer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chào mừng",
+          "definition": "to honour by firing eg large guns",
+          "world_new": [
+            "honour",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They saluted the Queen by firing one hundred guns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc chào mừng",
+          "definition": "an act of saluting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The officer gave a salute",
+              "world_new": [
+                "officer"
+              ]
+            },
+            {
+              "ex_of_definition": "a 21-gun salute."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The poem's coda salutes the power of the transformative imagination to recover meaning in the world from all we see and remember.",
+    "He expected every officer to be punctilious in saluting religious processions as they passed in the streets.",
+    "Training is of a mass kind, drilling, marching, saluting, and getting men into the physical condition to endure and into a frame of mind to obey.",
+    "I hope that some of my colleagues will join me in saluting the progress that has been made.",
+    "All they seem concerned about is saluting and blanco-ing.",
+    "The greeting namaskar is founded on the principle that one salutes the spark of the divine in the other.",
+    "One remembers being told most carefully that as an officer one is saluted not because of one's position but because of the commission that one holds.",
+    "I hope that we may meet gladly in saluting the best of religious broadcasting and leave aside unworthy attacks on religious advisers, who serve us very well."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "salt",
+    "salted",
+    "saltiness",
+    "salty",
+    "salute",
+    "salvage",
+    "salvation",
+    "salve",
+    "salver"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335776_725057b1f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335776_47ff3b8b80_o.png",
+      "id_image": "salute_1000394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072760_592bc489f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072760_3d9be53b5c_o.png",
+      "id_image": "salute_599540"
+    }
+  ]
+}

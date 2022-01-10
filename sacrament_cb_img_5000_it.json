@@ -1,0 +1,53 @@
+{
+  "english": "sacrament",
+  "phat_am": "ˈsӕkrəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lễ ban phước",
+          "definition": "in the Christian church, a ceremony regarded as especially sacred, eg marriage, or baptism",
+          "world_new": [
+            "Christian",
+            "church",
+            "ceremony",
+            "especially",
+            "sacred",
+            "marriage",
+            "baptism"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a religious sacrament.",
+              "world_new": [
+                "religious"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sacramental"
+  ],
+  "list_browse": [
+    "sachet",
+    "sack",
+    "sackcloth",
+    "sacking",
+    "sacrament",
+    "sacramental",
+    "sacred",
+    "sacredness",
+    "sacrifice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452913_aaee4dd263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452913_dc9e5b82be_o.png",
+      "id_image": "sacrament_280026"
+    }
+  ]
+}

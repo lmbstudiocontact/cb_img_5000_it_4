@@ -1,0 +1,84 @@
+{
+  "english": "shoal",
+  "phat_am": "ʃəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn cá",
+          "definition": "a great number of fish swimming together in one place",
+          "world_new": [
+            "great",
+            "number",
+            "fish",
+            "swimming",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fishing boats were searching for large shoals of tuna.",
+              "world_new": [
+                "fishing",
+                "searching",
+                "large"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ nông, chỗ cạn",
+          "definition": "a shallow place in the sea etc; a sandbank",
+          "world_new": [
+            "shallow",
+            "place",
+            "sea",
+            "sandbank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat grounded on a shoal.",
+              "world_new": [
+                "boat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The migratory habits of the fish had changed and their dispersal was such that the trawlers could not make economic sorties on the shoals.",
+    "Ninety previously uncharted shoals have also been found, of which 40 could endanger deep draught shipping.",
+    "The shoals had moved, and the catches were very much smaller.",
+    "A short time later he appeared on television applauding the fact that he had received shoals of supporting letters from all over the country.",
+    "Take the legis- lation we had given us in shoals during last year.",
+    "Applications for the imposition of this limit used to arrive in shoals.",
+    "Expert propagandists—and this is what we face in these subversive movements—and advertisers produce shoals of publications, books, periodicals and pamphlets at great expense.",
+    "The herring shoals are out of sight of land very often."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shirty",
+    "shit",
+    "shiver",
+    "shivery",
+    "shoal",
+    "shock",
+    "shock absorber",
+    "shocker",
+    "shocking"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388972_de94e8e165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388972_430f6e372c_o.png",
+      "id_image": "shoal_3937715"
+    }
+  ]
+}

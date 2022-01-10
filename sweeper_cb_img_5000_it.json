@@ -1,0 +1,66 @@
+{
+  "english": "sweeper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người quét, máy quét",
+          "definition": "a person or thing that sweeps",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a road-sweeper"
+            },
+            {
+              "ex_of_definition": "May I borrow your carpet sweeper?",
+              "world_new": [
+                "I",
+                "borrow",
+                "your",
+                "carpet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In some places it is most unpleasant to walk in the mornings until the road sweepers have cleared the roads and pavements.",
+    "They can tow traditional inshore sweepers which break down from the source of activity.",
+    "I served on a local authority that had the idea of getting rid of the old road sweepers with their brushes.",
+    "If my understanding is right, armed trawlers are frequently used as mine sweepers.",
+    "With regard to transport, road sweepers earn more than bus drivers.",
+    "The 350 people in the factory were firemen, doorkeepers, sweepers, packers and drivers.",
+    "After that we are lucky if we get only four carpet sweepers, and still luckier if they take only half an hour each.",
+    "Why, for example, are non-electrical carpet sweepers sensitive, but electric carpet sweepers, presumably, are not?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sweep out",
+    "sweep the board",
+    "sweep under the carpet",
+    "sweep up",
+    "sweeper",
+    "sweeping",
+    "sweeping-brush",
+    "sweepstake",
+    "sweet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688244_f1f020285b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688244_103aa95455_o.png",
+      "id_image": "sweeper_3959148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688194_440c6c0dc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688194_19e567c155_o.png",
+      "id_image": "sweeper_6317180"
+    }
+  ]
+}

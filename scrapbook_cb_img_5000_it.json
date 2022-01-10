@@ -1,0 +1,69 @@
+{
+  "english": "scrapbook",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vở dán bài rời",
+          "definition": "a book with blank pages on which to stick pictures etc",
+          "world_new": [
+            "book",
+            "blank",
+            "stick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actor kept a scrapbook of newspaper cuttings about his career.",
+              "world_new": [
+                "actor",
+                "newspaper",
+                "career"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sisters all mentioned that they spent much of their spare time (when not performing) dancing and making scrapbooks.",
+    "I wrote and produced a series of programmes, ten in all, and four scrapbook programmes dealing with years 1926, 1927, 1928 and 1929.",
+    "There is also a collection of photo albums, scrapbooks and ephemera related to the history of the city.",
+    "Paper archives include photographs (about 15,000), personal letters and diaries, scrapbooks, maps, posters, sheet music, periodicals and newspapers, and official correspondence, records, and orders.",
+    "Here he treats the reader to a scan through his illustrated personal scrapbook of palynologists.",
+    "Her letters, bound in a set of scrapbooks by her relatives, cover a fifty-year period.",
+    "The collection includes scrapbooks, newspaper clippings, agendas of union meetings and ephemera including trade cards and advertisements.",
+    "He was forced out after being caught working on a scrapbook of disasters on work time."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scramble",
+    "scrambled egg",
+    "scrambler",
+    "scrap",
+    "scrapbook",
+    "scrape",
+    "scrape the bottom of the barrel",
+    "scrape through",
+    "scrape together"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372812_aef055912b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372812_e8668a4e3e_o.png",
+      "id_image": "scrapbook_1065114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064770_57a387943d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064770_b4e7b0cf55_o.png",
+      "id_image": "scrapbook_2534971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328006_037c9618a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328006_fd4f45fffc_o.png",
+      "id_image": "scrapbook_4298281"
+    }
+  ]
+}

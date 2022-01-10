@@ -1,0 +1,84 @@
+{
+  "english": "silk",
+  "phat_am": "silk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tơ",
+          "definition": "very fine, soft threads made by silkworms.",
+          "world_new": [
+            "fine",
+            "soft"
+          ]
+        },
+        {
+          "mean_english": "tơ, lụa",
+          "definition": "thread, cloth etc made from this",
+          "world_new": [
+            "thread",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dress was made of silk",
+              "world_new": [
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a silk dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The group combines conceptual art, silkscreen, music, constructed language, abstraction, and anti-art in its activities.",
+    "Now that there are so many public inquiries into actions by nationalised bodies, who with the power of the public purse can employ \"silks\" and juniors to represent them.",
+    "Shiny, light-reflecting fabrics such as satin's and silks as well as gold lam or sequin-encrusted garments could make the perfect disco statement.",
+    "In the present system many silks do legally-aided work.",
+    "I suggest that it is neither fair nor realistic unless we expect claimants to hire the services of top silks.",
+    "There has been some research into other silks, which differ at the molecular level.",
+    "As she tossed silk drapes around her body to create changing forms and shapes, the silk was variously illuminated.",
+    "Spiders use different gland types to produce different silks, and some spiders are capable of producing up to 8 different silks during their lifetime."
+  ],
+  "list_see_also": [
+    "silky",
+    "silkiness",
+    "silkworm"
+  ],
+  "list_browse": [
+    "silently",
+    "silhouette",
+    "silicate",
+    "silicon",
+    "silk",
+    "silkiness",
+    "silkworm",
+    "silky",
+    "sill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075780_943388d682_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075780_92fe444aa2_o.png",
+      "id_image": "silk_307430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075695_ab6f836799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075695_9f03ed4069_o.png",
+      "id_image": "silk_4598833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338686_c097e08735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338686_0e1fd8a5d3_o.png",
+      "id_image": "silk_673554"
+    }
+  ]
+}

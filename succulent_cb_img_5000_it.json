@@ -1,0 +1,96 @@
+{
+  "english": "succulent",
+  "phat_am": "ˈsakjulənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mọng và ngon",
+          "definition": "(of fruit or other food eg meat) juicy and delicious",
+          "world_new": [
+            "fruit",
+            "food",
+            "juicy",
+            "delicious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a succulent peach.",
+              "world_new": [
+                "peach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mọng nước, nhiều nước",
+          "definition": "(of plants) having thick stems and leaves that are full of moisture.",
+          "world_new": [
+            "thick",
+            "full",
+            "moisture"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây mọng nước",
+          "definition": "a plant of this type",
+          "world_new": [
+            "plant",
+            "type"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A cactus is a type of succulent.",
+              "world_new": [
+                "cactus",
+                "type"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Certain cultivars of azalea, poinsettia, begonia, impatiens, ferns, palms and succulents may also be sensitive.",
+    "Blue agave plants grow into large succulents, with spiky fleshy leaves, that can reach over 2m ft in height.",
+    "In some cases, especially with geophytes, plants closely related to the succulents are normal herbs.",
+    "Instead, drought tolerant plants like succulents and cacti are better suited to survive.",
+    "Does he agree that it is a safe, succulent, satisfying snack and with mash it is almost superlative?",
+    "The chances are that the beef they will eat comes from pure beef herds bred for the production of nice succulent joints of beef.",
+    "In 1714, he obtained permission to build a greenhouse to cultivate succulents, and a second in 1717.",
+    "I think that perhaps it is the most succulent fish of its kind in the world."
+  ],
+  "list_see_also": [
+    "succulence"
+  ],
+  "list_browse": [
+    "successively",
+    "successor",
+    "succinct",
+    "succulence",
+    "succulent",
+    "succumb",
+    "such",
+    "such as it is",
+    "such-and-such"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339276_1a7b67f2d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339276_ee2ee5147a_o.png",
+      "id_image": "succulent_1889042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694359_fc967696d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694359_1043f06c64_o.png",
+      "id_image": "succulent_3968272"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "team",
+  "phat_am": "tiːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đội",
+          "definition": "a group of people forming a side in a game",
+          "world_new": [
+            "group",
+            "people",
+            "side",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a football team.",
+              "world_new": [
+                "football"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm, tổ",
+          "definition": "a group of people working together",
+          "world_new": [
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A team of doctors."
+            }
+          ]
+        },
+        {
+          "mean_english": "đàn",
+          "definition": "two or more animals working together eg pulling a cart, plough/plow etc",
+          "world_new": [
+            "cart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a team of horses/oxen."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also needed to easily integrate source code developed by different team members.",
+    "The individual agents then present their suggestions along with their projected values to the team.",
+    "The pilot service team attended 198 of these calls either alone or in conjunction with other emergency vehicles.",
+    "The assessment of workload and team effectiveness is reported elsewhere.",
+    "With programmable control, the prosthetic team can create virtually any control scheme that suits a person's unique abilities.",
+    "The agent suggestions are then aggregated and used to create a set of new, team-modified designs.",
+    "However, we simply do not know why not all teams were able to complete all the evaluation phases.",
+    "Team leaders used confidence data to prioritize tasks in light of changing requirements."
+  ],
+  "list_see_also": [
+    "team spirit",
+    "teamwork",
+    "team up"
+  ],
+  "list_browse": [
+    "teacher",
+    "teaching",
+    "teacup",
+    "teak",
+    "team",
+    "team spirit",
+    "team up",
+    "teamwork",
+    "teapot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708224_6b573952ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708224_ac33445625_o.png",
+      "id_image": "team_228369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398442_791d5feee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398442_6a29594518_o.png",
+      "id_image": "team_470235"
+    }
+  ]
+}

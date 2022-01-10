@@ -1,0 +1,138 @@
+{
+  "english": "spiral",
+  "phat_am": "ˈspaiərəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có dạng xoắn",
+          "definition": "coiled round like a spring, with each coil the same size as the one below",
+          "world_new": [
+            "spring",
+            "coil",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spiral staircase.",
+              "world_new": [
+                "staircase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xoắn ốc",
+          "definition": "winding round and round, usually tapering to a point",
+          "world_new": [
+            "winding",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spiral shell.",
+              "world_new": [
+                "shell"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tăng giảm dần",
+          "definition": "an increase or decrease, or rise or fall, becoming more and more rapid (eg in prices).",
+          "world_new": [
+            "increase",
+            "decrease",
+            "rise",
+            "fall",
+            "becoming",
+            "rapid"
+          ]
+        },
+        {
+          "mean_english": "đường xoắn ốc",
+          "definition": "a spiral line or object",
+          "world_new": [
+            "line",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A spiral of smoke rose from the chimney.",
+              "world_new": [
+                "smoke",
+                "chimney"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng, giảm dần",
+          "definition": "to go or move in a spiral, especially to increase more and more rapidly",
+          "world_new": [
+            "move",
+            "increase",
+            "rapidly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prices have spiralled in the last six months."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the characteristics of the discourses to be constructed under such a system is the production of \"perpetual spirals of power and pleasure\" (45).",
+    "In its shell guise, the spiral usually has small protuberances around the perimeter.",
+    "The circularity was planned in the spiral design of the house to express a sense of the infinite, impossible to evade.",
+    "This rest increases the physiological changes occurring in the body and the fatigue experienced in a selfperpetuating spiral of increasing fatigue.",
+    "Stationary and drifting spiral waves of excitation in isolated cardiac muscle.",
+    "He drew the line on a brown paper envelope - it spiralled around a circle.",
+    "By 1988 the monetary indicators were spiralling out of control.",
+    "However, spiralling wage demands, growing unrest and strikes continued."
+  ],
+  "list_see_also": [
+    "spirally"
+  ],
+  "list_browse": [
+    "spineless",
+    "spinner",
+    "spinster",
+    "spiny",
+    "spiral",
+    "spirally",
+    "spire",
+    "spirit",
+    "spirit level"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353746_b57ff8d9e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353746_54dcd6589a_o.png",
+      "id_image": "spiral_1754068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353721_1043e0cfd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353721_db25d49bc9_o.png",
+      "id_image": "spiral_6092108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468498_09e0ebc115_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468498_53b719bdab_o.png",
+      "id_image": "spiral_6365773"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "roadside",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hè phố",
+          "definition": "the ground beside a road",
+          "world_new": [
+            "ground",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "flowers growing by the roadside"
+            },
+            {
+              "ex_of_definition": "(also adjective) a roadside café.",
+              "world_new": [
+                "café"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Local markets, such as roadside stands and 'pick-your-own' operations, play an important role in the preservation of heirloom varieties of apples.",
+    "Most seeds were collected from populations growing along roadsides or in grasslands.",
+    "Lawbreakers were essentially those who left the public highways and trespassed or ripped wood from the roadside hedges and fences.",
+    "And it is true that in the roadside environment, individual and social behaviour is strangely modified in many small but worrying ways.",
+    "Other retail outlets for eggs include kiosks, roadside vendors, supermarkets (small, medium or large) selling table eggs where few had refrigeration facilities for the eggs.",
+    "The latter includes 'pickyour-own' (u-pick) sales, farm markets and roadside stands; this distinction is echoed by other studies37,38.",
+    "But the repertoire of roadside building types is constantly being added to and most of us are spending more time in the environment it creates.",
+    "It is argued that roadside collection is a manner of producing hybrid knowledge and establishing relations between locals and scientists."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "road",
+    "road map",
+    "road rage",
+    "roadblock",
+    "roadside",
+    "roadway",
+    "roadworks",
+    "roadworthiness",
+    "roadworthy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344851_e45de4c9a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344851_5d40ba35e6_o.png",
+      "id_image": "roadside_6253992"
+    }
+  ]
+}

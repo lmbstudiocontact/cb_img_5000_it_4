@@ -1,0 +1,66 @@
+{
+  "english": "sewage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước cống",
+          "definition": "waste matter (carried away in sewers)",
+          "world_new": [
+            "waste",
+            "matter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "raw sewage.",
+              "world_new": [
+                "raw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His time of infection correlates with the time of contact with the neighbour's sewage, and the time when the neighbour was infectious.",
+    "Major cities and industries require sewage treatment before discharge into rivers or large water bodies.",
+    "They would also have the wherewithal to purchase bottled water, to dig private wells, and to install private sewage systems.",
+    "The income growth and rapid urbanization have outpaced the development of infrastructures, such as paved roads, public transportation equipment, and sewage treatment systems.",
+    "Sewage is a raw material whose irregular volume means that it can neither be controlled nor saved.",
+    "The risk for cross contamination is also increased, since water and sewage pipelines are often placed in close proximity to each other for practical reasons.",
+    "Removal of household offal was improved in 1899, with some incineration and a sewage farm ; inspection of milk and ice was gradually tightened.",
+    "In case of sewage contamination, a multitude of agents can be expected to be found in the faeces of exposed people."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "severely",
+    "severity",
+    "sew",
+    "sew up",
+    "sewage",
+    "sewage farm",
+    "sewer",
+    "sewing",
+    "sewing machine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463103_9b7f6eea73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463103_cb93276ed6_o.png",
+      "id_image": "sewage_1280972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393122_8eff52f580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393122_7e303d85f6_o.png",
+      "id_image": "sewage_2752172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085495_f711996b9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085495_e393e93b4f_o.png",
+      "id_image": "sewage_4364137"
+    }
+  ]
+}

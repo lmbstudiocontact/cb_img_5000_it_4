@@ -1,0 +1,81 @@
+{
+  "english": "tomorrow",
+  "phat_am": "təˈmorəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngày mai",
+          "definition": "(on) the day after today",
+          "world_new": [
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tomorrow is Saturday",
+              "world_new": [
+                "Saturday"
+              ]
+            },
+            {
+              "ex_of_definition": "The news will be announced tomorrow.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tương lai",
+          "definition": "(in) the future",
+          "world_new": [
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tomorrow’s world.",
+              "world_new": [
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In contrast, when states value future payoffs almost as much as current ones, accepting an agreement today or tomorrow does not make a big difference.",
+    "Of course this is not needed for today's performance but may be vital for tomorrow's revival.",
+    "Child delinquents have a 2- to 3-fold increased risk of becoming tomorrow's serious, violent, and chronic offenders.",
+    "But the margins, as the conference amply demonstrated, offer opportunities enough - and today's margins have a habit of becoming tomorrow's mainstream.",
+    "Yesterday's enemy is today's friend and good neighbour and tomorrow's partner in cooperation, and vice versa.",
+    "If the horizon is extended, changes in tomorrow's parameter estimates will matter for more future periods.",
+    "The f and y components of x match those for x because both components are in the decision-maker's information set tomorrow.",
+    "As a result, a friend wrote to me of 'a blight tomorrow' when she was clearly intending to be optimistic."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tomb",
+    "tomboy",
+    "tombstone",
+    "tomcat",
+    "tomorrow",
+    "ton",
+    "tonal",
+    "tone",
+    "tone down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081960_5bb4d5d4db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081960_0f43f78b12_o.png",
+      "id_image": "tomorrow_6357026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699589_75169750f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699589_53a7525cff_o.png",
+      "id_image": "tomorrow_6381382"
+    }
+  ]
+}

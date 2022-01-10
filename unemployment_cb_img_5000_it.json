@@ -1,0 +1,89 @@
+{
+  "english": "unemployment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng thất nghiệp",
+          "definition": "the state of being unemployed",
+          "world_new": [
+            "state",
+            "unemployed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If the factory is closed, many men will face unemployment.",
+              "world_new": [
+                "factory",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số người thất nghiệp",
+          "definition": "the numbers of people without work",
+          "world_new": [
+            "people",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Unemployment has reached record figures this year.",
+              "world_new": [
+                "record",
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If that is too high, then competitiveness will be reduced and, unless wages fall, unemployment will increase.",
+    "Sudden increases in unemployment, however, promote uncertainty even for those enjoying high employment protection.",
+    "Contrasting social norms have long been suspected of also playing a fundamental role in the evolution of social benefits, and notably unemployment benefits.",
+    "However, along with this focus on the micro level consequences of unemployment, researchers have largely forgotten about the role of state intervention in relieving unemployment.",
+    "They have been trying to synchronise economic re-structuring with reforms in the realms of social insurance, unemployment insurance and social assistance.",
+    "For the same reason, however, it may be difficult to make this approach the centrepiece of a constructive nation-wide youth unemployment policy.",
+    "This economic strategy aimed at achieving high growth rates, increasing investment, and reducing unemployment in the economy.",
+    "In all these countries unemployment and austerity measures dominated the elections."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "uneasily",
+    "uneasiness",
+    "uneasy",
+    "unemployed",
+    "unemployment",
+    "unending",
+    "unequal",
+    "unequally",
+    "unerring"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468083_c36f053bd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468083_8e3188a75a_o.png",
+      "id_image": "unemployment_4813983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353296_754eda9163_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353296_f5527a08c2_o.png",
+      "id_image": "unemployment_4827336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707959_9ab7964ddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707959_0e804f3ca8_o.png",
+      "id_image": "unemployment_6134776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707939_76bb34f868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707939_ae7afd74d9_o.png",
+      "id_image": "unemployment_6203358"
+    }
+  ]
+}

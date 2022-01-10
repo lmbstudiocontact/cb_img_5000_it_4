@@ -1,0 +1,75 @@
+{
+  "english": "turntable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chơi lại, quay lại được",
+          "definition": "the revolving part of a record-player on which the record rests while it is being played",
+          "world_new": [
+            "revolving",
+            "part",
+            "record"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put another record on the turntable so that people could dance to the music.",
+              "world_new": [
+                "record",
+                "people",
+                "dance",
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most low-end and mid-range amplifiers omit the phono input but, on the other hand, low-end turntables with built-in phono pre-amplifiers are widely available.",
+    "They are known for incorporating electric effects, turntables, piano, and mallet percussion.",
+    "He is known to play the music from 4 turntables simoultaneously.",
+    "Like stamped steel turntables, they were topped with rubber.",
+    "The band's sound typically features a heavily down-tuned guitar setup, a distinctly large percussive section, samples and turntables.",
+    "As she sang, animated graphics of turntables, faders, and other nightclub equipment pulsed behind her, her dancers and the musicians.",
+    "His pieces are shaped both with molds and turntables.",
+    "The phono input has been banished, so owners of turntables would need to plug a head amp (phono pre-amplifier) into one of the line inputs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turnip",
+    "turnover",
+    "turnpike",
+    "turnstile",
+    "turntable",
+    "turpentine",
+    "turquoise",
+    "turret",
+    "turtle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372827_44c3a9e757_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372827_0d65c2bdd6_o.png",
+      "id_image": "turntable_1404947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443128_76bdd27623_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443128_20d75c05ef_o.png",
+      "id_image": "turntable_1409561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372807_0eb7825521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372807_2c322a4041_o.png",
+      "id_image": "turntable_1495430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328091_714a0d9b4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328091_ce8cd325cf_o.png",
+      "id_image": "turntable_820137"
+    }
+  ]
+}

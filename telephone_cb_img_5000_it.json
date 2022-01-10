@@ -1,0 +1,130 @@
+{
+  "english": "telephone",
+  "phat_am": "ˈtelifəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điện thoại",
+          "definition": "(often abbreviated to phone) foun an instrument for speaking to someone from a distance, using either an electric current which passes along a wire or radio waves",
+          "world_new": [
+            "instrument",
+            "speaking",
+            "distance",
+            "electric",
+            "current",
+            "wire",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spoke to me by telephone / on the telephone",
+              "world_new": [
+                "spoke"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a telephone number/operator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "gọi điện cho ai",
+          "definition": "to (try to) speak to (someone) by means of the telephone",
+          "world_new": [
+            "speak",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll telephone you tomorrow.",
+              "world_new": [
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi tin qua điện thoại",
+          "definition": "to send (a message) or ask for (something) by means of the telephone",
+          "world_new": [
+            "send",
+            "ask",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll telephone for a taxi.",
+              "world_new": [
+                "taxi"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên lạc bằng điện thoại",
+          "definition": "to reach or make contact with (another place) by means of the telephone",
+          "world_new": [
+            "reach",
+            "contact",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s the code if you want to telephone England from Australia?",
+              "world_new": [
+                "code",
+                "want"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My duties require frequent speech-writing, occasional news releases, and nearly endless telephone conversations.",
+    "One could luxuriate for long hours in similar acousmatic conceits and their morbid implications, all those sinister telephone voices.",
+    "Most contact with adult grandchildren tends to be by telephone or letter.",
+    "Private companies also profit by contracting to supply food and telephone services to prisoners.",
+    "A selection of 300 persons was then contacted by telephone.",
+    "To some extent, this may reflect the relative visibility of doorstep as opposed to telephone canvassing.",
+    "The extent to which such strategic considerations might shape responses to a telephone interview is unclear.",
+    "To characterize patients' demographic characteristics, severity of illness, and history of travel before onset of symptoms, we conducted telephone interviews using a standardized questionnaire."
+  ],
+  "list_see_also": [
+    "telephonist",
+    "telephone booth",
+    "telephone directory",
+    "telephone exchange"
+  ],
+  "list_browse": [
+    "telepathic",
+    "telepathically",
+    "telepathist",
+    "telepathy",
+    "telephone",
+    "telephone booth",
+    "telephone directory",
+    "telephone exchange",
+    "telephonist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467508_9770387265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467508_98a6d06932_o.png",
+      "id_image": "telephone_309106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090165_0a44b18f16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090165_d820c18ac1_o.png",
+      "id_image": "telephone_387409"
+    }
+  ]
+}

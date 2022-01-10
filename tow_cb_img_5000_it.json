@@ -1,0 +1,101 @@
+{
+  "english": "tow",
+  "phat_am": "təu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo đi",
+          "definition": "to pull (a ship, barge, car, trailer etc) by a rope, chain or cable",
+          "world_new": [
+            "pull",
+            "ship",
+            "barge",
+            "car",
+            "trailer",
+            "rope",
+            "chain",
+            "cable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tugboat towed the ship out of the harbour",
+              "world_new": [
+                "ship",
+                "harbour"
+              ]
+            },
+            {
+              "ex_of_definition": "The car broke down and had to be towed to the garage.",
+              "world_new": [
+                "car",
+                "broke",
+                "garage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kéo đi",
+          "definition": "(an) act of towing or process of being towed",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We asked one of the neighbours to give us a tow."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the ranges of the four controllable variables where the volume approaches capacity, average tow delays are large and change much faster than elsewhere.",
+    "Ragin himself, sporting a cane, was pictured with three dalmatians in tow.",
+    "The cylindrical sensors were towed at known velocities through a variety of polymer solutions while an anemometer and its auxiliary equipment monitored the heat loss.",
+    "A further three were towed in by the catchers on the 29th.",
+    "One ship being pulled along by another is under tow.",
+    "It is a microscopic model, that is, it traces the motion and records the characteristics of each tow.",
+    "For instance, the absolute percentage prediction error for the observation whose average tow delay is approximately 0.00015 min is roughly 50,000%.",
+    "To tow the trolley, a cable and drum system was geared to a constant speed induction motor."
+  ],
+  "list_see_also": [
+    "towline"
+  ],
+  "list_browse": [
+    "tourist guide",
+    "tournament",
+    "tourniquet",
+    "tout",
+    "tow",
+    "towards",
+    "towel",
+    "towelling",
+    "tower"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697154_27171067df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697154_20a409328c_o.png",
+      "id_image": "tow_1367212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341931_d9014f5362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341931_3816a3c041_o.png",
+      "id_image": "tow_1850838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387007_6aa0deb2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387007_f8c71143b1_o.png",
+      "id_image": "tow_648716"
+    }
+  ]
+}

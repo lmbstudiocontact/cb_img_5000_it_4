@@ -1,0 +1,141 @@
+{
+  "english": "type",
+  "phat_am": "taip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loại",
+          "definition": "a kind, sort; variety",
+          "world_new": [
+            "kind",
+            "variety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What type of house would you prefer to live in?",
+              "world_new": [
+                "house",
+                "prefer",
+                "live"
+              ]
+            },
+            {
+              "ex_of_definition": "They are marketing a new type of washing powder.",
+              "world_new": [
+                "marketing",
+                "washing",
+                "powder"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loại",
+          "definition": "(a particular variety of) metal blocks with letters, numbers etc used in printing",
+          "world_new": [
+            "particular",
+            "variety",
+            "metal",
+            "printing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can we have the headline printed in a different type?",
+              "world_new": [
+                "headline"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữ in",
+          "definition": "printed letters, words etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t read the type – it’s too small.",
+              "world_new": [
+                "I",
+                "read",
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh máy",
+          "definition": "to write (something) using a typewriter",
+          "world_new": [
+            "typewriter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you type?"
+            },
+            {
+              "ex_of_definition": "I’m typing a letter.",
+              "world_new": [
+                "typing",
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two types of voice-specific system are discussed here, both of which were developed for reasons other than sound manipulation.",
+    "We now present the set of typing rules that define the legal terms of the system, but first we introduce some terminology and notation.",
+    "In three types of trial the puppet indicates the same object as the child, an irrelevant object, or the homonym.",
+    "As a result, they can obtain better types than ours.",
+    "While these collaborative types often overlap, at times they may also reflect different phases of researcher involvement.",
+    "In the restricted syntax, top-level classes do not contain nested classes; all types are top-level class names; and methods are monomorphic.",
+    "Without rank-2 polymorphism, universal quantification must be completely \"outside\" all other types.",
+    "First, political elites may respond selectively to indigenous claims, meeting specific types of demands, while marginalising or punishing other types of claims."
+  ],
+  "list_see_also": [
+    "typing",
+    "typist",
+    "typewriter"
+  ],
+  "list_browse": [
+    "two-way",
+    "two-year-old",
+    "twosome",
+    "tycoon",
+    "type",
+    "typewriter",
+    "typhoid",
+    "typhoon",
+    "typhus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399557_5d0d21033c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399557_0514d820cf_o.png",
+      "id_image": "type_1440391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092060_b8362559e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092060_4d5baa20e8_o.png",
+      "id_image": "type_2748894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709284_eaaeb4fd0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709284_bff0086412_o.png",
+      "id_image": "type_2844576"
+    }
+  ]
+}

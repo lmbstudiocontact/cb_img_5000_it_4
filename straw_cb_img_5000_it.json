@@ -1,0 +1,118 @@
+{
+  "english": "straw",
+  "phat_am": "stroː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rơm",
+          "definition": "(also adjective) (of) the cut stalks of corn etc, having many uses, eg as bedding for cattle etc, making mats and other goods etc",
+          "world_new": [
+            "cut",
+            "corn",
+            "bedding",
+            "cattle",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cows need fresh straw",
+              "world_new": [
+                "fresh"
+              ]
+            },
+            {
+              "ex_of_definition": "a straw hat.",
+              "world_new": [
+                "hat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cọng, mẩu rơm",
+          "definition": "a single stalk of corn",
+          "world_new": [
+            "single",
+            "stalk",
+            "corn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a straw in your hair",
+              "world_new": [
+                "your",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "Their offer isn’t worth a straw!",
+              "world_new": [
+                "offer",
+                "worth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nống hút",
+          "definition": "a paper or plastic tube through which to suck a drink into the mouth",
+          "world_new": [
+            "paper",
+            "plastic",
+            "tube",
+            "suck",
+            "drink",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sipping orange juice through a straw.",
+              "world_new": [
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It provided \"a straw man in contrast to which the diverse-even incompatible-character of various streams of recent scholarship is obscured\" (273).",
+    "So, there were all these huge straw stacks in the school's courtyard.",
+    "Its seed is a rich source of protein, minerals, and vitamins for human nutrition, and the straw is a valued animal feed.",
+    "However, this default constraint on the orientation of the straw is not permanent.",
+    "Temperature measurement revealed an isothermal melting plateau at the centre of the straw over a time period related to the temperature of the warming bath.",
+    "To re-ect this variability, three organic price scenarios were evaluated as well as the sensitivity to the oat straw price.",
+    "They were kept on straw and were fed hay twice daily.",
+    "In case of a straw that may be lying horizontal on the work-space, the default orientation is vertical."
+  ],
+  "list_see_also": [
+    "the last straw"
+  ],
+  "list_browse": [
+    "strategist",
+    "strategy",
+    "stratosphere",
+    "stratospheric",
+    "straw",
+    "strawberry",
+    "stray",
+    "streak",
+    "streaky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458318_496466b80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458318_63069a727b_o.png",
+      "id_image": "straw_1996945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458228_8b739769a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458228_e9b118e508_o.png",
+      "id_image": "straw_5727261"
+    }
+  ]
+}

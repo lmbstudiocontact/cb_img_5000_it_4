@@ -1,0 +1,120 @@
+{
+  "english": "sore",
+  "phat_am": "soː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đau, nhức nhối",
+          "definition": "painful",
+          "world_new": [
+            "painful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My leg is very sore",
+              "world_new": [
+                "leg"
+              ]
+            },
+            {
+              "ex_of_definition": "I have a sore leg.",
+              "world_new": [
+                "I",
+                "leg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm thấy đau",
+          "definition": "suffering pain",
+          "world_new": [
+            "suffering",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am still a bit sore after my operation.",
+              "world_new": [
+                "I",
+                "bit",
+                "my",
+                "operation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tức giận, tức tối",
+          "definition": "irritated, annoyed or offended",
+          "world_new": [
+            "annoyed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is still sore about what happened."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ đau, vết thương",
+          "definition": "a painful, injured or diseased spot on the skin",
+          "world_new": [
+            "painful",
+            "injured",
+            "diseased",
+            "spot",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His hands were covered with horrible sores.",
+              "world_new": [
+                "horrible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are attendant risks of dehydration, and pressure sores may develop even after a relatively short time lying on a trolley.",
+    "I refer to bathing, feeding, dressing, toileting, comforting, communicating, changing dressings, checking for pressure sores, assisting with lifting and so forth.",
+    "Also, there is no call-back system, and many patients get into serious problems related particularly to their bowels, bladders and pressure sores.",
+    "The incidence of decubitus ulcers—pressure sores—both in hospital patients and in people being nursed at home, is affected by many factors.",
+    "Not a single man had any desire to revive old sores or to score off the other party.",
+    "The commission also estimates that the cost of treating pressure sores is in excess of £35,000 per episode.",
+    "Although they often had sores or malformations, it was always suspected that they were in fact able to work but preferred to live off the charity of others.",
+    "Nothing is worse for bed sores than a wet bed."
+  ],
+  "list_see_also": [
+    "sorely",
+    "soreness"
+  ],
+  "list_browse": [
+    "sorcery",
+    "sordid",
+    "sordidly",
+    "sordidness",
+    "sore",
+    "sorely",
+    "soreness",
+    "sorrow",
+    "sorrowful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325831_f11b0edec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325831_54c653ef93_o.png",
+      "id_image": "sore_5726797"
+    }
+  ]
+}

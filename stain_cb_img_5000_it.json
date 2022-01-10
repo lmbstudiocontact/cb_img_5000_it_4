@@ -1,0 +1,133 @@
+{
+  "english": "stain",
+  "phat_am": "stein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gây vết, làm biến màu",
+          "definition": "to leave a (permanent) dirty mark or coloured/colored patch on eg a fabric",
+          "world_new": [
+            "leave",
+            "dirty",
+            "mark",
+            "patch",
+            "fabric"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coffee I spilt has stained my trousers.",
+              "world_new": [
+                "coffee",
+                "I",
+                "my",
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên đổi màu, trở nên vấy bẩn",
+          "definition": "to become marked in this way",
+          "world_new": [
+            "become",
+            "marked"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Silk stains easily.",
+              "world_new": [
+                "easily"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhuộm, làm cho có màu",
+          "definition": "to dye or colour/color (eg wood)",
+          "world_new": [
+            "dye"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wooden chairs had been stained brown.",
+              "world_new": [
+                "wooden",
+                "brown"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự biến màu, chất nhuộm, vết bẩn",
+          "definition": "a dirty mark on a fabric etc that is difficult or impossible to remove",
+          "world_new": [
+            "dirty",
+            "mark",
+            "fabric",
+            "difficult",
+            "impossible",
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His overall was covered with paint-stains",
+              "world_new": [
+                "overall"
+              ]
+            },
+            {
+              "ex_of_definition": "There is not the slightest stain upon her reputation.",
+              "world_new": [
+                "slightest",
+                "reputation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The staining intensity was categorically coded as 0 (absent), 1 (weak), 2 (moderate), or 3 (strong).",
+    "The level of staining throughout the syncytium was markedly increased.",
+    "The product was analyzed by agarose (2%) gel electrophoresis and stained with ethidium bromide.",
+    "We have previously demonstrated that staining for intracellular cytokines correlated with cytokine secretion.",
+    "In each assay, five categories of staining were observed as defined previously.",
+    "Alpha 2 adrergic receptors in cilairy and retina marker which stains the plasma membrane of the soma.",
+    "The darkly stained surface soil in the depot area also suggests that other petroleum products were spilled at the site.",
+    "The sections were stained with antibodies for those two antigens."
+  ],
+  "list_see_also": [
+    "stainless steel"
+  ],
+  "list_browse": [
+    "stagnant",
+    "stagnate",
+    "stagnation",
+    "staid",
+    "stain",
+    "stainless steel",
+    "stair",
+    "staircase",
+    "stake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465033_a5fbec0d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465033_d3094679bf_o.png",
+      "id_image": "stain_2389425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395262_3b1ce30a2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395262_e93c6b5325_o.png",
+      "id_image": "stain_2534993"
+    }
+  ]
+}

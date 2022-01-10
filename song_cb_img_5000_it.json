@@ -1,0 +1,93 @@
+{
+  "english": "song",
+  "phat_am": "soŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài hát",
+          "definition": "something (to be) sung",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrote this song for his wife to sing.",
+              "world_new": [
+                "wife",
+                "sing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng hát",
+          "definition": "singing",
+          "world_new": [
+            "singing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He burst into song.",
+              "world_new": [
+                "burst"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng hót",
+          "definition": "the sound(s) made by a bird",
+          "world_new": [
+            "bird"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "birdsong."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All the songs are gathered into a songbook that is updated from time to time.",
+    "We learn from both these songs how the two female artists have colluded with modern technology in production techniques to forge new cyber-identities for themselves.",
+    "Counting for more than sixty songs, it never loses its fascination.",
+    "He includes in this category: advertisements, songs, drama troops, comedy storytellers (rakugo), and comedy duos (manzai).",
+    "Many folk songs ostensibly uphold family values, but implicit in them also are the pleasures of illicit liaisons between devar and bhabhi.",
+    "As shown earlier, several songs from the 1980s create a strong hook by setting the title lyric with one of the accent patterns.",
+    "The children touched the guitar and interacted with the music therapist in the familiar songs they wanted to hear.",
+    "Feeling is an \"inchoate quality\" (155) of country songs, involving both verbal cleverness and a sense of embodied movement."
+  ],
+  "list_see_also": [
+    "songbird",
+    "songwriter"
+  ],
+  "list_browse": [
+    "son of a bitch",
+    "son-in-law",
+    "sonar",
+    "sonar system",
+    "song",
+    "songbird",
+    "songwriter",
+    "sonic",
+    "sonic boom"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370757_3dffc39e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370757_05b4f40d22_o.png",
+      "id_image": "song_1540646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325951_463e669cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325951_7b73516db0_o.png",
+      "id_image": "song_2002024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681049_f6a2d7d8c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681049_473b7b5ff9_o.png",
+      "id_image": "song_6135635"
+    }
+  ]
+}

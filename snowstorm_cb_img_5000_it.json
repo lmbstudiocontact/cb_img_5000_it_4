@@ -1,0 +1,64 @@
+{
+  "english": "snowstorm",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bão tuyết",
+          "definition": "a heavy fall of snow especially accompanied by a strong wind",
+          "world_new": [
+            "heavy",
+            "fall",
+            "snow",
+            "strong",
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mountain climbers were caught in a snowstorm.",
+              "world_new": [
+                "mountain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not know what he was waiting for; but he was a human snowstorm.",
+    "So we come onstage in the midst of a snowstorm.",
+    "Nothing infuriates the ordinary citizen so much as this perfect snowstorm of leaflets of every description.",
+    "Amid snowstorms, a tempestuous day, sea running high, gales blowing furiously, our battle cruiser opened fire at 18,000 yards.",
+    "Over 70,000 subscribers telephones were placed out of service by the recent snowstorm, but the position is now practically normal.",
+    "A snowstorm overtook a fourth, which was also damaged—extent unknown.",
+    "When transport breaks down through snowstorms and other things, the two services could be mutually complementary and save a great deal of trouble.",
+    "Take, for instance, the snowstorms of last year through which men had to cycle four or five miles to get to their work."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snowed under",
+    "snowfall",
+    "snowflake",
+    "snowman",
+    "snowstorm",
+    "snowy",
+    "Snr",
+    "snub",
+    "snuff"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328376_72d4949483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328376_02ac9272d7_o.png",
+      "id_image": "snowstorm_2526669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443343_660a1c367c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443343_2852bac48d_o.png",
+      "id_image": "snowstorm_4060916"
+    }
+  ]
+}

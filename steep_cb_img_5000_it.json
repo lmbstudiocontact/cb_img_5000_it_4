@@ -1,0 +1,125 @@
+{
+  "english": "steep",
+  "phat_am": "stiːp",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dốc, dốc đứng",
+          "definition": "(of eg a hill, stairs etc) rising with a sudden rather than a gradual slope",
+          "world_new": [
+            "hill",
+            "rising",
+            "sudden",
+            "rather",
+            "gradual",
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hill was too steep for me to cycle up",
+              "world_new": [
+                "hill",
+                "cycle"
+              ]
+            },
+            {
+              "ex_of_definition": "a steep path",
+              "world_new": [
+                "path"
+              ]
+            },
+            {
+              "ex_of_definition": "a steep climb.",
+              "world_new": [
+                "climb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá mức, không hợp lý",
+          "definition": "(of a price asked or demand made) unreasonable or too great",
+          "world_new": [
+            "price",
+            "demand",
+            "unreasonable",
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wants rather a steep price for his house, doesn’t he?",
+              "world_new": [
+                "rather",
+                "price",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "That’s a bit steep!",
+              "world_new": [
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "ngâm vào nước",
+          "definition": "to soak thoroughly",
+          "world_new": [
+            "soak",
+            "thoroughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Steep the raisins in rum, preferably overnight.",
+              "world_new": [
+                "rum",
+                "preferably",
+                "overnight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If this attentional component becomes less robust with age, it would contribute to a steeper decline with age for backward, as compared to forward, masking.",
+    "The gentle ramp case displays a higher fast-particle yield than the steep ramp case.",
+    "In autumn, figure 5 shows a steeper alignment of the results with the shops being clearly warmer than the arcades and the streets.",
+    "These hedge in the entire sea, so that no opening can be seen anywhere; they are higher than lofty mountains and resemble steep, overhanging cliffs.",
+    "Steep elevations and the consequent changes in climate, particularly rainfall and the associated waterlogging of soils, have led to the development of different vegetation types.",
+    "Indeed, the history of the video was steeped in fetishistic 'buzz'.",
+    "The steep part of the plotted lines reflects the within-cluster production time and the horizontal part the time between-clusters.",
+    "The figure has a roughly flat section and a steeper section, with the change at around popularity of 50."
+  ],
+  "list_see_also": [
+    "steepness",
+    "steeply"
+  ],
+  "list_browse": [
+    "steel wool",
+    "steeliness",
+    "steelworks",
+    "steely",
+    "steep",
+    "steeple",
+    "steeplechase",
+    "steeply",
+    "steepness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084970_807e7c5f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084970_1936b6ecaa_o.png",
+      "id_image": "steep_5265595"
+    }
+  ]
+}

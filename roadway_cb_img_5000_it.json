@@ -1,0 +1,57 @@
+{
+  "english": "roadway",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường dành cho ô tô",
+          "definition": "the part of a road on which cars etc travel",
+          "world_new": [
+            "part",
+            "road",
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t walk on the roadway.",
+              "world_new": [
+                "walk"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One of the two roadways has been boarded up; the stall-keepers have departed; there is no longer any music.",
+    "In contrast, the use of roadways for water management may have increased as lengths decreased.",
+    "The angular position of the steering wheel controls the lateral position of the car image on the generated roadway scene.",
+    "In addition, it should be noted that some sites have spur causeways extending from roadways.",
+    "Our current focus is navigation on a roadway.",
+    "The scene is made to appear threedimensional and the rate at which the roadway appears to move towards the driver is a function of speed.",
+    "Our initial focus is on simple roadway driving scenarios where the controlled vehicle encounters objects in its path.",
+    "My research is grounded here, in the sands and seas and on the roadways that map across these real and virtual roads."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "road map",
+    "road rage",
+    "roadblock",
+    "roadside",
+    "roadway",
+    "roadworks",
+    "roadworthiness",
+    "roadworthy",
+    "roam"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389737_425fffb21b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389737_7705176076_o.png",
+      "id_image": "roadway_1743259"
+    }
+  ]
+}

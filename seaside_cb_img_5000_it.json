@@ -1,0 +1,56 @@
+{
+  "english": "seaside",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bờ biển",
+          "definition": "(usually with the) a place beside the sea",
+          "world_new": [
+            "place",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We like to go to the seaside in the summer.",
+              "world_new": [
+                "summer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Anecdotal evidence suggests, however, that there is significant choice of residential care provider on offer in major cities and seaside towns.",
+    "Emily has just wandered into a seaside pub.",
+    "The sounds identified as the seaside have also reinforced this interpretation, perhaps based on the listener's personal memories of going on holiday to the seaside as a child.",
+    "Notably, providers usually preferred the seaside resort to the country camp as an ideal destination for the children of the urban workers.",
+    "Railways proved central to the development - or non-development - of nineteenth- and early twentieth-century seaside towns.",
+    "On another level are conflicts and controversies over the beach that highlight rival visions of the city as a seaside resort.",
+    "As regards unemployment, there is, of course, some unemployment in seaside holidays towns in the winter time.",
+    "Meanwhile, seaside humour now appears to lie more in exposing the realities beneath the old archetypes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "seashell",
+    "seashore",
+    "seasick",
+    "seasickness",
+    "seaside",
+    "season",
+    "season ticket",
+    "seasonable",
+    "seasonal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061695_9cd80b4f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061695_3e4ffedcb6_o.png",
+      "id_image": "seaside_3038974"
+    }
+  ]
+}

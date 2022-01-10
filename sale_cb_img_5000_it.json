@@ -1,0 +1,117 @@
+{
+  "english": "sale",
+  "phat_am": "seil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bán",
+          "definition": "the act of giving something to someone in exchange for money",
+          "world_new": [
+            "act",
+            "exchange",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the sale of a house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Sales of cars have increased."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bán hạ giá",
+          "definition": "in a shop etc, an offer of goods at lowered prices for a short time",
+          "world_new": [
+            "shop",
+            "offer",
+            "goods",
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought my dress in a sale.",
+              "world_new": [
+                "I",
+                "my",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc bán hàng",
+          "definition": "an event at which goods are sold",
+          "world_new": [
+            "event",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an auction sale",
+              "world_new": [
+                "auction"
+              ]
+            },
+            {
+              "ex_of_definition": "a book sale.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He wanted to illuminate the creative process for an artistic elite, and his concepts were more abstract than the practical admonitions found in sales texts.",
+    "They have been developed on the basis of concrete business demands and the experiences of the sales and marketing departments.",
+    "Antibiotics, analgesics, and antirheumatoid preparations continue to top the pharmaceutical sales charts (7;10).",
+    "The structural variables are robust across models 1 and 2, and there are statistically signi®cant coef®cients in the sales and education categories.",
+    "The present manufacturing industry provides services from marketing through sales; however, reclamation, recycling, and discarding of products are normally outside the domain of manufacturing industries.",
+    "Currently, stereotypes are always \"hand-crafted\", based on empirical observations like user type analysis or sales data.",
+    "If the quotations collected in other studies are not representative of the universe of annuity sales, the results and comparisons may be biased.",
+    "Six of the nine organic winter pear handlers reported export sales, with exports ranging from 5 to 40% of their total pack."
+  ],
+  "list_see_also": [
+    "saleroom",
+    "sales assistant",
+    "salesclerk",
+    "salesman",
+    "salesmanship",
+    "sales representative",
+    "for sale",
+    "sale of work"
+  ],
+  "list_browse": [
+    "salad dressing",
+    "salamander",
+    "salami",
+    "salary",
+    "sale",
+    "sale of work",
+    "saleroom",
+    "sales assistant",
+    "sales representative"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073745_9b34d7bed7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073745_71492f6a79_o.png",
+      "id_image": "sale_1027976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381702_71cb0fcdf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381702_65d0cfe0bf_o.png",
+      "id_image": "sale_2273409"
+    }
+  ]
+}

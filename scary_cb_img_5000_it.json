@@ -1,0 +1,42 @@
+{
+  "english": "scary",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rùng rợn",
+          "definition": "frightening",
+          "world_new": [
+            "frightening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a scary film/story."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scarf",
+    "scarlet",
+    "scarlet fever",
+    "scarp",
+    "scary",
+    "scathing",
+    "scathingly",
+    "scatter",
+    "scatterbrain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068620_4f64d15e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068620_3e86016697_o.png",
+      "id_image": "scary_218277"
+    }
+  ]
+}

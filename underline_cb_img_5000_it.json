@@ -1,0 +1,84 @@
+{
+  "english": "underline",
+  "phat_am": "andəˈlain",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gạch dưới",
+          "definition": "to draw a line under",
+          "world_new": [
+            "draw",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrote down the title of his essay and underlined it.",
+              "world_new": [
+                "title",
+                "essay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhấn mạnh",
+          "definition": "to emphasize or stress",
+          "world_new": [
+            "emphasize",
+            "stress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In his speech he underlined several points.",
+              "world_new": [
+                "speech",
+                "points"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prolonged nature of this outbreak underlines the importance of analysing stool specimens at the earliest opportunity, so that an offending pathogen can be identified.",
+    "The bitter division within congregations, however, underlines the truth that to introduce sudden and drastic changes in worship is to invite confrontation.",
+    "Perhaps most saliently, this paper underlines the need to take careful consideration of both the micro and macrocontext of language use.",
+    "The differences in tone, emphasis and content were underlined by fundamentally different policies and ideological positions in major issues.",
+    "In bold, factor 1 (neuroticism) ; in italics, factor 2 (aggression) ; underlined, factor 3 (anxiety) ; underlined-italics, factor 4 (extraversion).",
+    "An example is given in (11), with the dislocated elements underlined.",
+    "In brief, it is worth underlining the originality of the approach.",
+    "The province's ability to produce exotic fruit was underlined by the frequency of references to kiwifruit, tangelos, babacos, nashis, and others."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "undergo",
+    "undergraduate",
+    "underground",
+    "undergrowth",
+    "underline",
+    "undermine",
+    "underneath",
+    "undernourished",
+    "underpants"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353871_fef1003db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353871_1b4cb4e253_o.png",
+      "id_image": "underline_1994395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468653_686ee01878_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468653_f11c772572_o.png",
+      "id_image": "underline_264253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091240_e88fc3099f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091240_a8078c71ee_o.png",
+      "id_image": "underline_391338"
+    }
+  ]
+}

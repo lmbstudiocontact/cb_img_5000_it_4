@@ -1,0 +1,116 @@
+{
+  "english": "swear",
+  "phat_am": "sweə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thề, hứa",
+          "definition": "to state, declare, or promise solemnly with an oath, or very definitely and positively",
+          "world_new": [
+            "state",
+            "declare",
+            "promise",
+            "solemnly",
+            "oath",
+            "definitely",
+            "positively"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The witness must swear to tell the truth",
+              "world_new": [
+                "witness",
+                "tell",
+                "truth"
+              ]
+            },
+            {
+              "ex_of_definition": "He swore an oath of loyalty",
+              "world_new": [
+                "oath",
+                "loyalty"
+              ]
+            },
+            {
+              "ex_of_definition": "Swear never to reveal the secret",
+              "world_new": [
+                "reveal",
+                "secret"
+              ]
+            },
+            {
+              "ex_of_definition": "I could have sworn (= I’m sure) she was here a minute ago.",
+              "world_new": [
+                "I",
+                "sworn",
+                "minute"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyền rủa",
+          "definition": "to use the name of God and other sacred words, or obscene words, for emphasis or abuse; to curse",
+          "world_new": [
+            "name",
+            "God",
+            "sacred",
+            "obscene",
+            "emphasis",
+            "curse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t swear in front of the children!",
+              "world_new": [
+                "front"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sworn",
+    "swear word",
+    "swear by",
+    "swear in",
+    "swear to"
+  ],
+  "list_browse": [
+    "swastika",
+    "swat",
+    "swathe",
+    "sway",
+    "swear",
+    "swear by",
+    "swear in",
+    "swear to",
+    "swear word"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689004_3174ab2988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689004_d8eacb02e2_o.png",
+      "id_image": "swear_2323084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448958_eb0d807d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448958_b903197765_o.png",
+      "id_image": "swear_247659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378792_faaf30708b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378792_e369f3c32e_o.png",
+      "id_image": "swear_2861317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448883_63966c7980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448883_4ed7522097_o.png",
+      "id_image": "swear_3561933"
+    }
+  ]
+}

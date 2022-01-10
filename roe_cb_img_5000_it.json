@@ -1,0 +1,69 @@
+{
+  "english": "roe",
+  "phat_am": "rəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trứng cá",
+          "definition": "the eggs of fish",
+          "world_new": [
+            "fish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cod roe.",
+              "world_new": [
+                "cod"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con hoẵng",
+          "definition": "a small deer found in Europe and Asia.",
+          "world_new": [
+            "small",
+            "deer",
+            "found"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I believe that it would be a mistake to start differentiating between them and, say, roe.",
+    "As one can probably imagine, it is somewhat difficult to show the difference between salmon roe from farmed salmon and salmon roe from wild salmon.",
+    "In the smaller roe deer, there is only a hook-shaped patch at the temporal end of the visual streak.",
+    "The habits of roe deer are completely different.",
+    "Next is the smaller and perhaps more familiar roe deer, also believed to be indigenous to this country.",
+    "I am not sure what happened in another place regarding the owners of smokers for salmon and roe.",
+    "Nevertheless, there are plenty of months in the year when the roe deer can be controlled.",
+    "The fences were highly effective at excluding rabbits but larger vertebrates, for example roe and muntjac deer, occasionally jumped over them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rocky",
+    "rod",
+    "rodent",
+    "rodeo",
+    "roe",
+    "rogue",
+    "rôle",
+    "roll",
+    "roll in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343746_cc602ed353_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343746_418e9602b1_o.png",
+      "id_image": "roe_185745"
+    }
+  ]
+}

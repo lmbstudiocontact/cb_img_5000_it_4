@@ -1,0 +1,92 @@
+{
+  "english": "studio",
+  "phat_am": "ˈstjuːdiəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xưởng vẽ, xưởng điêu khắc",
+          "definition": "the workroom of an artist or photographer.",
+          "world_new": [
+            "artist",
+            "photographer"
+          ]
+        },
+        {
+          "mean_english": "xưởng quay, trường quay",
+          "definition": "a place in which cinema films are made",
+          "world_new": [
+            "place",
+            "cinema"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This film was made at Elstree Studios.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng để phát đi các chương trình truyền thanh, truyền hình",
+          "definition": "a room from which radio or television programmes are broadcast",
+          "world_new": [
+            "room",
+            "radio",
+            "television",
+            "broadcast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a television studio.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Taken into graduate design studios, grammars like this have been the impetus for a remarkable series of design projects.",
+    "The truth is that at the present moment all the studios available in this country are booked up for the next twelve months.",
+    "Today electroacoustic music is mainly produced in home studios and even in the virtual domain.",
+    "In the culture of creativity and self-expression in the 1960s, young musicians and their audiences were keen to explore the possibilities in new forms, styles, venues, studios and technologies.",
+    "The members of the groups held exhibitions and meetings in the privacy of their homes and studios.",
+    "Most favoured are apparently innocuous businesses such as photographic studios, restaurants and outlets that sell literature, tapes and other religious items.",
+    "Anyone familiar with current project studios can then readily apply their expertise to this system.",
+    "Five hundred works were thus selected and presented as well as descriptions of studios and facilities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stubborn",
+    "stubby",
+    "stud",
+    "student",
+    "studio",
+    "studious",
+    "studiously",
+    "studiousness",
+    "study"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386342_30179ed3bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386342_9403215e64_o.png",
+      "id_image": "studio_1902043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456153_04eebdd025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456153_95002cd40b_o.png",
+      "id_image": "studio_5328719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696524_ddbbf9754a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696524_9f939cd1ef_o.png",
+      "id_image": "studio_6060701"
+    }
+  ]
+}

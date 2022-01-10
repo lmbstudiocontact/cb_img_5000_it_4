@@ -1,0 +1,135 @@
+{
+  "english": "standard",
+  "phat_am": "ˈstӕndəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuẩn",
+          "definition": "something used as a basis of measurement",
+          "world_new": [
+            "basis",
+            "measurement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The kilogram is the international standard of weight.",
+              "world_new": [
+                "kilogram",
+                "international",
+                "weight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trình độ, mức",
+          "definition": "a basis for judging quality, or a level of excellence aimed at, required or achieved",
+          "world_new": [
+            "basis",
+            "quality",
+            "level",
+            "excellence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t judge an amateur artist’s work by the same standards as you would judge that of a trained artist",
+              "world_new": [
+                "judge",
+                "amateur",
+                "work",
+                "judge",
+                "trained",
+                "artist"
+              ]
+            },
+            {
+              "ex_of_definition": "high standards of behaviour",
+              "world_new": [
+                "behaviour"
+              ]
+            },
+            {
+              "ex_of_definition": "His performance did not reach the required standard.",
+              "world_new": [
+                "performance",
+                "reach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cờ nghi thức đặc biệt",
+          "definition": "a flag or carved figure etc fixed to a pole and carried eg at the front of an army going into battle.",
+          "world_new": [
+            "flag",
+            "figure",
+            "fixed",
+            "pole",
+            "front",
+            "army",
+            "battle"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thông thường",
+          "definition": "(accepted as) normal or usual; The Post Office likes the public to use a standard size of envelope.",
+          "world_new": [
+            "normal"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Achievement on standards is often measured through external tests, although data are sometimes also collected on achievement through teachers' reports based on classroom assessment.",
+    "Improved transfer of data to individual units would ensure delivery of optimal standards of care.",
+    "Contrast this with high-context societies where less is more, even if it is hard to determine what minimum standards of information might be.",
+    "The culture of medical education requires that physicians in training defer to supervising physician on a variety of issues, including clinical judgment and ethical standards.",
+    "The double standards institutionalised in 1918 have also resurfaced in new forms.",
+    "Other older people might continue to judge present day experience by false standards.",
+    "The final rule contains standardized test procedures and performance standards to ensure that detergent gasolines provide an effective level of protection against certain engine deposits.",
+    "Residents need to have the freedom to begin the process of critical analysis for purposes of regulation and upholding standards of professionalism."
+  ],
+  "list_see_also": [
+    "standardize",
+    "standardization",
+    "standard-bearer",
+    "be up to / below standard",
+    "standard of living"
+  ],
+  "list_browse": [
+    "stand up for",
+    "stand up to",
+    "stand-by",
+    "stand-in",
+    "standard",
+    "standard of living",
+    "standard-bearer",
+    "standardization",
+    "standardize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086910_02404a6131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086910_8a26ca73aa_o.png",
+      "id_image": "standard_3342138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349656_6b98cb049d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349656_c50ab42c72_o.png",
+      "id_image": "standard_5208254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394402_0bb92c8a91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394402_e9a60092e3_o.png",
+      "id_image": "standard_5572513"
+    }
+  ]
+}

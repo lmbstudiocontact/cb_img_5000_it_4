@@ -1,0 +1,431 @@
+{
+  "english": "run",
+  "phat_am": "ran",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy",
+          "definition": "(of a person or animal) to move quickly, faster than walking",
+          "world_new": [
+            "person",
+            "move",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran down the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoạt động",
+          "definition": "to move smoothly",
+          "world_new": [
+            "move",
+            "smoothly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Trains run on rails."
+            }
+          ]
+        },
+        {
+          "mean_english": "chảy",
+          "definition": "(of water etc) to flow",
+          "world_new": [
+            "water",
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rivers run to the sea",
+              "world_new": [
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "The tap is running.",
+              "world_new": [
+                "tap",
+                "running"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vận hành",
+          "definition": "(of a machine etc) to work or operate",
+          "world_new": [
+            "machine",
+            "work",
+            "operate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The engine is running",
+              "world_new": [
+                "engine",
+                "running"
+              ]
+            },
+            {
+              "ex_of_definition": "He ran the motor to see if it was working.",
+              "world_new": [
+                "motor",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều hành",
+          "definition": "to organize or manage",
+          "world_new": [
+            "organize",
+            "manage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He runs the business very efficiently.",
+              "world_new": [
+                "business",
+                "efficiently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy đua",
+          "definition": "to race",
+          "world_new": [
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is your horse running this afternoon?",
+              "world_new": [
+                "your",
+                "horse",
+                "running",
+                "afternoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy theo lộ trình",
+          "definition": "(of buses, trains etc) to travel regularly",
+          "world_new": [
+            "travel",
+            "regularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The buses run every half hour",
+              "world_new": [
+                "half",
+                "hour"
+              ]
+            },
+            {
+              "ex_of_definition": "The train is running late.",
+              "world_new": [
+                "train",
+                "running"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kéo dài",
+          "definition": "to last or continue; to go on",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The play ran for six weeks.",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lái",
+          "definition": "to own and use, especially of cars",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He runs a Rolls Royce."
+            }
+          ]
+        },
+        {
+          "mean_english": "phai màu",
+          "definition": "(of colour/color) to spread",
+          "world_new": [
+            "spread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When I washed my new dress the colour ran.",
+              "world_new": [
+                "I",
+                "my",
+                "dress",
+                "colour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chở ai đi đâu; cho ai đi nhờ xe",
+          "definition": "to drive (someone); to give (someone) a lift",
+          "world_new": [
+            "drive",
+            "lift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran me to the station.",
+              "world_new": [
+                "station"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "luồn, lướt",
+          "definition": "to move (something)",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She ran her fingers through his hair",
+              "world_new": [
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "He ran his eyes over the letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên",
+          "definition": "(in certain phrases) to be or become",
+          "world_new": [
+            "certain",
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The river ran dry",
+              "world_new": [
+                "river",
+                "dry"
+              ]
+            },
+            {
+              "ex_of_definition": "My blood ran cold (= I was afraid).",
+              "world_new": [
+                "blood",
+                "cold",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chạy",
+          "definition": "the act of running",
+          "world_new": [
+            "act",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went for a run before breakfast.",
+              "world_new": [
+                "breakfast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc tham quan",
+          "definition": "a trip or drive",
+          "world_new": [
+            "trip",
+            "drive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We went for a run in the country.",
+              "world_new": [
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời gian liên tục",
+          "definition": "a length of time (for which something continues)",
+          "world_new": [
+            "length",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s had a run of bad luck.",
+              "world_new": [
+                "bad",
+                "luck"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẽ hở ở bít tất",
+          "definition": "a ladder (in a stocking etc)",
+          "world_new": [
+            "ladder",
+            "stocking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a run in my tights.",
+              "world_new": [
+                "my",
+                "tights"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cho phép sử dụng",
+          "definition": "the free use (of a place)",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me the run of his house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghi điểm trong môn crickit",
+          "definition": "in cricket, a batsman’s act of running from one end of the wicket to the other, representing a single score",
+          "world_new": [
+            "cricket",
+            "act",
+            "running",
+            "wicket",
+            "single",
+            "score"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scored/made 50 runs for his team.",
+              "world_new": [
+                "team"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sân nuôi gà, vịt; bãi rào kín",
+          "definition": "an enclosure or pen",
+          "world_new": [
+            "enclosure",
+            "pen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chicken-run."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many professors run their graduate 'masters' classes as offices in which the students work on their projects.",
+    "The reversal is supposed to start instantaneously and to run at exactly the same speed as the forward simulation.",
+    "Jeeter does not share his ill-begotten gains with his co-conspirators, however, but runs away and eats his fill before returning home with the remaining turnips.",
+    "The model is run under twelve different conditions - three initial parties and four initial parties, and within each of these six different informational conditions.",
+    "In these tables, all numbers represent the average of ten runs.",
+    "I'm trying to make things that invite people to interact with them and which will run by themselves.",
+    "The lottery runs over 36 weeks, with one number being drawn and not replaced each week.",
+    "To be more precise, he runs away from the law by defiantly refusing to win the race as the favourite competitor."
+  ],
+  "list_see_also": [
+    "runner",
+    "running",
+    "runny",
+    "runaway",
+    "run-down",
+    "runner-up",
+    "runway",
+    "in/out of the running",
+    "on the run",
+    "run across",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "rummage",
+    "rumour",
+    "rump",
+    "rumpus",
+    "run",
+    "run a temperature",
+    "run across",
+    "run after",
+    "run aground"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076260_e882658655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076260_0e78f62563_o.png",
+      "id_image": "run_501115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694169_bd77756e7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694169_48ecc00591_o.png",
+      "id_image": "run_599543"
+    }
+  ]
+}

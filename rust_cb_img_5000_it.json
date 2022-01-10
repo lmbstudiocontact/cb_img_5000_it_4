@@ -1,0 +1,103 @@
+{
+  "english": "rust",
+  "phat_am": "rast",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gỉ sắt",
+          "definition": "the reddish-brown substance which forms on iron and steel, caused by air and moisture",
+          "world_new": [
+            "substance",
+            "iron",
+            "steel",
+            "air",
+            "moisture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car was covered with rust.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm han gỉ",
+          "definition": "to (cause to) become covered with rust",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rain has rusted the gate",
+              "world_new": [
+                "rain",
+                "gate"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s a lot of old metal rusting in the garden.",
+              "world_new": [
+                "old",
+                "metal",
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During that time a great deal of the metal reinforcement will have rusted and the problem will be four or five times more expensive to correct.",
+    "The iron bar that runs through the concrete slab is often rusted or rotten.",
+    "By this time many of the ship's plates were rusting and her entire water distribution system had to be dismantled for cleaning in 1909.",
+    "Due to rusting, few iron objects have survived from this period.",
+    "In 1926 when the miners went back to work they found that their shovels, hammers and picks had rotted and rusted.",
+    "Expert engineers cannot give an opinion as to when all the mines will be rusted and no longer dangerous.",
+    "T rusts will be free to negotiate new contracts of employment with their staff enabling them to move away from national arrangements.",
+    "In contrast to leaf rust, a highly specialized, wind-borne pathogen with a shallow dispersal gradient, tan spot is residue-borne with a steep dispersal gradient69."
+  ],
+  "list_see_also": [
+    "rustproof",
+    "rusty",
+    "rustily",
+    "rustiness"
+  ],
+  "list_browse": [
+    "rural",
+    "ruse",
+    "rush",
+    "rush hour",
+    "rust",
+    "rustic",
+    "rustily",
+    "rustiness",
+    "rustle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453643_8513ca1932_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453643_40852f97fa_o.png",
+      "id_image": "rust_5660155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075640_74cff592fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075640_ff2a60786b_o.png",
+      "id_image": "rust_5825229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693724_912f512eb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693724_481103b79f_o.png",
+      "id_image": "rust_5931427"
+    }
+  ]
+}

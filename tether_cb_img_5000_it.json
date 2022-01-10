@@ -1,0 +1,77 @@
+{
+  "english": "tether",
+  "phat_am": "ˈteðə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây dắt",
+          "definition": "a rope or chain for tying an animal to a post etc",
+          "world_new": [
+            "rope",
+            "chain",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put a tether on his horse.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buộc dây",
+          "definition": "to tie with a tether",
+          "world_new": [
+            "tie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tethered the goat to the post.",
+              "world_new": [
+                "goat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are harmless, or at least not seriously misleading, just in so far as they can be tethered ultimately to real entities.",
+    "The area where the donkey is tethered is swept every 3+7 days as donkeys do not like to stand in their own waste.",
+    "For example, consider the design of a molecule that contains three substituents tethered to a single scaffold.",
+    "The molecule is tethered between two beads one held in the dual trap and the other a top a micropipette held by suction.",
+    "Some of the tentative targets are from the reef wall while others come from returns off of the tether.",
+    "Agriculture is inherently unnatural, tethering the land to a single purpose, but some forms are more unnatural than others.",
+    "It should also be noted that, in our cases, the leftsided atrioventricular valve was exclusively tethered in the dominant right ventricle.",
+    "Conjugate can be tailored further using cleavable linker, tethers, solubilisers and other functional groups."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "testimonial",
+    "testimony",
+    "testosterone",
+    "tetanus",
+    "tether",
+    "text",
+    "text message",
+    "textbook",
+    "textile"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351156_71b92698e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351156_7a66bc6d7b_o.png",
+      "id_image": "tether_4610964"
+    }
+  ]
+}

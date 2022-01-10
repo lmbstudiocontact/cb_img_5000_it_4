@@ -1,0 +1,103 @@
+{
+  "english": "sand",
+  "phat_am": "sӕnd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cát",
+          "definition": "a large amount of tiny particles of crushed rocks, shells etc, found on beaches etc",
+          "world_new": [
+            "large",
+            "amount",
+            "tiny",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the golden sand.",
+              "world_new": [
+                "golden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bãi cát, lớp cát",
+          "definition": "an area of sand, especially on a beach",
+          "world_new": [
+            "area",
+            "beach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We lay on the sand.",
+              "world_new": [
+                "lay"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rải cát, phủ cát",
+          "definition": "to smooth with eg sand-paper",
+          "world_new": [
+            "smooth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The floor should be sanded before you varnish it.",
+              "world_new": [
+                "floor",
+                "varnish"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sandy",
+    "sandbank",
+    "sandcastle",
+    "sandpaper",
+    "sandshoes",
+    "sandstone",
+    "sandstorm"
+  ],
+  "list_browse": [
+    "sanctimoniously",
+    "sanctimoniousness",
+    "sanction",
+    "sanctuary",
+    "sand",
+    "sandal",
+    "sandbank",
+    "sandcastle",
+    "sandpaper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335346_a01bcec6ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335346_d2fbe6e9f3_o.png",
+      "id_image": "sand_4148612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690514_95c6d7d73d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690514_d0523d6e1d_o.png",
+      "id_image": "sand_4455475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335286_a9e7b48499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335286_b9b9cb6277_o.png",
+      "id_image": "sand_4582838"
+    }
+  ]
+}

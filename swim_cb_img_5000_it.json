@@ -1,0 +1,155 @@
+{
+  "english": "swim",
+  "phat_am": "swim",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bơi",
+          "definition": "to move through water using arms and legs or fins, tails etc",
+          "world_new": [
+            "move",
+            "water",
+            "arms",
+            "tails"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children aren’t allowed to go sailing until they’ve learnt to swim",
+              "world_new": [
+                "sailing"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m going / I’ve been swimming",
+              "world_new": [
+                "swimming"
+              ]
+            },
+            {
+              "ex_of_definition": "She swam to the shore",
+              "world_new": [
+                "shore"
+              ]
+            },
+            {
+              "ex_of_definition": "They watched the fish swimming about in the aquarium.",
+              "world_new": [
+                "fish",
+                "swimming",
+                "aquarium"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lướt nhanh",
+          "definition": "to cross (a river etc), compete in (a race), cover (a distance etc) by swimming",
+          "world_new": [
+            "cross",
+            "river",
+            "compete",
+            "cover",
+            "distance",
+            "swimming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swam three lengths of the swimming-pool"
+            },
+            {
+              "ex_of_definition": "She can’t swim a stroke (= at all).",
+              "world_new": [
+                "stroke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trông như đang quay tít",
+          "definition": "to seem to be moving round and round, as a result of dizziness etc",
+          "world_new": [
+            "seem",
+            "moving",
+            "result",
+            "dizziness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His head was swimming",
+              "world_new": [
+                "head",
+                "swimming"
+              ]
+            },
+            {
+              "ex_of_definition": "Everything began to swim before his eyes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bơi lội",
+          "definition": "an act of swimming",
+          "world_new": [
+            "act",
+            "swimming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We went for a swim in the lake.",
+              "world_new": [
+                "lake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No animal exhibited any change in swimming behavior after injection.",
+    "Effects of maternal stress during pregnancy on forced swimming test behavior of the offspring.",
+    "Since the embryos had hatched and were swimming, a consistent sample size (number of embryos/well) could not be obtained.",
+    "On land, a mouse or rat would immediately remove such an occluder, but they tolerate it while swimming.",
+    "Evidence for snail infection by free swimming miracidia was implied by the finding of empty worm egg casings.",
+    "As they swim, they push the layer forward, paving their own way.",
+    "Guidelines for cleaning swimming pool inflatables need to be developed.",
+    "You can literally dive in and swim into the view."
+  ],
+  "list_see_also": [
+    "swimmer",
+    "swimming",
+    "swimming bath",
+    "swimming trunks",
+    "swimsuit"
+  ],
+  "list_browse": [
+    "swiftness",
+    "swig",
+    "swill",
+    "swill out",
+    "swim",
+    "swimmer",
+    "swimming",
+    "swimming bath",
+    "swimming trunks"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687514_90f6eace99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687514_eb6b090a5f_o.png",
+      "id_image": "swim_1426372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377337_fbb62e63c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377337_fb339a206d_o.png",
+      "id_image": "swim_495721"
+    }
+  ]
+}

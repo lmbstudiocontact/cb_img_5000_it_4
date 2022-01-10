@@ -1,0 +1,67 @@
+{
+  "english": "suffrage",
+  "phat_am": "ˈsafridʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quyền đi bầu",
+          "definition": "the right to vote",
+          "world_new": [
+            "right",
+            "vote"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "universal suffrage.",
+              "world_new": [
+                "universal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bỏ phiếu",
+          "definition": "voting."
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this context, social reform, not just effective suffrage and political liberalisation, became one of the crucial issues of most opposition movements.",
+    "Alternatively, in democracies with universal suffrage, elected representatives are supported by party members, trade unions, intellectuals, and newspapers.",
+    "I have also signalled those renewed efforts to study the institutional history of the suffrage in the region.",
+    "As for the discussions of corporations, taxes, the federal government, suffrage, labor, and questions of race, stenographers and newspaper reporters recorded it all.",
+    "Second, the motif of the dying child invokes the contemporary political debate on manhood suffrage and its relation to manliness and the right of fatherhood.",
+    "By contrast, countries in the first wave of democratization became modern states before universal suffrage was introduced.",
+    "It was followed by the concession of full universal manhood suffrage in 1918 and the introduction of proportional representation the following year.",
+    "The relative timing of suffrage may contribute to the development of representation gaps, in that early suffrage tends to produce less ideological or programmatic parties."
+  ],
+  "list_see_also": [
+    "suffragette"
+  ],
+  "list_browse": [
+    "sufficiently",
+    "suffix",
+    "suffocate",
+    "suffocation",
+    "suffrage",
+    "suffragette",
+    "sugar",
+    "sugar lump",
+    "sugar tongs"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338961_5a1c320b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338961_66efa2dc8a_o.png",
+      "id_image": "suffrage_1425432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453908_d37c85c288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453908_882597218f_o.png",
+      "id_image": "suffrage_5234470"
+    }
+  ]
+}

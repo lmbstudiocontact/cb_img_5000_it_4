@@ -1,0 +1,168 @@
+{
+  "english": "scent",
+  "phat_am": "sent",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh hơi, phát hiện, ngửi",
+          "definition": "to discover by the sense of smell",
+          "world_new": [
+            "discover",
+            "sense",
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog scented a cat.",
+              "world_new": [
+                "dog",
+                "scented",
+                "cat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghi ngờ",
+          "definition": "to suspect",
+          "world_new": [
+            "suspect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As soon as he came into the room I scented trouble.",
+              "world_new": [
+                "soon",
+                "room",
+                "I",
+                "scented",
+                "trouble"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "toả mùi thơm",
+          "definition": "to cause to smell pleasantly",
+          "world_new": [
+            "cause",
+            "smell",
+            "pleasantly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roses scented the air.",
+              "world_new": [
+                "scented",
+                "air"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mùi thơm",
+          "definition": "a (usually pleasant) smell",
+          "world_new": [
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This rose has a delightful scent.",
+              "world_new": [
+                "delightful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đánh hơi",
+          "definition": "a trail consisting of the smell which has been left and may be followed",
+          "world_new": [
+            "trail",
+            "smell",
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dogs picked up the man’s scent and then lost it again.",
+              "world_new": [
+                "lost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước hoa",
+          "definition": "a liquid with a pleasant smell; perfume",
+          "world_new": [
+            "liquid",
+            "pleasant",
+            "perfume"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of scent.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pud is a wary animal that moves slowly and stops often, smelling the air for scents of predators.",
+    "The latter property requires that some residue or scent of the target must be observable by the user at every node.",
+    "Both services develop the scenting ability of dogs in order to detect the presence of drugs or explosives, and both services train dogs and handlers to a very high standard.",
+    "Through touching, they gather fragments such as colors, words, sounds, and scents.",
+    "The scents used in these items are particularly pungent.",
+    "Maintain close contact, as pets may be confused due to changes on what used to be familiar landmarks and scents.",
+    "Toasted sesame oil is also added to flavor soups and other hot dishes, usually just before serving, to avoid dissipating the volatile scents too rapidly.",
+    "He's popular with girls, but has an awkward situation with them, as he is weak to perfume and make-up scents, which make him nauseous."
+  ],
+  "list_see_also": [
+    "scented",
+    "put/throw (someone) off the scent"
+  ],
+  "list_browse": [
+    "scavenger",
+    "scene",
+    "scenery",
+    "scenic",
+    "scent",
+    "scented",
+    "sceptic",
+    "sceptical",
+    "sceptically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446323_0ea916d69c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446323_74cbce30a6_o.png",
+      "id_image": "scent_1202552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068025_602e8cfd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068025_1425f76bcc_o.png",
+      "id_image": "scent_1858210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068005_f0e409f6da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068005_37dd0b779d_o.png",
+      "id_image": "scent_2928251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376092_b540c1ff3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376092_ff49a93fda_o.png",
+      "id_image": "scent_655886"
+    }
+  ]
+}

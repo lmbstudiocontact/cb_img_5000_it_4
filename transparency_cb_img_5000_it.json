@@ -1,0 +1,90 @@
+{
+  "english": "transparency",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự minh bạch",
+          "definition": "the state of being transparent",
+          "world_new": [
+            "state",
+            "transparent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the transparency of the water.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kính ảnh phim đèn chiếu",
+          "definition": "a photograph printed on transparent material, a slide",
+          "world_new": [
+            "photograph",
+            "transparent",
+            "material",
+            "slide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took some transparencies of the cathedral.",
+              "world_new": [
+                "I",
+                "cathedral"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first of these strategies is transparency: at ground-level, three out of four elevations are fullyglazed so as to let passers-by view interior activity.",
+    "The term governance also evokes notions of transparency, accountability and the rule of law.",
+    "The documentation showed that systems varied in the configuration of institutions responsible for each stage and in the sophistication and transparency of the processes undertaken.",
+    "We have not yet justified a ranking for the constraints that figure crucially in the transparency of neutral segments.",
+    "Print ads were the first awards, and there were transparencies of the winning entries.",
+    "The performances, transparency and contact stability, of the method were validated by the simulations subjected to a constant delay.",
+    "The main advantage of this method is the transparency of agent behavior as decisions can be easily deduced from the data provided.",
+    "A very good practice to reinforce the transparency of the model is to provide electronic copies of the model when it is submitted for publication."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "translucent",
+    "transmission",
+    "transmit",
+    "transmitter",
+    "transparency",
+    "transparent",
+    "transparently",
+    "transpiration",
+    "transpire"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692429_6cfff041ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692429_47a6e64949_o.png",
+      "id_image": "transparency_4371115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074085_eac766bf95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074085_5cbfb46f0a_o.png",
+      "id_image": "transparency_5261274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074055_5a2b88c959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074055_199aefcd94_o.png",
+      "id_image": "transparency_5307760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382052_66bb95411f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382052_fdb326fdc3_o.png",
+      "id_image": "transparency_5572534"
+    }
+  ]
+}

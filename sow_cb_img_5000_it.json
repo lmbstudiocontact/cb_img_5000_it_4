@@ -1,0 +1,94 @@
+{
+  "english": "sow",
+  "phat_am": "səu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gieo hạt, xạ",
+          "definition": "to scatter over, or put in, the ground",
+          "world_new": [
+            "scatter",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I sowed lettuce in this part of the garden.",
+              "world_new": [
+                "I",
+                "lettuce",
+                "part",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gieo rắc, gây mầm",
+          "definition": "to plant seed over",
+          "world_new": [
+            "plant",
+            "seed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This field has been sown with wheat.",
+              "world_new": [
+                "field",
+                "wheat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con lợn nái",
+          "definition": "a female pig.",
+          "world_new": [
+            "female",
+            "pig"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The resprouts were cut and incorporated at the time of maize sowing each season and again five weeks later.",
+    "Plots were mechanically sown on ridges in a randomized complete block design with three replications (rainy season) and five replications (dry season).",
+    "Influence of gilt age and body composition at first breeding on sow reproductive performance and longevity.",
+    "Farmers do not follow standard agronomic practices, and plant at varied population densities and sowing dates.",
+    "Both groups were sowed in plastic trays (37 x 28 cm) containing regularly moistened vermiculite.",
+    "Spring wheat was sown on several successive dates.",
+    "Up to 60% of the seeds buried in nylon bags germinated in the first year after sowing.",
+    "There were no significant differences between the blocks sown on different dates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "southward(s)",
+    "souvenir",
+    "sovereign",
+    "Soviet",
+    "sow",
+    "soy",
+    "soy sauce",
+    "soya bean",
+    "space"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440308_0c5e667f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440308_abf810dc70_o.png",
+      "id_image": "sow_3319281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440273_c1f484aa0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440273_205e025f85_o.png",
+      "id_image": "sow_6041419"
+    }
+  ]
+}

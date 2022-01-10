@@ -1,0 +1,208 @@
+{
+  "english": "stall",
+  "phat_am": "stoːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngăn, chuồng",
+          "definition": "a compartment in a cowshed etc",
+          "world_new": [
+            "compartment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cattle stalls.",
+              "world_new": [
+                "cattle",
+                "stalls"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quán, quầy bán hàng",
+          "definition": "a small shop or a counter or table on which goods are displayed for sale",
+          "world_new": [
+            "small",
+            "shop",
+            "counter",
+            "table",
+            "goods",
+            "sale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bought a newspaper at the bookstall on the station",
+              "world_new": [
+                "newspaper",
+                "station"
+              ]
+            },
+            {
+              "ex_of_definition": "traders’ stalls.",
+              "world_new": [
+                "stalls"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chết máy, ngừng chạy",
+          "definition": "(of a car etc or its engine) to stop suddenly through lack of power, braking too quickly etc",
+          "world_new": [
+            "car",
+            "its",
+            "stop",
+            "suddenly",
+            "lack",
+            "power",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car stalled when I was halfway up the hill.",
+              "world_new": [
+                "car",
+                "I",
+                "hill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chòng chành, mất điều khiển",
+          "definition": "(of an aircraft) to lose speed while flying and so go out of control",
+          "world_new": [
+            "lose",
+            "speed",
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane stalled just after take-off and crashed on to the runway.",
+              "world_new": [
+                "plane",
+                "runway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho động cơ chết máy, ngừng chạy",
+          "definition": "to cause (a car etc, or aircraft) to do this",
+          "world_new": [
+            "cause",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Use the brake gently or you’ll stall the engine.",
+              "world_new": [
+                "brake",
+                "gently",
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng chòng chành, sự chết máy",
+          "definition": "a dangerous loss of flying speed in an aircraft, causing it to drop",
+          "world_new": [
+            "dangerous",
+            "loss",
+            "speed",
+            "aircraft",
+            "drop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane went into a stall.",
+              "world_new": [
+                "plane"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh trống lảng",
+          "definition": "to avoid making a definite decision in order to give oneself more time",
+          "world_new": [
+            "avoid",
+            "definite",
+            "decision",
+            "order",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They appear to be stalling on making a decision.",
+              "world_new": [
+                "appear",
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this section a closer look will be accorded the existence and forms of cooperation of spouses who held stalls.",
+    "During the days of faeces collection, the straw bedding was removed from the stalls.",
+    "Proposed improvements in bank regulatory oversight, stalled before the crisis, were now rammed through.",
+    "Throughout 1923 and 1924 women pressed and the government stalled on reform.",
+    "Growth in the first few years was very steep, then stalled, but then rebound after the 2005 legislative changes.",
+    "The model stalled about the same time as research on multiple equilibria did.",
+    "The market traders rent stalls from the market manager, and usually occupy the same stalls on the same days.",
+    "The previously-mentioned use of the wood of their stalls as a substitute is adequate grounds for the second complaint."
+  ],
+  "list_see_also": [
+    "stalls"
+  ],
+  "list_browse": [
+    "stale",
+    "stalemate",
+    "stalk",
+    "stalker",
+    "stall",
+    "stallion",
+    "stalls",
+    "stamen",
+    "stamina"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704724_1c091a32e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704724_a7d6a689be_o.png",
+      "id_image": "stall_863138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464758_ff92f68737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464758_d77e7c1fc6_o.png",
+      "id_image": "stall_909159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350111_8f081982cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350111_e4f361ce9f_o.png",
+      "id_image": "stall_950710"
+    }
+  ]
+}

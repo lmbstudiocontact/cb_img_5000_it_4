@@ -1,0 +1,75 @@
+{
+  "english": "source",
+  "phat_am": "soːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguồn",
+          "definition": "the place, person, circumstance, thing etc from which anything begins or comes",
+          "world_new": [
+            "place",
+            "person",
+            "circumstance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have discovered the source of the trouble.",
+              "world_new": [
+                "trouble"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm bắt đầu",
+          "definition": "the spring from which a river flows",
+          "world_new": [
+            "spring",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the source of the Nile."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Data were thus derived from two sources, both of which were tape recorded : a group discussion and biographical interviews.",
+    "A number of secondary sources have been utilised.",
+    "A caveat is to beware of the over-reliance on secondary analysis or data sources of questionable quality.",
+    "Finally, the design of the sources may change.",
+    "The mouse cursor will often change shapes or help to direct light sources.",
+    "First, the functions and types of metaphors encountered in different sources of economic discourse are examined.",
+    "The analysis that follows draws from diverse sources.",
+    "Take, for example, two accounts from 11th-century sources."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "soundtrack",
+    "soup",
+    "sour",
+    "sour grapes",
+    "source",
+    "sourly",
+    "sourness",
+    "south",
+    "south-east / south-west"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062180_20241866a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062180_d0e2c8ef08_o.png",
+      "id_image": "source_1838027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440448_7c0e3bc6aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440448_f28a76b11a_o.png",
+      "id_image": "source_3966885"
+    }
+  ]
+}

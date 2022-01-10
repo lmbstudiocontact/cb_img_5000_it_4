@@ -1,0 +1,109 @@
+{
+  "english": "true",
+  "phat_am": "truː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thật",
+          "definition": "(opposite untrue) telling of something that really happened; not invented; agreeing with fact; not wrong",
+          "world_new": [
+            "telling",
+            "wrong"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That is a true statement",
+              "world_new": [
+                "statement"
+              ]
+            },
+            {
+              "ex_of_definition": "Is it true that you did not steal the ring?",
+              "world_new": [
+                "steal",
+                "ring"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chính xác",
+          "definition": "(opposite untrue) accurate",
+          "world_new": [
+            "accurate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They don’t have a true idea of its importance.",
+              "world_new": [
+                "idea",
+                "its",
+                "importance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chân thật",
+          "definition": "(opposite untrue) faithful; loyal",
+          "world_new": [
+            "loyal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been a true friend.",
+              "world_new": [
+                "friend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "được gọi là",
+          "definition": "properly so called",
+          "world_new": [
+            "properly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A spider is not a true insect.",
+              "world_new": [
+                "spider",
+                "insect"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "trueness",
+    "truly"
+  ],
+  "list_browse": [
+    "truck",
+    "trucker",
+    "truculent",
+    "trudge",
+    "true",
+    "trueness",
+    "truffle",
+    "truly",
+    "trump"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331466_3738d3a68c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331466_aa46cf819a_o.png",
+      "id_image": "true_5226408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331396_cf46183e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331396_16184c9540_o.png",
+      "id_image": "true_5706248"
+    }
+  ]
+}

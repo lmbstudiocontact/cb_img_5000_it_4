@@ -1,0 +1,82 @@
+{
+  "english": "status",
+  "phat_am": "ˈsteitəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "địa vị, thân phận",
+          "definition": "the position of a person with regard to his legal rights etc",
+          "world_new": [
+            "position",
+            "person",
+            "regard",
+            "legal",
+            "rights"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If she marries a foreigner, will her status as a British citizen be affected?",
+              "world_new": [
+                "foreigner",
+                "British",
+                "citizen",
+                "affected"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cấp bậc, địa vị xã hội cao",
+          "definition": "a person’s social rank.",
+          "world_new": [
+            "social",
+            "rank"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By bringing people in conflict together, arbitrators of all statuses helped to establish their own prominence.",
+    "The different statuses of the languages can be illustrated in different ways.",
+    "Understanding how adolescents characterized by different academic and emotional adjustment statuses are influenced by and influence their school environment is another area worthy of more research.",
+    "Moreover, racial stereotyping is often more complex than stigmatization of mental illness and other devalued statuses.",
+    "By drawing on midlife resources, such as roles and statuses, the elderly residents constructed a zone in which continuity with the past was symbolically maintained.",
+    "Besides, the bottom pre-harvest nutritional statuses of women were lower than those of men.",
+    "Many who desired public assistance applied for it in person, ensuring that their public dependency appropriately reflected the differing statuses of giver and recipient.",
+    "If natures can wholly explain some ontological statuses, it at least makes sense to ask whether they can explain others."
+  ],
+  "list_see_also": [
+    "status symbol"
+  ],
+  "list_browse": [
+    "statistician",
+    "statistics",
+    "statue",
+    "stature",
+    "status",
+    "status symbol",
+    "statute",
+    "staunch",
+    "staunchly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703049_25061ba298_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703049_ae9d072a14_o.png",
+      "id_image": "status_1088935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393177_8336ec5e27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393177_4438617c2e_o.png",
+      "id_image": "status_2671385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703009_04911fef5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703009_55aeff9a1a_o.png",
+      "id_image": "status_3053796"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "supply",
+  "phat_am": "səˈplai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp, tiếp tế",
+          "definition": "to give or provide",
+          "world_new": [
+            "provide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who is supplying the rebels with guns and ammunition?",
+              "world_new": [
+                "ammunition"
+              ]
+            },
+            {
+              "ex_of_definition": "Extra paper will be supplied by the teacher if it is needed",
+              "world_new": [
+                "paper",
+                "teacher"
+              ]
+            },
+            {
+              "ex_of_definition": "The town is supplied with water from a reservoir in the hills",
+              "world_new": [
+                "town",
+                "water",
+                "reservoir"
+              ]
+            },
+            {
+              "ex_of_definition": "The shop was unable to supply what she wanted.",
+              "world_new": [
+                "shop",
+                "unable",
+                "wanted"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cung cấp",
+          "definition": "the act or process of supplying",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Demand is exceeding supply."
+            }
+          ]
+        },
+        {
+          "mean_english": "nguồn, hàng cung cấp",
+          "definition": "an amount or quantity that is supplied; a stock or store",
+          "world_new": [
+            "amount",
+            "quantity",
+            "stock",
+            "store"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She left a supply of food for her husband when she went away for a few days",
+              "world_new": [
+                "left",
+                "food",
+                "husband"
+              ]
+            },
+            {
+              "ex_of_definition": "Who will be responsible for the expedition’s supplies?",
+              "world_new": [
+                "responsible"
+              ]
+            },
+            {
+              "ex_of_definition": "Fresh supplies will be arriving soon.",
+              "world_new": [
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These have had varying success in increasing organ supply.",
+    "In theory, a free market would cope with this by raising prices to a point where demand diminished to match supply.",
+    "Coal and natural gas prices are determined by the supply elasticities of their respective resource bases.",
+    "This point is demonstrated using an equilibrium business cycle model featuring heterogeneous households, endogenous labor supply and liquidity constraints.",
+    "The greater uptake of improved horsegram varieties for sole and intercropping is likely to be limited by the lack of seed supply.",
+    "The adjustment cost hypothesis reduces the elasticity of capital supply.",
+    "It demonstrates the monies available through the devolution of funding that can now be supplied to providers at a local level.",
+    "No town could have survived without water supplies."
+  ],
+  "list_see_also": [
+    "supplier",
+    "be in short supply"
+  ],
+  "list_browse": [
+    "suppleness",
+    "supplicant",
+    "supplication",
+    "supplier",
+    "supply",
+    "support",
+    "supporter",
+    "supporting",
+    "supportive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381527_476659eeb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381527_0b12c4e32d_o.png",
+      "id_image": "supply_1115501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381492_e1e3662a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381492_633707508d_o.png",
+      "id_image": "supply_3310767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451373_a6681121a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451373_ab48fab7f3_o.png",
+      "id_image": "supply_4745668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073390_a4e0b71b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073390_be0567662a_o.png",
+      "id_image": "supply_5605988"
+    }
+  ]
+}

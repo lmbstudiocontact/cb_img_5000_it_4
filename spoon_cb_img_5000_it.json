@@ -1,0 +1,99 @@
+{
+  "english": "spoon",
+  "phat_am": "spuːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái thìa",
+          "definition": "an instrument shaped like a shallow bowl with a handle for lifting food (especially soup or pudding) to the mouth, or for stirring tea, coffee etc",
+          "world_new": [
+            "instrument",
+            "shaped",
+            "shallow",
+            "bowl",
+            "handle",
+            "food",
+            "soup",
+            "mouth",
+            "stirring",
+            "tea",
+            "coffee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a teaspoon/soup-spoon."
+            }
+          ]
+        },
+        {
+          "mean_english": "lượng mà thìa có thể đựng",
+          "definition": "a spoonful.",
+          "world_new": [
+            "spoonful"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dùng thìa múc cái gì lên",
+          "definition": "to lift or scoop up with a spoon",
+          "world_new": [
+            "lift",
+            "scoop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spooned food into the baby’s mouth.",
+              "world_new": [
+                "food",
+                "mouth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The faster we counted our spoons.",
+    "I discovered the other day that it is not possible even to buy plastic spoons to put in a canteen.",
+    "I reach for the spoons.",
+    "If further candidates wish to dip their spoons into the soup, there will be smaller helpings for existing candidates.",
+    "All of us who do not have silver spoons in our mouths and who experienced higher education know how difficult it is to finance young people through university.",
+    "There are only so many places where one can make love spoons and sell them to passing trade.",
+    "The preparation of a meal involves many things - spoons, dishes, glasses, pitchers - and a certain facility in the use of those things.",
+    "Today we live in a society where the paper cup and paper tablecloth, and even paper sheets and plastic spoons, are taken for granted."
+  ],
+  "list_see_also": [
+    "spoonful",
+    "spoon-feed"
+  ],
+  "list_browse": [
+    "spook",
+    "spookiness",
+    "spooky",
+    "spool",
+    "spoon",
+    "spoon-feed",
+    "spoonful",
+    "sporadic",
+    "sporadically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467598_47c0d1a09d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467598_d0c2305058_o.png",
+      "id_image": "spoon_263740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397702_75613bacd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397702_51a656b9c4_o.png",
+      "id_image": "spoon_265400"
+    }
+  ]
+}

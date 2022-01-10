@@ -1,0 +1,71 @@
+{
+  "english": "shopper",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đi mua hàng",
+          "definition": "a person who is shopping",
+          "world_new": [
+            "person",
+            "shopping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The street was full of shoppers.",
+              "world_new": [
+                "street",
+                "full"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "túi đi chợ",
+          "definition": "a large bag used when shopping.",
+          "world_new": [
+            "large",
+            "bag",
+            "shopping"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, to protect intellectual property, suppliers are reluctant to share the designs of their products with \"window shoppers\" without strong and enforceable legal agreements.",
+    "Not unnaturally, more shoppers choose to avail themselves of free parking in out-of-town centres, being unwilling to pay ever-increasing car parking charges in our towns.",
+    "If that happens, we may have our goods priced out of export markets and the purchasing power of the shopper's pound will go down.",
+    "I am sure that once housewives become fully accustomed to the new currency they will he as keen shoppers as ever they were.",
+    "However, there was generally more understanding of 'organic' and 'organic certification', especially among organic food shoppers.",
+    "The high streets are no nirvana for shoppers.",
+    "Shoppers can just go round with a basket or trolley and pick goods off the shelf and pay at the end.",
+    "There will also be documentaries and shoppers' guides."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shop floor",
+    "shopkeeper",
+    "shoplifter",
+    "shoplifting",
+    "shopper",
+    "shopping",
+    "shopping centre",
+    "shopping mall",
+    "shore"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080720_62f5f222a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080720_440023535d_o.png",
+      "id_image": "shopper_1426413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698479_0a92078076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698479_65d0f236ef_o.png",
+      "id_image": "shopper_1995323"
+    }
+  ]
+}

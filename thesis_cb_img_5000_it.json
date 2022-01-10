@@ -1,0 +1,67 @@
+{
+  "english": "thesis",
+  "phat_am": "ˈθiːsis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "luận văn, luận án",
+          "definition": "a long written essay, report etc, often done for a university degree",
+          "world_new": [
+            "long",
+            "essay",
+            "report",
+            "university",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a doctoral thesis"
+            },
+            {
+              "ex_of_definition": "He is writing a thesis on the works of John Milton.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining documents were patents (20%), conference papers (4%), doctoral theses (1.4%), books (0.7%), and technical reports (0.26%).",
+    "In keeping with past experiences, 2005 produced a rich range of 70 theses that address urban history topics.",
+    "Such theses are more misleading than instr uctive.",
+    "The authors thus offer a number of different theses that challenge the existing historiography.",
+    "Taken together these two centuries have accounted for between two-thirds and three-quarters of all theses.",
+    "Many economists, however, have understood the two theses as the two sides of the same coin and sought micro foundations as a consequence.",
+    "We look at data at the individual level that may be associated with institutional support and examine alternative theses.",
+    "As will become apparent below, the later assessment of the value of these first two theses was quite different from the contemporary response."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "thermostat",
+    "thermostatic",
+    "thermostatically",
+    "thesaurus",
+    "thesis",
+    "they",
+    "thick",
+    "thick and fast",
+    "thick-skinned"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704489_f49e25f0ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704489_29044f8627_o.png",
+      "id_image": "thesis_2015709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464508_31ec1182dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464508_2d42ea8514_o.png",
+      "id_image": "thesis_4135828"
+    }
+  ]
+}

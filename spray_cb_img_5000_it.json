@@ -1,0 +1,139 @@
+{
+  "english": "spray",
+  "phat_am": "sprei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bụi nước",
+          "definition": "a fine mist of small flying drops (of water etc) such as that given out by a waterfall",
+          "world_new": [
+            "fine",
+            "mist",
+            "small",
+            "water",
+            "waterfall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The perfume came out of the bottle in a fine spray.",
+              "world_new": [
+                "perfume",
+                "bottle",
+                "fine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình phun, xịt",
+          "definition": "a device with many small holes, or other instrument, for producing a fine mist of liquid",
+          "world_new": [
+            "device",
+            "small",
+            "instrument",
+            "fine",
+            "mist",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She used a spray to rinse her hair.",
+              "world_new": [
+                "rinse",
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chất lỏng dưới dạng bụi",
+          "definition": "a liquid for spraying",
+          "world_new": [
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bought a can of fly-spray."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắn tung tóe",
+          "definition": "to (cause liquid to) come out in a mist or in fine jets",
+          "world_new": [
+            "liquid",
+            "mist",
+            "fine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The water sprayed all over everyone.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phun, xịt",
+          "definition": "to cover with a mist or with fine jets of liquid",
+          "world_new": [
+            "cover",
+            "mist",
+            "fine",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sprayed the roses to kill pests.",
+              "world_new": [
+                "kill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Significant seed-set was not observed in the control entries (male-sterile lines in absence of pollinators and insecticide sprays applied).",
+    "Municipal employees sprayed the house with steam, and 'screens' obstructing light and air in the house were burnt.",
+    "Successive sprays were separated by at least 14 d and a maximum of three sprays were applied in the growing season.",
+    "Several participants said that they do not agree with the claim that spraying by conventional farmers provides organic farmers with 'free protection'.",
+    "Plots sprayed with insecticides were sampled at monthly intervals to confirm that the plants were free of insect damage.",
+    "Suggested management strategies to minimize desiccation include spraying during the evening and using supplemental wetting prior to or following application.",
+    "The plants were sprayed until run-off (approximately 100 ml per plant) and then left to dry for 60 min before being placed in a cage.",
+    "Reduced feeding by caterpillars was termed a feeding restraint effect and the refusal to eat leaves sprayed with solution was termed an anti-feeding effect."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spout",
+    "sprain",
+    "sprawl",
+    "sprawling",
+    "spray",
+    "spread",
+    "spread out",
+    "spreadsheet",
+    "sprig"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089880_1d8d443071_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089880_6a411f1880_o.png",
+      "id_image": "spray_1175775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089910_134045393f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089910_a1dd0e4785_o.png",
+      "id_image": "spray_529491"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "smog",
+  "phat_am": "smoɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sương khói",
+          "definition": "fog mixed with smoke and fumes from factories, houses, vehicles etc",
+          "world_new": [
+            "fog",
+            "mixed",
+            "smoke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some big cities have a problem with smog.",
+              "world_new": [
+                "big",
+                "problem"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is a secondary pollutant formed when nitrogen oxides mix with hydrocarbons from vehicle exhausts in the presence of sunlight—the infamous photochemical smog.",
+    "The effect that we call acid rain is a photochemical smog created by a combination of sulphur dioxide, nitrogen oxide, hydrocarbons and ozone.",
+    "These are the manifestations which the public recognise as \"photo-chemical smog\".",
+    "Methane found in the atmosphere is mostly consumed by photochemical smog.",
+    "Our own scientists have now found photo-chemical smog not in towns but in the countryside.",
+    "Whether people are shop stewards, factory managers or members of the public, they want to get out of the smog and pollution of city environment.",
+    "To them, acid rain and urban smog are more immediate and urgent concerns than global warming.",
+    "There, gridlock occurs now on an almost daily basis and the city swelters under an ever present cloak of photochemical smog."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "smirk",
+    "smith",
+    "smithy",
+    "smock",
+    "smog",
+    "smoke",
+    "smoke detector",
+    "smoked",
+    "smokeless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331156_41be6b01d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331156_8cfff23505_o.png",
+      "id_image": "smog_3436493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331126_593a7a6989_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331126_4225286f86_o.png",
+      "id_image": "smog_3937157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331086_bedaa4db20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331086_1c3f5fcd3b_o.png",
+      "id_image": "smog_4694791"
+    }
+  ]
+}

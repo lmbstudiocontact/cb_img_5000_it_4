@@ -1,0 +1,69 @@
+{
+  "english": "supermarket",
+  "phat_am": "ˈsuːpəmaːkit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "siêu thị",
+          "definition": "a large, self-service store selling food and other goods",
+          "world_new": [
+            "large",
+            "self-service",
+            "store",
+            "food",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a supermarket trolley.",
+              "world_new": [
+                "trolley"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consider two types of canned drink, sold in the same supermarket.",
+    "Furthermore, in several countries there has been a decline in local retailing in favour of supermarkets located out of town.",
+    "These supermarkets purchase produce only from large-scale growers, leaving the small farmer with the traditional markets, now less lucrative and serving fewer people.",
+    "One method traditional supermarkets have attempted to maintain or increase their profitability has been by reducing the costs associated with acquiring their merchandise.",
+    "In the supermarkets that sell seafood, there is almost an obsessive concern about hygiene.",
+    "There were no outbreaks associated with other retail outlets such as supermarkets.",
+    "Although a variety of organic products were being purchased, the list was still quite limited compared with conventional foods that are available in the supermarkets.",
+    "We are told that the technology is already in use in some supermarkets and is being used in a wide range of products and services."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "superior",
+    "superiority",
+    "superlative",
+    "superman",
+    "supermarket",
+    "supernatural",
+    "supersonic",
+    "superstition",
+    "superstitious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452048_c8609a803b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452048_4f898edc9e_o.png",
+      "id_image": "supermarket_2808529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692514_6aee88def5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692514_1cca38efc6_o.png",
+      "id_image": "supermarket_3028626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074195_21db671e44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074195_1946ed287d_o.png",
+      "id_image": "supermarket_4736538"
+    }
+  ]
+}

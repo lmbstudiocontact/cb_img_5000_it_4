@@ -1,0 +1,158 @@
+{
+  "english": "score",
+  "phat_am": "skoː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điểm số, bàn thắng",
+          "definition": "the number of points, goals etc gained in a game, competition etc",
+          "world_new": [
+            "number",
+            "points",
+            "game",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cricket score is 59 for 3.",
+              "world_new": [
+                "cricket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản nhạc",
+          "definition": "a written piece of music showing all the parts for instruments and voices",
+          "world_new": [
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the score of an opera.",
+              "world_new": [
+                "opera"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một bộ, một mhóm hai mươi",
+          "definition": "a set or group of twenty",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was barely a score of people there.",
+              "world_new": [
+                "barely",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi bàn; ghi điểm",
+          "definition": "to gain (goals etc) in a game etc",
+          "world_new": [
+            "gain",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scored two goals before half-time.",
+              "world_new": [
+                "half-time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gạch bỏ, xoá",
+          "definition": "(sometimes with offor out) to remove (eg a name) from eg a list by putting a line through it",
+          "world_new": [
+            "remove",
+            "list",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please could you score my name off (the list)?",
+              "world_new": [
+                "my",
+                "name"
+              ]
+            },
+            {
+              "ex_of_definition": "Is that word meant to be scored out?"
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ tỉ số",
+          "definition": "to keep score",
+          "world_new": [
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you score for us, please?",
+              "world_new": [
+                "please"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "scorer",
+    "scoreboard",
+    "on that score",
+    "scores (of)",
+    "settle old scores"
+  ],
+  "list_browse": [
+    "scooter",
+    "scope",
+    "scorch",
+    "scorching",
+    "score",
+    "scoreboard",
+    "scorer",
+    "scores (of)",
+    "scorn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065805_887b69d9b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065805_f0f498d461_o.png",
+      "id_image": "score_2927869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684029_f5b69a8214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684029_7fbc016a89_o.png",
+      "id_image": "score_464517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328931_971d982bab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328931_93bffb727e_o.png",
+      "id_image": "score_6245941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328911_31f7e5b371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328911_60303d4c45_o.png",
+      "id_image": "score_6267256"
+    }
+  ]
+}

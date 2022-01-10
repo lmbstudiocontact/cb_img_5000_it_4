@@ -1,0 +1,155 @@
+{
+  "english": "surprise",
+  "phat_am": "səˈpraiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ngạc nhiên, sự bất ngờ",
+          "definition": "(the feeling caused by) something sudden or unexpected",
+          "world_new": [
+            "feeling",
+            "sudden",
+            "unexpected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His statement caused some surprise",
+              "world_new": [
+                "statement"
+              ]
+            },
+            {
+              "ex_of_definition": "Your letter was a pleasant surprise",
+              "world_new": [
+                "letter",
+                "pleasant"
+              ]
+            },
+            {
+              "ex_of_definition": "There were some nasty surprises waiting for her when she returned",
+              "world_new": [
+                "nasty"
+              ]
+            },
+            {
+              "ex_of_definition": "He stared at her in surprise"
+            },
+            {
+              "ex_of_definition": "To my surprise the door was unlocked",
+              "world_new": [
+                "my",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) He paid them a surprise visit.",
+              "world_new": [
+                "visit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ngạc nhiên, làm kinh ngạc",
+          "definition": "to cause to feel surprise",
+          "world_new": [
+            "cause",
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news surprised me.",
+              "world_new": [
+                "news",
+                "surprised"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bất thình lình đẩy đến chỗ",
+          "definition": "to lead, by means of surprise, into doing something",
+          "world_new": [
+            "lead",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her sudden question surprised him into betraying himself.",
+              "world_new": [
+                "sudden",
+                "question",
+                "surprised"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đột kích, đánh úp",
+          "definition": "to find, come upon, or attack, without warning",
+          "world_new": [
+            "find",
+            "attack",
+            "warning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They surprised the enemy from the rear.",
+              "world_new": [
+                "surprised",
+                "enemy",
+                "rear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The man appears flattered by her interest, but at the same time surprised by her aggressiveness.",
+    "We are surprised even when we have, when we believe we have, complete mastery.",
+    "There are a few surprises, too, one being the authors' decision not to concern themselves with ' why [the 1993 presidential] election was annulled ' (p. 196).",
+    "His account of the recent past, however, yields fewer historical surprises or original insights, perhaps because the contemporary intellectual context is our own cultural milieu.",
+    "Much of this can be readily understood in the context of quasi-randomness and experts in this area will find no surprises.",
+    "Why is it surprising that with universal turnout voters would differ so little from those who actually go to the polls?",
+    "None of the rules present any surprises when compared with the rules in the natural semantics (that is, we get adequacy almost directly).",
+    "The results obtained by 8 months' investigation are presented below in tabulated form, and furnish some surprises."
+  ],
+  "list_see_also": [
+    "surprised",
+    "surprising",
+    "surprisingly",
+    "take by surprise"
+  ],
+  "list_browse": [
+    "surmount",
+    "surname",
+    "surpass",
+    "surplus",
+    "surprise",
+    "surprised",
+    "surprising",
+    "surprisingly",
+    "surrealism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450553_4a6893cdfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450553_1b95581d54_o.png",
+      "id_image": "surprise_5020357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690739_dfa1f0744f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690739_c1a65e9ea1_o.png",
+      "id_image": "surprise_5020359"
+    }
+  ]
+}

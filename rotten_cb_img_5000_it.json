@@ -1,0 +1,81 @@
+{
+  "english": "rotten",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thiu; ươn",
+          "definition": "(of meat, fruit etc) having gone bad; decayed",
+          "world_new": [
+            "meat",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "rotten vegetables."
+            }
+          ]
+        },
+        {
+          "mean_english": "tồi tệ",
+          "definition": "bad; mean",
+          "world_new": [
+            "mean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What rotten luck!",
+              "world_new": [
+                "luck"
+              ]
+            },
+            {
+              "ex_of_definition": "It was a rotten thing to do."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If our financial defences are weak and rotten, then we are going down into the abyss, and we do not understand what constitutes real strength.",
+    "Why tropical trees have rotten cores.",
+    "Perhaps they were, but the truth is that she put forward a rotten policy.",
+    "There are rotten apples in almost every barrel one cares to look into.",
+    "There is no comparable country in the world, with such an advantageous climate, that makes such a rotten and pathetic contribution to its forestry needs.",
+    "Others may develop internally rotten areas.",
+    "The remainder, not having been dispatched, are there practically rotten.",
+    "In addition, frugivorous butterflies feed obligately on ripe and rotten fruit, and therefore can be efficiently censused using the bait-trapping method (see below)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rotary",
+    "rotate",
+    "rotation",
+    "rotor",
+    "rotten",
+    "rottenness",
+    "rotter",
+    "Rottweiler",
+    "rouble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078905_ee1f1d151b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078905_f2e42d3d24_o.png",
+      "id_image": "rotten_4172831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386512_3c8143c99f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386512_1ca6227528_o.png",
+      "id_image": "rotten_5256354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386487_81d6115958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386487_34c7076fd6_o.png",
+      "id_image": "rotten_5671101"
+    }
+  ]
+}

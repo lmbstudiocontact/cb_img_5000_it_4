@@ -1,0 +1,82 @@
+{
+  "english": "routine",
+  "phat_am": "ruːˈtiːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thói quen",
+          "definition": "a regular, fixed way of doing things",
+          "world_new": [
+            "regular",
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "her daily routine",
+              "world_new": [
+                "daily"
+              ]
+            },
+            {
+              "ex_of_definition": "Everyone needs some routine in their lives.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thường xuyên",
+          "definition": "regular; ordinary",
+          "world_new": [
+            "ordinary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "routine work.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rout",
+    "route",
+    "route march",
+    "router",
+    "routine",
+    "rove",
+    "rover",
+    "roving",
+    "row"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340896_14dc484c43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340896_3652d43155_o.png",
+      "id_image": "routine_2738826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385812_5946b4f6c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385812_2c1a5ec69e_o.png",
+      "id_image": "routine_5101217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385787_e85b7df918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385787_db39cd1dae_o.png",
+      "id_image": "routine_5775316"
+    }
+  ]
+}

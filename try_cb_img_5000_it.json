@@ -1,0 +1,174 @@
+{
+  "english": "try",
+  "phat_am": "trai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cố gắng",
+          "definition": "to attempt or make an effort (to do, get etc)",
+          "world_new": [
+            "attempt",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to answer the questions",
+              "world_new": [
+                "answer"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s try and climb that tree!",
+              "world_new": [
+                "climb",
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thử",
+          "definition": "to test; to make an experiment (with) in order to find out whether something will be successful, satisfactory etc",
+          "world_new": [
+            "experiment",
+            "order",
+            "find",
+            "successful",
+            "satisfactory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tried washing her hair with a new shampoo",
+              "world_new": [
+                "washing",
+                "hair",
+                "shampoo"
+              ]
+            },
+            {
+              "ex_of_definition": "Try one of these sweets."
+            }
+          ]
+        },
+        {
+          "mean_english": "xét xử",
+          "definition": "to judge (someone or their case) in a court of law",
+          "world_new": [
+            "judge",
+            "their",
+            "court",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prisoners were tried for murder.",
+              "world_new": [
+                "murder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thử thách, thách thức",
+          "definition": "to test the limits of; to strain",
+          "world_new": [
+            "test",
+            "strain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You are trying my patience.",
+              "world_new": [
+                "trying",
+                "my",
+                "patience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cố gắng",
+          "definition": "an attempt or effort",
+          "world_new": [
+            "attempt",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have a try (at the exam). I’m sure you will pass.",
+              "world_new": [
+                "sure",
+                "pass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điểm trong môn bóng bầu dục",
+          "definition": "in rugby football, an act of putting the ball on the ground behind the opponents’ goal-line",
+          "world_new": [
+            "rugby",
+            "football",
+            "act",
+            "ball",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our team scored three tries.",
+              "world_new": [
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He understood the art of music and tried to practice it.",
+    "This article tries to add to this discussion.",
+    "Among the 10 students, 2 would volunteer, 5 would accept, 3 would try to avoid the task, and none would refuse to undertake it.",
+    "They were told that the purpose of the procedure was to observe the child trying to wait.",
+    "First, there are self-experiments in which a person tries different treatments, and varies more or less systematically the conditions to observe potential effects.",
+    "An innovation that can be broken down or tried out on a partial basis also increases the probability of use and adoption5.",
+    "This has been one of the most signi®cant practical issues which teachers have had to try to solve.",
+    "We therefore also tried testing with the eight variables for which data were available in all four pre-vote periods."
+  ],
+  "list_see_also": [
+    "trier",
+    "trying",
+    "try on",
+    "try out"
+  ],
+  "list_browse": [
+    "truth",
+    "truthful",
+    "truthfully",
+    "truthfulness",
+    "try",
+    "try on",
+    "try out",
+    "trying",
+    "tsar"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118105_79e3a32d65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118105_94912229a5_o.png",
+      "id_image": "try_5278684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067500_9c0812f576_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067500_c96b9d401f_o.png",
+      "id_image": "try_5625759"
+    }
+  ]
+}

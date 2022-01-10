@@ -1,0 +1,103 @@
+{
+  "english": "royal",
+  "phat_am": "ˈroiəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc hoàng gia",
+          "definition": "of, concerning etc a king, queen etc",
+          "world_new": [
+            "concerning",
+            "king",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the royal family",
+              "world_new": [
+                "family"
+              ]
+            },
+            {
+              "ex_of_definition": "His Royal Highness Prince Charles."
+            }
+          ]
+        },
+        {
+          "mean_english": "nguy nga",
+          "definition": "magnificent",
+          "world_new": [
+            "magnificent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a royal feast.",
+              "world_new": [
+                "feast"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thành viên hoàng gia",
+          "definition": "a member of a royal family.",
+          "world_new": [
+            "member",
+            "family"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Additionally, however, these structures would have made powerful symbolic statements about royal power and authority.",
+    "The initial royal complex was composed of three architectural groups begun shortly after a. d. 400.",
+    "But the \"manufacture,\" privileged by the state institutions, need not be afraid of competition, for it relies on royal subsidies, import restrictions, and monopolistic privileges.",
+    "Acting as political hostesses was one way in which royal wives could make their mark.",
+    "The religious law persists only through royal authority.",
+    "News of royal displeasure could cause alarm, but usually the king sought consensus, through negotiation and discussion, and achieved it.",
+    "As such, the spatializing and performative rhetorical acts such as state ceremonies, urban spectacles, sacrificial rituals and royal hunts must be included in this definition.",
+    "The king's advisers ordinarily suggested one to two years from the time the royal pardon was published."
+  ],
+  "list_see_also": [
+    "royally",
+    "royalist",
+    "royalty",
+    "royal blue"
+  ],
+  "list_browse": [
+    "rowdiness",
+    "rowdy",
+    "rower",
+    "rowing-boat",
+    "royal",
+    "royal blue",
+    "royalist",
+    "royally",
+    "royalty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455373_c891e2007a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455373_45232efe0c_o.png",
+      "id_image": "royal_2653345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340391_e93cec499d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340391_4fc427b17d_o.png",
+      "id_image": "royal_2653349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385367_649be95693_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385367_bf7b3cb1df_o.png",
+      "id_image": "royal_2653375"
+    }
+  ]
+}

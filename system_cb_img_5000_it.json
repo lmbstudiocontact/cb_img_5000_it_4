@@ -1,0 +1,148 @@
+{
+  "english": "system",
+  "phat_am": "ˈsistəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ thống",
+          "definition": "an arrangement of many parts that work together",
+          "world_new": [
+            "arrangement",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a railway system",
+              "world_new": [
+                "railway"
+              ]
+            },
+            {
+              "ex_of_definition": "the solar system",
+              "world_new": [
+                "solar"
+              ]
+            },
+            {
+              "ex_of_definition": "the digestive system.",
+              "world_new": [
+                "digestive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ thể con người",
+          "definition": "a person’s body",
+          "world_new": [
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take a walk every day – it’s good for the system!",
+              "world_new": [
+                "walk",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chế độ, hệ thống",
+          "definition": "a way of organizing something according to certain ideas, principles etc",
+          "world_new": [
+            "certain",
+            "principles"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a system of government/education."
+            }
+          ]
+        },
+        {
+          "mean_english": "phương thức",
+          "definition": "a plan or method",
+          "world_new": [
+            "plan",
+            "method"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is your system for washing the dishes?",
+              "world_new": [
+                "your",
+                "washing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tính hệ thống",
+          "definition": "the quality of being efficient and methodical",
+          "world_new": [
+            "quality",
+            "efficient",
+            "methodical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your work lacks system.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ineffective management and unco-ordinated information systems were perceived to be the main obstacles for both groups.",
+    "Recent years have seen considerable progress in the development of chemical self-replicating systems.",
+    "Party-based systems create career incentives for the legislator to support the overall aims of the parties.",
+    "The system's popularity among voters is so great, that many perceive program reform as tantamount to touching the ' ' third rail ' ' of politics.",
+    "In this article we present a survey of the major organizational paradigms used in multi-agent systems.",
+    "We prove the property for all normalising pure type systems, and discuss the connection with typechecking.",
+    "Considering the time-consuming procedure used in adaptive control,13 this paper presents an efficient way for multi-input system's hysteresis decision to avoid any singularity.",
+    "The basic problem: most chaotic systems' chaotic properties don't seem very relevant, directly or indirectly, to human life."
+  ],
+  "list_see_also": [
+    "systematic",
+    "systematically",
+    "systematize",
+    "systematization",
+    "systemic",
+    "systemically"
+  ],
+  "list_browse": [
+    "synthetic",
+    "syringe",
+    "syrup",
+    "syrupy",
+    "system",
+    "systematic",
+    "systematically",
+    "systematization",
+    "systematize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444578_07979b2838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444578_24e5c95578_o.png",
+      "id_image": "system_2825990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066385_27d5c8fc33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066385_589735d429_o.png",
+      "id_image": "system_4289987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684624_86b5b5d188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684624_1a6a9153f6_o.png",
+      "id_image": "system_992645"
+    }
+  ]
+}

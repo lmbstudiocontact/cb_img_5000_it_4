@@ -1,0 +1,115 @@
+{
+  "english": "telegraph",
+  "phat_am": "ˈteliɡraːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điện báo",
+          "definition": "a system of sending messages using either wires and electricity or radio",
+          "world_new": [
+            "system",
+            "electricity",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Send it by telegraph."
+            }
+          ]
+        },
+        {
+          "mean_english": "máy điện báo",
+          "definition": "an instrument for this",
+          "world_new": [
+            "instrument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Send the message on the telegraph.",
+              "world_new": [
+                "message"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi điện báo",
+          "definition": "to send by telegraph",
+          "world_new": [
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He telegraphed the time of his arrival.",
+              "world_new": [
+                "time",
+                "arrival"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gửi chỉ thị bằng điện báo",
+          "definition": "to inform by telegraph",
+          "world_new": [
+            "inform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He telegraphed us to say when he would arrive.",
+              "world_new": [
+                "arrive"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once it got overlaid on the map's magic carpet, the line on paper effaced memory of the telegraph line.",
+    "It is remarkable that so many symmetries are shared by the continuous and discrete versions of the telegraph equation.",
+    "Officials unveiled new monuments, parks, libraries, schools, public lighting, telegraph and telephone lines, pavilions and municipal palaces.",
+    "This paper traces various wind paths, from natural casuarinas to telegraph wires.",
+    "For example, nationalisation of the telegraph system (in 1870) and the telephone system (in 1912) may have stymied efficiency by removing the pressure of competition.",
+    "The telegraph, moreover, falls short not only as regards its promise of speed in transmission; it is notoriously spare in detail.",
+    "On the one hand, this newly tamed force could power new technologies such as the telegraph and dynamo.",
+    "It was, in part, precipitated by global changes in telegraph systems."
+  ],
+  "list_see_also": [
+    "telegrapher",
+    "telegraphy",
+    "telegraphic",
+    "telegraph pole"
+  ],
+  "list_browse": [
+    "telecommuter",
+    "telecommuting",
+    "telefax",
+    "telegram",
+    "telegraph",
+    "telegraph pole",
+    "telegrapher",
+    "telegraphic",
+    "telegraphy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397742_147ca1f35f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397742_6501b10e9a_o.png",
+      "id_image": "telegraph_1411885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352816_f281202118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352816_5f5081d33f_o.png",
+      "id_image": "telegraph_5256698"
+    }
+  ]
+}

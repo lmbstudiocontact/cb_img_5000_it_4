@@ -1,0 +1,146 @@
+{
+  "english": "strap",
+  "phat_am": "strӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây, quai",
+          "definition": "a narrow strip of leather, cloth, or other material, eg with a buckle for fastening something (eg a suitcase, wristwatch etc) or by which to hold, hang or support something (eg a camera, rucksack etc)",
+          "world_new": [
+            "narrow",
+            "strip",
+            "leather",
+            "cloth",
+            "material",
+            "buckle",
+            "fastening",
+            "suitcase",
+            "hold",
+            "hang",
+            "support",
+            "camera",
+            "rucksack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need a new watch-strap",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "luggage straps.",
+              "world_new": [
+                "luggage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đai",
+          "definition": "a short looped strip of leather etc, hanging from the roof of a train, by which a standing passenger can support himself/herself.",
+          "world_new": [
+            "short",
+            "strip",
+            "leather",
+            "hanging",
+            "roof",
+            "train",
+            "standing",
+            "passenger",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bằng roi da",
+          "definition": "to beat (eg a schoolchild) on the hand with a leather strap",
+          "world_new": [
+            "beat",
+            "hand",
+            "leather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was strapped for being rude to the teacher.",
+              "world_new": [
+                "rude",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buộc bằng dây da",
+          "definition": "to fasten with a strap etc",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two pieces of luggage were strapped together",
+              "world_new": [
+                "luggage"
+              ]
+            },
+            {
+              "ex_of_definition": "He strapped on his new watch.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The straps that bind it on us seem inclined to cut into our flesh more and more.",
+    "I support the argument that safety straps should be improved.",
+    "He more or less told them to pull themselves up by their boot straps.",
+    "Often, they are already in labour, strapped to a drip, and in severe pain.",
+    "If the council rejects an application, however, the cost of an appeal is a considerable burden for an authority that is strapped for cash.",
+    "However, the universities are plainly in a difficult position because they are strapped for cash—they ain't got any.",
+    "However, the new clause covers only belts, straps and other instruments.",
+    "The two-thirds of the world's population who at present are the dispossessed will be able to raise themselves up only by their own shoe-straps."
+  ],
+  "list_see_also": [
+    "strapping",
+    "strap in",
+    "strap up"
+  ],
+  "list_browse": [
+    "strangeness",
+    "stranger",
+    "strangle",
+    "strangulation",
+    "strap",
+    "strap in",
+    "strap up",
+    "strapping",
+    "stratagem"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458658_3c5435f3ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458658_1d13936f31_o.png",
+      "id_image": "strap_2044023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388862_07c06398d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388862_19e9a6ff00_o.png",
+      "id_image": "strap_372583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388772_4aa2682153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388772_b342ceb1a7_o.png",
+      "id_image": "strap_4656913"
+    }
+  ]
+}

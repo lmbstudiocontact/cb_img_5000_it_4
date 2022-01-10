@@ -1,0 +1,65 @@
+{
+  "english": "translate",
+  "phat_am": "trӕnsˈleit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dịch",
+          "definition": "to put (something said or written) into another language",
+          "world_new": [
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He translated the book from French into English.",
+              "world_new": [
+                "book",
+                "French",
+                "English"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, these laudable aims have proven difficult to translate into practice.",
+    "Their seminal contributions have been of enormous consequence for understanding the relationships between development, environment, and poverty and have translated into significant policy advances.",
+    "It is really a question of how these can meaningfully be translated into contemporary culture.",
+    "These obvious gender differences in societal roles may potentially translate into gender differences in the sources of social support.",
+    "Psychologists typically do not rely on a similarly unified theoretical framework that can be easily translated into experimental design.",
+    "There must also be a party for which they can vote that promises to translate their fears into remedial government policy if elected to office.",
+    "At test, participants translated words in both translation directions.",
+    "In addition, there were other papers on designing economic plans, capital accumulation, and foreign examples of economic development plans, translated by the bank."
+  ],
+  "list_see_also": [
+    "translation",
+    "translator"
+  ],
+  "list_browse": [
+    "transit",
+    "transition",
+    "transitional",
+    "transitive",
+    "translate",
+    "translation",
+    "translator",
+    "translucence",
+    "translucency"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692969_ff86b87f1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692969_86e276e085_o.png",
+      "id_image": "translate_4196433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452448_f4d43190cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452448_a38bf1c1e9_o.png",
+      "id_image": "translate_5146529"
+    }
+  ]
+}

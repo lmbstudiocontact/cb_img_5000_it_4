@@ -1,0 +1,111 @@
+{
+  "english": "spy",
+  "phat_am": "spai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điệp viên",
+          "definition": "a secret agent or person employed to gather information secretly especially about the military affairs of other countries",
+          "world_new": [
+            "secret",
+            "agent",
+            "person",
+            "employed",
+            "gather",
+            "information",
+            "secretly",
+            "military"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was arrested as a spy"
+            },
+            {
+              "ex_of_definition": "industrial spies.",
+              "world_new": [
+                "industrial"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm điệp viên",
+          "definition": "to be a spy",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had been spying for the Russians for many years."
+            }
+          ]
+        },
+        {
+          "mean_english": "xem xét kĩ lưỡng",
+          "definition": "to see or notice",
+          "world_new": [
+            "see",
+            "notice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spied a human figure on the mountainside.",
+              "world_new": [
+                "human",
+                "figure",
+                "mountainside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The purpose of the spy point/2 call will be explained shortly.",
+    "The spy must be ready to \"move\", must be aware of his entrances and exits.",
+    "There is an important difference between spies and the people studied by anthropologists.",
+    "Given the macroeconomic focus of this paper, we capture this asymmetric exposure to spying by assuming that only vertical innovation can be spied.",
+    "Individuals or families were enticed to spy upon one another.",
+    "Can we learn to spy on the naked beauty surreptitiously?",
+    "There is no crime in detecting and destroying in war-time, the spy and the informer.",
+    "If accused, he can claim to have been duped by a spy even more cunning than himself."
+  ],
+  "list_see_also": [
+    "spyhole",
+    "spyware",
+    "spy on"
+  ],
+  "list_browse": [
+    "spryness",
+    "spur",
+    "spur on",
+    "spurt",
+    "spy",
+    "spy on",
+    "spyhole",
+    "spyware",
+    "sq"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352036_74e415e600_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352036_1547530a12_o.png",
+      "id_image": "spy_194344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706484_a35bc8a843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706484_fbb2228f28_o.png",
+      "id_image": "spy_343171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466493_acc9c93170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466493_bb14eceb18_o.png",
+      "id_image": "spy_617033"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "smug",
+  "phat_am": "smaɡ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tự mãn",
+          "definition": "well satisfied, or too obviously pleased, with oneself",
+          "world_new": [
+            "satisfied",
+            "obviously",
+            "pleased"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t like that smug little man.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "smugly",
+    "smugness"
+  ],
+  "list_browse": [
+    "smoulder",
+    "smudge",
+    "smudginess",
+    "smudgy",
+    "smug",
+    "smuggle",
+    "smuggler",
+    "smuggling",
+    "smugly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330421_793c55b5b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330421_40b469b271_o.png",
+      "id_image": "smug_3362399"
+    }
+  ]
+}

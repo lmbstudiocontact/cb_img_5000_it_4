@@ -1,0 +1,82 @@
+{
+  "english": "route",
+  "phat_am": "ruːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lộ trình",
+          "definition": "a way of getting somewhere; a road",
+          "world_new": [
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our route took us through the mountains."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "theo lộ trình",
+          "definition": "to arrange a route for",
+          "world_new": [
+            "arrange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Heavy traffic was routed round the outside of the town.",
+              "world_new": [
+                "traffic",
+                "outside",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "router",
+    "route march"
+  ],
+  "list_browse": [
+    "rounds",
+    "rouse",
+    "rousing",
+    "rout",
+    "route",
+    "route march",
+    "router",
+    "routine",
+    "rove"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341126_b43018d937_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341126_c7eb9ba0b5_o.png",
+      "id_image": "route_169493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455903_4b67aee3ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455903_a0e73ef267_o.png",
+      "id_image": "route_179677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386042_425557859c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386042_1c51f4bddf_o.png",
+      "id_image": "route_2569907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696269_a5b97ab6b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696269_ce4404f06c_o.png",
+      "id_image": "route_3579797"
+    }
+  ]
+}

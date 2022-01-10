@@ -1,0 +1,154 @@
+{
+  "english": "sea",
+  "phat_am": "siː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biển",
+          "definition": "(often with the) the mass of salt water covering most of the Earth’s surface",
+          "world_new": [
+            "mass",
+            "salt",
+            "water",
+            "covering",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I enjoy swimming in the sea",
+              "world_new": [
+                "I",
+                "enjoy",
+                "swimming"
+              ]
+            },
+            {
+              "ex_of_definition": "over land and sea",
+              "world_new": [
+                "land"
+              ]
+            },
+            {
+              "ex_of_definition": "The sea is very deep here",
+              "world_new": [
+                "deep"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) A whale is a type of large sea animal.",
+              "world_new": [
+                "whale",
+                "type",
+                "large",
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vùng biển riêng",
+          "definition": "a particular area of sea",
+          "world_new": [
+            "particular",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Baltic Sea"
+            },
+            {
+              "ex_of_definition": "These fish are found in tropical seas.",
+              "world_new": [
+                "fish",
+                "found",
+                "tropical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hồ nước",
+          "definition": "a particular state of the sea",
+          "world_new": [
+            "particular",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "mountainous seas.",
+              "world_new": [
+                "mountainous"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unfortunately, the method of hunting at sea is not described.",
+    "The measurements also included sea-level observations to determine approximate geoid heights at the location.",
+    "Redundant mechanisms of calcium-induced calcium release underlying calcium waves during fertilization of sea urchin eggs.",
+    "The external diameter of respiratory bronchiolar arteries was greater than normal in all patients, as was generally found at sea level.",
+    "Another great sight is number of sea animals including sea elephants, tiger leopards, lion and all kinds of seals.",
+    "The ' prosobranch ' caenogastropods arose first in the sea and then moved into freshwater and onto land.",
+    "The subject of sea level rise is surrounded by uncertainties.",
+    "An intending swimmer is prevented from entering the sea, because (it is reasonable to suppose) this person does not realize that the tides are dangerous."
+  ],
+  "list_see_also": [
+    "seaward",
+    "seaboard",
+    "sea breeze",
+    "seafaring",
+    "seafood",
+    "seafront",
+    "sea-going",
+    "seagull",
+    "sea level",
+    "sea lion",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "scurvy",
+    "scuttle",
+    "scythe",
+    "SE",
+    "sea",
+    "sea breeze",
+    "sea level",
+    "sea lion",
+    "sea water"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680804_0e70312dbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680804_fea01cc774_o.png",
+      "id_image": "sea_1867451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370472_cc4f9f1be6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370472_46f3e98a8f_o.png",
+      "id_image": "sea_2507565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325616_25db719038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325616_0443e91933_o.png",
+      "id_image": "sea_5398376"
+    }
+  ]
+}

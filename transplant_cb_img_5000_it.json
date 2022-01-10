@@ -1,0 +1,125 @@
+{
+  "english": "transplant",
+  "phat_am": "trӕnsˈplaːnt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cấy, ghép",
+          "definition": "to remove (an organ of the body) and put it into another person or animal",
+          "world_new": [
+            "remove",
+            "organ",
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Doctors are able to transplant kidneys."
+            }
+          ]
+        },
+        {
+          "mean_english": "di chuyển, lấy ra",
+          "definition": "to remove (skin) and put it on another part of the body.",
+          "world_new": [
+            "remove",
+            "part",
+            "body"
+          ]
+        },
+        {
+          "mean_english": "ghép cây",
+          "definition": "to plant in another place",
+          "world_new": [
+            "plant",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We transplanted the rose bush (to the back garden).",
+              "world_new": [
+                "bush"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự cấy",
+          "definition": "an operation in which an organ or skin is transplanted",
+          "world_new": [
+            "operation",
+            "organ",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had to have a kidney transplant.",
+              "world_new": [
+                "kidney"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ quan được cấy ghép",
+          "definition": "an organ, skin, or a plant that is transplanted",
+          "world_new": [
+            "organ",
+            "skin",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The transplant was rejected by the surrounding tissue.",
+              "world_new": [
+                "surrounding",
+                "tissue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Management of these complex problems is a daily activity for the transplant physician/surgeon who becomes comfortable in this type of environment.",
+    "The limitations of our investigation notwithstanding, the multivariate analyses suggested that respondents' temporal distress profiles were predicted by pre- and post-transplant health and psychosocial characteristics.",
+    "The agricultural implications of this result are evident for nurseries - the losses they experience in the transplant of plants could be reduced.",
+    "Despite recent large increases in the number of organs transplanted from living donors, especially from genetically unrelated volunteers, supply continues to lag far behind demand.",
+    "Transplanted rice undergoes two more growth processes than does the directly seeded rice, nursery growth and transplanting shock.",
+    "Some doctors referred to uncertainties in the long-term usage of the new drug and suggested bone marrow transplant.",
+    "Inequalities, such as a fivefold difference in waiting times for liver transplants, should serve as triggers to inquire into ways to reduce the inequalities.",
+    "Should the patient's prior transplants, noncompliance, and poor social network exclude her even from the waiting list?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transparent",
+    "transparently",
+    "transpiration",
+    "transpire",
+    "transplant",
+    "transport",
+    "transportable",
+    "transportation",
+    "transporter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381922_294a154bac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381922_1996ebd37b_o.png",
+      "id_image": "transplant_2463907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451708_0742bebd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451708_31578750b7_o.png",
+      "id_image": "transplant_4815842"
+    }
+  ]
+}

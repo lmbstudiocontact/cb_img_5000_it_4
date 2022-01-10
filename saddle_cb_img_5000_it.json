@@ -1,0 +1,78 @@
+{
+  "english": "saddle",
+  "phat_am": "ˈsӕdl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "yên ngựa, yên xe",
+          "definition": "a seat for a rider",
+          "world_new": [
+            "seat",
+            "rider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bicycle saddle is too high.",
+              "world_new": [
+                "bicycle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thắng yên ngựa",
+          "definition": "(opposite unsaddle) to put a saddle on",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He saddled his horse and rode away.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They thus found themselves saddled with superfluous land.",
+    "He may be saddled with all kinds of oppressive clauses in his lease putting him to very heavy expense.",
+    "Accessible saddles on fractal basin boundaries.",
+    "He found himself on the street, in many cases saddled with a heavy bill of dilapidations.",
+    "Also, individuals saddled with mortgages, being made redundant or scared of being made redundant are not buying cars.",
+    "The fact is that we have been saddled with the wrong tailors for four or five years, and it is about time we changed them.",
+    "They had the same conversation; the same silver dishes; the same saddles of mutton, boiled turkeys, and entrees.",
+    "They are rendered powerless to deal with them by a combination of their history, the debt with which they are saddled and other different pressures."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sacrilegiously",
+    "sacrilegiousness",
+    "sad",
+    "sadden",
+    "saddle",
+    "sadly",
+    "sadness",
+    "SAE",
+    "safari"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337781_505ed6d199_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337781_9db249dbdd_o.png",
+      "id_image": "saddle_2464823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452688_26b7b917b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452688_04df462e46_o.png",
+      "id_image": "saddle_878991"
+    }
+  ]
+}

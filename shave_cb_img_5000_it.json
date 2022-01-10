@@ -1,0 +1,132 @@
+{
+  "english": "shave",
+  "phat_am": "ʃeiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cạo (râu, mặt, đầu)",
+          "definition": "to cut away (hair) from (usually oneself) with a razor",
+          "world_new": [
+            "cut",
+            "razor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He only shaves once a week.",
+              "world_new": [
+                "once",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bào",
+          "definition": "(sometimes with off) to scrape or cut away (the surface of wood etc)",
+          "world_new": [
+            "scrape",
+            "cut",
+            "surface",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The joiner shaved a thin strip off the edge of the door.",
+              "world_new": [
+                "joiner",
+                "thin",
+                "strip",
+                "edge",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sượt, chạm",
+          "definition": "to touch lightly in passing",
+          "world_new": [
+            "touch",
+            "lightly",
+            "passing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car shaved the wall.",
+              "world_new": [
+                "car",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cạo",
+          "definition": "(the result of) an act of shaving",
+          "world_new": [
+            "result",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Colin badly needs a shave.",
+              "world_new": [
+                "badly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am sure that the majority of housewives are not purchasing shaving soap for other purposes.",
+    "Personal hygiene, including tasks such as washing, shaving, applying make up, or simply scratching an itch.",
+    "The people to prosecute are the people who tempt the barber, and come in with large fees to get shaved.",
+    "I know of no foundation for the statement that prisoners are not provided with facilities for washing and shaving.",
+    "We considered shaving that off but decided that it would be better to leave the levels as they are.",
+    "The skin was shaved and an incision measuring 1 cm long was made through the skin and body wall.",
+    "If the men objected to shaving their moustaches, they are at liberty to discontinue the use of the razor altogether.",
+    "I thought he was going to say that the fourth was when he looked in the mirror in the morning when he shaves."
+  ],
+  "list_see_also": [
+    "shaven",
+    "shaver",
+    "shavings"
+  ],
+  "list_browse": [
+    "sharply",
+    "sharpness",
+    "shatter",
+    "shattered",
+    "shave",
+    "shaven",
+    "shaver",
+    "shavings",
+    "shawl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346446_a1ac40361f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346446_4afca6e07d_o.png",
+      "id_image": "shave_1686014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346391_33f9128c49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346391_88488f7c95_o.png",
+      "id_image": "shave_3959124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461228_f07a24fb21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461228_450dc2703e_o.png",
+      "id_image": "shave_538016"
+    }
+  ]
+}

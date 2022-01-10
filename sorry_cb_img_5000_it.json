@@ -1,0 +1,161 @@
+{
+  "english": "sorry",
+  "phat_am": "ˈsori",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dùng để xin lỗi, tiếc nuối",
+          "definition": "used when apologizing or expressing regret",
+          "world_new": [
+            "regret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m sorry (that) I forgot to return your book",
+              "world_new": [
+                "I",
+                "return",
+                "your",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "Did I give you a fright? I’m sorry.",
+              "world_new": [
+                "I",
+                "fright"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy làm buồn",
+          "definition": "apologetic or full of regret",
+          "world_new": [
+            "apologetic",
+            "full",
+            "regret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think he’s really sorry for his bad behaviour/behavior",
+              "world_new": [
+                "I",
+                "think",
+                "bad"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m sure you were sorry to hear about his death.",
+              "world_new": [
+                "sure",
+                "hear",
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghèo nàn, đáng thương hại",
+          "definition": "unsatisfactory; poor; wretched",
+          "world_new": [
+            "wretched"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sorry state of affairs.",
+              "world_new": [
+                "state"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "xin lỗi",
+          "definition": "used when apologizing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did I tread on your toe? Sorry!",
+              "world_new": [
+                "I",
+                "tread",
+                "your",
+                "toe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gì ạ",
+          "definition": "(used when asking a person to repeat what he has said) I beg your pardon?",
+          "world_new": [
+            "person",
+            "repeat",
+            "I",
+            "beg",
+            "your",
+            "pardon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sorry (, what did you say)?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am sorry to say, the great tendency of this age is to expend its genius in perishable art of this kind.",
+    "The speaker may want to make the hearer feel sorry for her, while not being prepared to acknowledge that that is what she wants.",
+    "Proponents of the ban, however, justified a complete ban on the basis of the precautionary principle that it is better to be safe than sorry.",
+    "English usage books are by and large a sorry lot.",
+    "I am sorry this conflict is coming just now.",
+    "I am sorry if this criticism is upsetting to the authors who have taken the trouble to describe their work for us.",
+    "He opened his eyes, looked at his son, and felt sorry for him.",
+    "Many factors contribute to this sorry state of affairs."
+  ],
+  "list_see_also": [
+    "be/feel sorry for"
+  ],
+  "list_browse": [
+    "sorrow",
+    "sorrowful",
+    "sorrowfully",
+    "sorrowfulness",
+    "sorry",
+    "sort",
+    "sort of",
+    "sort out",
+    "sorter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370572_2cd6034e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370572_aa6434cc21_o.png",
+      "id_image": "sorry_3159041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325761_bb636f9c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325761_05bf96d68d_o.png",
+      "id_image": "sorry_4743043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680829_3abb8bdaa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680829_5c55ddd74e_o.png",
+      "id_image": "sorry_5906109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325721_73709052c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325721_1971e8b3ec_o.png",
+      "id_image": "sorry_5906113"
+    }
+  ]
+}

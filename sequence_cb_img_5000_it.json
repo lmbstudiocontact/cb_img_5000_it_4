@@ -1,0 +1,110 @@
+{
+  "english": "sequence",
+  "phat_am": "ˈsiːkwəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuỗi nhiều sự kiện, con số…",
+          "definition": "a series of events etc following one another in a particular order",
+          "world_new": [
+            "series",
+            "following",
+            "particular",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He described the sequence of events leading to his dismissal from the firm",
+              "world_new": [
+                "dismissal",
+                "firm"
+              ]
+            },
+            {
+              "ex_of_definition": "a sequence of numbers"
+            },
+            {
+              "ex_of_definition": "a dance sequence.",
+              "world_new": [
+                "dance"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sắp theo trình tự",
+          "definition": "to arrange things in a particular order",
+          "world_new": [
+            "arrange",
+            "particular",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book titles are sequenced alphabetically.",
+              "world_new": [
+                "book",
+                "alphabetically"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải trình tự",
+          "definition": "to determine the order in which a set of genes are arranged",
+          "world_new": [
+            "determine",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "So far about 92.3% of the genome has been sequenced.",
+              "world_new": [
+                "far",
+                "genome"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Noncooperative representations appear to model causal processes or, at least, causal processes that would occur following specific sequences of play.",
+    "Note that, where is speci®ed, reference is to sequences of nonidentical consonant symbols.",
+    "The task is to find the cheapest strategy for sequencing the troubleshooting steps.",
+    "Testing ended when the child incorrectly reproduced both sequences at a given string length.",
+    "Furthermore, a method based on front evolution can be used to track the contours of moving and deformable objects in temporal sequences of images [19].",
+    "Training effects concerning the number of finger movement sequences achieved did not differ between groups.",
+    "148 teristics, assembly sequences, and choice of mating features, and provides the information needed for tolerance analysis.",
+    "Among the 30 target /nonword sequences, 20 sequences had a syllable structure that was compatible, and 10 sequences had a structure that was not."
+  ],
+  "list_see_also": [
+    "sequencing"
+  ],
+  "list_browse": [
+    "septuagenarian",
+    "sepulchral",
+    "sepulchre",
+    "sequel",
+    "sequence",
+    "sequencing",
+    "seraph",
+    "seraphic",
+    "serenade"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464403_bb16daacc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464403_3dafa3386e_o.png",
+      "id_image": "sequence_5485976"
+    }
+  ]
+}

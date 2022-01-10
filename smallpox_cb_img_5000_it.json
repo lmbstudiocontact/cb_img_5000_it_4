@@ -1,0 +1,67 @@
+{
+  "english": "smallpox",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh đậu mùa",
+          "definition": "a type of serious infectious disease in which there is a severe rash of large, pus-filled spots that usually leave scars",
+          "world_new": [
+            "type",
+            "serious",
+            "infectious",
+            "disease",
+            "severe",
+            "rash",
+            "large",
+            "leave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an epidemic of smallpox.",
+              "world_new": [
+                "epidemic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Outbreaks of smallpox neither confined themselves to certain years nor did they have a uniform impact on the country.",
+    "Prior to admission, all children were given a cowpox vaccination to prevent smallpox and the orphanages employed a doctor who provided the necessary medical care.",
+    "All of the patients who were treated had advanced metastatic tumours; furthermore, they had all been vaccinated with smallpox (vaccinia).",
+    "But the number of countries where smallpox has been endemic fell from 30 in 1967 to four in 1973.",
+    "The implication was that degenerates, whether criminal or dependent, were like smallpox; they were a disease from which society must be protected.",
+    "In this latter sense, smallpox can perhaps be used as a proxy for overcrowding and disamenity.",
+    "The coal pits, like the rest of the country, did not escape smallpox.",
+    "Although he died of tuberculosis, there was no sign of the equally virulent smallpox, against which both brothers had been vaccinated in childhood."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "small fry",
+    "small hours",
+    "small screen",
+    "small-time",
+    "smallpox",
+    "smarminess",
+    "smarmy",
+    "smart",
+    "smart bomb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686759_eb6dbff5a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686759_f9408be9c7_o.png",
+      "id_image": "smallpox_3411371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331736_2e1d9b5d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331736_0ce29f337b_o.png",
+      "id_image": "smallpox_4588648"
+    }
+  ]
+}

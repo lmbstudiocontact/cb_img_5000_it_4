@@ -1,0 +1,70 @@
+{
+  "english": "Scrabble",
+  "phat_am": "ˈskrӕbl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trò chơi sắp chữ",
+          "definition": "a kind of word-building game.",
+          "world_new": [
+            "kind",
+            "game"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cào bới, sục sạo",
+          "definition": "(usually with aboutor around) to make scratching noises or movements",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was scrabbling about looking for the money he had dropped.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It has been known for weeks that there was a threat of floods in the area, so there is something wrong if we are scrabbling around for helicopters.",
+    "She will have to scrabble round her house.",
+    "We are scrabbling around among the poor to make that distinction.",
+    "They spent most of the time discussing the problems of having to scrabble, for funds from various sources.",
+    "Desperate people are scrabbling for food.",
+    "I know that there will be a scrabble for resources and that there will be in-fighting to try to win resources.",
+    "The press are given press releases to read, while we have to scrabble around and to listen carefully to what is said.",
+    "One scrabbles about and finds a pair of spectacles that makes one see rather better."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scour",
+    "scourge",
+    "scout",
+    "scowl",
+    "Scrabble",
+    "scragginess",
+    "scraggy",
+    "scramble",
+    "scrambled egg"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328191_2598634451_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328191_e6d926616f_o.png",
+      "id_image": "scrabble_1707252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372922_6521d142cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372922_10a912efe2_o.png",
+      "id_image": "scrabble_3274133"
+    }
+  ]
+}

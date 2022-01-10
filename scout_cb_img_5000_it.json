@@ -1,0 +1,111 @@
+{
+  "english": "scout",
+  "phat_am": "skaut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc tàu, máy bay… trinh sát, do thám",
+          "definition": "a person, aircraft etc sent out to bring in information, spy etc",
+          "world_new": [
+            "person",
+            "aircraft",
+            "bring",
+            "information",
+            "spy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The scouts reported that there were enemy troops nearby.",
+              "world_new": [
+                "enemy",
+                "troops",
+                "nearby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng đạo sinh",
+          "definition": "(with capital",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "formerly Boy Scout) a member of the Scout Movement, an organization of boys formed to develop alertness and strong character.",
+              "world_new": [
+                "formerly",
+                "member",
+                "organization",
+                "develop",
+                "alertness",
+                "strong",
+                "character"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "do thám, tìm kếm",
+          "definition": "to act as a scout or spy",
+          "world_new": [
+            "act",
+            "spy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A party was sent ahead to scout.",
+              "world_new": [
+                "party",
+                "ahead"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is a dangerous and irresponsible action for fire fighters to scout the situation of fire in buildings, underground marketplace, or other indoor environments.",
+    "This expansion created a much more diverse community engaged in the collection and use of statistics ranging from university trained statisticians to hospital workers, boy scouts to housewives.",
+    "Medical students \"scout\" other residency programs, scrutinize program data, and await the outcome of the match with great anticipation.",
+    "It may be that scouting was politically important for symbolic reasons or because it was unusual in its universalist (but gender-exclusive) laws.",
+    "Repeatedly scouting one specific position of interest is also possible by using this algorithm.",
+    "The withdrawal process along scouting path under simple circumstances is composed of interlaces of coarse-tuning and fine-tuning of robot pose.",
+    "The talent scouts and musical agents were no longer 'simply vehicles of the recording companies'.",
+    "Not only do scouting groups give teenagers an opportunity to participate in outdoor activities, but they also help them develop their full potential."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Scotch tape",
+    "scoundrel",
+    "scour",
+    "scourge",
+    "scout",
+    "scowl",
+    "Scrabble",
+    "scragginess",
+    "scraggy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683439_f142f7f0a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683439_a63eeb6a20_o.png",
+      "id_image": "scout_2333339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443308_e616721958_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443308_40f4f28e66_o.png",
+      "id_image": "scout_4002825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065060_3a53b66a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065060_d30f14b0ef_o.png",
+      "id_image": "scout_4615341"
+    }
+  ]
+}

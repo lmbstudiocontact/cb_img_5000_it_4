@@ -1,0 +1,71 @@
+{
+  "english": "speaker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người nói",
+          "definition": "a person who is or was speaking",
+          "world_new": [
+            "person",
+            "speaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The speaker was interrupted by hecklers in the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loa phóng thanh",
+          "definition": "(sometimes loudspeaker) the device in a radio, record-player etc which converts the electrical impulses into audible sounds",
+          "world_new": [
+            "device",
+            "radio",
+            "electrical",
+            "audible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our record-player needs a new speaker."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main categories (informative utterances, simple directives and directives with description) reached 40% of the total number of the utterances produced by the speakers.",
+    "However, the presence of an inscription about which the speaker talks establishes constraints.",
+    "As speakers and listeners use particular lexical, semantic, and syntactic representations, some of these representations become bound into routines.",
+    "Thus, although speakers make choices as individuals, they typically behave as group members in that most make the same or similar linguistic choices.",
+    "The speakers are placed in a position that allows the sound to bounce across the water surface.",
+    "So speakers may merge in minimal pair lists but still maintain a phonetic distinction in conversational style.",
+    "During conceptual preparation, a speaker decides on the conceptual information to be verbally expressed, called the ' 'message' ' concepts.",
+    "It is of course not always clear how a sequence of words produced by a very inexperienced speaker should to be divided into utterances."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "speak one’s mind",
+    "speak out",
+    "speak out of turn",
+    "speak up",
+    "speaker",
+    "speaking",
+    "spear",
+    "spearhead",
+    "special"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679944_e1fb818295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679944_8632aeeec4_o.png",
+      "id_image": "speaker_422509"
+    }
+  ]
+}

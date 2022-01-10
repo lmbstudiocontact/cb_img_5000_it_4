@@ -1,0 +1,62 @@
+{
+  "english": "software",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phần mềm",
+          "definition": "computer programs, as opposed to the machines themselves (hardware)",
+          "world_new": [
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had problems installing the software."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, by at least one measure, these software systems evaluate student essays with the same degree of accuracy as human experts.",
+    "However, improvement following the use of the software in both experiments was limited to different presentation and variations on taught stimuli.",
+    "This makes it difficult to specify a large system as the composition of smaller components, which is a common practice, for example, in software engineering.",
+    "The development of various chess-playing software enabled the robot to play chess with people intelligently.",
+    "My sense is that software is a good place to star t: every student \"linking\" two \"packages\" soon experiences the problem.",
+    "Bioquant image analysis software was used to determine the area of each circular lesion, which was later used to calculate the radius of each lesion.",
+    "The consistency with which graphical environments access computer hardware has facilitated the development of software-based access utilities.",
+    "Without this enabling institutional framework, none of the software or hardware designed for musical purposes could have been developed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "soft-spoken",
+    "soften",
+    "softly",
+    "softness",
+    "software",
+    "softwood",
+    "sogginess",
+    "soggy",
+    "soil"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682109_efa84ece9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682109_0a40dd3fe6_o.png",
+      "id_image": "software_2335323"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682074_2db095e4cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682074_42fd46a23b_o.png",
+      "id_image": "software_6300641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442068_8ef6e00b56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442068_f113693605_o.png",
+      "id_image": "software_921950"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "english": "single",
+  "phat_am": "ˈsiŋɡl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đơn độc",
+          "definition": "one only",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The spider hung on a single thread.",
+              "world_new": [
+                "spider",
+                "thread"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đơn",
+          "definition": "for one person only",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a single bed/mattress."
+            }
+          ]
+        },
+        {
+          "mean_english": "độc thân",
+          "definition": "unmarried",
+          "world_new": [
+            "unmarried"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a single person.",
+              "world_new": [
+                "person"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chiều",
+          "definition": "for or in one direction only",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a single ticket/journey/fare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn",
+          "definition": "a gramophone record with only one tune or song on each side",
+          "world_new": [
+            "gramophone",
+            "record",
+            "tune",
+            "song",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This group have just brought out a new single.",
+              "world_new": [
+                "group"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vé một chiều",
+          "definition": "a one-way ticket",
+          "world_new": [
+            "one-way",
+            "ticket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A single to Cambridge, please.",
+              "world_new": [
+                "please"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The census returns indicate that many of those single solitaries - though some of the married ones also - were inmigrants.",
+    "Analysis of single channel records indicate that the effect is to favor transition to a substate rather than to physically alter the conductance pathway.",
+    "The mapping between surface and lexical levels is reduced to a single function call and two simple conversions from text to binary, and vice versa.",
+    "The net free energy change then represents the difference between several large-value terms, and no single component can be said to dominate.",
+    "Within a single state and society, by contrast, politics was supposed to be about the common good.",
+    "I believe that the normative responses to reasoning tasks as well as the systematic deviations from them can be explained within a single reasoning system.",
+    "If there is no such syllable, the syllable with a single coda consonant is stressed.",
+    "To conduct such work, information derived from single census-type listings is not sufficient."
+  ],
+  "list_see_also": [
+    "singleness",
+    "singles",
+    "singly",
+    "single-breasted",
+    "single-decker",
+    "single-handed",
+    "single parent",
+    "single out"
+  ],
+  "list_browse": [
+    "sing out",
+    "singe",
+    "singer",
+    "singing",
+    "single",
+    "single out",
+    "single parent",
+    "single-breasted",
+    "single-decker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337656_ef2ca85421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337656_be498b6563_o.png",
+      "id_image": "single_2442287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692899_8920b3a95b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692899_dcefa8810d_o.png",
+      "id_image": "single_5509321"
+    }
+  ]
+}

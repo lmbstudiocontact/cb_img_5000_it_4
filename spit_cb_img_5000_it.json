@@ -1,0 +1,111 @@
+{
+  "english": "spit",
+  "phat_am": "spit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước bọt, nước dãi",
+          "definition": "(also spittleˈspitl) the liquid that forms in the mouth.",
+          "world_new": [
+            "liquid",
+            "mouth"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khạc nhổ nước bọt",
+          "definition": "to throw out (spit) from the mouth",
+          "world_new": [
+            "throw",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spat in the gutter as an indication of contempt.",
+              "world_new": [
+                "gutter",
+                "indication",
+                "contempt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn, tóe",
+          "definition": "to send (out) with force",
+          "world_new": [
+            "send",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fire spat (out) sparks.",
+              "world_new": [
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái xiên để nướng thịt",
+          "definition": "a type of sharp-pointed metal bar on which meat is roasted",
+          "world_new": [
+            "type",
+            "metal",
+            "bar",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’re roasting a lamb on a spit.",
+              "world_new": [
+                "roasting",
+                "lamb"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Offences included a breach of the peace, spitting on shoppers, resisting arrest, fighting and swearing.",
+    "You could spit and hit a motel.",
+    "The purpose of most learning, especially language learning, is not merely to spit back the input but to find deeper regularities that can be used generatively.",
+    "Coughing and spitting wildly, she disgorges a sharp.",
+    "They don't like spitting either.",
+    "And does this animal pace and prowl, snarl or spit?",
+    "They are better defended (spitting behaviour, biting, size) and perhaps can afford the risk of feeding in the open.",
+    "All of this ambiguous and ultimately unknowable experience is a prelude to the breakthrough into self-expression of a cross-dressing ' ' he ' ' character who perhaps chews and spits tobacco."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spiritedly",
+    "spirits",
+    "spiritual",
+    "spiritually",
+    "spit",
+    "spite",
+    "spiteful",
+    "spitefully",
+    "spitefulness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468268_413d49041b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468268_ef7d0dd8b2_o.png",
+      "id_image": "spit_5772889"
+    }
+  ]
+}

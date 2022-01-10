@@ -1,0 +1,91 @@
+{
+  "english": "sash",
+  "phat_am": "sӕʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khăn quàng vai, khăn thắt lưng",
+          "definition": "a broad band of cloth worn round the waist, or over one shoulder",
+          "world_new": [
+            "broad",
+            "band",
+            "cloth",
+            "worn",
+            "waist",
+            "shoulder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a white dress with a red sash at the waist.",
+              "world_new": [
+                "white",
+                "dress",
+                "red",
+                "waist"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khung kính trượt",
+          "definition": "a frame fitted with glass, forming part of a window",
+          "world_new": [
+            "frame",
+            "glass",
+            "part",
+            "window"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the lower sash.",
+              "world_new": [
+                "lower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The four basement windows have single sashes of nine panes each.",
+    "The windows are sashes and originally had wooden shutters.",
+    "Handcrafts include textiles such as blankets, sashes, rugs, cushions, tablecloths, carrying bags and quezqumetls made of wool.",
+    "Usually the dipping process is useful in the treatment of window sashes and doors.",
+    "The timber windows and sashes were to be 1.5 inches (38mm) thick.",
+    "By 1804, the building needed significant repairs and was renovated with new doors, window sashes, ladders, and the roof was repainted.",
+    "The house has been greatly altered and was refronted on the south-west elevation in the nineteenth century with 3 window range of double-hung sashes.",
+    "Concrete balconies enclosed with steel sashes replaced existing wooden galleries, and a three-story brick addition enclosed a steel stair."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sardine",
+    "sari",
+    "sarong",
+    "SARS",
+    "sash",
+    "Sat.",
+    "Satan",
+    "satanic",
+    "satchel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689694_2b648bdcdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689694_7bd2c0715d_o.png",
+      "id_image": "sash_2034321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449543_a0f36a141d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449543_e184bd31ec_o.png",
+      "id_image": "sash_5093545"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "town",
+  "phat_am": "taun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thị trấn, thị xã",
+          "definition": "a group of houses, shops, schools etc, that is bigger than a village but smaller than a city",
+          "world_new": [
+            "group",
+            "village",
+            "city"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going into town to buy a dress",
+              "world_new": [
+                "buy",
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s in town doing some shopping.",
+              "world_new": [
+                "shopping"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cư dân của thị trấn thị xã",
+          "definition": "the people who live in such a group of houses etc",
+          "world_new": [
+            "people",
+            "live",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole town turned out to greet the returning soldiers.",
+              "world_new": [
+                "whole",
+                "greet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành thị",
+          "definition": "towns in general as opposed to the countryside",
+          "world_new": [
+            "general",
+            "countryside"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you live in the country or the town?",
+              "world_new": [
+                "live",
+                "country"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Given the wide-ranging canvases of these two volumes, it would be foolish to imagine, or probably to expect, that towns might occupy some privileged position.",
+    "The larger centres had extensive suburbs, while those in the market towns might consist of a handful of houses.",
+    "Both indicate the importance of towns as places of production, consumption and exchange within regional and interregional economies.",
+    "Finally, parents often continued to send their children to schools and colleges in nearby towns even though these were now just across the border.",
+    "Indeed, one of the control towns had increased reporting of cryptosporidiosis at that time.",
+    "The geographical isolation limits educational opportunities, knowledge of opportunities elsewhere, and kinship ties in cities and towns which would help emigration.",
+    "In this case the town's tufuhen was in favor of a change from patrilineal to matrilineal succession, but there was strong opposition from the asafos.",
+    "Unlike urban formations before the eighteenth century, these new towns absorbed nomadic and religious elements into their residential and secular spaces."
+  ],
+  "list_see_also": [
+    "town centre",
+    "town hall",
+    "townsfolk",
+    "go to town"
+  ],
+  "list_browse": [
+    "tower",
+    "tower block",
+    "towering",
+    "towline",
+    "town",
+    "town centre",
+    "town hall",
+    "townsfolk",
+    "toxic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341681_b9ed8c02e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341681_e4378c8e19_o.png",
+      "id_image": "town_804558"
+    }
+  ]
+}

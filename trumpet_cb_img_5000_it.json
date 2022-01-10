@@ -1,0 +1,85 @@
+{
+  "english": "trumpet",
+  "phat_am": "ˈtrampit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kèn trompet",
+          "definition": "a brass musical wind instrument with a high, clear tone",
+          "world_new": [
+            "brass",
+            "musical",
+            "wind",
+            "instrument",
+            "clear",
+            "tone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He plays the trumpet"
+            },
+            {
+              "ex_of_definition": "He played a tune on his trumpet.",
+              "world_new": [
+                "tune"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng voi rống",
+          "definition": "the cry of an elephant",
+          "world_new": [
+            "cry",
+            "elephant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The elephant gave a loud trumpet.",
+              "world_new": [
+                "elephant",
+                "loud"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thổi kèn trompet",
+          "definition": "to play the trumpet.",
+          "world_new": [
+            "play"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "trumpeter",
+    "blow one’s own trumpet"
+  ],
+  "list_browse": [
+    "trueness",
+    "truffle",
+    "truly",
+    "trump",
+    "trumpet",
+    "trumpeter",
+    "truncated",
+    "truncheon",
+    "trundle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446378_ac9bebd603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446378_d0ffd38427_o.png",
+      "id_image": "trumpet_820175"
+    }
+  ]
+}

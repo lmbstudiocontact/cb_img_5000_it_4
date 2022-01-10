@@ -1,0 +1,97 @@
+{
+  "english": "sack",
+  "phat_am": "sӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bao tải",
+          "definition": "a large bag of coarse cloth, strong paper or plastic",
+          "world_new": [
+            "large",
+            "bag",
+            "coarse",
+            "cloth",
+            "strong",
+            "paper",
+            "plastic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The potatoes were put into sacks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sa thải, cách chức",
+          "definition": "to dismiss (a person) from his job",
+          "world_new": [
+            "dismiss",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of the workmen was sacked for drunkenness.",
+              "world_new": [
+                "drunkenness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is usually difficult to close the fistula by direct suture within the sack.",
+    "The feeding artery was extremely distended and tortuous, being connected to a large sack-like malformation.",
+    "She collects all crop residues from her maize and stores cowpea leaves in sacks.",
+    "The pointing is not raked or trowelled as usual but 'bagged off', crudely wiped with an old sack, causing the bricks to be smeared.",
+    "Once again, controversy focused on the stool's finances, and the commissioners were faced with a choice between suppressing dissent and sacking the chief.",
+    "Striking policemen were sacked and their colleagues who contemplated a sympathy strike were stopped when government threatened to prosecute them for treason.",
+    "Not finding the bishop home either, they vented their fury in sacking the house, culminating with throwing the archiepiscopal throne from the balcony.",
+    "It could also be resolved by redesigning the sack changing mechanism."
+  ],
+  "list_see_also": [
+    "sacking",
+    "sackcloth"
+  ],
+  "list_browse": [
+    "sabre",
+    "sac",
+    "saccharin",
+    "sachet",
+    "sack",
+    "sackcloth",
+    "sacking",
+    "sacrament",
+    "sacramental"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075210_19a0b54666_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075210_9cbf66c2ed_o.png",
+      "id_image": "sack_1152966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338106_034aa0ae3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338106_383275abe1_o.png",
+      "id_image": "sack_1352327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075100_11d082bec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075100_12c7a284e6_o.png",
+      "id_image": "sack_2954789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693304_9ae2c6d97a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693304_c204692434_o.png",
+      "id_image": "sack_6359685"
+    }
+  ]
+}

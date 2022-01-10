@@ -1,0 +1,201 @@
+{
+  "english": "scan",
+  "phat_am": "skӕn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kiểm tra cẩn thận",
+          "definition": "to examine carefully",
+          "world_new": [
+            "examine",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scanned the horizon for any sign of a ship.",
+              "world_new": [
+                "horizon",
+                "sign",
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đọc lướt",
+          "definition": "to look at quickly but not in detail",
+          "world_new": [
+            "look",
+            "quickly",
+            "detail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She scanned the newspaper for news of the murder.",
+              "world_new": [
+                "newspaper",
+                "news",
+                "murder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quét qua",
+          "definition": "to pass radar beams etc over",
+          "world_new": [
+            "pass",
+            "radar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The area was scanned for signs of enemy aircraft.",
+              "world_new": [
+                "area",
+                "enemy",
+                "aircraft"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quét hình",
+          "definition": "to pass an electronic or laser beam over a text or picture in order to store it in the memory of a computer.",
+          "world_new": [
+            "pass",
+            "electronic",
+            "laser",
+            "beam",
+            "text",
+            "picture",
+            "order",
+            "store",
+            "memory",
+            "computer"
+          ]
+        },
+        {
+          "mean_english": "chụp cắt lớp (y học)",
+          "definition": "to examine and get an image of what is inside a person’s body or an object by using ultra-sound and x-ray",
+          "world_new": [
+            "examine",
+            "image",
+            "body",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They scanned his luggage at the airport to see if he was carrying drugs.",
+              "world_new": [
+                "luggage",
+                "airport",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phân tích vần luật của câu thơ",
+          "definition": "to fit into a particular rhythm or metre/meter",
+          "world_new": [
+            "fit",
+            "particular",
+            "rhythm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The second line of that verse doesn’t scan properly.",
+              "world_new": [
+                "line",
+                "verse",
+                "properly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nội soi cắt lớp",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had an ultrasound scan to see whether the baby was a boy or a girl",
+              "world_new": [
+                "ultrasound",
+                "see",
+                "baby",
+                "boy",
+                "girl"
+              ]
+            },
+            {
+              "ex_of_definition": "a brain scan",
+              "world_new": [
+                "brain"
+              ]
+            },
+            {
+              "ex_of_definition": "a quick scan through the report.",
+              "world_new": [
+                "quick",
+                "report"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This scanning electron microscope shows a heart from a mouse with trisomy 16.",
+    "Unambiguous scans within family are most useful for retrieving just the highest order of analysis.",
+    "This is far from ideal since most patients have to be scanned in the supine position with their arms up.",
+    "The value of examination of the relationship of the abdominal great vessels as part of the fetal scan, therefore, should be emphasized.",
+    "Figure 10(b) shows the principal returns selected from the scan along with the point features extracted by the algorithm.",
+    "Three blimps stayed in formation while performing a raster scan.",
+    "Only densitometry scans of these profiles can show possible alterations.",
+    "Unfortunately, this unique specimen was destroyed during preparation for scanning electron micrography."
+  ],
+  "list_see_also": [
+    "scanner"
+  ],
+  "list_browse": [
+    "scaly",
+    "scam",
+    "scamper",
+    "scampi",
+    "scan",
+    "scandal",
+    "scandalize",
+    "scandalous",
+    "scandalously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377297_25a2f423f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377297_326121e10e_o.png",
+      "id_image": "scan_2992104"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332491_f889d41aaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332491_7057317e85_o.png",
+      "id_image": "scan_4542169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447453_10a32e0783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447453_b0cef6191a_o.png",
+      "id_image": "scan_4636236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332531_b65f256884_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332531_2efe721a29_o.png",
+      "id_image": "scan_802784"
+    }
+  ]
+}

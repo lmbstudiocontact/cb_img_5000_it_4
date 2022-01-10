@@ -1,0 +1,94 @@
+{
+  "english": "site",
+  "phat_am": "sait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ xây dựng, địa điểm",
+          "definition": "a place where a building, town etc is, was, or is to be, built",
+          "world_new": [
+            "place",
+            "building",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s got a job on a building-site",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "The site for the new factory has not been decided.",
+              "world_new": [
+                "factory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ, vị trí",
+          "definition": "(also Web site) a site on the Internet that gives information about a particular subject or person",
+          "world_new": [
+            "Internet",
+            "information",
+            "particular",
+            "subject",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This site has a lot of useful links for finding out more about the subject.",
+              "world_new": [
+                "useful",
+                "links",
+                "subject"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But since the late 1960s many sheep bones have surfaced in just such sites.",
+    "Compared to the abundant use of such items in sites postdating 50,000 this absence is telling.",
+    "Hinge-bending motion and the substrate-induced conformational transition studied by site-directed spin labeling.",
+    "Of the remaining variable sites, 183 were phylogenetically informative.",
+    "These will complete a ring of trees around the site.",
+    "It's really straightforward: you talk about the site as a whole.",
+    "Therefore, the average age of newly recruited seedlings varies from 6-10 mo among sites.",
+    "In this case, relative returns to some of the structural measures also improve even when barley is grown in both sites."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sit tight",
+    "sit-in",
+    "sit-up",
+    "sitcom",
+    "site",
+    "sitter",
+    "sitting",
+    "sitting room",
+    "sitting target"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451598_f7c962e696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451598_72050bd3da_o.png",
+      "id_image": "site_1548764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073775_ec0a1842d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073775_79f097ca49_o.png",
+      "id_image": "site_821635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073735_95f2ce0be9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073735_1d25fa13c0_o.png",
+      "id_image": "site_821639"
+    }
+  ]
+}

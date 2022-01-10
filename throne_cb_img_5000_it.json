@@ -1,0 +1,78 @@
+{
+  "english": "throne",
+  "phat_am": "θrəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngai vàng",
+          "definition": "the ceremonial chair of a king, queen etc, pope or bishop",
+          "world_new": [
+            "ceremonial",
+            "chair",
+            "king",
+            "queen",
+            "pope",
+            "bishop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chairs were designed to be used as thrones for the Spanish King or Queen."
+            }
+          ]
+        },
+        {
+          "mean_english": "ngôi vua",
+          "definition": "the king or queen",
+          "world_new": [
+            "king",
+            "queen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swore allegiance to the throne.",
+              "world_new": [
+                "allegiance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the one hand the standard of right and wrong, on the other the chain of causes and effects, are fastened to their throne.",
+    "His only son, a five-year-old boy, was the undisputed heir to the throne.",
+    "Faced with political marginalization he acted against the clique who controlled the capital and seized the throne in 1290.",
+    "A crucial aspect was the procedure adopted in the throne's decisionmaking.",
+    "Yet, the composite throne had not ended accordingly.",
+    "It is just this tension that gives rise to further controversy in the historiography on the role of the throne.",
+    "After learning the sciences, young princes were 'tested' in the company of women before they assumed the throne.",
+    "Any other codification or description has either to justify its validity before the throne, or reject the authority, of deficit linguistics."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "throaty",
+    "throb",
+    "thrombocyte",
+    "thrombosis",
+    "throne",
+    "throng",
+    "throttle",
+    "through",
+    "through and through"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463633_fef51fa975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463633_27db0a70e5_o.png",
+      "id_image": "throne_1426773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393662_063ffcdfcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393662_fa9e3276d6_o.png",
+      "id_image": "throne_1835104"
+    }
+  ]
+}

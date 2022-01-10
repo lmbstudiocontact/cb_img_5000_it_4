@@ -1,0 +1,120 @@
+{
+  "english": "serious",
+  "phat_am": "ˈsiəriəs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nghiêm trang",
+          "definition": "grave or solemn",
+          "world_new": [
+            "grave",
+            "solemn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quiet, serious boy",
+              "world_new": [
+                "quiet",
+                "boy"
+              ]
+            },
+            {
+              "ex_of_definition": "You’re looking very serious."
+            }
+          ]
+        },
+        {
+          "mean_english": "thành thật",
+          "definition": "(often with about) in earnest; sincere",
+          "world_new": [
+            "sincere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is he serious about wanting to be a doctor?",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đứng đắn, nghiêm túc",
+          "definition": "intended to make people think",
+          "world_new": [
+            "people",
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He reads very serious books."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiêm trọng",
+          "definition": "causing worry; dangerous",
+          "world_new": [
+            "dangerous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a serious head injury",
+              "world_new": [
+                "head",
+                "injury"
+              ]
+            },
+            {
+              "ex_of_definition": "The situation is becoming serious.",
+              "world_new": [
+                "situation",
+                "becoming"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A dual decline in vision and hearing acuity often produces serious communication and psychosocial consequences.",
+    "It seems unlikely that serious problems in parental functioning during childhood would suddenly be resolved as the child enters adolescence.",
+    "Ghosts may seem to elude serious scholars except as metaphor or atmosphere, but there is a surprising abundance of books about them.",
+    "Or suppose there is an identifiable group of responsible agents within a society for whom the statistical risk of serious, future harmdoing is extremely high.",
+    "However, neuroleptic therapy is frequently accompanied by serious, sometimes permanent, side effects.",
+    "The most serious threat to these peoples is represented by the commercial development of strategically important reserves of mineral resources.",
+    "Promoting psychological well-being in the face of serious illness : when theory, research and practice inform each other.",
+    "This issue deserves serious multidisciplinary38 investigation, which is beyond the scope of this article."
+  ],
+  "list_see_also": [
+    "seriousness",
+    "seriously",
+    "take (someone or something) seriously"
+  ],
+  "list_browse": [
+    "serialization",
+    "serialize",
+    "sericulture",
+    "series",
+    "serious",
+    "seriously",
+    "seriousness",
+    "sermon",
+    "serpent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464293_553ccdf0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464293_3e11fc7dc6_o.png",
+      "id_image": "serious_260249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704264_ef04634fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704264_89828db962_o.png",
+      "id_image": "serious_312243"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "english": "trim",
+  "phat_am": "trim",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tỉa, cắt",
+          "definition": "to cut the edges or ends of (something) in order to make it shorter and/or neat",
+          "world_new": [
+            "cut",
+            "order",
+            "neat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s trimming the hedge",
+              "world_new": [
+                "trimming",
+                "hedge"
+              ]
+            },
+            {
+              "ex_of_definition": "She had her hair trimmed.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt ngắn, xửa",
+          "definition": "to decorate (a dress, hat etc, usually round the edges)",
+          "world_new": [
+            "decorate",
+            "dress",
+            "hat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She trimmed the sleeves with lace.",
+              "world_new": [
+                "lace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉnh buồm",
+          "definition": "to arrange (the sails of a boat etc) suitably for the weather conditions",
+          "world_new": [
+            "arrange",
+            "boat",
+            "suitably",
+            "weather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frank trimmed the sails and the boat surged ahead.",
+              "world_new": [
+                "boat",
+                "ahead"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cắt tóc",
+          "definition": "a haircut",
+          "world_new": [
+            "haircut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went to the hairdresser’s for a trim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gọn gàng",
+          "definition": "neat and tidy",
+          "world_new": [
+            "neat",
+            "tidy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a trim appearance.",
+              "world_new": [
+                "appearance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results 3 of these trimmed models are described below.",
+    "Is the object of trimming to obscure edges or to call attention to them?",
+    "The lower and right margins are usually trimmed in the published plates disguising the scale of the manuscript.",
+    "Photographs have not been bled to the edges nor trimmed to fit the page format, leaving irritating white strips around them.",
+    "Strangely, all of the students proceeded to select, but not trim, long sections to which they applied delay effects.",
+    "Only one outlier was found, for young adult hostility, and this was trimmed to the next highest value.",
+    "All the poles were trimmed to 20 m, as longer poles became too thin and o ften snapped when the nets were stretched.",
+    "We then trimmed 25% of the population at both the high and low ends of the eye weight spectrum."
+  ],
+  "list_see_also": [
+    "trimly",
+    "trimness",
+    "trimming",
+    "in (good) trim"
+  ],
+  "list_browse": [
+    "trifle",
+    "trifling",
+    "trigger",
+    "trilogy",
+    "trim",
+    "trimly",
+    "trimming",
+    "trimness",
+    "trinket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070215_1ef2cf0f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070215_a56647d45d_o.png",
+      "id_image": "trim_217250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070180_8472ecec9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070180_9b9ecd10cc_o.png",
+      "id_image": "trim_2780690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333271_c419989daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333271_2777706fc3_o.png",
+      "id_image": "trim_3996603"
+    }
+  ]
+}

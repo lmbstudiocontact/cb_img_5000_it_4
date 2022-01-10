@@ -1,0 +1,180 @@
+{
+  "english": "squeeze",
+  "phat_am": "skwiːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ép, vắt, nén",
+          "definition": "to press (something) together or from all sides tightly",
+          "world_new": [
+            "press"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He squeezed her hand affectionately",
+              "world_new": [
+                "hand",
+                "affectionately"
+              ]
+            },
+            {
+              "ex_of_definition": "He squeezed the clay into a ball.",
+              "world_new": [
+                "clay",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chen, ẩn",
+          "definition": "to force (eg oneself) eg into or through a narrow space",
+          "world_new": [
+            "force",
+            "narrow",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog squeezed himself / his body into the hole",
+              "world_new": [
+                "dog",
+                "body",
+                "hole"
+              ]
+            },
+            {
+              "ex_of_definition": "We were all squeezed into the back seat of the car.",
+              "world_new": [
+                "seat",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ép ra, bóp nặn",
+          "definition": "to force something, eg liquid, out of something by pressing",
+          "world_new": [
+            "force",
+            "liquid",
+            "pressing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She squeezed the oranges (into a jug)"
+            },
+            {
+              "ex_of_definition": "We might be able to squeeze some more money/information out of him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ôm chặt",
+          "definition": "an act of squeezing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave his sister an affectionate squeeze.",
+              "world_new": [
+                "sister",
+                "affectionate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chen chúc",
+          "definition": "a condition of being squeezed",
+          "world_new": [
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We all got into the car, but it was a squeeze.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút gì do vắt ra",
+          "definition": "a few drops produced by squeezing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a squeeze of lemon juice.",
+              "world_new": [
+                "lemon",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hạn chế về tài chính",
+          "definition": "a time of financial restriction",
+          "world_new": [
+            "time",
+            "financial",
+            "restriction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an economic squeeze.",
+              "world_new": [
+                "economic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The fluid was squeezed from the swab into the stomacher bag or poured into a sterile test tube.",
+    "Where necessary, contents of the body cavity were squeezed out using a fine forceps.",
+    "A major proportion of the time in a copulation is spent squeezing the female (mean was 52+18%).",
+    "Financially squeezed by the depression of the 1880s, they began to accept paying patients.",
+    "If you keep squeezing harder and harder, at some point the seed will fly out.",
+    "Figure 2 shows the stretching and squeezing modes.",
+    "The gut contents from each section were squeezed out, weighed and an egg count carried out on each section.",
+    "In both experiments of multiple resurrection and reproduction, the vitality of the animals was squeezed out, reaching complete exhaustion."
+  ],
+  "list_see_also": [
+    "squeezer",
+    "squeeze up"
+  ],
+  "list_browse": [
+    "squeakily",
+    "squeakiness",
+    "squeaky",
+    "squeal",
+    "squeeze",
+    "squeeze up",
+    "squeezer",
+    "squelch",
+    "squid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088525_a19ec6e6cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088525_e0955beed0_o.png",
+      "id_image": "squeeze_4636812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351491_7c9017943e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351491_d5286d0c70_o.png",
+      "id_image": "squeeze_525798"
+    }
+  ]
+}

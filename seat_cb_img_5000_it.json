@@ -1,0 +1,176 @@
+{
+  "english": "seat",
+  "phat_am": "siːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ ngồi",
+          "definition": "something for sitting on",
+          "world_new": [
+            "sitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are there enough seats for everyone?"
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt ghế",
+          "definition": "the part of a chair etc on which the body sits",
+          "world_new": [
+            "part",
+            "chair",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This chair-seat is broken.",
+              "world_new": [
+                "broken"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mông đít",
+          "definition": "(the part of a garment covering) the buttocks",
+          "world_new": [
+            "part",
+            "garment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a sore seat after all that horse riding",
+              "world_new": [
+                "sore",
+                "horse"
+              ]
+            },
+            {
+              "ex_of_definition": "a hole in the seat of his trousers.",
+              "world_new": [
+                "hole",
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghế, chân",
+          "definition": "a place in which a person has a right to sit",
+          "world_new": [
+            "place",
+            "person",
+            "right",
+            "sit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "two seats for the play",
+              "world_new": [
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "a seat in Parliament"
+            },
+            {
+              "ex_of_definition": "a seat on the board of the company.",
+              "world_new": [
+                "board",
+                "company"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trung tâm, trụ sở",
+          "definition": "a place that is the centre/center of some activity etc",
+          "world_new": [
+            "place",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Universities are seats of learning.",
+              "world_new": [
+                "learning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt ngồi",
+          "definition": "to cause to sit down",
+          "world_new": [
+            "cause",
+            "sit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I seated him in the armchair.",
+              "world_new": [
+                "I",
+                "armchair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có ghế cho",
+          "definition": "to have seats for",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our table seats eight.",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "-seater",
+    "seating",
+    "seat belt",
+    "take a seat"
+  ],
+  "list_browse": [
+    "seasonable",
+    "seasonal",
+    "seasoned",
+    "seasoning",
+    "seat",
+    "seat belt",
+    "-seater",
+    "seating",
+    "seaward"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324471_688498c54a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324471_97344e0cea_o.png",
+      "id_image": "seat_2052451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324401_ceb4e87c37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324401_f9023cd766_o.png",
+      "id_image": "seat_2540901"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324366_c22a388156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324366_1719315c7d_o.png",
+      "id_image": "seat_3163536"
+    }
+  ]
+}

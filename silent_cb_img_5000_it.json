@@ -1,0 +1,98 @@
+{
+  "english": "silent",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tĩnh lặng",
+          "definition": "free from noise",
+          "world_new": [
+            "free",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house was empty and silent.",
+              "world_new": [
+                "house",
+                "empty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không nói",
+          "definition": "not speaking",
+          "world_new": [
+            "speaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was silent on that subject.",
+              "world_new": [
+                "subject"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yên lặng",
+          "definition": "not making any noise",
+          "world_new": [
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This lift is quite silent.",
+              "world_new": [
+                "lift",
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, people living in endemic areas should be screened for this clinically silent disease since early treatment may be beneficial.",
+    "The reports were silent on alleged miscalculations by the higher command.",
+    "The trilogue gives him the luxury of taking a stance of silent or chuckling bystander.",
+    "The natural history of silent gallstones: the innocent gallstone is not a myth.",
+    "Silent discharge is mainly used to produce ozone, but this method has low ozone yield, and improvement in the ozone yield is thus highly desirable.",
+    "All of these, using masks, transformed the empty stage into a sacred grove, the 'silent, waiting glade'.",
+    "When participants studied under silent conditions, equivalent levels of recall were found for all the groups.",
+    "The noisy chatter of the room gives way to a silent hush."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "signpost",
+    "Sikh",
+    "silence",
+    "silencer",
+    "silent",
+    "silently",
+    "silhouette",
+    "silicate",
+    "silicon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453803_b043d96eb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453803_f39eeb7b35_o.png",
+      "id_image": "silent_2222912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383682_ccb5b53bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383682_3c970a5bda_o.png",
+      "id_image": "silent_3115605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383637_dfa3097a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383637_253d2bc484_o.png",
+      "id_image": "silent_3508242"
+    }
+  ]
+}

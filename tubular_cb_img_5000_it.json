@@ -1,0 +1,74 @@
+{
+  "english": "tubular",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "làm bằng chi tiết có hình ống",
+          "definition": "made of, or consisting of tubes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tubular steel.",
+              "world_new": [
+                "steel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có hình ống",
+          "definition": "shaped like a tube",
+          "world_new": [
+            "shaped",
+            "tube"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The container is tubular in shape.",
+              "world_new": [
+                "container",
+                "shape"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tubular oviducts unite at a point just before reaching the base of the inferior claspers, where they form the common oviduct.",
+    "Coils were positioned insidetheductin the long tubular ducts or straddling the duct (with some loops in the pulmonary artery and some in the aortic ampulla).",
+    "The liquid is forced through an annular die and the tubular film produced is thinned by both an internal pressure and an axial tension.",
+    "Included in the deposit was an anthropomorphic, tubular jade bead, 7.2 cm long.",
+    "The surgical technique uses a tubular reconstruction with two pulmonary artery wall flaps.",
+    "Five patients with tubular or complex lesions were treated surgically with two perioperative deaths.",
+    "There was also tubular hypoplasia of the ascending aorta and aortic arch.",
+    "In general, these patients are at substantially higher risk for vascular thrombosis, tubular necrosis, and renal failure in association with cardiopulmonary bypass."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tube",
+    "tuber",
+    "tuberculosis",
+    "tubing",
+    "tubular",
+    "tuck",
+    "tuck in",
+    "Tuesday",
+    "tuft"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374677_2b3b1d68a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374677_a2e32e78a5_o.png",
+      "id_image": "tubular_3255947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444953_7b3a033076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444953_ef758e219b_o.png",
+      "id_image": "tubular_5616002"
+    }
+  ]
+}

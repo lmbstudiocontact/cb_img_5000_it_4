@@ -1,0 +1,220 @@
+{
+  "english": "under",
+  "phat_am": "ˈandə",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "dưới, ở dưới",
+          "definition": "in or to a position lower than, or covered by",
+          "world_new": [
+            "position",
+            "lower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your pencil is under the chair",
+              "world_new": [
+                "pencil",
+                "chair"
+              ]
+            },
+            {
+              "ex_of_definition": "Strange plants grow under the sea.",
+              "world_new": [
+                "grow",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dưới, có cấp bậc thấp hơn",
+          "definition": "less than, or lower in rank than",
+          "world_new": [
+            "lower",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Children under five should not cross the street alone",
+              "world_new": [
+                "cross",
+                "street",
+                "alone"
+              ]
+            },
+            {
+              "ex_of_definition": "You can do the job in under an hour.",
+              "world_new": [
+                "job",
+                "hour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiu trách nhiệm với quyền hành của ai",
+          "definition": "subject to the authority of",
+          "world_new": [
+            "subject",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As a foreman, he has about fifty workers under him.",
+              "world_new": [
+                "foreman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đang ở trong tình trạng",
+          "definition": "used to express various states",
+          "world_new": [
+            "express",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fort was under attack",
+              "world_new": [
+                "fort",
+                "attack"
+              ]
+            },
+            {
+              "ex_of_definition": "The business improved under the new management",
+              "world_new": [
+                "business",
+                "management"
+              ]
+            },
+            {
+              "ex_of_definition": "The matter is under consideration/discussion.",
+              "world_new": [
+                "matter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "dưới, ở phía dưới",
+          "definition": "in or to a lower position, rank etc",
+          "world_new": [
+            "lower",
+            "position",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The swimmer surfaced and went under again",
+              "world_new": [
+                "swimmer"
+              ]
+            },
+            {
+              "ex_of_definition": "Children aged seven and under must be accompanied by a responsible adult.",
+              "world_new": [
+                "aged",
+                "responsible",
+                "adult"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "ở phía dưới",
+          "definition": "beneath",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "underline.",
+              "world_new": [
+                "underline"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quá ít",
+          "definition": "too little",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "underpay",
+              "world_new": [
+                "underpay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cấp dưới",
+          "definition": "lower in rank",
+          "world_new": [
+            "lower",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the under-manager."
+            }
+          ]
+        },
+        {
+          "mean_english": "ít tuổi hơn",
+          "definition": "less in age than",
+          "world_new": [
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nursery for under-fives (= children aged four and under).",
+              "world_new": [
+                "nursery",
+                "aged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "under-"
+  ],
+  "list_browse": [
+    "uncurl",
+    "uncut",
+    "undaunted",
+    "undecided",
+    "under",
+    "under (a person’s) (very) nose",
+    "under a cloud",
+    "under arrest",
+    "under canvas"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091450_f425b65711_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091450_cfb9e9136f_o.png",
+      "id_image": "under_2844288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398922_bfe443e76d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398922_91c0ff2708_o.png",
+      "id_image": "under_4525558"
+    }
+  ]
+}

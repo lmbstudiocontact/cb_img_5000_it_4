@@ -1,0 +1,69 @@
+{
+  "english": "singer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ca sĩ",
+          "definition": "a person who sings, eg as a profession",
+          "world_new": [
+            "person",
+            "profession"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you a good singer?"
+            },
+            {
+              "ex_of_definition": "He’s a trained singer.",
+              "world_new": [
+                "trained"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This was not ordinary domestic vocal music for an ordinary female singer.",
+    "That such a question can be raised challenges the vocal presence of the singer.",
+    "The singers prove variously incorrigible, and the control room has to accept less than adequate performances from them, which are emended through electronic intervention.",
+    "Rock singers are actors, after all - they portray the persona represented as speaking through the song lyrics and different personae through different songs.",
+    "There are no lyrics; rather the singer uses neo-syllables2 to complement lyrical sounds on the saxophone.",
+    "His intent focus on the singer's offstage poise suggests how much he has yet to learn about striking a pose and deflecting the gaze.",
+    "There is a live performer, a soprano singer, and an obligatory electronic part.",
+    "It is perceptually important, as it helps the singer's voice to be heard when the orchestral accompaniment is loud."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sinfulness",
+    "sing",
+    "sing out",
+    "singe",
+    "singer",
+    "singing",
+    "single",
+    "single out",
+    "single parent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452713_a192a81b7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452713_50005fd3c9_o.png",
+      "id_image": "singer_307958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074855_b59f754807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074855_84f542bf85_o.png",
+      "id_image": "singer_360479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382782_3d329fbc2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382782_260c903e4f_o.png",
+      "id_image": "singer_5167402"
+    }
+  ]
+}

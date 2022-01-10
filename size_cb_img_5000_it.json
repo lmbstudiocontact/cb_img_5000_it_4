@@ -1,0 +1,96 @@
+{
+  "english": "size",
+  "phat_am": "saiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quy mô, kích cỡ",
+          "definition": "largeness",
+          "world_new": [
+            "largeness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an area the size of a football pitch",
+              "world_new": [
+                "area",
+                "football",
+                "pitch"
+              ]
+            },
+            {
+              "ex_of_definition": "The size of the problem alarmed us.",
+              "world_new": [
+                "problem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cỡ, số, khổ",
+          "definition": "one of a number of classes in which shoes, dresses etc are grouped according to measurements",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I take size 5 in shoes.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although the adult data show high variance, they demonstrate a population that was both consistently sized over three years and questing at all seasons.",
+    "When sample sizes are adequate, nearly all such studies reveal the existence of additive genetic variation for the traits involved.",
+    "Both effect sizes and test statistics are repor ted below when significant group differences were detected.",
+    "A comparison of four procedures for multiple comparisons among means (pairwise contrasts) for arbitrary sample sizes.",
+    "Analyses represented by symbols sized according to their 1 errors.",
+    "Firms of different sizes can pursue different business strategies, because their interests do not overlap.",
+    "Aspects of this analysis may also apply to other agricultural industries, such as livestock, where herd sizes are chosen before feed market conditions are known.",
+    "When the distribution of firm sizes changes, so will aggregate production functions change."
+  ],
+  "list_see_also": [
+    "sizeable",
+    "size up"
+  ],
+  "list_browse": [
+    "sixties",
+    "sixtieth",
+    "sixty",
+    "sixty-year-old",
+    "size",
+    "size up",
+    "sizeable",
+    "skate",
+    "skateboard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381497_7b4b99e89c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381497_d99da68b71_o.png",
+      "id_image": "size_1026512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691754_55021f1ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691754_c0c536f9be_o.png",
+      "id_image": "size_4559381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381417_4002272cc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381417_3eba4c42b1_o.png",
+      "id_image": "size_4698533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073365_d1810b1d7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073365_42b05ca6d7_o.png",
+      "id_image": "size_5458488"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "technology",
+  "phat_am": "tekˈnolədʒi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công nghệ",
+          "definition": "(the study of) science applied to practical, ( especially industrial) purposes",
+          "world_new": [
+            "study",
+            "science",
+            "applied",
+            "practical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a college of science and technology.",
+              "world_new": [
+                "college",
+                "science"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I think there are encouraging developments in technology that are permitting developed countries to 'do more with less', and increasing incentives to do so.",
+    "However, we would argue that the experimental platform is less than ideal due to the disparate implementation technologies and configuration options utilized.",
+    "Most of the women were casual workers working, typically, with low capital investment in tools and technology.",
+    "For these reasons, technology policies are preferred as long as improved stoves save wood as expected, are acceptable to villagers, and subsidy costs are reasonable.",
+    "There exist practical difficulties of actually implementing technology transfers, however.",
+    "People from this region have produced a relatively small number of music technology-related publications.",
+    "What are the interests of the producers of technology (industry, universities)?",
+    "Technology tends to have status, and this status differs among patients, professionals, producers, and policy-makers."
+  ],
+  "list_see_also": [
+    "technological",
+    "technologist"
+  ],
+  "list_browse": [
+    "technician",
+    "technique",
+    "technological",
+    "technologist",
+    "technology",
+    "teddy",
+    "tedious",
+    "tediously",
+    "tediousness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467868_963b7b7430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467868_cce6cf25fc_o.png",
+      "id_image": "technology_1610456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467843_9d7f7c24fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467843_8fdac96da8_o.png",
+      "id_image": "technology_3382619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090540_897419d9fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090540_9575513dff_o.png",
+      "id_image": "technology_752613"
+    }
+  ]
+}

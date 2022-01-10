@@ -1,0 +1,74 @@
+{
+  "english": "static",
+  "phat_am": "ˈstatik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tĩnh tại, không chuyển động",
+          "definition": "still; not moving",
+          "world_new": [
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The defence were too static and that’s why they conceded that early goal.",
+              "world_new": [
+                "defence",
+                "goal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nhiễu khí quyển",
+          "definition": "atmospheric disturbances causing poor reception of radio or television programmes.",
+          "world_new": [
+            "atmospheric",
+            "poor",
+            "reception",
+            "radio",
+            "television"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Secondly, we are able to make meaningful statements about when civil conflict is more or less likely, based on counterintuitive findings from the comparative statics results.",
+    "Within the mechanics tradition of that period, we find not only classical topics of statics, but also of dynamics.",
+    "In this paper we are not concerned with the dynamics, but only with the statics of bigraphs.",
+    "The statics and dynamics of mating system evolution.",
+    "We employ a lattice statics model, consisting of atoms whose positions are displaced from a regular grid.",
+    "We study comparative statics results for the steady-state monetary equilibria of a simple random matching model of money with endogenous prices and no extrinsic uncertainty.",
+    "Armed with this framework, comparative statics will be analysed in the next section.",
+    "The statics synthesis engine consists of two hierarchically related processes: a sound event generator and a control structure generator."
+  ],
+  "list_see_also": [
+    "static (electricity)"
+  ],
+  "list_browse": [
+    "statement",
+    "statesman",
+    "statesmanlike",
+    "statesmanship",
+    "static",
+    "static (electricity)",
+    "station",
+    "station wagon",
+    "stationary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703584_ca11a1115f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703584_b76c7db094_o.png",
+      "id_image": "static_3978994"
+    }
+  ]
+}

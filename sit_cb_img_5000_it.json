@@ -1,0 +1,184 @@
+{
+  "english": "sit",
+  "phat_am": "sit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngồi",
+          "definition": "to (cause to) rest on the buttocks; to (cause to) be seated",
+          "world_new": [
+            "rest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He likes sitting on the floor",
+              "world_new": [
+                "sitting",
+                "floor"
+              ]
+            },
+            {
+              "ex_of_definition": "They sat me in the chair and started asking questions.",
+              "world_new": [
+                "chair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở vào vị trí nào đó",
+          "definition": "to lie or rest; to have a certain position",
+          "world_new": [
+            "lie",
+            "certain",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The parcel is sitting on the table.",
+              "world_new": [
+                "parcel",
+                "sitting",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là thành viên chính thức của",
+          "definition": "(with on) to be an official member of (a board, committee etc)",
+          "world_new": [
+            "official",
+            "member",
+            "board",
+            "committee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sat on several committees."
+            }
+          ]
+        },
+        {
+          "mean_english": "đậu",
+          "definition": "(of birds) to perch",
+          "world_new": [
+            "perch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An owl was sitting in the tree by the window.",
+              "world_new": [
+                "owl",
+                "sitting",
+                "tree",
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "là thí sinh của một kì thi",
+          "definition": "to undergo (an examination)",
+          "world_new": [
+            "undergo"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Beth sits her geography exam today.",
+              "world_new": [
+                "geography"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngồi làm mẫu để vẽ chân dung",
+          "definition": "to take up a position, or act as a model, in order to have one’s picture painted or one’s photograph taken",
+          "world_new": [
+            "position",
+            "act",
+            "model",
+            "order",
+            "picture",
+            "photograph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is sitting for a portrait/photograph.",
+              "world_new": [
+                "sitting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "họp",
+          "definition": "(of a committee, parliament etc) to be in session",
+          "world_new": [
+            "committee",
+            "parliament",
+            "session"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Parliament sits from now until Christmas.",
+              "world_new": [
+                "Christmas"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An icy wind blows through your cotton shirt while you sit outside the hospital door, waiting for your wife to bring up the car.",
+    "They, in appreciation, voted him into municipal government, even while he sat in jail, although they, too, condemned his criminal activities.",
+    "Older children generally preferred to be spoken to separately with their parents sitting to one side or leaving the room.",
+    "But, whatever editorial framework is adopted, let us make sure the generalisations sit more firmly on both their theories and their evidence.",
+    "It is a beautifully proportioned composition and, with its angled entrance and rounded south-west corner, it sits on the site as if it grew there.",
+    "The subject sat in a chair in front of the robot and monitor, and grasped a handle with his/her right hand.",
+    "How do you know that said popinjays aren't sitting on the background rather than the stripe (the ordinary)?",
+    "Such clarity in upholding accepted boundaries suggests an appreciation, if not an interaction, with the natural world that sits stoically within the prevailing utilitarian tradition."
+  ],
+  "list_see_also": [
+    "sitter",
+    "sitting",
+    "sitcom",
+    "sit-in",
+    "sitting room",
+    "sitting target",
+    "sit-up",
+    "sit back",
+    "sit down",
+    "sit out",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "sirloin",
+    "sisal",
+    "sister",
+    "sister-in-law",
+    "sit",
+    "sit back",
+    "sit down",
+    "sit out",
+    "sit tight"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692124_7490a2f6a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692124_6af30234c9_o.png",
+      "id_image": "sit_619179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336756_eef75e76a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336756_6d5c884c3b_o.png",
+      "id_image": "sit_6401005"
+    }
+  ]
+}

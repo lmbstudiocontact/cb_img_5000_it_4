@@ -1,0 +1,120 @@
+{
+  "english": "silver",
+  "phat_am": "ˈsilvə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bạc",
+          "definition": "(symbol Ag) an element, a precious grey/gray metal which is used in making jewellery/jewelry, ornaments etc",
+          "world_new": [
+            "element",
+            "precious",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tray was made of solid silver.",
+              "world_new": [
+                "tray",
+                "solid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ dùng bằng bạc",
+          "definition": "anything made of, or looking like, silver especially knives, forks, spoons etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Burglars broke into the house and stole all our silver.",
+              "world_new": [
+                "broke",
+                "house",
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "làm bằng bạc, trông như bạc",
+          "definition": "made of, of the colour/color of, or looking like, silver",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a silver brooch",
+              "world_new": [
+                "brooch"
+              ]
+            },
+            {
+              "ex_of_definition": "silver stars/paint."
+            }
+          ]
+        },
+        {
+          "mean_english": "thứ hai mươi lăm",
+          "definition": "(of a wedding anniversary, jubilee etc) twenty-fifth",
+          "world_new": [
+            "wedding",
+            "anniversary",
+            "jubilee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We celebrated our silver wedding (anniversary) last month.",
+              "world_new": [
+                "celebrated",
+                "our",
+                "wedding",
+                "month"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The amplified products are visualized on sequencing polyacrylamide gels using radioactive labelling, silver-staining technique, or by using fluorescence-based capillary electrophoresis.",
+    "On the front surface, the transducer was electrically connected to the lead shell with a thin coat of conducting silver paint.?",
+    "In this process, the silver is reduced and lead sulfide is formed.",
+    "He also won a bronze medal in the 400-meter individual medley at the 1994 world championships, and two silvers at the 1991 world meet.",
+    "As a matter of historical fact, silver did not drive out gold.",
+    "He succeeded in winning two silvers in both the synchronization events and a bronze medal in another.",
+    "Grains (total and non-specific) were counted over 8-10 cells per hemisphere for each lamina, and the mean number of silver grains per cell calculated.",
+    "A silver-silver chloride wire connected the electrode to the multifunction headstage, which was mounted on a three-axis micromanipulator."
+  ],
+  "list_see_also": [
+    "silvery",
+    "silver foil"
+  ],
+  "list_browse": [
+    "silliness",
+    "silly",
+    "silt",
+    "silt up",
+    "silver",
+    "silver foil",
+    "silvery",
+    "similar",
+    "similarity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338431_30c4d39b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338431_f2894d9e04_o.png",
+      "id_image": "silver_1176235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693594_9739ed1b28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693594_49077472c1_o.png",
+      "id_image": "silver_4033743"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "snare",
+  "phat_am": "sneə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bẫy, cái lưới",
+          "definition": "a trap for catching an animal.",
+          "world_new": [
+            "trap",
+            "catching",
+            "animal"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh bẫy, gài bẫy",
+          "definition": "to catch with a snare",
+          "world_new": [
+            "catch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He snared a couple of rabbits.",
+              "world_new": [
+                "couple"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Also, of course, snares still have their brutal effects on animals.",
+    "On another property 22 giraffes have died in snares.",
+    "If we take snaring, the hare may struggle for 12 hours in the trap, which is much more cruel.",
+    "Snaring and poisoning are unlawful but a great deal of snaring has been done where there is no proper control.",
+    "Clause 3 outlaws the use of snares—except, of course, under special licence.",
+    "The dispersion of snares, again unauthorised snares, has undoubtedly been very large.",
+    "He also said that the catching of animals in snares was an extremely cruel practice.",
+    "In article 12(1)(a) there is reference to \"self-locking snares\"."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snappily",
+    "snappiness",
+    "snappy",
+    "snapshot",
+    "snare",
+    "snarl",
+    "snatch",
+    "sneak",
+    "sneakers"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329921_21b6628a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329921_87f29221ed_o.png",
+      "id_image": "snare_1403882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329896_aa5175e2cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329896_ec4686ba05_o.png",
+      "id_image": "snare_5439987"
+    }
+  ]
+}

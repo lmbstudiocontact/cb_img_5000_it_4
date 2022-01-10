@@ -1,0 +1,79 @@
+{
+  "english": "sandpaper",
+  "phat_am": "ˈsӕnpeipə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấy ráp, giấy nhám",
+          "definition": "a type of paper with sand glued to it, used for smoothing and polishing",
+          "world_new": [
+            "type",
+            "paper",
+            "sand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sheet of sandpaper.",
+              "world_new": [
+                "sheet"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh giấy ráp",
+          "definition": "to make smooth with sandpaper.",
+          "world_new": [
+            "smooth"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The surfaces of each metal were ground and polished with sandpaper (300-4000) and alumina powder (0.3 m).",
+    "A 50 mm wide swept sandpaper trip located immediately after the slot was used to promote transition and thicken the boundary layer.",
+    "This appeared to him to be using the pickaxe rather than sandpaper.",
+    "The old method of rubbing down was with dry sandpaper, and therefore the dust flew about.",
+    "One of them is putting a little sandpaper over something which is rather dubious.",
+    "It is contracted by the painter inhaling the dust resulting from the rubbing clown of old paint with sandpaper.",
+    "For limited aspects of the study, the boundary layer was tripped with sandpaper rings, 0.4 cm wide and 0.08 cm thick.",
+    "In addition to the work described above tests were also performed on a 'rough' chute, whose base plate was lined with 160-grit sandpaper."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sand",
+    "sandal",
+    "sandbank",
+    "sandcastle",
+    "sandpaper",
+    "sandshoes",
+    "sandstone",
+    "sandstorm",
+    "sandwich"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335081_ffdceee9d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335081_6b8962a34b_o.png",
+      "id_image": "sandpaper_2332853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450103_447e3eabac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450103_ea4954487d_o.png",
+      "id_image": "sandpaper_2670354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380077_e38474f279_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380077_a30ccc0fa9_o.png",
+      "id_image": "sandpaper_6151970"
+    }
+  ]
+}

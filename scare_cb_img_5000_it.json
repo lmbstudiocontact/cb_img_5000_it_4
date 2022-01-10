@@ -1,0 +1,107 @@
+{
+  "english": "scare",
+  "phat_am": "skeə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm kinh hãi",
+          "definition": "to startle or frighten",
+          "world_new": [
+            "startle",
+            "frighten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll scare the baby if you shout",
+              "world_new": [
+                "baby",
+                "shout"
+              ]
+            },
+            {
+              "ex_of_definition": "His warning scared her into obeying him.",
+              "world_new": [
+                "warning",
+                "scared"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự sợ hãi",
+          "definition": "a feeling of fear or alarm",
+          "world_new": [
+            "feeling",
+            "fear",
+            "alarm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The noise gave me a scare.",
+              "world_new": [
+                "noise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hốt hoảng",
+          "definition": "a feeling of fear or panic among a large number of people",
+          "world_new": [
+            "feeling",
+            "fear",
+            "panic",
+            "large",
+            "number",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a smallpox scare.",
+              "world_new": [
+                "smallpox"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "scared",
+    "scary",
+    "scarecrow",
+    "scaremonger",
+    "scare away"
+  ],
+  "list_browse": [
+    "scar",
+    "scarce",
+    "scarcely",
+    "scarcity",
+    "scare",
+    "scare away",
+    "scarecrow",
+    "scared",
+    "scaremonger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447178_e474a6ce0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447178_a9771a34ea_o.png",
+      "id_image": "scare_1917684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068935_bea7fa3247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068935_d589477be4_o.png",
+      "id_image": "scare_260248"
+    }
+  ]
+}

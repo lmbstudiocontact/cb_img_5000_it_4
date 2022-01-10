@@ -1,0 +1,56 @@
+{
+  "english": "sprite",
+  "phat_am": "sprait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "yêu quái",
+          "definition": "an elf or fairy",
+          "world_new": [
+            "elf",
+            "fairy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a water sprite.",
+              "world_new": [
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is considered to be the origin of explosive sprite generation.",
+    "A blue sprite runs around white and light brown papers depicting trees, animals and other festive creatures.",
+    "Where is the mischievous sprite that prevents us from gaining deliberate access to the marvelous device that cognitive scientists imagine?",
+    "In 1994, it had 90 employees, including 12 software engineers and approximately 60 animators, computer graphic, background, and sprite artists.",
+    "It is also likely that sprites will occur.",
+    "Since the sprite is exactly 128 or 256 bytes long, the indexing can be easily accommodated in a byte-wide register on the 6502.",
+    "Electromagnetic radiations are emitted from the sprite and show a low-power wave number spectrum, suggesting that the sprite exhibits a fractal nature.",
+    "They both undertook a variety of tasks, including creating background art, sprites, dialogue pictures, animations, scripting, and music conversion."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sprinkler",
+    "sprinkling",
+    "sprint",
+    "sprinter",
+    "sprite",
+    "sprout",
+    "sprout up",
+    "spruce",
+    "spruce up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466748_434571888d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466748_2730e564f3_o.png",
+      "id_image": "sprite_4132724"
+    }
+  ]
+}

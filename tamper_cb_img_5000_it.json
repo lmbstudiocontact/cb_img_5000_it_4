@@ -1,0 +1,69 @@
+{
+  "english": "tamper",
+  "phat_am": "ˈtӕmpə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phá dỗi, quấy nhiễu",
+          "definition": "to interfere or meddle usually in such a way as to damage, break, alter etc",
+          "world_new": [
+            "interfere",
+            "meddle",
+            "damage",
+            "break",
+            "alter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t tamper with the engine.",
+              "world_new": [
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Intuitively, a channel type is immediately tampering if it emits non-trivial information at the time of interaction.",
+    "We are looking at ways of dealing with the problem of tampering, while still allowing necessary adjustments to be made.",
+    "The processed drugs were packed and officials applied a seal on each package to guarantee that its contents were checked and that no one tampered with it.",
+    "Their patient efforts included the forging of and tampering with credentials.",
+    "Let us have no more tampering with that, whatever may be its defects.",
+    "Tampering with local government has never been a success since the war, and the motion would make the matter worse.",
+    "The presence of two stanzas with refrain - the defining feature of the couplets drives to the generic essence of the piece, and it was not to be tampered with.",
+    "However, it is not simply a question of journalists or members of the public tampering with parliamentary procedure."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tame",
+    "tameable",
+    "tamely",
+    "tameness",
+    "tamper",
+    "tampon",
+    "tan",
+    "tandem",
+    "tang"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442108_9e3764bbe5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442108_49673598fb_o.png",
+      "id_image": "tamper_2007973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371722_ed304fd974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371722_ec9a434a3f_o.png",
+      "id_image": "tamper_2954813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682219_7fa17603b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682219_1354865e28_o.png",
+      "id_image": "tamper_3219336"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "english": "treat",
+  "phat_am": "triːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đối xử",
+          "definition": "to deal with, or behave towards (a thing or person), in a certain manner",
+          "world_new": [
+            "deal",
+            "behave",
+            "certain",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers treated me very well"
+            },
+            {
+              "ex_of_definition": "The police are treating his death as a case of murder.",
+              "world_new": [
+                "police",
+                "death",
+                "case",
+                "murder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều trị",
+          "definition": "to try to cure (a person or disease, injury etc)",
+          "world_new": [
+            "try",
+            "cure",
+            "person",
+            "disease",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They treated her for a broken leg.",
+              "world_new": [
+                "broken",
+                "leg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xử lý, nghiên cứu, giải quyết",
+          "definition": "to put (something) through a process",
+          "world_new": [
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The woodwork has been treated with creosote.",
+              "world_new": [
+                "woodwork",
+                "creosote"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mời ai ăn cơm",
+          "definition": "to buy (a meal, present etc) for (someone)",
+          "world_new": [
+            "buy",
+            "meal",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll treat you to lunch",
+              "world_new": [
+                "lunch"
+              ]
+            },
+            {
+              "ex_of_definition": "She treated herself to a new hat.",
+              "world_new": [
+                "hat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề cập, thảo luận",
+          "definition": "to write or speak about; to discuss.",
+          "world_new": [
+            "speak",
+            "discuss"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đối đãi",
+          "definition": "something that gives pleasure, eg an arranged outing, or some special food",
+          "world_new": [
+            "pleasure",
+            "outing",
+            "special",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took them to the theatre as a treat.",
+              "world_new": [
+                "theatre"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main limitations in treating metastatic disease include poor vector transduction efficiencies and difficulties in targeting remote tumour cells with systemic vector delivery.",
+    "The environments were considered as random variables while the genotypes were treated as fixed variables.",
+    "In so doing, he treats the parties' identities as having been established.",
+    "However, cattle producers used to controlling tick infestations with chemical acaricides typically treat reactively.",
+    "This figure is known as the 'intent to treat' effect.",
+    "Non-neuroleptic approaches to treating negative symptoms in schizophrenia.",
+    "It is especially worth noting that in the market, the price of organic food is at least twice that of food treated with chemicals.",
+    "Part of hospitals' revenues was then made dependent upon the number of patients treated and the patient mix."
+  ],
+  "list_see_also": [
+    "treatment"
+  ],
+  "list_browse": [
+    "treasure",
+    "treasure hunt",
+    "treasured",
+    "treasurer",
+    "treat",
+    "treatise",
+    "treatment",
+    "treaty",
+    "treble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335466_cf147c6dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335466_2ba986cd94_o.png",
+      "id_image": "treat_185452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690564_e0781e438d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690564_e9f537b746_o.png",
+      "id_image": "treat_2467235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380427_262bfc165b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380427_064d620fb1_o.png",
+      "id_image": "treat_3436491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690609_31f6c9b676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690609_891fafb1e7_o.png",
+      "id_image": "treat_373006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380392_3e8db9bf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380392_d701fca3a7_o.png",
+      "id_image": "treat_6401254"
+    }
+  ]
+}

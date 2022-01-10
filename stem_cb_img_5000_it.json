@@ -1,0 +1,150 @@
+{
+  "english": "stem",
+  "phat_am": "stem",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thân cây, cuống",
+          "definition": "the part of a plant that grows upward from the root, or the part from which a leaf, flower or fruit grows; a stalk",
+          "world_new": [
+            "part",
+            "plant",
+            "upward",
+            "root",
+            "part",
+            "leaf",
+            "flower",
+            "fruit",
+            "stalk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Poppies have long, hairy, twisting stems.",
+              "world_new": [
+                "long",
+                "hairy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chân",
+          "definition": "the narrow part of various objects, eg of a wine-glass between the bowl and the base",
+          "world_new": [
+            "narrow",
+            "part",
+            "various",
+            "bowl",
+            "base"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the stem of a wine-glass / of a tobacco-pipe."
+            }
+          ]
+        },
+        {
+          "mean_english": "mũi tàu",
+          "definition": "the upright piece of wood or metal at the bow of a ship",
+          "world_new": [
+            "upright",
+            "piece",
+            "wood",
+            "metal",
+            "bow",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "As the ship struck the rock, she shook from stem to stern.",
+              "world_new": [
+                "ship",
+                "rock",
+                "stern"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuất phát từ",
+          "definition": "(with from) to be caused by",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hate sometimes stems from envy.",
+              "world_new": [
+                "envy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngăn chặn",
+          "definition": "to stop (a flow, eg of blood)",
+          "world_new": [
+            "stop",
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She used a bandage to stem the flow of blood from the wound.",
+              "world_new": [
+                "bandage",
+                "flow",
+                "blood",
+                "wound"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A third major question stemming from these mediation studies is whether social mediation is restricted to particular periods in development.",
+    "Thus, only when the stress of the ending is zero is the stress in the word placed in the stem.",
+    "His doing so stems from the perception that these were accepted standards in the discourse of the day.",
+    "However, there are also qualitative and quantitative differences among the clitics stemming, in our view, from their different internal syntax.",
+    "Examples of cell signalling pathways implicated in adult stem cell ageing.",
+    "Since the morphological rules are extremely simple and transparently reflected in the orthography, spelling inflected words should be much easier, as compared to spelling stems.",
+    "They can show many different symptoms, and stem from many different causes.",
+    "In the laboratory, rice stems were scraped9 and gut contents were carefully removed11."
+  ],
+  "list_see_also": [
+    "-stemmed"
+  ],
+  "list_browse": [
+    "steer clear of",
+    "steering",
+    "steering wheel",
+    "stellar",
+    "stem",
+    "-stemmed",
+    "stench",
+    "stencil",
+    "step"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084850_1dfdeca6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084850_4c04f4eebb_o.png",
+      "id_image": "stem_4776049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347506_6971516f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347506_9becdb9231_o.png",
+      "id_image": "stem_4797127"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "seismic",
+  "phat_am": "ˈsaizmik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "địa chấn",
+          "definition": "of earthquakes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "seismic disturbances."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The example seismic profiles shown in the figures are not very representative of the quality of data acquired by modern surveys.",
+    "There is a considerable number of pull-out pages for the display of regional seismic lines and their geological interpretation.",
+    "The huge amount of information on orogenic architecture derived from seismic profiling is almost completely omitted.",
+    "The brick chimneys integral to steam-powered mills were also much simpler structures than five-story pagoda, and hence more susceptible to seismic damage.",
+    "Most of these surveys collected coincident deep seismic reflection and wide-angle data of breathtaking quality.",
+    "Viewed from an academic perspective, the current generation of three-dimensional seismic data (let alone future generations) is a sleeping giant.",
+    "From here they move to classification of reflection terminations and the internal characteristics of seismic facies providing the necessary knowledge to recognize systems tracts.",
+    "Sections 22 and 27), although temporal resolution is very poor since it relies upon inter preted and depth-converted seismic data."
+  ],
+  "list_see_also": [
+    "seismology",
+    "seismological",
+    "seismologist"
+  ],
+  "list_browse": [
+    "segment",
+    "segmented",
+    "segregate",
+    "segregation",
+    "seismic",
+    "seismological",
+    "seismologist",
+    "seismology",
+    "seize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059610_cceb3d1da8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059610_34c7c74da5_o.png",
+      "id_image": "seismic_1486240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367767_e560063c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367767_ca1a8ecd1f_o.png",
+      "id_image": "seismic_4016812"
+    }
+  ]
+}

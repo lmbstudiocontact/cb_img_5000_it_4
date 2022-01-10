@@ -1,0 +1,209 @@
+{
+  "english": "steam",
+  "phat_am": "stiːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hơi nước",
+          "definition": "a gas or vapour/vapor that rises from hot or boiling water or other liquid",
+          "world_new": [
+            "gas",
+            "hot",
+            "water",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Steam rose from the plate of soup / the wet earth in the hot sun",
+              "world_new": [
+                "plate",
+                "soup",
+                "wet",
+                "earth",
+                "hot",
+                "sun"
+              ]
+            },
+            {
+              "ex_of_definition": "a cloud of steam",
+              "world_new": [
+                "cloud"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) A sauna is a type of steam bath.",
+              "world_new": [
+                "sauna",
+                "type",
+                "bath"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng lượng hơi nước",
+          "definition": "power or energy obtained from this",
+          "world_new": [
+            "power",
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The machinery is driven by steam",
+              "world_new": [
+                "machinery"
+              ]
+            },
+            {
+              "ex_of_definition": "Diesel fuel replaced steam on the railways",
+              "world_new": [
+                "fuel"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) steam power, steam engines.",
+              "world_new": [
+                "power"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bốc hơi",
+          "definition": "to give out steam",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A kettle was steaming on the stove.",
+              "world_new": [
+                "kettle",
+                "stove"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy bằng hơi nước",
+          "definition": "(of a ship, train etc) to move by means of steam",
+          "world_new": [
+            "ship",
+            "train",
+            "move",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship steamed across the bay.",
+              "world_new": [
+                "ship",
+                "across",
+                "bay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ, hấp",
+          "definition": "to cook by steam",
+          "world_new": [
+            "cook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pudding should be steamed for four hours.",
+              "world_new": [
+                "pudding"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "chạy bằng hơi nước",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "steam-driven / steam-powered machinery.",
+              "world_new": [
+                "machinery"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We must also consider the effect of steaming with only one set of nets on the vessel.",
+    "The summit also contains the most extensive areas of snow-free warm or steaming ground, fumaroles and ice towers or pinnacles.",
+    "Surely we have to realise that now we are all in the same boat, steaming rather slowly and rather erratically through the hurricane area.",
+    "If they had wireless receiving sets, they would be saved all the cost of this useless steaming about.",
+    "The ship can be stationary, steaming up wind, down wind or doing anything you like, and it makes no difference.",
+    "The relief valve is steaming and ready to blow unless it is held down somehow.",
+    "When the aircraft are returning it must be steaming into the wind and it is then an easy target.",
+    "One can always get people who are steamed up and excited about an issue believing fervently in a reform."
+  ],
+  "list_see_also": [
+    "steam-",
+    "steamer",
+    "steamy",
+    "steamboat",
+    "steam engine",
+    "steam roller",
+    "full steam ahead",
+    "get steamed up",
+    "get up steam",
+    "let off steam",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "stealth",
+    "stealthily",
+    "stealthiness",
+    "stealthy",
+    "steam",
+    "steam engine",
+    "steam roller",
+    "steam up",
+    "steamboat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392767_f4131975ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392767_da69b69f4b_o.png",
+      "id_image": "steam_3690227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085160_0e5585029a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085160_07a4a88fbe_o.png",
+      "id_image": "steam_4636822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347821_1e7bb26a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347821_8c093afb0c_o.png",
+      "id_image": "steam_4675580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392702_4428d53ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392702_ab9fc04720_o.png",
+      "id_image": "steam_5234464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702599_be42ab0688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702599_59272728e5_o.png",
+      "id_image": "steam_532373"
+    }
+  ]
+}

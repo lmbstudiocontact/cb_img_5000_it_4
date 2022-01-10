@@ -1,0 +1,42 @@
+{
+  "english": "terrorism",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ nghĩa khủng bố",
+          "definition": "the actions or methods of terrorists",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "international terrorism.",
+              "world_new": [
+                "international"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "territorial waters",
+    "territory",
+    "terror",
+    "terror-stricken",
+    "terrorism",
+    "terrorist",
+    "terrorization",
+    "terrorize",
+    "tertiary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396402_50e92a928e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396402_79e7eeea40_o.png",
+      "id_image": "terrorism_2302747"
+    }
+  ]
+}

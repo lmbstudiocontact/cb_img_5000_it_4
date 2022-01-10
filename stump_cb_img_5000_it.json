@@ -1,0 +1,131 @@
+{
+  "english": "stump",
+  "phat_am": "stamp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gốc cây",
+          "definition": "the part of a tree left in the ground after the trunk has been cut down",
+          "world_new": [
+            "part",
+            "tree",
+            "left",
+            "ground",
+            "trunk",
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sat on a (tree-)stump and ate his sandwiches."
+            }
+          ]
+        },
+        {
+          "mean_english": "chân, mẩu",
+          "definition": "the part of a limb, tooth, pencil etc remaining after the main part has been cut or broken off, worn away etc.",
+          "world_new": [
+            "part",
+            "limb",
+            "tooth",
+            "pencil",
+            "main",
+            "part",
+            "cut",
+            "broken",
+            "worn"
+          ]
+        },
+        {
+          "mean_english": "cọc gôn",
+          "definition": "in cricket, one of the three upright sticks forming the wicket.",
+          "world_new": [
+            "cricket",
+            "upright",
+            "wicket"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi lộp cộp, cứng nhắc",
+          "definition": "to walk with heavy, stamping steps",
+          "world_new": [
+            "walk",
+            "heavy",
+            "steps"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stumped angrily out of the room.",
+              "world_new": [
+                "angrily",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ai bí, gây bối rối",
+          "definition": "to puzzle or baffle completely",
+          "world_new": [
+            "puzzle",
+            "baffle",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m stumped!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The stumps were set in a matrix of regenerating vegetation and remnants of primary forest.",
+    "Approximately 1 cm was removed from the top of the stumps to avoid contamination, and the tissues underneath were sampled.",
+    "I was anxiously awaiting my turn when stumps were drawn on that occasion.",
+    "He disrupted the whole thing by pulling up the stumps and running off with them.",
+    "In the view of the fishing industry, partial stumps could be dangerous.",
+    "The main economic impact is caused when weevils emerge from stumps on clearfell areas and feed on the bark of the main stems of young conifers replanted on the area.",
+    "Has it decided to pull up stumps and go home?",
+    "In places the contact between tuff and ignimbrite coincides with the in situ and in growth position stumps of petrified trees."
+  ],
+  "list_see_also": [
+    "stumpy",
+    "stump up"
+  ],
+  "list_browse": [
+    "stuffy",
+    "stumble",
+    "stumble across",
+    "stumbling block",
+    "stump",
+    "stump up",
+    "stumpy",
+    "stun",
+    "stunning"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696179_1c25e6d1fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696179_bdb2cfd53a_o.png",
+      "id_image": "stump_4292728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340856_4955a1ddb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340856_b59614b7ac_o.png",
+      "id_image": "stump_4987014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340931_c8505ebeca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340931_2564e88659_o.png",
+      "id_image": "stump_699660"
+    }
+  ]
+}

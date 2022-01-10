@@ -1,0 +1,85 @@
+{
+  "english": "ruby",
+  "phat_am": "ˈruːbi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hồng ngọc",
+          "definition": "a kind of deep red precious stone",
+          "world_new": [
+            "kind",
+            "deep",
+            "red",
+            "precious",
+            "stone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ring set with rubies",
+              "world_new": [
+                "ring"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a ruby necklace.",
+              "world_new": [
+                "necklace"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đỏ sẫm",
+          "definition": "(also adjective) (of) its colour/color",
+          "world_new": [
+            "its"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ruby dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She has eyes of shining emeralds and ruby red plump lips.",
+    "Small resident birds include wrens, robins, juncos, thrushes, woodpeckers, sapsuckers, red-shafted flickers, and ruby-crowned kinglets.",
+    "Originally, the crown of the arms contained pearls, not rubies.",
+    "To get around the censors' guidelines, she wore a jewel, a ruby, in her navel.",
+    "In the middle of each bar, a large cabochon-cut balas ruby was placed, surrounded by four emeralds forming a square cross.",
+    "You should treat them as something like rubies—above price.",
+    "It has 3, lavender ruffled-edge blossoms, edged in an attractive deeper ruby, and often grow on single stems as well as in clusters.",
+    "It is made of twelve yards of silver cloth, entirely covered with gold, pearls, rubies, sapphires and emeralds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rubbery",
+    "rubbish",
+    "rubble",
+    "rubella",
+    "ruby",
+    "rucksack",
+    "rudder",
+    "ruddy",
+    "rude"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340081_dd6078e8ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340081_b5a6ee0780_o.png",
+      "id_image": "ruby_3521647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695384_be8f472925_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695384_13c006e5f3_o.png",
+      "id_image": "ruby_492063"
+    }
+  ]
+}

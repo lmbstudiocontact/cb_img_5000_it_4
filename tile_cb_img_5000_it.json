@@ -1,0 +1,101 @@
+{
+  "english": "tile",
+  "phat_am": "tail",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngói",
+          "definition": "a piece of baked clay used in covering roofs, walls, floors etc",
+          "world_new": [
+            "piece",
+            "baked",
+            "clay",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some of the tiles were blown off the roof during the storm.",
+              "world_new": [
+                "roof",
+                "storm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đá lát",
+          "definition": "a similar piece of plastic material used for covering floors etc",
+          "world_new": [
+            "similar",
+            "piece",
+            "plastic",
+            "material",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "kitchen tiles.",
+              "world_new": [
+                "kitchen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lợp ngói",
+          "definition": "to cover with tiles",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had to have the roof tiled.",
+              "world_new": [
+                "roof",
+                "tiled"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Any two tiles of the same type must be translations of each other.",
+    "We can now form the four different tiling systems by taking the appropriate unions.",
+    "A cyclic permutation of the tiles in w typically yields a word that works as well.",
+    "However, it is a substitution tiling system in the extended sense of this paper.",
+    "Then, three stacks of three roof tiles each were placed by both the entry and exit ways, with the stacks one pace apart.",
+    "The eventual goal is to classify tiling spaces up to homeomorphism, and the existence of a bundle structure is an important first step.",
+    "The external plaster is the protection of the facade, just as the roof tiles are the protection of the upper part of the building.",
+    "Extraordinary nonperiodic tiling that enriches the theory of tiles."
+  ],
+  "list_see_also": [
+    "tiled"
+  ],
+  "list_browse": [
+    "tighten one’s belt",
+    "tightness",
+    "tightrope",
+    "tights",
+    "tile",
+    "tiled",
+    "till",
+    "tiller",
+    "tilt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392577_8bc027c7cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392577_e7487f0bb6_o.png",
+      "id_image": "tile_5480446"
+    }
+  ]
+}

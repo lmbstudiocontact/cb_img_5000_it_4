@@ -1,0 +1,161 @@
+{
+  "english": "sun",
+  "phat_am": "san",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mặt trời",
+          "definition": "the round body in the sky that gives light and heat to the earth",
+          "world_new": [
+            "body",
+            "sky",
+            "light",
+            "heat",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Sun is nearly 150 million kilometres away from the Earth.",
+              "world_new": [
+                "nearly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định tinh",
+          "definition": "any of the fixed stars",
+          "world_new": [
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do other suns have planets revolving round them?",
+              "world_new": [
+                "revolving"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ánh mặt trời",
+          "definition": "light and heat from the sun; sunshine",
+          "world_new": [
+            "light",
+            "heat",
+            "sunshine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sat in the sun"
+            },
+            {
+              "ex_of_definition": "In Britain they don’t get enough sun"
+            },
+            {
+              "ex_of_definition": "The sun has faded the curtains."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phơi nắng",
+          "definition": "to expose (oneself) to the sun’s rays",
+          "world_new": [
+            "expose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s sunning himself in the garden.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "written abbreviation",
+      "list_definition": [
+        {
+          "mean_english": "chủ nhật",
+          "definition": "short for Sunday",
+          "world_new": [
+            "short"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Introspective and unimaginative, the sun king's two successors did nothing to arrest this process.",
+    "Readings were taken at 1-m intervals along each transect when the sun was obscured by continuous cloud cover or near the horizon.",
+    "Similar yield loss with delayed planting also occurs with proso millet30, corn31 and sun-ower10.",
+    "Year round, daily use is advised if the patient has a history of skin cancer, sun-damaged and ageing skin.",
+    "Today, the age of the moon is counted after the new moon, when the moon is near the sun and invisible.",
+    "The sun is 93 million miles from the earth.",
+    "When in the sun, wear sun-protective hats with wide brims to protect the ears, face and neck nape.",
+    "From the sun and the moon humans learn to determine periodicity, through which metrical oscillations the natural world begins to make formal sense."
+  ],
+  "list_see_also": [
+    "sunless",
+    "sunny",
+    "sunniness",
+    "sunbathe",
+    "sunbeam",
+    "sunbed",
+    "sunburn",
+    "sunburned",
+    "sun cream",
+    "sundial",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "summit",
+    "summon",
+    "sump",
+    "sumptuous",
+    "sun",
+    "sun cream",
+    "sunbathe",
+    "sunbeam",
+    "sunbed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452748_7295d97564_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452748_1c261bd0f3_o.png",
+      "id_image": "sun_272723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337841_e212faa2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337841_896e76bd3e_o.png",
+      "id_image": "sun_499401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382807_a7f430348b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382807_a7f24fd50c_o.png",
+      "id_image": "sun_616645"
+    }
+  ]
+}

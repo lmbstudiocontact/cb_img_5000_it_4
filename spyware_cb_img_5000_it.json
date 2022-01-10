@@ -1,0 +1,80 @@
+{
+  "english": "spyware",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phần mềm gián điệp",
+          "definition": "software which is installed by means of the Internet on a computer without the user’s knowledge and used to secretly record and transmit security data or information about the user’s Internet use",
+          "world_new": [
+            "software",
+            "means",
+            "Internet",
+            "computer",
+            "knowledge",
+            "secretly",
+            "record",
+            "transmit",
+            "security",
+            "data",
+            "information",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Detecting spyware or malware on a website or on your computer is possible through several online tools.",
+              "world_new": [
+                "malware",
+                "website",
+                "your",
+                "computer",
+                "possible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The homepages that are set by hijackers are often search pages, and many of these programs are spyware programs that track personal data.",
+    "Researchers have examined potential security risks including the release of personal information, bundled spyware, and viruses downloaded from the network.",
+    "Spyware detection has been tweaked since the last release.",
+    "Personal information used in phishing attempts may be associated with spyware.",
+    "Spyware allows a third party to access the same data as the user.",
+    "However, a vendor or organization does not necessarily need sophisticated spyware to be able to track the user's moves and build profiles.",
+    "The last meeting of this network was mainly devoted to spyware, often spread via spam, and the challenge it represents for enforcement authorities and industry.",
+    "The suit was also the first filed under the states 2005 spyware law."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spurt",
+    "spy",
+    "spy on",
+    "spyhole",
+    "spyware",
+    "sq",
+    "squabble",
+    "squad",
+    "squad car"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396672_a09cd8f17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396672_5341055796_o.png",
+      "id_image": "spyware_1473824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351941_088aa555f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351941_3b5cf3a24d_o.png",
+      "id_image": "spyware_1590023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351911_42fb9c0eb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351911_1b33efd18d_o.png",
+      "id_image": "spyware_2084067"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "task",
+  "phat_am": "taːsk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhiệm vụ",
+          "definition": "a piece of especially hard work; a duty that must be done",
+          "world_new": [
+            "piece",
+            "duty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "household tasks.",
+              "world_new": [
+                "household"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are certain tasks, such as polishing, which can only be done with abrasion.",
+    "I tasked myself not to make fewer than ten a day; in the end one day had been omitted.",
+    "Like cooking, cleaning, shopping, and washing, men can do it too, but the societal perception is that these are women's tasks or feminine gendered activities.",
+    "Memory was included in the model because the four tasks all involved memory learning.",
+    "In these contexts, equitable marital relations are perceived as those in which the wife performs most of the household tasks.",
+    "They were seen as mindless individuals who could take on repetitive tasks.",
+    "In addition, dependencies of these tasks were delayed themselves, thus affecting the utilization of the other resources.",
+    "To introduce the tasks, the following information was provided on the cover page of the booklets."
+  ],
+  "list_see_also": [
+    "task force"
+  ],
+  "list_browse": [
+    "tartan",
+    "tartar",
+    "tartly",
+    "tartness",
+    "task",
+    "task force",
+    "tassel",
+    "tasselled",
+    "taste"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469113_6600bcaeb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469113_912bd59299_o.png",
+      "id_image": "task_4481316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708929_1400a67b69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708929_ca5e14a048_o.png",
+      "id_image": "task_5541953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469138_67a92ea53f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469138_ee16133d9a_o.png",
+      "id_image": "task_735181"
+    }
+  ]
+}

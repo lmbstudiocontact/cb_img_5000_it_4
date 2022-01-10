@@ -1,0 +1,197 @@
+{
+  "english": "sight",
+  "phat_am": "sait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thị lực",
+          "definition": "the act or power of seeing",
+          "world_new": [
+            "act",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The blind man had lost his sight in the war.",
+              "world_new": [
+                "blind",
+                "lost",
+                "war"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầm nhìn",
+          "definition": "the area within which things can be seen by someone",
+          "world_new": [
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat was within sight of land",
+              "world_new": [
+                "boat",
+                "land"
+              ]
+            },
+            {
+              "ex_of_definition": "The end of our troubles is in sight.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thắng cảnh, cảnh đẹp",
+          "definition": "something worth seeing",
+          "world_new": [
+            "worth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took her visitors to see the sights of London.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảnh, cảnh tượng",
+          "definition": "a view or glimpse",
+          "world_new": [
+            "view",
+            "glimpse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mountain is a magnificent sight at sunset.",
+              "world_new": [
+                "mountain",
+                "magnificent",
+                "sunset"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn mặc lố bịch",
+          "definition": "something seen that is unusual, ridiculous, shocking etc",
+          "world_new": [
+            "unusual",
+            "ridiculous",
+            "shocking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s quite a sight in that hat.",
+              "world_new": [
+                "quite",
+                "hat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ống ngắm",
+          "definition": "(on a gun etc) an apparatus to guide the eye in taking aim",
+          "world_new": [
+            "gun",
+            "apparatus",
+            "guide",
+            "eye",
+            "aim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This rifle has a detachable sight.",
+              "world_new": [
+                "rifle",
+                "detachable"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quan sát, chiêm nghiệm",
+          "definition": "to get a view of; to see suddenly",
+          "world_new": [
+            "view",
+            "see",
+            "suddenly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sighted the coast as dawn broke.",
+              "world_new": [
+                "coast",
+                "dawn",
+                "broke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trông thấy, nhìn thấy",
+          "definition": "to look at (something) through the sight of a gun",
+          "world_new": [
+            "look",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sighted his prey and pulled the trigger.",
+              "world_new": [
+                "prey",
+                "trigger"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sightseeing",
+    "sightseer",
+    "catch sight of",
+    "lose sight of"
+  ],
+  "list_browse": [
+    "siesta",
+    "sieve",
+    "sift",
+    "sigh",
+    "sight",
+    "sightseeing",
+    "sightseer",
+    "sign",
+    "sign in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077210_9fbbe3cd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077210_b0b3248284_o.png",
+      "id_image": "sight_4751525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339951_df8726f4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339951_83661a8a0b_o.png",
+      "id_image": "sight_4893340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077125_11b46557b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077125_9a30a3b141_o.png",
+      "id_image": "sight_5940029"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "english": "track",
+  "phat_am": "trӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu vết",
+          "definition": "a mark left, especially a footprint etc",
+          "world_new": [
+            "mark",
+            "left",
+            "footprint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They followed the lion’s tracks."
+            }
+          ]
+        },
+        {
+          "mean_english": "đường mòn",
+          "definition": "a path or rough road",
+          "world_new": [
+            "path",
+            "rough",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mountain track.",
+              "world_new": [
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường đua",
+          "definition": "(also racetrack) a course on which runners, cyclists etc race",
+          "world_new": [
+            "course",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a running track",
+              "world_new": [
+                "running"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the 100 metres sprint and other track events.",
+              "world_new": [
+                "sprint"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường xe lửa",
+          "definition": "a railway/railroad line",
+          "world_new": [
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A train was coming down the track.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tìm theo dấu vết",
+          "definition": "to follow (eg an animal) by the marks, footprints etc that it has left",
+          "world_new": [
+            "follow",
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They tracked the wolf to its lair.",
+              "world_new": [
+                "wolf",
+                "its",
+                "lair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The material is relatively simple: drones, amplified percussion, distortion effects, and, in the final track, a range of objects.",
+    "Evidently, vocoder tracks vividly highlight the inextricable bond between subjectivity and mechanisation.",
+    "In many applications, including image processing and computer vision, we need to track quantities that are defined on the surfaces.",
+    "Instead, education is needed so that public fears track the real risks, and people worry about only what they ought to be worried about.",
+    "By locating and following foragers rather than using baits, we were able to track the normal home ranges of the ants.",
+    "The global pose tracking problem has been widely investigated by fusing various external sensors and odometric measurements.",
+    "This attitude of ours is a form of \"scientism\" we think licensed by the track record of the scientific disciplines and institutions.",
+    "Such simulations could be used to track the course of the speaker's turn, predict when that turn will end, and so on."
+  ],
+  "list_see_also": [
+    "tracksuit",
+    "in one’s tracks",
+    "keep/lose track of",
+    "make tracks (for)",
+    "track down",
+    "tracker dog"
+  ],
+  "list_browse": [
+    "trace elements",
+    "trachea",
+    "tracing",
+    "tracing paper",
+    "track",
+    "track down",
+    "tracker dog",
+    "tracksuit",
+    "tract"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696319_10103674ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696319_bedca329f2_o.png",
+      "id_image": "track_3967489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696304_c85ee948c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696304_1b02d2a73b_o.png",
+      "id_image": "track_6246147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696389_706438627e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696389_061468ca4a_o.png",
+      "id_image": "track_684451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341131_73b96abc8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341131_6d48e91914_o.png",
+      "id_image": "track_684456"
+    }
+  ]
+}

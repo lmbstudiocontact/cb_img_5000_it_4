@@ -1,0 +1,95 @@
+{
+  "english": "timber",
+  "phat_am": "ˈtimbə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gỗ",
+          "definition": "wood, especially for building",
+          "world_new": [
+            "wood",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This house is built of timber.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây lấy gỗ",
+          "definition": "trees suitable for this",
+          "world_new": [
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hundred acres of good timber."
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh gỗ",
+          "definition": "a wooden beam used in the building of a house, ship etc",
+          "world_new": [
+            "wooden",
+            "beam",
+            "building",
+            "house",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The original timbers in the building are suffering from decay.",
+              "world_new": [
+                "original",
+                "building",
+                "suffering",
+                "decay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We had to fight the manufacturers to prove that the timbers they were importing, while cheap, could be dangerous.",
+    "However, in the course of carrying out repairs to the roof he found that the timbers were rotten.",
+    "In the dying twilight, the inside of the musty warehouse, largely unused since 1941, has a pale blue cast, making the people, timbers and pillars appear as half-ghosts.",
+    "In the international context, world trade in hardwood timbers until the 1960s was still dominated by the production of temperate regions.",
+    "The short oak timbers and naval treated planks were well suited to the short walls required by the octagonal design.",
+    "There may be, therefore, hundreds of yards of strata balanced on a few supporting timbers.",
+    "In short the new world is to be built out of the timbers of the old.",
+    "Naturally, the main timbers, the roofs and walls are included, but what of historic fireplaces, panellings and stair- cases?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tiled",
+    "till",
+    "tiller",
+    "tilt",
+    "timber",
+    "time",
+    "time and (time) again",
+    "time bomb",
+    "time limit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702329_56b93117cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702329_046428bb86_o.png",
+      "id_image": "timber_2191475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392487_ba5edd611e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392487_ef2b448160_o.png",
+      "id_image": "timber_3555826"
+    }
+  ]
+}

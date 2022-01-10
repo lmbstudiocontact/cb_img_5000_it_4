@@ -1,0 +1,76 @@
+{
+  "english": "tree",
+  "phat_am": "triː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây",
+          "definition": "the largest kind of plant, with a thick, firm, wooden stem and branches",
+          "world_new": [
+            "kind",
+            "plant",
+            "thick",
+            "firm",
+            "wooden",
+            "stem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have three apple trees growing in our garden.",
+              "world_new": [
+                "apple",
+                "our",
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this paper we introduce a new approach to robust design based on the concept of inductive learning with regression trees.",
+    "The distance to trees influenced the cassava yield.",
+    "Finally, growing trees for energy would reduce another 2.2 tons of carbon per hectare in the village facility and 3.6 tons in the centralized facility.",
+    "Thus, attributes of farm fields, and particularly the number of planted trees, are important determinants of household choices.",
+    "Experiments were conducted in a turfgrass area on a 0.5-ha residential property, with scattered trees and adjacent woodlots.",
+    "Two further sections on the characteristics ofspaced trees and their impact within a range of land-use systems are well illustrated with examples.",
+    "As such, we recognize objects 'as' trees or mountains or tombs.",
+    "By-products of trees provide farmers in many countries with useful material or cash."
+  ],
+  "list_see_also": [
+    "treetop",
+    "tree-trunk",
+    "tree line"
+  ],
+  "list_browse": [
+    "treatment",
+    "treaty",
+    "treble",
+    "trebly",
+    "tree",
+    "tree line",
+    "tree-trunk",
+    "treetop",
+    "trek"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072020_10e2a973f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072020_eb9b8776bd_o.png",
+      "id_image": "tree_517620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450078_b18f1457bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450078_eaa4851352_o.png",
+      "id_image": "tree_520083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690164_09bb8a55b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690164_b80e1ba79b_o.png",
+      "id_image": "tree_622127"
+    }
+  ]
+}

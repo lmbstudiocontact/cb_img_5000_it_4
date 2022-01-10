@@ -1,0 +1,96 @@
+{
+  "english": "stereo",
+  "phat_am": "ˈsteriəu",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "âm thanh nổi",
+          "definition": "short for stereophonic or stereoscopic",
+          "world_new": [
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stereo recording.",
+              "world_new": [
+                "recording"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy nhạc âm thanh nổi",
+          "definition": "stereophonic equipment, especially a record-player",
+          "world_new": [
+            "stereophonic",
+            "equipment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you got (a) stereo?"
+            }
+          ]
+        },
+        {
+          "mean_english": "âm thanh nổi",
+          "definition": "stereophonic sound or stereoscopic vision",
+          "world_new": [
+            "stereophonic",
+            "sound",
+            "stereoscopic",
+            "vision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The song was recorded in stereo.",
+              "world_new": [
+                "song"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mastmounted stereo navigation cameras provide external reference position measurements to overcome this and to support navigation.",
+    "As well, the observed problems with speaker cable quality are largest for loudspeakers with passive cross-overs such as those typical of home stereos.",
+    "The 2/c cadets were allowed radios and stereos but no cars.",
+    "I said that they would have to manufacture rubber stereos, because every cigarette packet is already printed all over, and it is only a matter of making new rubber stereos.",
+    "Volume shaping, pan (stereo position) and effects were all introduced as possible techniques.",
+    "You can engage in all sorts of petty crime, including muggings, stealing car stereos, lockpicking, and tagging graffiti.",
+    "On the side, he sold reel-to-reel tapes and installed stereos.",
+    "We constantly ensure that the volume on their stereos and television is turned down to an acceptable level."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stepping-stones",
+    "steps",
+    "stepsister",
+    "stepson",
+    "stereo",
+    "stereophonic",
+    "stereoscopic",
+    "stereotype",
+    "stereotypical"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347181_9ff99ed635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347181_1ce1640afb_o.png",
+      "id_image": "stereo_1281064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392167_6c4143d319_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392167_8e4e99028d_o.png",
+      "id_image": "stereo_529463"
+    }
+  ]
+}

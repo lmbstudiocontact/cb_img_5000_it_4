@@ -1,0 +1,129 @@
+{
+  "english": "seam",
+  "phat_am": "siːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường nối",
+          "definition": "the line formed by the sewing together of two pieces of cloth etc",
+          "world_new": [
+            "line",
+            "sewing",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This jacket is coming apart at the seams.",
+              "world_new": [
+                "jacket",
+                "apart"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường phân giới",
+          "definition": "the line where two things meet or join",
+          "world_new": [
+            "line",
+            "meet",
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water was coming in through the seams of the boat.",
+              "world_new": [
+                "boat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp, vỉa than",
+          "definition": "a thin line or layer of coal etc in the earth",
+          "world_new": [
+            "thin",
+            "line",
+            "layer",
+            "coal",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a coal seam.",
+              "world_new": [
+                "coal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nối, khâu lại",
+          "definition": "to sew a seam in",
+          "world_new": [
+            "sew"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve pinned the skirt together but I haven’t seamed it yet.",
+              "world_new": [
+                "skirt",
+                "I",
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A colliery is unable to develop expanding seams.",
+    "Clastic layers up to 10 cm thick are common within thick seams.",
+    "There has been the problem of obtaining ever-increasing revenue from the rating system, which has been creaking at the seams.",
+    "The system was tested on two types of seams.",
+    "They are now bursting at their seams and young boys and girls are queuing up to get in.",
+    "There is a desperate shortage of affordable housing, and that is causing some of our public services to crack at the seams.",
+    "I know there are five other seams under that.",
+    "As the scene changes, the seams show, and such discontinuities, unmitigated by costume or staging, ultimately reveal the opera's ' setting' to be an imagined world."
+  ],
+  "list_see_also": [
+    "seamstress",
+    "the seamy side (of life)"
+  ],
+  "list_browse": [
+    "seal of approval",
+    "seal off",
+    "sealing wax",
+    "sealskin",
+    "seam",
+    "seaman",
+    "seamstress",
+    "séance",
+    "seaport"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325266_c2982acae6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325266_6092d35919_o.png",
+      "id_image": "seam_2570418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325211_1e6556e50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325211_378138ae26_o.png",
+      "id_image": "seam_3461274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370082_3947bfc106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370082_c8992eb01c_o.png",
+      "id_image": "seam_4301489"
+    }
+  ]
+}

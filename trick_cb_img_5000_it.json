@@ -1,0 +1,124 @@
+{
+  "english": "trick",
+  "phat_am": "trik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lừa dối",
+          "definition": "something which is done, said etc in order to cheat or deceive someone, and sometimes to frighten them or make them appear stupid",
+          "world_new": [
+            "order",
+            "cheat",
+            "deceive",
+            "frighten",
+            "appear",
+            "stupid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The message was just a trick to get her to leave the room.",
+              "world_new": [
+                "message",
+                "leave",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ảo thuật",
+          "definition": "a clever or skilful action (to amuse etc)",
+          "world_new": [
+            "clever",
+            "skilful",
+            "action",
+            "amuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The magician performed some clever tricks.",
+              "world_new": [
+                "magician",
+                "clever"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ảo",
+          "definition": "intended to deceive or give a certain illusion",
+          "world_new": [
+            "deceive",
+            "certain",
+            "illusion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "trick photography.",
+              "world_new": [
+                "photography"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The prescribed policies are unlikely to work in practice as individuals catch on to the obvious tricks of the government that are permitted in these models.",
+    "What then follows is a wildly animated dream sequence featuring a veritable firework of film tricks.",
+    "The point about the figure in the carpet, of course, is that the critic, who must search for extractable tricks, clues, messages, will never find it.",
+    "No additional \"cognitive\" tricks are needed.",
+    "Showing that certain psychics had used deception, and even replicating their tricks, did not prove that all psychics were fakes.",
+    "Time-trimming tricks for dynamic simulations: splitting force updates to reduce computational work.",
+    "In this case, however, we are looking at one of the tricks that history keeps up its sleeve to confound prediction.",
+    "While this ambiguity can be avoided by various notational tricks, the proliferation of representations wrongly predicts that both gemination and ambisyllabicity could coexist in a single language."
+  ],
+  "list_see_also": [
+    "trickery",
+    "trickster",
+    "tricky",
+    "trickily",
+    "trickiness",
+    "trick question",
+    "do the trick",
+    "play a trick / tricks on",
+    "a trick of the trade",
+    "trick or treat!"
+  ],
+  "list_browse": [
+    "tribunal",
+    "tributary",
+    "tribute",
+    "triceps",
+    "trick",
+    "trick or treat!",
+    "trick question",
+    "trickery",
+    "trickily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070490_bfb424be82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070490_c44eac9b73_o.png",
+      "id_image": "trick_1299395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688624_4aaf0d66fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688624_d74995aba1_o.png",
+      "id_image": "trick_2446572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070520_8bfda25324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070520_7d1558ee38_o.png",
+      "id_image": "trick_849051"
+    }
+  ]
+}

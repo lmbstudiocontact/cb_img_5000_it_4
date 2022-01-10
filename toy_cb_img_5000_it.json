@@ -1,0 +1,96 @@
+{
+  "english": "toy",
+  "phat_am": "toi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ chơi",
+          "definition": "an object made for a child to play with",
+          "world_new": [
+            "object",
+            "child",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got lots of toys for Christmas",
+              "world_new": [
+                "lots",
+                "Christmas"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a toy soldier.",
+              "world_new": [
+                "soldier"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đùa nghịch",
+          "definition": "(with with) to play with in an idle way",
+          "world_new": [
+            "play",
+            "idle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wasn’t hungry and sat toying with his food.",
+              "world_new": [
+                "hungry",
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Then, while putting the magic toys away, the magician accidentally broke a toy.",
+    "Furthermore, children manifested a marked increase in pretend-play with toy objects that were replicas of real objects specifically designed to stand for other objects.",
+    "Which toy did the boy break the brand new window with in the afternoon?",
+    "For the second session, the dyads were instructed to enact the two scripted events (in counterbalanced order) using script-appropriate toys.",
+    "They gathered data in a free-play setting where the presence of toys may have facilitated the use of nonverbal pointing responses.",
+    "It is a rather elegant tool one can use to engage in social activities and share ideas or perhaps coerce others to share their toys.",
+    "In the principal experimental conditions, children first heard either an ignorant or a knowledgeable speaker link a novel word with one of three toys.",
+    "Greek lyric meter is then a carefully orchestrated way of toying with the expectations of metrically sophisticated listeners."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "town hall",
+    "townsfolk",
+    "toxic",
+    "toxin",
+    "toy",
+    "trace",
+    "trace elements",
+    "trachea",
+    "tracing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078955_321a27e890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078955_375e8b7edb_o.png",
+      "id_image": "toy_2276507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386547_263e8260e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386547_e64567155d_o.png",
+      "id_image": "toy_3851210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078880_391cbe453d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078880_a5cf8df45e_o.png",
+      "id_image": "toy_4632480"
+    }
+  ]
+}

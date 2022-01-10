@@ -1,0 +1,86 @@
+{
+  "english": "tolerance",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thông cảm",
+          "definition": "the ability to be fair and understanding to people whose ways, opinions etc are different from one’s own",
+          "world_new": [
+            "ability",
+            "fair",
+            "understanding",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We should always try to show tolerance to other people.",
+              "world_new": [
+                "try",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chịu đựng",
+          "definition": "the ability to resist the effects of eg a drug",
+          "world_new": [
+            "ability",
+            "resist",
+            "effects",
+            "drug"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you take a drug regularly, your body gradually acquires a tolerance of it.",
+              "world_new": [
+                "drug",
+                "regularly",
+                "your",
+                "body",
+                "gradually"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, partial tolerance becomes the perfect alibi for generalized prejudice against the regional varieties and praise of the standard.",
+    "For successful assembly, the parts, once grasped, must be localized, in both position and orientation, within required tolerances for assembly.",
+    "Without their tolerance, commitment and goodwill this work could not have been undertaken.",
+    "First, the highly restricted variance and skewed distribution of the flag burning item essentially guarantees that it will be somewhat independent of other tolerance measures.",
+    "Political tolerance was moderately stable during the 1996-98 period.",
+    "This feature in turn implies sampling in linear time, as soon as a positive tolerance on size is granted.",
+    "To date, most research on tolerance has not attempted to unpack the relative impact of affect towards the group versus affect towards the behaviour.",
+    "Most radiotherapy departments only repeated measurements where the initial reading was outside a set tolerance level."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "toilet water",
+    "toiletries",
+    "token",
+    "tolerable",
+    "tolerance",
+    "tolerant",
+    "tolerantly",
+    "tolerate",
+    "toleration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389882_0d003fc492_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389882_e5186f2677_o.png",
+      "id_image": "tolerance_6032489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459778_0a37e690de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459778_b88bb79a62_o.png",
+      "id_image": "tolerance_708655"
+    }
+  ]
+}

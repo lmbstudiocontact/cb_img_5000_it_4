@@ -1,0 +1,141 @@
+{
+  "english": "skin",
+  "phat_am": "skin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "da, bì",
+          "definition": "the natural outer covering of an animal or person",
+          "world_new": [
+            "natural",
+            "outer",
+            "covering",
+            "animal",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She couldn’t stand the feel of wool against her skin",
+              "world_new": [
+                "stand",
+                "feel",
+                "wool"
+              ]
+            },
+            {
+              "ex_of_definition": "A snake can shed its skin.",
+              "world_new": [
+                "snake",
+                "shed",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vỏ",
+          "definition": "a thin outer layer, as on a fruit",
+          "world_new": [
+            "thin",
+            "outer",
+            "layer",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a banana skin",
+              "world_new": [
+                "banana"
+              ]
+            },
+            {
+              "ex_of_definition": "onion skins.",
+              "world_new": [
+                "onion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp vỏ, lớp phủ",
+          "definition": "a (thin) film or layer that forms on a liquid",
+          "world_new": [
+            "film",
+            "layer",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Boiled milk often has a skin on it.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lột da, bóc vỏ",
+          "definition": "to remove the skin from",
+          "world_new": [
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He skinned and cooked the rabbit.",
+              "world_new": [
+                "rabbit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Three patients believed that the gel caused sedation; no troubles with skin irritation or muscle spasms were reported.",
+    "The relative proportions of the area of acidic compartments/schistosomulum were almost half in the skin forms as compared to that in the mechanical forms.",
+    "It is also considered a useful adjunct to all other treatments as part of skin cancer prevention.",
+    "In a frictional, pluralistic, society, we expect persons to have a certain thickness of skin.",
+    "The first skin panel will then be tacked in place and mechanically fastened.",
+    "We included all articles with a primary emphasis on health, such as articles focusing on breast cancer screening or skin cancer prevention.",
+    "Bodies here are a porous material where skin is less a limit than a portal.",
+    "Myelinating cells were visualized through the transparent skin with an inverted confocal laser-scanning microscope."
+  ],
+  "list_see_also": [
+    "skin-diving",
+    "skin flick",
+    "skinhead",
+    "skin-tight",
+    "by the skin of one’s teeth"
+  ],
+  "list_browse": [
+    "skimp",
+    "skimpily",
+    "skimpiness",
+    "skimpy",
+    "skin",
+    "skin flick",
+    "skin-diving",
+    "skin-tight",
+    "skinhead"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450378_24326ea7c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450378_d2326b8c4a_o.png",
+      "id_image": "skin_2037378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450363_016228d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450363_c96b7c5de6_o.png",
+      "id_image": "skin_2269004"
+    }
+  ]
+}

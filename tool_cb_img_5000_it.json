@@ -1,0 +1,78 @@
+{
+  "english": "tool",
+  "phat_am": "tuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công cụ",
+          "definition": "an instrument for doing work, especially by hand",
+          "world_new": [
+            "instrument",
+            "work",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "hammers, saws and other tools"
+            },
+            {
+              "ex_of_definition": "the tools of his trade",
+              "world_new": [
+                "trade"
+              ]
+            },
+            {
+              "ex_of_definition": "Advertising is a powerful tool.",
+              "world_new": [
+                "powerful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "toolbar"
+  ],
+  "list_browse": [
+    "tonsil",
+    "tonsillitis",
+    "too",
+    "too bad",
+    "tool",
+    "toolbar",
+    "toot",
+    "tooth",
+    "tooth and nail"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458903_b3c34fe776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458903_fb0051bb6e_o.png",
+      "id_image": "tool_1870930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344066_67881d737f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344066_e72f6ae408_o.png",
+      "id_image": "tool_4301256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389182_eb3063a7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389182_531a6443da_o.png",
+      "id_image": "tool_452704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458948_d532d7caaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458948_53aba136e1_o.png",
+      "id_image": "tool_966733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699289_346e55dfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699289_4cbde04c4a_o.png",
+      "id_image": "tool_966734"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "teacher",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giáo viên",
+          "definition": "a person who teaches, especially in a school",
+          "world_new": [
+            "person",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a French/history/physics teacher."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But despite such differences, they agreed that teaching content was more effectively delivered by their music teachers.",
+    "The notion of initial teacher training being an area where 'training has long since replaced genuine education' (p. 30) also rings true.",
+    "The technical advice included is limited to that which teachers might need to know to manage learning effectively.",
+    "Such an example could be of use to teachers working out their own ways of teaching musics from around the world.",
+    "Student teachers may be placed in schools where music is taught well and generously resourced.",
+    "The authors nonetheless effectively argue for pairing qualitative and quantitative techniques based on the teacher-researcher's specific pedagogical concerns.",
+    "If teachers have ever told you, that you don't put a comma before that, they were right.",
+    "Both teacher training and teaching have undergone fundamental changes in the past four decades."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tea towel",
+    "teabag",
+    "teach",
+    "teach one’s grandmother to suck eggs",
+    "teacher",
+    "teaching",
+    "teacup",
+    "teak",
+    "team"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091035_bac69824f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091035_f030009b36_o.png",
+      "id_image": "teacher_1100233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091080_79538e344a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091080_61623ebebd_o.png",
+      "id_image": "teacher_843307"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "saw",
+  "phat_am": "soː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái cưa",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used a saw to cut through the branch.",
+              "world_new": [
+                "cut",
+                "branch"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cưa, xẻ",
+          "definition": "to cut with a saw",
+          "world_new": [
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sawed the log in two.",
+              "world_new": [
+                "log"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He saw it simply as the basis for better care.",
+    "They enjoyed drinking, saw its positive benefits, particularly that it was relaxing, and valued their social lives, which drinking was a part of.",
+    "In another condition, subjects saw the figure in the two orientations - and the results were virtually identical to what was found in imagery.",
+    "The following years, moreover, arguably saw the law shed its associations with the gentry and aristocracy that had been characteristic of earlier decades.",
+    "Both g roups saw advantages and limitations in each system.",
+    "Both sought to expose the reality, as they saw it, of their opponent's politics.",
+    "Regulators saw the agencies' analysis as a straightforward, putatively objective framework for the regulation of financial institutions' exposure to credit risk.",
+    "In this representation, the internal order of the self we saw above is disrupted as the self literally gravitates through attraction toward another."
+  ],
+  "list_see_also": [
+    "sawdust",
+    "sawmill"
+  ],
+  "list_browse": [
+    "saviour",
+    "savour",
+    "savour of",
+    "savoury",
+    "saw",
+    "sawdust",
+    "sawmill",
+    "saxophone",
+    "saxophonist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333326_d479aaf323_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333326_ab57b38be3_o.png",
+      "id_image": "saw_928774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688334_9632f5b671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688334_4af981c001_o.png",
+      "id_image": "saw_972741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688294_738dc1c614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688294_2cf14030a2_o.png",
+      "id_image": "saw_972744"
+    }
+  ]
+}

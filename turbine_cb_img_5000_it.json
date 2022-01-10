@@ -1,0 +1,75 @@
+{
+  "english": "turbine",
+  "phat_am": "ˈtəːbain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tua bin",
+          "definition": "a type of motor, operated by the action of water, steam, gas etc",
+          "world_new": [
+            "type",
+            "motor",
+            "action",
+            "water",
+            "steam",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a steam turbine.",
+              "world_new": [
+                "steam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The work concerns the preliminary design of gas turbine engine cooling hole geometries.",
+    "On a coarse level, however, gas turbines use the same operating principles.",
+    "The wind turbine is a 'green' marker in the community and the energy centre will become a didactic facility.",
+    "The third loop is a steam turbine cycle.",
+    "In parallel, the vibration or hum from wind turbines discourage their inclusion as part of building structures for human occupation.",
+    "In the gas turbine domain, the experts concentrated on the former such as spikes, oscillations, and steps.",
+    "The four-step methodology is applied to data from a gas turbine power plant.",
+    "Generators are fairly large devices that consist of a few basic components: inlet system, compressor, combustor, turbine, and exhaust system."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tungsten",
+    "tunic",
+    "tunnel",
+    "turban",
+    "turbine",
+    "turbo-",
+    "turbulence",
+    "turbulent",
+    "turbulently"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684074_a97824ce9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684074_21d1d298ac_o.png",
+      "id_image": "turbine_271868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684039_756f671825_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684039_3ab8056438_o.png",
+      "id_image": "turbine_471535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328966_64b942cd81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328966_644fd2da01_o.png",
+      "id_image": "turbine_803965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065755_eb53f68ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065755_c15606d56c_o.png",
+      "id_image": "turbine_804544"
+    }
+  ]
+}

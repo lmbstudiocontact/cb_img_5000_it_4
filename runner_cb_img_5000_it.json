@@ -1,0 +1,84 @@
+{
+  "english": "runner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chạy",
+          "definition": "a person who runs",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are five runners in this race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường trượt",
+          "definition": "the long narrow part on which a sledge etc moves",
+          "world_new": [
+            "long",
+            "narrow",
+            "part",
+            "sledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He polished the runners of the sledge",
+              "world_new": [
+                "polished",
+                "sledge"
+              ]
+            },
+            {
+              "ex_of_definition": "an ice-skate runner.",
+              "world_new": [
+                "ice-skate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực vật thân bò",
+          "definition": "a long stem of a plant which puts down roots.",
+          "world_new": [
+            "long",
+            "stem",
+            "plant"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "run-down",
+    "run/take the risk (of)",
+    "runaway",
+    "rung",
+    "runner",
+    "runner-up",
+    "running",
+    "runny",
+    "runway"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383992_f11d3b1c55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383992_77223cd233_o.png",
+      "id_image": "runner_1397159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383947_2dc63c26e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383947_2da83f2e5d_o.png",
+      "id_image": "runner_6040288"
+    }
+  ]
+}

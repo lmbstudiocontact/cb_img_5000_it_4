@@ -1,0 +1,66 @@
+{
+  "english": "toothache",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đau răng",
+          "definition": "a pain in a tooth",
+          "world_new": [
+            "pain",
+            "tooth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has / is suffering from toothache.",
+              "world_new": [
+                "suffering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This we promptly removed, giving the lady permanent freedom from toothache.",
+    "I was talking to a village woman not long ago who complained bitterly of severe toothache from a decayed tooth.",
+    "No-one else can have my toothache, this toothache, one wants to say.",
+    "Most of us go to the dentist when we have toothache, or if we think we may have decay in a tooth.",
+    "It is often at what lies in front of our eyes and escapes our notice : a meeting, a tune, the change of seasons, an enemy, a friend, a toothache.",
+    "On the other hand there is no dearth of recipes and prescriptions to ease headaches, toothaches and various other illness-induced forms of suffering.",
+    "Then dentists are very necessary, because curing a toothache is more important than the headache which the lawyers are likely to give us.",
+    "In 20 years there could be no more denal caries, toothache, oral disease or periodontology."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "toolbar",
+    "toot",
+    "tooth",
+    "tooth and nail",
+    "toothache",
+    "toothbrush",
+    "toothless",
+    "toothpaste",
+    "toothpick"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458598_712181ae91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458598_44e6abc7fd_o.png",
+      "id_image": "toothache_1386878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458558_67df45f7f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458558_40a3fdcc24_o.png",
+      "id_image": "toothache_1700156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699004_7391631c7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699004_d53afa7bfd_o.png",
+      "id_image": "toothache_2332845"
+    }
+  ]
+}

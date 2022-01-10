@@ -1,0 +1,67 @@
+{
+  "english": "signboard",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biển hiệu",
+          "definition": "a board with a notice",
+          "world_new": [
+            "board",
+            "notice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the garden was a signboard which read ‘House for Sale’.",
+              "world_new": [
+                "garden",
+                "read"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Money is already spent on signboards at each site from project funds.",
+    "In total, 419 signboards and 575 tokens of spatial descriptions were collected for the current study.",
+    "I also interviewed several signboard producers in the region in order to obtain insiders' information regarding the processes leading to the final product.",
+    "Located within the picnic area is a signboard indicating the start of the trail.",
+    "Signboards should be put up.",
+    "As can easily be imagined, the intersections and their surrounding areas are the most preferred spots for building signboards.",
+    "Spelling according to auditorium's signboard is a centre for stage productions.",
+    "Let us now imagine that an interested driver happens to miss the first or second half of the information on these signboards."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sign up",
+    "signal",
+    "signalman",
+    "signature",
+    "signboard",
+    "significance",
+    "significant",
+    "significantly",
+    "signify"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384227_9f9510f6f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384227_010c15b37a_o.png",
+      "id_image": "signboard_290960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384217_8f3c78497f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384217_56b22b5e73_o.png",
+      "id_image": "signboard_699676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076380_b9d374b85f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076380_2ce9a55e70_o.png",
+      "id_image": "signboard_958900"
+    }
+  ]
+}

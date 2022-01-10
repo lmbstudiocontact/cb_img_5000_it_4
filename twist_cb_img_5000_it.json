@@ -1,0 +1,177 @@
+{
+  "english": "twist",
+  "phat_am": "twist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xoay, vặn",
+          "definition": "to turn round (and round)",
+          "world_new": [
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He twisted the knob",
+              "world_new": [
+                "twisted",
+                "knob"
+              ]
+            },
+            {
+              "ex_of_definition": "The road twisted through the mountains.",
+              "world_new": [
+                "road",
+                "twisted"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xoắn, bện",
+          "definition": "to wind around or together",
+          "world_new": [
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He twisted the piece of string (together) to make a rope.",
+              "world_new": [
+                "twisted",
+                "piece",
+                "string",
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm nhăn, làm méo",
+          "definition": "to force out of the correct shape or position",
+          "world_new": [
+            "force",
+            "correct",
+            "shape",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The heat of the fire twisted the metal",
+              "world_new": [
+                "heat",
+                "fire",
+                "twisted",
+                "metal"
+              ]
+            },
+            {
+              "ex_of_definition": "He twisted her arm painfully.",
+              "world_new": [
+                "twisted",
+                "arm",
+                "painfully"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự làm méo",
+          "definition": "the act of twisting.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "vật bị làm méo",
+          "definition": "a twisted piece of something",
+          "world_new": [
+            "twisted",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He added a twist of lemon to her drink.",
+              "world_new": [
+                "added",
+                "lemon",
+                "drink"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xoắn, cuộn, vặn",
+          "definition": "a turn, coil etc",
+          "world_new": [
+            "turn",
+            "coil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a twist in the rope.",
+              "world_new": [
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thay đổi hướng",
+          "definition": "a change in direction (of a story etc)",
+          "world_new": [
+            "change",
+            "direction",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The story had a strange twist at the end.",
+              "world_new": [
+                "story",
+                "strange"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "twisted",
+    "twister"
+  ],
+  "list_browse": [
+    "twine",
+    "twinge",
+    "twinkle",
+    "twirl",
+    "twist",
+    "twisted",
+    "twister",
+    "twit",
+    "twitch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092210_e895e23a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092210_522aaf9aeb_o.png",
+      "id_image": "twist_4601189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354821_965d5d761c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354821_205de14d05_o.png",
+      "id_image": "twist_5376883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354786_3e8fdfab5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354786_40423e07e0_o.png",
+      "id_image": "twist_5776293"
+    }
+  ]
+}

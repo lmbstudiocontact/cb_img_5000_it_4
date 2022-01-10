@@ -1,0 +1,158 @@
+{
+  "english": "toast",
+  "phat_am": "təust",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nướng",
+          "definition": "to make (bread etc) brown in front of direct heat",
+          "world_new": [
+            "brown",
+            "front",
+            "direct",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We toasted slices of bread for tea.",
+              "world_new": [
+                "toasted",
+                "bread",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh mỳ nướng",
+          "definition": "bread that has been toasted",
+          "world_new": [
+            "bread",
+            "toasted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always has two pieces of toast for breakfast.",
+              "world_new": [
+                "breakfast"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "uống mừng",
+          "definition": "to drink ceremonially in honour of, or to wish success to (someone or something)",
+          "world_new": [
+            "drink",
+            "ceremonially",
+            "honour",
+            "wish",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We toasted the bride and bridegroom / the new ship.",
+              "world_new": [
+                "toasted",
+                "bride",
+                "bridegroom",
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nâng cốc chúc mừng",
+          "definition": "an act of toasting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s drink a toast to our friends!",
+              "world_new": [
+                "drink",
+                "our"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời chúc mừng",
+          "definition": "the wish conveyed, or the person etc honoured, by such an act.",
+          "world_new": [
+            "wish",
+            "person",
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are sent here to roast him and toast him to the best of our ability, and that is what we are going to do.",
+    "Cooking a proper meal for one is time-consuming and meals may become limited to tea, toast and biscuits.",
+    "I lived on toast and soup and things like that.",
+    "So limited are the staples materials and real estate of an atoll-dweller that less toast and tea, beans, bread and chips which are the staples of poor people's diets.",
+    "I am afraid the exuberant gentleman at the dinner who proposed the toast did not sufficiently think where the analogy might lead him.",
+    "So far from controversy, we had a most delightful evening; and we drank only one toast.",
+    "I can imagine how the people concerned with these stories would scream if there were no milk on their doorstep or butter on their toast.",
+    "Not all the toasts were so political."
+  ],
+  "list_see_also": [
+    "toasted",
+    "toaster",
+    "toaster oven",
+    "toast rack"
+  ],
+  "list_browse": [
+    "to the minute",
+    "to-do",
+    "toad",
+    "toadstool",
+    "toast",
+    "toast rack",
+    "toasted",
+    "toaster",
+    "toaster oven"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701149_bf0928e9d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701149_ededafed24_o.png",
+      "id_image": "toast_129203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346146_3765006e30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346146_4ed2c7d710_o.png",
+      "id_image": "toast_1404941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391102_9eea98c250_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391102_e28f550bd5_o.png",
+      "id_image": "toast_1404960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460933_992612684e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460933_6aefeab289_o.png",
+      "id_image": "toast_816205"
+    }
+  ]
+}

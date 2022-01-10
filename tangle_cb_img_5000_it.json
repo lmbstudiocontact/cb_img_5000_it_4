@@ -1,0 +1,83 @@
+{
+  "english": "tangle",
+  "phat_am": "ˈtӕŋɡl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mớ lộn xộn",
+          "definition": "an untidy, confused or knotted state",
+          "world_new": [
+            "untidy",
+            "confused",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child’s hair was in a tangle.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "àm lộn xộn",
+          "definition": "to make or become tangled",
+          "world_new": [
+            "become",
+            "tangled"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t tangle my wool when I’m knitting.",
+              "world_new": [
+                "my",
+                "wool",
+                "knitting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The complexity of the arguments is itself a reflection of the tangle of factors determining current spelling practice.",
+    "The fundamental continuity of environmental media and ecosystems raises the specter of large-scale indivisibilities and a complex tangle of joint and multiple uses.",
+    "Exploration existed within a tangle of pressures, obligations, and the demands of an attentive public.",
+    "One of the four bounds to the former neighbor atoms is then tangling and produces p-conduction.",
+    "Specifically, he noticed the presence of homoclinic tangles and inferred that the series solutions of the equations of motion diverge.",
+    "This is quite a different \"tangle\" than the experience of fright without solution.",
+    "Dealing with these tagliatelli-like tangles demands continual abstraction to seek order, deeper meaning and more unifying links.",
+    "I shall not tangle with issues of this kind."
+  ],
+  "list_see_also": [
+    "tangled",
+    "tangle with"
+  ],
+  "list_browse": [
+    "tangerine",
+    "tangibility",
+    "tangible",
+    "tangibly",
+    "tangle",
+    "tangle with",
+    "tangled",
+    "tango",
+    "tangram"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326951_471fe2f774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326951_70329d0bb3_o.png",
+      "id_image": "tangle_5376775"
+    }
+  ]
+}

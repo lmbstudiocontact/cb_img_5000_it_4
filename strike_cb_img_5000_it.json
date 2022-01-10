@@ -1,0 +1,327 @@
+{
+  "english": "strike",
+  "phat_am": "straik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh, đập",
+          "definition": "to hit, knock or give a blow to",
+          "world_new": [
+            "hit",
+            "knock",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He struck me in the face with his fist",
+              "world_new": [
+                "face",
+                "fist"
+              ]
+            },
+            {
+              "ex_of_definition": "Why did you strike him?"
+            },
+            {
+              "ex_of_definition": "The stone struck me a blow on the side of the head",
+              "world_new": [
+                "stone",
+                "blow",
+                "side",
+                "head"
+              ]
+            },
+            {
+              "ex_of_definition": "His head struck the table as he fell",
+              "world_new": [
+                "head",
+                "table",
+                "fell"
+              ]
+            },
+            {
+              "ex_of_definition": "The tower of the church was struck by lightning.",
+              "world_new": [
+                "tower",
+                "church",
+                "lightning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tấn công",
+          "definition": "to attack",
+          "world_new": [
+            "attack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The enemy troops struck at dawn",
+              "world_new": [
+                "enemy",
+                "troops",
+                "dawn"
+              ]
+            },
+            {
+              "ex_of_definition": "We must prevent the disease striking again.",
+              "world_new": [
+                "prevent",
+                "disease",
+                "striking"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh, điểm",
+          "definition": "to produce (sparks or a flame) by rubbing",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He struck a match/light"
+            },
+            {
+              "ex_of_definition": "He struck sparks from the stone with his knife.",
+              "world_new": [
+                "stone",
+                "knife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bãi công, đình công",
+          "definition": "(of workers) to stop work as a protest, or in order to force employers to give better pay",
+          "world_new": [
+            "stop",
+            "work",
+            "protest",
+            "order",
+            "force",
+            "better",
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The men decided to strike for higher wages."
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm ra, tìm thấy",
+          "definition": "to discover or find",
+          "world_new": [
+            "discover",
+            "find"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After months of prospecting they finally struck gold/oil",
+              "world_new": [
+                "finally"
+              ]
+            },
+            {
+              "ex_of_definition": "If we walk in this direction, we may strike the right path.",
+              "world_new": [
+                "walk",
+                "direction",
+                "right",
+                "path"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gõ, đánh",
+          "definition": "to (make something) sound",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He struck a note on the piano/violin",
+              "world_new": [
+                "note"
+              ]
+            },
+            {
+              "ex_of_definition": "The clock struck twelve.",
+              "world_new": [
+                "clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ấn tượng, cảm kích",
+          "definition": "to impress, or give a particular impression to (a person)",
+          "world_new": [
+            "impress",
+            "particular",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was struck by the resemblance between the two men",
+              "world_new": [
+                "I",
+                "resemblance"
+              ]
+            },
+            {
+              "ex_of_definition": "How does the plan strike you?",
+              "world_new": [
+                "plan"
+              ]
+            },
+            {
+              "ex_of_definition": "It / The thought struck me that she had come to borrow money.",
+              "world_new": [
+                "thought",
+                "borrow",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúc, sản xuất",
+          "definition": "to mint or manufacture (a coin, medal etc).",
+          "world_new": [
+            "mint",
+            "manufacture",
+            "coin",
+            "medal"
+          ]
+        },
+        {
+          "mean_english": "đi vào, tới, đến",
+          "definition": "to go in a certain direction",
+          "world_new": [
+            "certain",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He left the path and struck (off) across the fields.",
+              "world_new": [
+                "left",
+                "path",
+                "across"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạ cờ",
+          "definition": "to lower or take down (tents, flags etc).",
+          "world_new": [
+            "lower"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bãi công",
+          "definition": "an act of striking",
+          "world_new": [
+            "act",
+            "striking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a miners’ strike."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đột nhiên dò đúng",
+          "definition": "a discovery of oil, gold etc",
+          "world_new": [
+            "discovery",
+            "oil",
+            "gold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a lucky strike.",
+              "world_new": [
+                "lucky"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, the court has often struck down the administrative decisions.",
+    "His intent focus on the singer's offstage poise suggests how much he has yet to learn about striking a pose and deflecting the gaze.",
+    "However, threats to personal safety, health, or life come in many different forms, for example, when a natural disaster strikes or during armed conflicts.",
+    "Moreover, the high proportion of isolates resistant to kanamycin and nalidixic acid is striking.",
+    "The strike wave of the early 1890s was accompanied by an extraordinary level of violence.",
+    "One striking aspect of the entire piece is the behaviour of the solo bass line.",
+    "And being real may well strike us as a substantial property.",
+    "The way forward is more likely to lie in striking the right balance between the planners and the searchers."
+  ],
+  "list_see_also": [
+    "striker",
+    "striking",
+    "strikingly",
+    "be (out) on strike",
+    "call a strike",
+    "come out on strike",
+    "come/be within striking distance of",
+    "strike at",
+    "strike an attitude / a pose",
+    "strike a balance",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "strictly speaking",
+    "strictness",
+    "stride",
+    "strife",
+    "strike",
+    "strike a balance",
+    "strike a bargain/agreement",
+    "strike a blow for",
+    "strike an attitude / a pose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387392_c4d3086a73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387392_66af4db739_o.png",
+      "id_image": "strike_2529786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079785_a1f9359b9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079785_1963a61e9c_o.png",
+      "id_image": "strike_3476427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079735_525ae688cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079735_4504a6024b_o.png",
+      "id_image": "strike_4144478"
+    }
+  ]
+}

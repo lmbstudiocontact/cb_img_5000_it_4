@@ -1,0 +1,108 @@
+{
+  "english": "trap",
+  "phat_am": "trӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bẫy",
+          "definition": "a device for catching animals",
+          "world_new": [
+            "device",
+            "catching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He set a trap to catch the bear",
+              "world_new": [
+                "catch",
+                "bear"
+              ]
+            },
+            {
+              "ex_of_definition": "a mousetrap.",
+              "world_new": [
+                "mousetrap"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kế hoạch để bẫy",
+          "definition": "a plan or trick for taking a person by surprise",
+          "world_new": [
+            "plan",
+            "trick",
+            "person",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She led him into a trap"
+            },
+            {
+              "ex_of_definition": "He fell straight into the trap.",
+              "world_new": [
+                "fell",
+                "straight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt bẫy",
+          "definition": "to catch in a trap or by a trick",
+          "world_new": [
+            "catch",
+            "trick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives by trapping animals and selling their fur",
+              "world_new": [
+                "their",
+                "fur"
+              ]
+            },
+            {
+              "ex_of_definition": "She trapped him into admitting that he liked her."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "trapper",
+    "trapdoor"
+  ],
+  "list_browse": [
+    "transportation",
+    "transporter",
+    "transvestism",
+    "transvestite",
+    "trap",
+    "trapdoor",
+    "trapeze",
+    "trapezium",
+    "trapezius"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073490_2738b88d45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073490_1f951b4168_o.png",
+      "id_image": "trap_4293743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381512_2f7a6f6afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381512_6131fda25b_o.png",
+      "id_image": "trap_4293848"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "english": "suit",
+  "phat_am": "suːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ com lê, trang phục",
+          "definition": "a set of clothes usually all of the same cloth etc, made to be worn together, eg a jacket, trousers (and waistcoat) for a man, or a jacket and skirt or trousers for a woman",
+          "world_new": [
+            "clothes",
+            "cloth",
+            "worn",
+            "jacket",
+            "trousers",
+            "jacket",
+            "skirt",
+            "trousers"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tailored suit."
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ quần áo",
+          "definition": "a piece of clothing for a particular purpose",
+          "world_new": [
+            "piece",
+            "clothing",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bathing suit / diving suit.",
+              "world_new": [
+                "bathing",
+                "diving"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc kiện cáo",
+          "definition": "a case in a law court",
+          "world_new": [
+            "case",
+            "law",
+            "court"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won/lost his suit."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời thỉnh cầu",
+          "definition": "an old word for a formal request, eg a proposal of marriage to a lady.",
+          "world_new": [
+            "old",
+            "formal",
+            "request",
+            "proposal",
+            "marriage",
+            "lady"
+          ]
+        },
+        {
+          "mean_english": "hoa",
+          "definition": "one of the four sets of playing-cards – spades, hearts, diamonds, clubs.",
+          "world_new": [
+            "spades",
+            "hearts",
+            "diamonds",
+            "clubs"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thích hợp với",
+          "definition": "to satisfy the needs of, or be convenient for",
+          "world_new": [
+            "satisfy",
+            "convenient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The arrangements did not suit us",
+              "world_new": [
+                "arrangements"
+              ]
+            },
+            {
+              "ex_of_definition": "The climate suits me very well.",
+              "world_new": [
+                "climate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp với",
+          "definition": "(of clothes, styles, fashions etc) to be right or appropriate for",
+          "world_new": [
+            "clothes",
+            "right",
+            "appropriate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Long hair suits her",
+              "world_new": [
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "That dress doen’t suit her.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp ứng nhu cầu",
+          "definition": "to adjust or make appropriate or suitable",
+          "world_new": [
+            "adjust",
+            "appropriate",
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He suited his speech to his audience.",
+              "world_new": [
+                "suited",
+                "speech",
+                "audience"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some research has begun to examine family experiences in dynamic ways which may be suited to future evaluations of welfare reform policy.",
+    "They completely lack any apparatus suited to confronting phenomena of this order.",
+    "Second, the 1-ha method clearly suits many purposes reasonably well - as we discuss further below it is an important multi-purpose protocol.",
+    "Such singing activities would be specifically designed to suit pre-pubertal children.",
+    "As it would appear, nothing is better suited to prevent a revolutionary upheaval than the licensed revolt enacted in carnival.",
+    "The five codes discussed show large differences in the physics included and the mesh handling, which makes them suited to different problems.",
+    "Policy makers should neither ask for firm conclusions when they do not exist, nor interpret scientific results to suit preferred policy outcomes.",
+    "A theoretical perspective that is well suited to guiding the empirical investigation of such pathways may be found in the field of developmental psychopathology."
+  ],
+  "list_see_also": [
+    "suited",
+    "suitor",
+    "suitcase",
+    "follow suit",
+    "suit down to the ground",
+    "suit oneself"
+  ],
+  "list_browse": [
+    "suggestion",
+    "suicidal",
+    "suicidally",
+    "suicide",
+    "suit",
+    "suit (someone) down to the ground",
+    "suit down to the ground",
+    "suit oneself",
+    "suitability"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383397_ecbe801295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383397_178bd26022_o.png",
+      "id_image": "suit_2600934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453468_26c23ebb11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453468_cb59cd7734_o.png",
+      "id_image": "suit_281385"
+    }
+  ]
+}

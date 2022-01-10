@@ -1,0 +1,119 @@
+{
+  "english": "sparkle",
+  "phat_am": "ˈspaːkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tóe lửa, sự lấp lánh",
+          "definition": "an effect like that made by little sparks",
+          "world_new": [
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a sudden sparkle as her diamond ring caught the light.",
+              "world_new": [
+                "sudden",
+                "diamond",
+                "ring",
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sắc sảo, lanh lợi",
+          "definition": "liveliness or brightness",
+          "world_new": [
+            "liveliness",
+            "brightness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has lots of sparkle.",
+              "world_new": [
+                "lots"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tóe lửa, lấp lánh",
+          "definition": "to glitter, as if throwing off tiny sparks",
+          "world_new": [
+            "glitter",
+            "tiny"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The snow sparkled in the sunlight.",
+              "world_new": [
+                "snow",
+                "sunlight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỏ ra sắc sảo, linh lợi",
+          "definition": "to be lively or witty",
+          "world_new": [
+            "lively",
+            "witty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She really sparkled at that party.",
+              "world_new": [
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The best time of day to see the falls is in full sunlight when the water sparkles the most.",
+    "His eyes were little protruding eyes, and they sparkled like stars.",
+    "Zintar was cast in both a silver sparkled plastic and also in plain light gray plastic.",
+    "She sparkles, sizzles and infuses energy into the film.",
+    "The wings are mouse-grey, sparkled with black atoms and crossed by 4 zig-zag white stripes.",
+    "In their works, sparkling, romantic, affectionate, lyric, and virtuoso passages flow and coexist effortlessly.",
+    "The tomb, a square chamber, is made of local quartzite rubble with a surface plaster finish that sparkled in white colour when completed.",
+    "Of the water he noted, it is clearly natural, and not artificial, and sparkles as clear as crystal."
+  ],
+  "list_see_also": [
+    "sparkling"
+  ],
+  "list_browse": [
+    "sparing",
+    "sparingly",
+    "spark",
+    "spark plug",
+    "sparkle",
+    "sparkling",
+    "sparring-partner",
+    "sparrow",
+    "sparse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680064_a4f4a49a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680064_9e09d5b3cf_o.png",
+      "id_image": "sparkle_1890795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680044_ec7a7624fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680044_2448172ba2_o.png",
+      "id_image": "sparkle_2519211"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "english": "shot",
+  "phat_am": "ʃot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phát đạn",
+          "definition": "a single act of shooting",
+          "world_new": [
+            "single",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fired one shot."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng đạn được bắn đi",
+          "definition": "the sound of a gun being fired",
+          "world_new": [
+            "sound",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He heard a shot."
+            }
+          ]
+        },
+        {
+          "mean_english": "cú đánh bóng, cú sút bóng",
+          "definition": "a throw, hit, turn etc in a game or competition",
+          "world_new": [
+            "throw",
+            "hit",
+            "turn",
+            "game",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s your shot",
+              "world_new": [
+                "your"
+              ]
+            },
+            {
+              "ex_of_definition": "Can I have a shot?",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "He played some good shots in that tennis match",
+              "world_new": [
+                "tennis",
+                "match"
+              ]
+            },
+            {
+              "ex_of_definition": "Good shot!"
+            }
+          ]
+        },
+        {
+          "mean_english": "sự làm thử",
+          "definition": "an attempt",
+          "world_new": [
+            "attempt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know if I can do that, but I’ll have a shot (at it).",
+              "world_new": [
+                "I",
+                "know",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viên đạn",
+          "definition": "something which is shot or fired, especially small lead bullets used in cartridges",
+          "world_new": [
+            "small",
+            "lead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "lead shot.",
+              "world_new": [
+                "lead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bức ảnh",
+          "definition": "a photograph, especially a scene in a film",
+          "world_new": [
+            "photograph",
+            "scene",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a close-up shot.",
+              "world_new": [
+                "close-up"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liều tiêm",
+          "definition": "an injection",
+          "world_new": [
+            "injection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor gave me a shot.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà thiện xạ",
+          "definition": "a marksman",
+          "world_new": [
+            "marksman"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a good shot."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "shotgun",
+    "like a shot",
+    "a shot in the dark"
+  ],
+  "list_browse": [
+    "shorthand",
+    "shortly",
+    "shortness",
+    "shorts",
+    "shot",
+    "shotgun",
+    "should",
+    "should/would like",
+    "shoulder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697949_fa28aeb63d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697949_dfe9241ca5_o.png",
+      "id_image": "shot_1651815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457458_601ed3ebc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457458_0d11c9d80e_o.png",
+      "id_image": "shot_3564467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080210_d8f8a6a6c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080210_4963217b19_o.png",
+      "id_image": "shot_572307"
+    }
+  ]
+}

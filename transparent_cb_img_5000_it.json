@@ -1,0 +1,66 @@
+{
+  "english": "transparent",
+  "phat_am": "trӕnsˈpӕrənt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể nhìn xuyên qua",
+          "definition": "able to be seen through",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The box has a transparent lid.",
+              "world_new": [
+                "box",
+                "lid"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All these measurements indicate that the inner array is, in both configurations, transparent to the incoming flux of the coronal plasma from the outer array.",
+    "An advantage of the zebrafish is its transparent nature during embryonic and larval stages.",
+    "The interactions between the researcher and researched are uncovered, mistakes are revealed and the way in which data is generated becomes more transparent.",
+    "The target is mostly still transparent to the probe light, although it is becoming opaque near the interaction region.",
+    "Moreover, the proof in [14] is significantly simpler and more transparent.",
+    "A transparent and participatory policy-making process provides a mechanism for ex ante preference revelation.",
+    "Our approach gives the programmer a transparent denotational semantics that can be used to check that programmes meet their specifications.",
+    "In reality, however, decision makers may deviate from this utilitarian perspective for very rational and transparent reasons."
+  ],
+  "list_see_also": [
+    "transparently",
+    "transparency"
+  ],
+  "list_browse": [
+    "transmission",
+    "transmit",
+    "transmitter",
+    "transparency",
+    "transparent",
+    "transparently",
+    "transpiration",
+    "transpire",
+    "transplant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692299_d3b52f0fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692299_2dc68a097d_o.png",
+      "id_image": "transparent_5261923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336906_ced84f860a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336906_31744fe0b4_o.png",
+      "id_image": "transparent_5454022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336871_14f5762457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336871_b57d971298_o.png",
+      "id_image": "transparent_5518082"
+    }
+  ]
+}

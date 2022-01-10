@@ -1,0 +1,147 @@
+{
+  "english": "squash",
+  "phat_am": "skwoʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ép ,nén",
+          "definition": "to press, squeeze or crush",
+          "world_new": [
+            "press",
+            "squeeze",
+            "crush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tried to squash too many clothes into his case",
+              "world_new": [
+                "clothes",
+                "case"
+              ]
+            },
+            {
+              "ex_of_definition": "The tomatoes got squashed (flat) at the bottom of the shopping-bag.",
+              "world_new": [
+                "bottom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bóp chết, đàn áp",
+          "definition": "to defeat (a rebellion etc).",
+          "world_new": [
+            "defeat",
+            "rebellion"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đám đông chen nhau",
+          "definition": "a state of being squashed or crowded",
+          "world_new": [
+            "state",
+            "crowded"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a great squash in the doorway.",
+              "world_new": [
+                "great",
+                "doorway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước uống bằng hoa quả ép",
+          "definition": "(a particular flavour of) a drink containing the juice of crushed fruit",
+          "world_new": [
+            "particular",
+            "flavour",
+            "drink",
+            "juice",
+            "fruit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have some orange squash!",
+              "world_new": [
+                "orange"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bóng quần",
+          "definition": "(also squash rackets) a type of game played in a walled court with rackets and a rubber ball.",
+          "world_new": [
+            "type",
+            "game",
+            "walled",
+            "court",
+            "rubber",
+            "ball"
+          ]
+        },
+        {
+          "mean_english": "cây bí",
+          "definition": "a vegetable or plant of the gourd family.",
+          "world_new": [
+            "vegetable",
+            "plant",
+            "gourd",
+            "family"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Less popular single-fruit squashes are also produced, such as pineapple, pomegranate, raspberry, and strawberry.",
+    "Summers et al. (1983) used brain squashes to count larval numbers and histology to detail pathology relative to brain location.",
+    "In terms of squashing an emergency all experience shows that to be the case.",
+    "Irrigated agriculture based on corn, beans, and squash provides carbohydrates and some protein.",
+    "Milk as a drink is in competition with various soft drinks, such as squashes and that type of production.",
+    "Acorn squashes typically weigh one to two pounds and are between four and seven inches long.",
+    "Copper and gold are both metals that can be shaped by stretching, rolling, hammering and squashing.",
+    "The dynamism of private industry, agriculture, and wholesaling during 1966-72 was unconscionably squashed by increased centralisation."
+  ],
+  "list_see_also": [
+    "squashy"
+  ],
+  "list_browse": [
+    "square centimetre/metre",
+    "square root",
+    "squared",
+    "squarely",
+    "squash",
+    "squashy",
+    "squat",
+    "squawk",
+    "squeak"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706114_d0484aebeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706114_df239f7d87_o.png",
+      "id_image": "squash_2358695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706084_580283f48d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706084_b7f8bef098_o.png",
+      "id_image": "squash_2503876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466148_7c214298fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466148_36b1ba9048_o.png",
+      "id_image": "squash_2690179"
+    }
+  ]
+}

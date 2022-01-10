@@ -1,0 +1,111 @@
+{
+  "english": "triumph",
+  "phat_am": "ˈtraiamf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiến thắng",
+          "definition": "a great victory or success",
+          "world_new": [
+            "great",
+            "victory",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The battle ended in a triumph for the Romans.",
+              "world_new": [
+                "battle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạnh phúc, niềm vui chiến thắng",
+          "definition": "a state of happiness, celebration, pride etc after a success",
+          "world_new": [
+            "state",
+            "happiness",
+            "celebration",
+            "pride",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They went home in triumph.",
+              "world_new": [
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chiến thắng",
+          "definition": "to win a victory",
+          "world_new": [
+            "win",
+            "victory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Romans triumphed (over their enemies).",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Neither vision has triumphed, yet events since the late 1980s have continued to erode many of the certainties on which modern social science was based.",
+    "American political development offers no historical trajectory, no inevitable march of rights, no irresistible liberal triumphs.",
+    "The triumphs of science have been gained by studying facts.",
+    "The aggrandizing state has run amok and collectivism has triumphed across the globe.",
+    "Green revolution rices and wheats were one of the triumphs of conventional plant breeding.",
+    "In it, the notion of standard appeared at first to have triumphed.",
+    "Most of the major triumphs in eradicating disease in the past century have been through preventive methods.",
+    "He has triumphed where a large number of people have failed, because many of us have been very anxious to discuss the housing situation."
+  ],
+  "list_see_also": [
+    "triumphal",
+    "triumphant",
+    "triumphantly"
+  ],
+  "list_browse": [
+    "trishaw",
+    "trite",
+    "tritely",
+    "triteness",
+    "triumph",
+    "triumphal",
+    "triumphant",
+    "triumphantly",
+    "trivia"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448018_9ff993c6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448018_d5169374c6_o.png",
+      "id_image": "triumph_1805251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069770_0037b9ac62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069770_03229b74f9_o.png",
+      "id_image": "triumph_1961433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377842_e474184aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377842_117277258a_o.png",
+      "id_image": "triumph_708665"
+    }
+  ]
+}

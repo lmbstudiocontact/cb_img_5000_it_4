@@ -1,0 +1,143 @@
+{
+  "english": "salt",
+  "phat_am": "soːlt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "muối",
+          "definition": "(also common salt) sodium chloride, a white substance frequently used for seasoning",
+          "world_new": [
+            "sodium",
+            "chloride",
+            "white",
+            "substance",
+            "frequently",
+            "seasoning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soup needs more salt.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chất đậm đà",
+          "definition": "any other substance formed, like common salt, from a metal and an acid.",
+          "world_new": [
+            "substance",
+            "common",
+            "metal",
+            "acid"
+          ]
+        },
+        {
+          "mean_english": "thủy thủ lão luyện",
+          "definition": "a sailor, especially an experienced one",
+          "world_new": [
+            "sailor",
+            "experienced"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an old salt.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tẩm muối, ướp muối",
+          "definition": "containing, tasting of, preserved in salt",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "salt water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "salt pork.",
+              "world_new": [
+                "pork"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ướp muối, nêm muối",
+          "definition": "to put salt on or in",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you salted the potatoes?",
+              "world_new": [
+                "salted"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The strength of this approach is that it also takes into account the cost of dehydrating the helix backbone and the energy for salt-bridge formation.",
+    "The sabkhas are covered by a salt crust, 3-5 cm thick, under which there lies 25-150 cm of carbonate sand, gypsum and halite.",
+    "There appears to be no correlation between the fitted relaxation time and the polymer or salt concentrations, as observed in shear rheology measurements.",
+    "The salts are exerted from the 'cultivator' at a rate proportional to their concentration.",
+    "This may be due to both the stimulating and antiparasitic effects of mixed crystals of the basic salts.",
+    "They are found in evaporite salt lakes and can be trapped in salt crystals during evaporation.",
+    "Other co-occurrences of elderly with apparently positive adjectives must also be taken with a grain of salt.",
+    "Earth prevented salt from being melted away in water."
+  ],
+  "list_see_also": [
+    "salted",
+    "salty",
+    "saltiness",
+    "bath salts",
+    "the salt of the earth",
+    "take (something) with a grain/pinch of salt"
+  ],
+  "list_browse": [
+    "salmonellosis",
+    "salon",
+    "saloon",
+    "salsa",
+    "salt",
+    "salted",
+    "saltiness",
+    "salty",
+    "salute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691204_64f77c6a42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691204_7e663466e1_o.png",
+      "id_image": "salt_4264778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380947_3588fbcc24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380947_84d68124e3_o.png",
+      "id_image": "salt_4276022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335956_d8be21bf99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335956_bddc6d383f_o.png",
+      "id_image": "salt_877702"
+    }
+  ]
+}

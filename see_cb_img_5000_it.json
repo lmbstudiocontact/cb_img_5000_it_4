@@ -1,0 +1,184 @@
+{
+  "english": "see",
+  "phat_am": "siː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhìn thấy",
+          "definition": "to have the power of sight",
+          "world_new": [
+            "power",
+            "sight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After six years of blindness, he found he could see.",
+              "world_new": [
+                "blindness",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan sát",
+          "definition": "to be aware of by means of the eye",
+          "world_new": [
+            "aware",
+            "means",
+            "eye"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can see her in the garden.",
+              "world_new": [
+                "I",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xem",
+          "definition": "to look at",
+          "world_new": [
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you see that play on television?",
+              "world_new": [
+                "play",
+                "television"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tưởng tượng",
+          "definition": "to have a picture in the mind",
+          "world_new": [
+            "picture",
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I see many difficulties ahead.",
+              "world_new": [
+                "I",
+                "ahead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiểu rõ",
+          "definition": "to understand",
+          "world_new": [
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She didn’t see the point of the joke.",
+              "world_new": [
+                "point",
+                "joke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều tra",
+          "definition": "to investigate",
+          "world_new": [
+            "investigate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave this here and I’ll see what I can do for you.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gặp mặt",
+          "definition": "to meet",
+          "world_new": [
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll see you at the usual time.",
+              "world_new": [
+                "usual",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiễn",
+          "definition": "to accompany",
+          "world_new": [
+            "accompany"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll see you home.",
+              "world_new": [
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tòa giám mục",
+          "definition": "the district over which a bishop or archbishop has authority.",
+          "world_new": [
+            "district",
+            "bishop",
+            "archbishop",
+            "authority"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "see about",
+    "Seeing Eye Dog",
+    "seeing that",
+    "see off",
+    "see out",
+    "see through",
+    "see to",
+    "I/we etc will see"
+  ],
+  "list_browse": [
+    "seduction",
+    "seductive",
+    "sedulous",
+    "sedulously",
+    "see",
+    "see about",
+    "see double",
+    "see eye to eye",
+    "see how the land lies"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368182_673312ff6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368182_edab76979b_o.png",
+      "id_image": "see_3855262"
+    }
+  ]
+}

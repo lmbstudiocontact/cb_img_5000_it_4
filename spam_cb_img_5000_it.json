@@ -1,0 +1,69 @@
+{
+  "english": "spam",
+  "phat_am": "spam",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi nhiều bản sao của một thông điệp",
+          "definition": "to send many copies of a message (= “junk”) on the Internet",
+          "world_new": [
+            "send",
+            "message",
+            "Internet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve been spammed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sending spam and deliberately creating disorder and malfunctions must be made punishable.",
+    "The whole idea of opt-in has been put forward as the solution to end spam.",
+    "False positives - spam that makes it through the filter - are quickly dealt with, and increase the accuracy of the filter with each use.",
+    "The first tries to identify spam mail by the key word cash in the mail subject.",
+    "Why do the governments want to preserve spam ?",
+    "In this domain, the classification tasks to be tackled are twofold: filtering spam is a binary decision, while pre-ordering of mails into existing folders is a more sophisticated learning task.",
+    "Disruptive knowledge or 'semantic spam' will also need to be dealt with.",
+    "What we are being targeted with is not spam."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spaciousness",
+    "spade",
+    "spades",
+    "spaghetti",
+    "spam",
+    "span",
+    "spaniel",
+    "spank",
+    "spanner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369857_0b26128534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369857_2162be379c_o.png",
+      "id_image": "spam_2206453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061860_977f3e1a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061860_29c50d7352_o.png",
+      "id_image": "spam_287395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369847_55eeec83d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369847_e0dfd2b3b1_o.png",
+      "id_image": "spam_3381113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369822_877ed50879_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369822_320a543010_o.png",
+      "id_image": "spam_4676740"
+    }
+  ]
+}

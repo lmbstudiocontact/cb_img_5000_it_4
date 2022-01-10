@@ -1,0 +1,123 @@
+{
+  "english": "underground",
+  "phat_am": "andəˈɡraund",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ở dưới mặt đất",
+          "definition": "below the surface of the ground",
+          "world_new": [
+            "surface",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an underground railway",
+              "world_new": [
+                "railway"
+              ]
+            },
+            {
+              "ex_of_definition": "an underground stream.",
+              "world_new": [
+                "stream"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "dưới mặt đất",
+          "definition": "(to a position) under the surface of the ground",
+          "world_new": [
+            "surface",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Rabbits live underground.",
+              "world_new": [
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngầm, bí mật",
+          "definition": "into hiding",
+          "world_new": [
+            "hiding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He will go underground if the police start looking for him.",
+              "world_new": [
+                "police",
+                "start"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "xe điện ngầm",
+          "definition": "an underground railway; subway American",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hates travelling by/on the underground."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Regulations with respect to petroleum product contamination are much more varied and often relate to underground storage tanks and groundwater aquifers.",
+    "In desperation, they built jetties on the coast and -umed the ®sh in underground pipes from the boats to the processing plants.",
+    "There are a number of gases encountered in underground mines which, in certain concentrations, will explode if given a source of ignition.",
+    "Yes, that is why we have to look at the costing factor of undergrounding as against a huge overall programme.",
+    "In the bedsits and studios of the new music underground, lo-fi is the new hi-fi.",
+    "Almost putting yourself up on a pedestal 'cause you're down with the underground'.",
+    "To many underground consumers, cassettes are thought to be more durable than compact discs.",
+    "Our analysis shows that such uncertainty and short-termism generally increases the cost of completing the underground's investment programme."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "underfoot",
+    "undergarment",
+    "undergo",
+    "undergraduate",
+    "underground",
+    "undergrowth",
+    "underline",
+    "undermine",
+    "underneath"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353976_1ccdd706de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353976_4656c65f8a_o.png",
+      "id_image": "underground_1138100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353946_9e9d25e06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353946_79162ccb9b_o.png",
+      "id_image": "underground_2278424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353916_1d66c39ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353916_5bc5de0198_o.png",
+      "id_image": "underground_6092365"
+    }
+  ]
+}

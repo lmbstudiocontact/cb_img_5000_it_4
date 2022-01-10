@@ -1,0 +1,47 @@
+{
+  "english": "tasty",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đầy vị hương",
+          "definition": "having a good, especially savoury/savory, flavour/flavor",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tasty food.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tastelessly",
+    "tastelessness",
+    "tastiness",
+    "-tasting",
+    "tasty",
+    "tattered",
+    "tatters",
+    "tattoo",
+    "tattooed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354231_97d1611006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354231_2d3f13fe7d_o.png",
+      "id_image": "tasty_1612477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468893_842cbd8eb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468893_3e4c22cc41_o.png",
+      "id_image": "tasty_3508656"
+    }
+  ]
+}

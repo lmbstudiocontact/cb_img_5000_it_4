@@ -1,0 +1,96 @@
+{
+  "english": "taxi",
+  "phat_am": "ˈtӕksi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe tắc xi",
+          "definition": "(also taxi-cab, cab) a car, usually fitted with a taximeter, that can be hired with its driver, especially for short journeys;",
+          "world_new": [
+            "car",
+            "taximeter",
+            "its",
+            "driver",
+            "especially",
+            "short"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took a taxi from the hotel to the station.",
+              "world_new": [
+                "I",
+                "hotel",
+                "station"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy, trượt",
+          "definition": "(of an aeroplane) to move slowly along the ground before beginning to run forward for take-off",
+          "world_new": [
+            "move",
+            "slowly",
+            "ground",
+            "beginning",
+            "run",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane taxied along the runway.",
+              "world_new": [
+                "plane",
+                "runway"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We are concerned with the development of an on-demand transport system of driverless automatic taxis running on their own dedicated guideway network.",
+    "Many stimuli have been shown to elicit a taxis response, such as chemicals (chemotaxis), adhesiveness of the substrate (haptotaxis), oxygen (aerotaxis), and electric fields (galvanotaxis).",
+    "The company's accountant explained to them that they had bought new taxis during the year costing $50,000.",
+    "Many of us use taxis every day to go to and from meetings, social occasions or from the pub.",
+    "Access requirements in transport would mean replacing or retrofitting most existing buses, trains, taxis, boats and planes.",
+    "I become aware of this song everywhere, in taxis, fast food restaurants and bars, at house parties and on radio.",
+    "One-in-five respondents used taxis, but only four indicated that taxis were their main means of getting about.",
+    "Once it became clear that a referendum was unlikely, people invested in, or borrowed for, small enterprises (shops, cafes, taxis, goat herds and pay-per-minute cell phone booths)."
+  ],
+  "list_see_also": [
+    "taximeter",
+    "taxi rank"
+  ],
+  "list_browse": [
+    "tax (someone) with",
+    "tax-free",
+    "taxable",
+    "taxation",
+    "taxi",
+    "taxi rank",
+    "taxidermist",
+    "taxidermy",
+    "taximeter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708484_30eff9ae47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708484_131b810180_o.png",
+      "id_image": "taxi_2358720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468573_82eded2cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468573_c5f04266ee_o.png",
+      "id_image": "taxi_2385527"
+    }
+  ]
+}

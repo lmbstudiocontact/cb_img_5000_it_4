@@ -1,0 +1,102 @@
+{
+  "english": "slack",
+  "phat_am": "slӕk",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chùng , lỏng",
+          "definition": "loose; not firmly stretched",
+          "world_new": [
+            "firmly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave the rope slack.",
+              "world_new": [
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỏng, không chắc chắn",
+          "definition": "not firmly in position",
+          "world_new": [
+            "firmly",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tightened a few slack screws."
+            }
+          ]
+        },
+        {
+          "mean_english": "bê trễ, chểnh mảng",
+          "definition": "not strict; careless",
+          "world_new": [
+            "careless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is very slack about getting things done."
+            }
+          ]
+        },
+        {
+          "mean_english": "uể oải, chậm chạp",
+          "definition": "in industry etc, not busy; inactive",
+          "world_new": [
+            "industry",
+            "inactive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Business has been rather slack lately.",
+              "world_new": [
+                "rather",
+                "lately"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Can we have a guarantee that there will be no slacking off in the married quarters programme?",
+    "The fact is that we are slacking now.",
+    "Great schemes have been undertaken resulting in intense activity for a short time, and then there has been a slacking off resulting in unemployment.",
+    "After 1880 immigration slacked off and growth was due chiefly to the excess of births over deaths.",
+    "His personality was that of a humorous, extroverted, immature slacker.",
+    "He had on a white shirt and a pair of gray slacks.",
+    "During the week the girls wear a navy pleated skirt, white middy blouse, and tie, while boys wear khaki slacks and a white polo shirt.",
+    "I do not want to say that they are all idling and slacking; that would be wicked, and it would be untrue."
+  ],
+  "list_see_also": [
+    "slacken",
+    "slackly",
+    "slackness",
+    "slacks"
+  ],
+  "list_browse": [
+    "skyline",
+    "skyrocket",
+    "skyscraper",
+    "slab",
+    "slack",
+    "slacken",
+    "slackly",
+    "slackness",
+    "slacks"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379762_6981a2bfb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379762_c233702afb_o.png",
+      "id_image": "slack_2111611"
+    }
+  ]
+}

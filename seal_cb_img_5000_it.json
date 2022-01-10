@@ -1,0 +1,181 @@
+{
+  "english": "seal",
+  "phat_am": "siːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu niêm phong",
+          "definition": "a piece of wax or other material bearing a design, attached to a document to show that it is genuine and legal.",
+          "world_new": [
+            "piece",
+            "wax",
+            "material",
+            "bearing",
+            "design",
+            "attached",
+            "document",
+            "genuine",
+            "legal"
+          ]
+        },
+        {
+          "mean_english": "con dấu",
+          "definition": "a piece of wax etc used to seal a parcel etc.",
+          "world_new": [
+            "piece",
+            "wax",
+            "parcel"
+          ]
+        },
+        {
+          "mean_english": "xi, chì để gắn lỗ thủng",
+          "definition": "(something that makes) a complete closure or covering",
+          "world_new": [
+            "complete",
+            "closure",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Paint and varnish act as protective seals for woodwork.",
+              "world_new": [
+                "varnish",
+                "act",
+                "protective",
+                "woodwork"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng dấu",
+          "definition": "to mark with a seal",
+          "world_new": [
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The document was signed and sealed.",
+              "world_new": [
+                "document"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bịt kín",
+          "definition": "(opposite unseal) to close completely",
+          "world_new": [
+            "close",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He licked and sealed the envelope",
+              "world_new": [
+                "envelope"
+              ]
+            },
+            {
+              "ex_of_definition": "All the air is removed from a can of food before it is sealed.",
+              "world_new": [
+                "air",
+                "food"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định đoạt số mệnh",
+          "definition": "to settle or decide",
+          "world_new": [
+            "settle",
+            "decide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This mistake sealed his fate.",
+              "world_new": [
+                "mistake",
+                "fate"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hải cẩu",
+          "definition": "any of several types of sea animal, some furry, living partly on land.",
+          "world_new": [
+            "sea",
+            "animal",
+            "furry",
+            "living",
+            "partly",
+            "land"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The balance was sealed to prevent leakage through the hole.",
+    "Interestingly, the wax seals were already affixed when the supplication was presented for signature.",
+    "We hypothesized that the iceobligate and ice-associated seals would aggregate in packice habitats in mid and late austral summer to forage and molt.",
+    "Occasionally, instead of a signature, petitioners marked documents with personal seals.",
+    "Vehicles are strongly discouraged from approaching closer than 50 m from seals, and closer approaches should be on foot.",
+    "After positioning the electrode carrier, the hole was covered with agar and sealed with dental cement.",
+    "Alternative port systems have been studied, in particular the radially expanding systems,17,18 which may provide both an anchoring and sealing function.",
+    "The grave consisted of a simple limestone slab-lined crypt originally closed by a wooden lid sealed in place with plaster."
+  ],
+  "list_see_also": [
+    "sealing wax",
+    "seal of approval",
+    "seal off",
+    "set one’s seal to"
+  ],
+  "list_browse": [
+    "seafaring",
+    "seafood",
+    "seafront",
+    "seagull",
+    "seal",
+    "seal of approval",
+    "seal off",
+    "sealing wax",
+    "sealskin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440343_5718654b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440343_1c1fab4bd6_o.png",
+      "id_image": "seals_1401083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062230_13d06345b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062230_a5f892a314_o.png",
+      "id_image": "seal_184333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680509_7da4d27d0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680509_81ce7cd843_o.png",
+      "id_image": "seal_2445326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680474_f091342ee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680474_6c26fd3383_o.png",
+      "id_image": "seal_5018461"
+    }
+  ]
+}

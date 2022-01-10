@@ -1,0 +1,89 @@
+{
+  "english": "snowfall",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự rơi nhiều tuyết",
+          "definition": "a fall or shower of snow that settles on the ground",
+          "world_new": [
+            "fall",
+            "shower",
+            "snow",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a heavy snowfall last night.",
+              "world_new": [
+                "heavy",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lượng tuyết rơi",
+          "definition": "the amount of snow that falls in a certain place",
+          "world_new": [
+            "amount",
+            "snow",
+            "falls",
+            "certain",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The snowfall last year was much higher than average.",
+              "world_new": [
+                "year",
+                "average"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am thinking especially of a line which joins villages which are often isolated in winter by heavy snowfalls.",
+    "However, cotyledons did not emerge prior to snowfall.",
+    "What will happen if we have another snowfall like the one that we had recently?",
+    "One woman recalled an incident on the farm not long after a heavy snowfall.",
+    "If there are serious snowfalls resulting in abnormal expenditure, then the whole situation will have to be examined.",
+    "There has been less snowfall and what has fallen has been melting quicker than it used to melt.",
+    "What already promised to be a poor harvest was then followed by an early snowfall that buried the crop before it could be harvested.",
+    "By contrast, relatively harsh winters can occur in some of the more elevated areas of its distribution, coincidentally the sites with higher parasitism rates, with snowfalls and frequent freezing temperatures."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snowboard",
+    "snowdrift",
+    "snowdrop",
+    "snowed under",
+    "snowfall",
+    "snowflake",
+    "snowman",
+    "snowstorm",
+    "snowy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373567_02a6b642f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373567_a768015700_o.png",
+      "id_image": "snowfall_2439646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328756_12a75bbd46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328756_a0dda9103e_o.png",
+      "id_image": "snowfall_3248538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373487_ba0fba86af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373487_7f17d227ff_o.png",
+      "id_image": "snowfall_6400754"
+    }
+  ]
+}

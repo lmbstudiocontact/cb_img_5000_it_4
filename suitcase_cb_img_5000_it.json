@@ -1,0 +1,68 @@
+{
+  "english": "suitcase",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "va li",
+          "definition": "a case with flat sides for clothes etc, used by a person when travelling",
+          "world_new": [
+            "case",
+            "flat",
+            "clothes",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hastily packed his (clothes in his) suitcase.",
+              "world_new": [
+                "hastily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Gernott stands, crosses to pick up his suitcase.",
+    "Frankly, that is a paltry figure if one loses a suitcase full of clothes.",
+    "The example they present is of someone recognizing her or his suitcase as it moves on a conveyer belt.",
+    "They have purses, bags, and suitcases like travellers or refugees.",
+    "I do not recognize suitcases and then detect motion.",
+    "The event of approaching a suitcase is very complicated visually.",
+    "That day, when he returned from his well-paid, responsible position—a pillar of society, if one likes—his wife had packed her suitcase ready to go.",
+    "One can see their anxiety when they desperately look and think they see their suitcase and then realise it is not theirs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "suitability",
+    "suitable",
+    "suitableness",
+    "suitably",
+    "suitcase",
+    "suite",
+    "suited",
+    "suitor",
+    "sulk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338386_7fcef3264b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338386_2fafc0352a_o.png",
+      "id_image": "suitcase_289905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383282_ea18ff3957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383282_cfac4756f1_o.png",
+      "id_image": "suitcase_290332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338296_7eab178601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338296_6f865e3f2f_o.png",
+      "id_image": "suitcase_495994"
+    }
+  ]
+}

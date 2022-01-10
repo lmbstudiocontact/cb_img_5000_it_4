@@ -1,0 +1,87 @@
+{
+  "english": "slavery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng nô lệ",
+          "definition": "the state of being a slave",
+          "world_new": [
+            "state",
+            "slave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sold into slavery."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chiếm hữu nô lệ",
+          "definition": "the system of ownership of slaves.",
+          "world_new": [
+            "system",
+            "ownership"
+          ]
+        },
+        {
+          "mean_english": "công việc được trả công rẻ mạt",
+          "definition": "very hard and badly-paid work",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her job is sheer slavery.",
+              "world_new": [
+                "job",
+                "sheer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This includes an analysis of the legacies of plantation slavery, immigration and a frontier-society for social structures, race relations, and the use of land.",
+    "Slavery is here imagined as occurring within the mind, as lack of independence from a particular idea or way of thinking.",
+    "The interplay of hierarchy and independence occurs in all of the incidents of employment attached to the offices charged with the enforcement of slavery."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slatted",
+    "slaughter",
+    "slaughter-house",
+    "slave",
+    "slavery",
+    "slay",
+    "sleaze",
+    "sleazy",
+    "sledge"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071400_e854166db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071400_a11c8a1733_o.png",
+      "id_image": "slavery_1396585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334426_4b077f731d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334426_5d9dcbf1ac_o.png",
+      "id_image": "slavery_3782230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334396_96fe7a4132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334396_33e27695e6_o.png",
+      "id_image": "slavery_4110378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334331_ee5df6150f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334331_546f40676e_o.png",
+      "id_image": "slavery_4484310"
+    }
+  ]
+}

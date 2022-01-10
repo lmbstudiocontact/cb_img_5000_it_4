@@ -1,0 +1,67 @@
+{
+  "english": "uncle",
+  "phat_am": "ˈaŋkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chú, bác, cậu , dượng",
+          "definition": "the brother of a person’s father or mother, or the husband of an aunt",
+          "world_new": [
+            "brother",
+            "father",
+            "mother",
+            "husband",
+            "aunt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s my uncle",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "Hallo, Uncle Jim!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I was lucky enough to get £1,000 of his uncle's money.",
+    "We have seen our fathers, our uncles, and other relatives come out from the mines in the prime years of life.",
+    "The rest lived with more distant relatives such as uncles and aunts, nephews and nieces or cousins.",
+    "Their fathers, their uncles, their grandfathers had all been sailors.",
+    "In particular, coreless (' no family ') households made it their duty : unmarried or widowed siblings, nephews and uncles, and so on, lived together in their latter days.",
+    "In my uncle's case, the hospital did not countenance any dose of morphine that might shorten his life, even by the smallest amount.",
+    "After 1915, he was invited to fill some of his uncle's engagements.",
+    "There was an average of 6 to 7 members per household, which could include grandparents, aunts, uncles, cousins and live-in household help."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "uncertain",
+    "uncertainly",
+    "uncivil",
+    "uncivilly",
+    "uncle",
+    "unclean",
+    "unclear",
+    "uncoil",
+    "uncomfortable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354216_da7ea08348_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354216_8759c982c7_o.png",
+      "id_image": "uncle_4786300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468903_8492f8e0e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468903_f52e95375c_o.png",
+      "id_image": "uncle_859954"
+    }
+  ]
+}

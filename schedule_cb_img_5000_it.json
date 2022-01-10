@@ -1,0 +1,90 @@
+{
+  "english": "schedule",
+  "phat_am": "ˈʃedjuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kế hoạch",
+          "definition": "a statement of details, especially of timing of activities, or of things to be done",
+          "world_new": [
+            "statement",
+            "timing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a work schedule for next month.",
+              "world_new": [
+                "work",
+                "month"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lên kế hoạch",
+          "definition": "to plan the time of (an event etc)",
+          "world_new": [
+            "plan",
+            "time",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meeting is scheduled for 9.00 a.m.",
+              "world_new": [
+                "meeting",
+                "m"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She had returned to her active schedule with friends, and volunteering.",
+    "It aggressively exploits the parallelism made possible by sending requests to multiple remote data sources simultaneously and by scheduling tasks to run on multiple processors.",
+    "The surgical team wants to schedule the patient for open-heart surgery.",
+    "In later years this schedule could be reduced.",
+    "The outcomes of six different vaccination schedules were examined.",
+    "If the first contact could not be scheduled prior to hospital discharge, a home visit was scheduled as close to discharge as possible.",
+    "For the efficacy of the method, the authors stress the importance of strict adherence to the dosing schedule and destruction of non-dosed stray dogs.",
+    "They will only be removed if growers appreciate the significance of compaction and exercise greater patience in organizing their planting schedule."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sceptical",
+    "sceptically",
+    "scepticism",
+    "sceptre",
+    "schedule",
+    "schematic",
+    "schematically",
+    "scheme",
+    "schemer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375627_f2f8a8225c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375627_103f474b0e_o.png",
+      "id_image": "schedule_1652892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445963_3dd27be57a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445963_d3a14a3efa_o.png",
+      "id_image": "schedule_313078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445928_827bbc6e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445928_3de1ddf35c_o.png",
+      "id_image": "schedule_735204"
+    }
+  ]
+}

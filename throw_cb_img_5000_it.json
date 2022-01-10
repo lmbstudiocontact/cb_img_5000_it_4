@@ -1,0 +1,143 @@
+{
+  "english": "throw",
+  "phat_am": "θrəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ném",
+          "definition": "to send through the air with force; to hurl or fling",
+          "world_new": [
+            "send",
+            "air",
+            "hurl",
+            "fling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He threw the ball to her / threw her the ball.",
+              "world_new": [
+                "ball",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hất ngã, làm ngã",
+          "definition": "(of a horse) to make its rider fall off",
+          "world_new": [
+            "its",
+            "rider",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My horse threw me.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lúng túng",
+          "definition": "to puzzle or confuse",
+          "world_new": [
+            "puzzle",
+            "confuse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was completely thrown by her question.",
+              "world_new": [
+                "completely",
+                "question"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật ngã",
+          "definition": "(in wrestling, judo etc) to wrestle (one’s opponent) to the ground.",
+          "world_new": [
+            "wrestling",
+            "judo",
+            "wrestle",
+            "ground"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ném",
+          "definition": "an act of throwing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That was a good throw!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His diplomatic approach throws the problems back to the opponents' side.",
+    "The following two experiments were designed to throw light on these options.",
+    "Although it would be time-consuming to undertake, an analysis of such cases might throw light upon the circumstances in which he preferred the reiterated note.",
+    "These throw new light on her musical activities and help us to understand the context and significance of her public concerts in 1760 and 1761.",
+    "Issues of governance, patronage and regional bias within the country, which could throw interesting light on the assessment of democracy, are not considered.",
+    "But they do not throw a direct light on particular economic problems of our age.",
+    "This causes a perturbation in the initial conditions of the next step throwing the trajectory off the surfaces.",
+    "And when he ate he threw it up."
+  ],
+  "list_see_also": [
+    "throw away",
+    "throw doubt on",
+    "throw in",
+    "throw light on",
+    "throw oneself into",
+    "throw off",
+    "throw open",
+    "throw out",
+    "throw a party",
+    "throw up",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "through the (kind) offices of",
+    "through thick and thin",
+    "through with",
+    "throughout",
+    "throw",
+    "throw a party",
+    "throw a spanner in the works",
+    "throw away",
+    "throw doubt on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393577_dbca405dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393577_72c2850869_o.png",
+      "id_image": "throw_1128888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348756_f21660b147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348756_974b977eee_o.png",
+      "id_image": "throw_5612843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463583_762ea9fb3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463583_9a1d688688_o.png",
+      "id_image": "throw_843900"
+    }
+  ]
+}

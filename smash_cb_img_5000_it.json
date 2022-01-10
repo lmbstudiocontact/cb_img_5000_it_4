@@ -1,0 +1,163 @@
+{
+  "english": "smash",
+  "phat_am": "smӕʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đập tan thành từng mảnh",
+          "definition": "(sometimes with up) to (cause to) break in pieces or be ruined",
+          "world_new": [
+            "break",
+            "ruined"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plate dropped on the floor and smashed into little pieces",
+              "world_new": [
+                "plate",
+                "floor"
+              ]
+            },
+            {
+              "ex_of_definition": "This unexpected news had smashed all his hopes",
+              "world_new": [
+                "unexpected",
+                "news"
+              ]
+            },
+            {
+              "ex_of_definition": "He had an accident and smashed up his car.",
+              "world_new": [
+                "accident",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đâm, va mạnh vào",
+          "definition": "to strike with great force; to crash",
+          "world_new": [
+            "strike",
+            "great",
+            "crash"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car smashed into a lamp-post.",
+              "world_new": [
+                "car",
+                "lamp-post"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự vỡ ra thành từng mảnh, sự đâm mạnh vào",
+          "definition": "(the sound of) a breakage; a crash",
+          "world_new": [
+            "sound",
+            "crash"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A plate fell to the ground with a smash",
+              "world_new": [
+                "plate",
+                "fell",
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "There has been a bad car smash.",
+              "world_new": [
+                "bad",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú đấm mạnh",
+          "definition": "a strong blow",
+          "world_new": [
+            "strong",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave his opponent a smash on the jaw.",
+              "world_new": [
+                "opponent",
+                "jaw"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú đập bóng",
+          "definition": "in tennis etc, a hard downward shot",
+          "world_new": [
+            "tennis",
+            "downward",
+            "shot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She won the point with a powerful overarm smash.",
+              "world_new": [
+                "point",
+                "powerful",
+                "overarm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is about smashing the power of guilt feelings by profession and, therefore, confession of wayward passions.",
+    "Negatively, 'social democracy' served as an emancipating force to smash the trammels of the social net woven by all traditional forces.",
+    "For the first time in human history, the connection between political power and urban construction would be smashed.",
+    "In expressions, '+' denotes addition, '-' denotes proper subtraction, and '#' denotes the smash function.",
+    "During one particular storm the vessel shipped a very heavy sea that smashed the gangway and a lifeboat aft, and snapped off ventilators.",
+    "To accomplish this, she produces an oh-prefaced, epistemically upgraded assessment: oh they were smashing.",
+    "There are also a fair number of other objects one can use to smash or hold things down, build or decorate them.",
+    "Sherds from spatially separate areas in these deposits often fit together, prompting the inference that whole vessels were ceremonially smashed and then scattered."
+  ],
+  "list_see_also": [
+    "smashing",
+    "smash hit"
+  ],
+  "list_browse": [
+    "smart card",
+    "smarten",
+    "smartly",
+    "smartness",
+    "smash",
+    "smash hit",
+    "smashing",
+    "smear",
+    "smell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331631_7b7c944cd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331631_b1738be772_o.png",
+      "id_image": "smash_2867437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686619_22e51a3f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686619_3c711a336c_o.png",
+      "id_image": "smash_3295344"
+    }
+  ]
+}

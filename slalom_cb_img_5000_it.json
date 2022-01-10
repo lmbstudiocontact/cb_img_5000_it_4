@@ -1,0 +1,78 @@
+{
+  "english": "slalom",
+  "phat_am": "ˈslaːləm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc thi trượt băng",
+          "definition": "a ski race down a winding course marked by flags; a similar race for canoes in water",
+          "world_new": [
+            "ski",
+            "race",
+            "winding",
+            "course",
+            "marked",
+            "similar",
+            "race",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a slalom race",
+              "world_new": [
+                "race"
+              ]
+            },
+            {
+              "ex_of_definition": "a slalom course.",
+              "world_new": [
+                "course"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In 1962, he became double world student champion in alpine skiing's slalom and alpine combined event.",
+    "The aim is to maneuver a skier through a downhill ski course, a slalom course, and a ski jumping competition in the shortest time possible.",
+    "The straighter sidecut allows skis to make long, fast, highly stable turns (radius around 30m for giant slalom, even more for most mogul skis).",
+    "In the slalom, he coincided with his brother in eighth place in the giant slalom and in eleventh.",
+    "He won a gold medal in the giant slalom with a combined run time of 2:03.15, 0.43 seconds faster than the silver medallists.",
+    "Up to six players compete individually on either a downhill or slalom course to see who can complete the course the fastest.",
+    "Among the most popular are ice hockey, football, tennis, handball, basketball, volleyball, whitewater slalom or athletics.",
+    "Figure 6 shows a slalom maneuver steered by a human driver trying to avoid three obstacles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slacken",
+    "slackly",
+    "slackness",
+    "slacks",
+    "slalom",
+    "slam",
+    "slander",
+    "slang",
+    "slant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689809_cea62d8b34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689809_3570be457f_o.png",
+      "id_image": "slalom_3118226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071665_8968d030b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071665_fb4a57ffcf_o.png",
+      "id_image": "slalom_3677352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689844_9b503d0f23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689844_d7209306a3_o.png",
+      "id_image": "slalom_661942"
+    }
+  ]
+}

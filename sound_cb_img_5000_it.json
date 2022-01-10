@@ -1,0 +1,302 @@
+{
+  "english": "sound",
+  "phat_am": "saund",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khoẻ mạnh, trong tình trạng tốt",
+          "definition": "strong or in good condition",
+          "world_new": [
+            "strong",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The foundations of the house are not very sound",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s 87, but he’s still sound in mind and body.",
+              "world_new": [
+                "mind",
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yên giấc, ngon",
+          "definition": "(of sleep) deep",
+          "world_new": [
+            "deep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a very sound sleeper.",
+              "world_new": [
+                "sleeper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầy đủ, kĩ lưỡng",
+          "definition": "full; thorough",
+          "world_new": [
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sound basic training.",
+              "world_new": [
+                "basic",
+                "training"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng đắn, có cơ sở",
+          "definition": "accurate; free from mistakes",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sound piece of work.",
+              "world_new": [
+                "piece",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có căn cứ, hợp lí",
+          "definition": "having or showing good judgement or good sense",
+          "world_new": [
+            "judgement",
+            "sense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His advice is always very sound.",
+              "world_new": [
+                "advice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "âm thanh",
+          "definition": "the impressions transmitted to the brain by the sense of hearing",
+          "world_new": [
+            "brain",
+            "sense",
+            "hearing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a barrage of sound",
+              "world_new": [
+                "barrage"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) sound waves."
+            }
+          ]
+        },
+        {
+          "mean_english": "âm thanh, tiếng động",
+          "definition": "something that is, or can be, heard",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sounds were coming from the garage.",
+              "world_new": [
+                "garage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ấn tượng về tinh thần",
+          "definition": "the impression created in the mind by a piece of news, a description etc",
+          "world_new": [
+            "impression",
+            "mind",
+            "piece",
+            "news",
+            "description"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I didn’t like the sound of her hairstyle at all!",
+              "world_new": [
+                "I",
+                "hairstyle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho phát ra âm thanh",
+          "definition": "to (cause something to) make a sound",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sound the bell!",
+              "world_new": [
+                "bell"
+              ]
+            },
+            {
+              "ex_of_definition": "The bell sounded.",
+              "world_new": [
+                "bell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo , báo hiệu",
+          "definition": "to signal (something) by making a sound",
+          "world_new": [
+            "signal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sound the alarm!",
+              "world_new": [
+                "alarm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghe như, nghe có vẻ",
+          "definition": "(of something heard or read) to make a particular impression; to seem; to appear",
+          "world_new": [
+            "particular",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your singing sounded very good",
+              "world_new": [
+                "singing"
+              ]
+            },
+            {
+              "ex_of_definition": "That sounds like a train.",
+              "world_new": [
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phát âm, đọc",
+          "definition": "to pronounce",
+          "world_new": [
+            "pronounce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the word ‘pneumonia’, the letter p is not sounded.",
+              "world_new": [
+                "letter",
+                "p"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gõ để nghe bệnh",
+          "definition": "to examine by tapping and listening carefully",
+          "world_new": [
+            "examine",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sounded the patient’s chest.",
+              "world_new": [
+                "chest"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dò, đo độ sâu",
+          "definition": "to measure the depth of (water etc).",
+          "world_new": [
+            "measure",
+            "depth"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were then told to put the sounds together to say the whole word.",
+    "The speakers are placed in a position that allows the sound to bounce across the water surface.",
+    "Participants were tested and trained in small groups in a sound-attenuated room.",
+    "The rules of the language, including the words, are posited to be precisely what the processing system uses in constructing mappings between sound and meaning.",
+    "They searched for some convincing drum sounds, and experimented with responses that imitated, inverted or varied a call.",
+    "Two types of voice-specific system are discussed here, both of which were developed for reasons other than sound manipulation.",
+    "This is a new synthesis technique that can generate sounds from slow movements of mechanical systems.",
+    "That is, there is a commonality of effect consistent with this region's role in the integration of sound and meaning."
+  ],
+  "list_see_also": [
+    "soundly",
+    "soundness",
+    "sound asleep"
+  ],
+  "list_browse": [
+    "soul-destroying",
+    "soulful",
+    "soulfully",
+    "soulless",
+    "sound",
+    "sound asleep",
+    "sound effects",
+    "sound out",
+    "sounding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440553_cdc604b1b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440553_4e9ca20d60_o.png",
+      "id_image": "sound_2106028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325546_79318b5472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325546_09a69d59cf_o.png",
+      "id_image": "sound_3098130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325566_14e486c653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325566_48c337e4bd_o.png",
+      "id_image": "sound_316553"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "sheriff",
+  "phat_am": "ˈʃerif",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quận trưởng",
+          "definition": "in the United States, the chief law officer of a county, concerned with maintaining peace and order",
+          "world_new": [
+            "chief",
+            "law",
+            "officer",
+            "county",
+            "peace",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the sheriff of the county.",
+              "world_new": [
+                "county"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During a sequence of leapfrogging justice extending over five years, the respective duties of sheriffs, marshals, court clerks, federal commissioners, and judges would all become issues of litigation.",
+    "No, because honorary sheriffs do not get paid.",
+    "The police refer such cases where children are alleged to have committed a crime both to the reporter and to the sheriffs chambers.",
+    "I have no doubt that the vast majority of sheriffs are manifestly sane and would not want to put themselves in that position.",
+    "Sheriffs usually impose a fine of £2, possibly £3, or £4, but seldom £5.",
+    "There is the matter of the relationship between the clerks and the judges and the sheriffs.",
+    "The appointment of honorary sheriffs is not my responsibility.",
+    "The sheriffs are simply preposterous in their treatment of the people."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shelter",
+    "sheltered",
+    "shelve",
+    "shepherd",
+    "sheriff",
+    "sherry",
+    "shield",
+    "shift",
+    "shiftily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082595_d2d61d0b84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082595_f266dd6992_o.png",
+      "id_image": "sheriff_1338015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345111_52532c92f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345111_40fc04d546_o.png",
+      "id_image": "sheriff_3060315"
+    }
+  ]
+}

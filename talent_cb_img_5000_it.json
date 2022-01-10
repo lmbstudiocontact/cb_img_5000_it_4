@@ -1,0 +1,59 @@
+{
+  "english": "talent",
+  "phat_am": "ˈtӕlənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài năng",
+          "definition": "a special ability or cleverness; a skill",
+          "world_new": [
+            "special",
+            "ability",
+            "skill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a talent for drawing.",
+              "world_new": [
+                "drawing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "talented"
+  ],
+  "list_browse": [
+    "takings",
+    "talc",
+    "talcum",
+    "tale",
+    "talent",
+    "talented",
+    "talisman",
+    "talk",
+    "talk (someone) into / out of (doing)"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682564_3497667e17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682564_1586aeacb4_o.png",
+      "id_image": "talent_1900291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372082_50815854d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372082_d07dfe28e5_o.png",
+      "id_image": "talent_4752730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682579_163c223774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682579_cfdb672ed0_o.png",
+      "id_image": "talent_536874"
+    }
+  ]
+}

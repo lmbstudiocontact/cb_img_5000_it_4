@@ -1,0 +1,69 @@
+{
+  "english": "stranger",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người lạ",
+          "definition": "a person who is unknown to oneself",
+          "world_new": [
+            "person",
+            "unknown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve met her once before, so she’s not a complete stranger (to me).",
+              "world_new": [
+                "once",
+                "complete"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người xa lạ",
+          "definition": "a visitor",
+          "world_new": [
+            "visitor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t tell you where the post office is – I’m a stranger here myself.",
+              "world_new": [
+                "I",
+                "tell",
+                "office"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "strange to say/tell/relate",
+    "strangely",
+    "strangely enough",
+    "strangeness",
+    "stranger",
+    "strangle",
+    "strangulation",
+    "strap",
+    "strap in"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081405_508fb78279_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081405_f878abba63_o.png",
+      "id_image": "stranger_5778991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081350_4327a52313_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081350_cb4fecfe35_o.png",
+      "id_image": "stranger_5783745"
+    }
+  ]
+}

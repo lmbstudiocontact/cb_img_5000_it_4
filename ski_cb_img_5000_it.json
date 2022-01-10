@@ -1,0 +1,118 @@
+{
+  "english": "ski",
+  "phat_am": "skiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ván trượt tuyết",
+          "definition": "one of a pair of long narrow strips of wood etc that are attached to the feet for gliding over snow, water etc.",
+          "world_new": [
+            "pair",
+            "long",
+            "narrow",
+            "wood",
+            "attached",
+            "gliding",
+            "snow",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trượt tuyết",
+          "definition": "to travel on or use skis especially as a leisure activity",
+          "world_new": [
+            "travel",
+            "leisure",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He broke his leg when he was skiing.",
+              "world_new": [
+                "broke",
+                "leg",
+                "skiing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "liên quan đến xki",
+          "definition": "of or for the activity of skiing",
+          "world_new": [
+            "activity",
+            "skiing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ski-suits"
+            },
+            {
+              "ex_of_definition": "ski-jump."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Schematic illustration of a snowboard or ski compressing a thin layer of fresh powder.",
+    "There is a similar notch, 1.27 cm (0.5 in) wide, cut in the middle along the length of the entire underside of the ski.",
+    "But what does 'unsupported' really mean in these days of satellite telephones, emergency beacons, and ski-equipped aircraft?",
+    "Nearly every experienced skier will tell you that skiing on dry powder is like riding on air.",
+    "These special modifications included enclosed pilot cabins, a covered top observation deck, cold-weather engines, ski, and a brake parachute.",
+    "His preparations were extensive with regard to the equipment and included clothing, cooking utensils, skis, and tents.",
+    "A third cohort study was performed with the 107 skiers belonging to the above-mentioned ski group.",
+    "Of the participants in both expeditions, perhaps only three were likely to have possessed extensive experience with ski."
+  ],
+  "list_see_also": [
+    "ski-",
+    "skier",
+    "skiing",
+    "ski jump",
+    "ski jumper",
+    "ski jumping",
+    "ski lift",
+    "ski pole",
+    "ski resort",
+    "ski slope",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "sketchiness",
+    "sketchy",
+    "skew",
+    "skewer",
+    "ski",
+    "ski jump",
+    "ski jumper",
+    "ski jumping",
+    "ski lift"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690904_40dfa5c42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690904_17c579b2d0_o.png",
+      "id_image": "ski_3118218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072565_42c6d840cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072565_f3175d1d73_o.png",
+      "id_image": "ski_4669581"
+    }
+  ]
+}

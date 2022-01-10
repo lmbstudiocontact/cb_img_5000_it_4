@@ -1,0 +1,167 @@
+{
+  "english": "sole",
+  "phat_am": "səul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lòng bàn chân",
+          "definition": "the underside of the foot, the part on which one stands and walks",
+          "world_new": [
+            "underside",
+            "foot",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a blister on the sole of my left foot.",
+              "world_new": [
+                "blister",
+                "my",
+                "left",
+                "foot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đế giày",
+          "definition": "the flat surface of a boot or shoe that covers this part of the foot",
+          "world_new": [
+            "flat",
+            "surface",
+            "boot",
+            "shoe",
+            "part",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a hole in the sole of these shoes.",
+              "world_new": [
+                "hole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá bơn",
+          "definition": "a type of small, flat fish",
+          "world_new": [
+            "type",
+            "small",
+            "flat",
+            "fish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were fishing for sole",
+              "world_new": [
+                "fishing"
+              ]
+            },
+            {
+              "ex_of_definition": "three soles."
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt cá bơn",
+          "definition": "its flesh as food",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had sole for supper.",
+              "world_new": [
+                "supper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "duy nhất",
+          "definition": "only; single",
+          "world_new": [
+            "single"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "my sole purpose/reason.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một mình",
+          "definition": "not shared; belonging to one person or group only",
+          "world_new": [
+            "person",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the sole rights to a book.",
+              "world_new": [
+                "rights",
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He will be pleased to know that there is no great surplus of half soles.",
+    "I am informed that in mind are teeth, feet, and the soles of shoes.",
+    "The owners hit the jackpot, but the fishermen did not even get the lemons to put on the soles, as a result of the death of that industry.",
+    "Vibram also produces soles used exclusively for footwear resoling.",
+    "I understand that this firm to which he has drawn attention is one of the largest manufacturers of leather soles in the country.",
+    "Safety shoes were needed because the caustic soda eats into normal leather soles.",
+    "I was not quite sure whether they were dabs, soles or plaice.",
+    "Quota controls for cod, haddock, whiting, soles, plaice and herring are already in operation, together with other restrictions on gear and landing sizes."
+  ],
+  "list_see_also": [
+    "solely"
+  ],
+  "list_browse": [
+    "solder",
+    "soldering iron",
+    "soldier",
+    "soldier on",
+    "sole",
+    "solely",
+    "solemn",
+    "solemnity",
+    "solemnly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063190_a7004b53ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063190_fbf2114e52_o.png",
+      "id_image": "sole_2670905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063120_74c11582ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063120_5096b51ec8_o.png",
+      "id_image": "sole_5730160"
+    }
+  ]
+}

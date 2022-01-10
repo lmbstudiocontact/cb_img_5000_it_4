@@ -1,0 +1,118 @@
+{
+  "english": "tail",
+  "phat_am": "teil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đuôi",
+          "definition": "the part of an animal, bird or fish that sticks out behind the rest of its body",
+          "world_new": [
+            "part",
+            "animal",
+            "bird",
+            "fish",
+            "rest",
+            "its",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog wagged its tail",
+              "world_new": [
+                "dog",
+                "its"
+              ]
+            },
+            {
+              "ex_of_definition": "A fish swims by moving its tail.",
+              "world_new": [
+                "fish",
+                "moving",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần đuôi",
+          "definition": "anything which has a similar function or position",
+          "world_new": [
+            "similar",
+            "function",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the tail of an aircraft/comet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "theo sát ai",
+          "definition": "to follow closely",
+          "world_new": [
+            "follow",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The detectives tailed the thief to the station.",
+              "world_new": [
+                "thief",
+                "station"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With or without these restrictions, programs may have general recursion, tail recursion, or primitive recursion, yielding six combinations.",
+    "Likewise, loop constructs may be considered (and transformed into) tail-recursive functions and, in their syntactical positions, replaced by the respective function calls.",
+    "Of course recursion may result in run-time overhead, but the authors emphasize how to avoid this by using tail recursion.",
+    "The definition of f is called tail-recursive-think of ' ' as a conditional.",
+    "We can avoid this problem by replacing the tail coupling with an orbit coupling.",
+    "A special close operation writes a null pointer to the tail of an open list, turning it into a normal list.",
+    "By the time anarchists had seized the microphone the imminent danger of the tail trying to wag the dog had become apparent.",
+    "The head was separated from the midpiece and tail by applying one or more piezo pulses."
+  ],
+  "list_see_also": [
+    "-tailed",
+    "tails",
+    "tail-end",
+    "tail light",
+    "tailwind",
+    "tail off"
+  ],
+  "list_browse": [
+    "tadpole",
+    "tag",
+    "tag along",
+    "tag on",
+    "tail",
+    "tail light",
+    "tail off",
+    "tail-end",
+    "-tailed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327896_cf928fb61d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327896_6c0b25312e_o.png",
+      "id_image": "tail_2002609"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327876_453dcdaa64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327876_93d2223926_o.png",
+      "id_image": "tail_3387945"
+    }
+  ]
+}

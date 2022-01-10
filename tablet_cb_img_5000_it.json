@@ -1,0 +1,113 @@
+{
+  "english": "tablet",
+  "phat_am": "ˈtӕblit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viên thuốc",
+          "definition": "a pill",
+          "world_new": [
+            "pill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take these tablets for your headache",
+              "world_new": [
+                "your",
+                "headache"
+              ]
+            },
+            {
+              "ex_of_definition": "a sleeping-tablet (= a tablet to make one sleep)."
+            }
+          ]
+        },
+        {
+          "mean_english": "bánh",
+          "definition": "a flat piece or bar (of soap etc)",
+          "world_new": [
+            "flat",
+            "piece",
+            "bar",
+            "soap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought a tablet of soap.",
+              "world_new": [
+                "I",
+                "soap"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bia mộ",
+          "definition": "a piece of usually stone with a flat surface on which words are engraved etc",
+          "world_new": [
+            "piece",
+            "stone",
+            "flat",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They put up a marble tablet in memory of his father.",
+              "world_new": [
+                "marble",
+                "memory",
+                "father"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy tính bảng",
+          "definition": "(also tablet computer) computing a small one-piece portable computer which the user operates by a touchscreen.",
+          "world_new": [
+            "small",
+            "portable",
+            "computer",
+            "user"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The calculated total area, together with further information relevant for the administration of the fields, used to be registered on the reverse sides of the tablets.",
+    "If you wish to use 'the pill' you must await your first period before commencing tablets - in the meantime, it is essential for your husband to use a sheath.",
+    "As soon as the cold was established they were asked to take paracetamol tablets, one gram four times daily for two days, from the pack supplied.",
+    "One aspect of the problem is that tablets were not just tools, but were objects which could also serve a symbolic function.",
+    "Double-dummy designs should also be avoided since they add to the total number of tablets to be taken and increase confusion.",
+    "If patients like these are able to control their nausea with fewer tablets, they will exper ience more satisfaction, as well as feeling more independent.",
+    "The new coagulation inhibiting tablets should be assessed as quickly as possible, as they may be able to reduce the need for blood test monitoring.",
+    "Ailments needing tablets ing others."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "table tennis",
+    "tablecloth",
+    "tablespoon",
+    "tablespoonful",
+    "tablet",
+    "tabloid",
+    "taboo",
+    "tack",
+    "tackle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684024_700b1977be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684024_18683da8d9_o.png",
+      "id_image": "tablet_170591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443908_76439d0bfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443908_8328a039f6_o.png",
+      "id_image": "tablet_326861"
+    }
+  ]
+}

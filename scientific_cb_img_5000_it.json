@@ -1,0 +1,80 @@
+{
+  "english": "scientific",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc khoa học",
+          "definition": "of science",
+          "world_new": [
+            "science"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "scientific discoveries."
+            }
+          ]
+        },
+        {
+          "mean_english": "có kĩ thuật",
+          "definition": "(opposite unscientific) following the rules of science",
+          "world_new": [
+            "following",
+            "science"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "scientific methods."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They see the contemporary selling of antiageing ' therapies ' as part of that tradition, not as genuine scientific endeavour.",
+    "The details of this experience were periodically published [5-8] as well as presented at scientific forums.",
+    "Hence, it will be essential for members of the scientific community, including physician-researchers, to consider the implications of presenting their data in any form.",
+    "Despite these potential benefits, scientific studies evaluating the effectiveness of this exercise machine are limited.",
+    "Moreover, there are complementary scientific approaches to investigate meaning!",
+    "What characteristics distinguish scientific endeavour that seeks an understanding of the fundamental biology of human ageing from quackery and pseudo-science ?",
+    "Scientific theories are often the result of years or decades of hard work, sometimes with many scientists from different laboratories contributing.",
+    "He suggests that most scientists he has encountered care little about taking risks when faced with the sheer joy of scientific inquiry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "schoolteacher",
+    "schooner",
+    "science",
+    "science fiction",
+    "scientific",
+    "scientifically",
+    "scientist",
+    "scintillating",
+    "scissors"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685114_8533c94737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685114_50d37ee6d9_o.png",
+      "id_image": "scientific_1917567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685049_6607785b5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685049_e8b9f96edd_o.png",
+      "id_image": "scientific_2587040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066795_c9c2fa2a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066795_d54b88cf00_o.png",
+      "id_image": "scientific_4507198"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066760_ca0ddd0077_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066760_f35e31be44_o.png",
+      "id_image": "scientific_5345555"
+    }
+  ]
+}

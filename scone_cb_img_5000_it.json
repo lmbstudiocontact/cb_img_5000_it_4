@@ -1,0 +1,65 @@
+{
+  "english": "scone",
+  "phat_am": "skon",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh nướng",
+          "definition": "a kind of small, flat cake made of flour and fat",
+          "world_new": [
+            "kind",
+            "small",
+            "flat",
+            "cake",
+            "flour",
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "scones and jam.",
+              "world_new": [
+                "jam"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He forgot the flour that is used in wealthy households in making scones and cakes.",
+    "I was working in a scone shop for years, selling apricot-studded scones.",
+    "I am assured by a distiller that making whisky is far easier than making a scone.",
+    "Scones sold commercially are usually round, although some brands are hexagonal as this shape may be tessellated for space efficiency.",
+    "The family are welcoming guests to afternoon tea - wartime food rationing would make the home-made scones, jam and cake on offer a very special treat.",
+    "It gives an idea of the scone and potential that is possible as long as we ensure that rules to protect the consumer in that market are logical and effective.",
+    "In recent years, scones under that name have begun to appear in coffee houses.",
+    "Some have a crumbly scone-like consistency inside, while others are more tender like a fresh dinner roll or croissant."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scissors",
+    "scoff",
+    "scold",
+    "scolding",
+    "scone",
+    "scoop",
+    "scoot",
+    "scooter",
+    "scope"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374192_8a7b90045b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374192_0920d2411c_o.png",
+      "id_image": "scone_1999926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374162_c1036fe3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374162_6a0c1449a9_o.png",
+      "id_image": "scone_2289980"
+    }
+  ]
+}

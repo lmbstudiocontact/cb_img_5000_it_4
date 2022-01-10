@@ -1,0 +1,74 @@
+{
+  "english": "stomach",
+  "phat_am": "ˈstamək",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dạ dày",
+          "definition": "the bag-like organ in the body into which food passes when swallowed, and where most of it is digested",
+          "world_new": [
+            "organ",
+            "body",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pain in the stomach.",
+              "world_new": [
+                "pain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bụng",
+          "definition": "the part of the body between the chest and thighs; the belly.",
+          "world_new": [
+            "part",
+            "body",
+            "chest",
+            "belly"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In any case we should be pouring the milk into the stomachs of the people instead of into the factories.",
+    "In some abattoirs, inspectors will examine \"green offal\"—stomachs and intestines—and in others they will not.",
+    "Only a short time later our stomachs have heaved again with a fresh sense of outrage.",
+    "In poor areas where very little can be spent on medical treatment, questions of intravenous feeding and operations putting tubes into people's stomachs never arise.",
+    "We ought to be addressing these questions and stop thinking we can help these people fill their stomachs simply by opening the borders.",
+    "They were not fit for youthful stomachs, so no steps were taken to distribute them to the children in the vicinity of the dockyard.",
+    "Frequency of arthropods in stomachs of tropical hummingbirds.",
+    "The majority of stomachs examined are empty, while remains from scats permit identification of prey only in broad taxonomic terms and do not include more digestible prey items."
+  ],
+  "list_see_also": [
+    "stomachache"
+  ],
+  "list_browse": [
+    "stolidity",
+    "stolidly",
+    "stolidness",
+    "stoma",
+    "stomach",
+    "stomachache",
+    "stomp",
+    "stone",
+    "stone-cold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390687_152855781a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390687_e8fb95fd41_o.png",
+      "id_image": "stomach_4892287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390647_38b86d60ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390647_a3796a3117_o.png",
+      "id_image": "stomach_5180552"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "swallow",
+  "phat_am": "ˈswoləu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nuốt",
+          "definition": "to allow to pass down the throat to the stomach",
+          "world_new": [
+            "allow",
+            "pass",
+            "throat",
+            "stomach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Try to swallow the pill",
+              "world_new": [
+                "pill"
+              ]
+            },
+            {
+              "ex_of_definition": "His throat was so painful that he could hardly swallow.",
+              "world_new": [
+                "throat",
+                "painful",
+                "hardly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nén, chịu đựng",
+          "definition": "to accept (eg a lie or insult) without question or protest",
+          "world_new": [
+            "accept",
+            "lie",
+            "question",
+            "protest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll never get her to swallow that story!",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nuốt",
+          "definition": "an act of swallowing.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chim nhạn",
+          "definition": "a type of insect-eating bird with long wings and a divided tail.",
+          "world_new": [
+            "type",
+            "bird",
+            "long",
+            "wings",
+            "tail"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Salivation, swallowing, freezing and sensory complaints were not evaluated.",
+    "Fruits of this species are too large to be swallowed by birds other than cassowaries.",
+    "Becoming a confirmed case was significantly associated with swallowing more than one mouthful of river water.",
+    "In moderate dysphagia, they may need to modify the diet to softer food, which is more easily chewed or swallowed.",
+    "Prognostic importance of a therapeutic videoradiographic swallowing study.",
+    "Tablets should not be swallowed in the semi-supine or supine position, and/or sufficient fluid should be taken with large tablets.",
+    "Having initially lost his voice, he then began to have difficulty in swallowing and eating and was losing weight.",
+    "Aging influences the structures involved in the swallowing process and may alter the efficiency of the act of swallowing."
+  ],
+  "list_see_also": [
+    "swallow one’s pride",
+    "swallow up"
+  ],
+  "list_browse": [
+    "sustainably",
+    "SW",
+    "swag",
+    "swagger",
+    "swallow",
+    "swallow one’s pride",
+    "swallow up",
+    "swamp",
+    "swampiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334421_d1e1d4c5b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334421_5988ced0c1_o.png",
+      "id_image": "swallow_448286"
+    }
+  ]
+}

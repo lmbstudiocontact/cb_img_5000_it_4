@@ -1,0 +1,128 @@
+{
+  "english": "smear",
+  "phat_am": "smiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm vấy bẩn, làm hoen ố",
+          "definition": "to spread (something sticky or oily) over a surface",
+          "world_new": [
+            "spread",
+            "sticky",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The little boy smeared jam on the chair.",
+              "world_new": [
+                "boy",
+                "jam",
+                "chair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm mờ, làm tối",
+          "definition": "to make or become blurred; to smudge",
+          "world_new": [
+            "become",
+            "smudge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He brushed against the newly painted notice and smeared the lettering.",
+              "world_new": [
+                "newly",
+                "notice",
+                "lettering"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bôi xấu, bôi nhọ",
+          "definition": "to try to discredit (a person etc) by slandering him",
+          "world_new": [
+            "try",
+            "discredit",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been spreading false stories in an attempt to smear us.",
+              "world_new": [
+                "false",
+                "attempt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đốm bẩn, vết bẩn",
+          "definition": "a mark made by smearing.",
+          "world_new": [
+            "mark"
+          ]
+        },
+        {
+          "mean_english": "sự bôi nhọ, lời nói xấu",
+          "definition": "a piece of slander",
+          "world_new": [
+            "piece",
+            "slander"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He considered the remarks to be a smear on his character.",
+              "world_new": [
+                "character"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some patients considered that there was less pressure to attend if the appointment had been organized by the practice, such as immunization or cervical smears.",
+    "There is no drive to ensure that everybody has a smear.",
+    "Specimens were examined by direct smear and zinc sulphate floatation concentration techniques.",
+    "She suggested that the repeat smear had been requested by the pathology laboratory due to technical inadequacy shown on previous smears.",
+    "The validity of the smears will also vary according to the area from which they are taken, the screener and the technician.",
+    "All patients with fever, with or without symptoms, have malaria smears performed.",
+    "We made the delayed smears according to the following protocol.",
+    "Three investigators examined 20 microscopic fields of each spleen or liver smear."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "smartness",
+    "smash",
+    "smash hit",
+    "smashing",
+    "smear",
+    "smell",
+    "smell a rat",
+    "smell out",
+    "smelliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376272_5af656fbdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376272_7407f020d5_o.png",
+      "id_image": "smear_5978876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686519_a108a16834_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686519_1faef51468_o.png",
+      "id_image": "smear_5979185"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "english": "signature",
+  "phat_am": "ˈsiɡnətʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chữ ký",
+          "definition": "a signed name",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That is his signature on the cheque.",
+              "world_new": [
+                "cheque"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc ký cái gì",
+          "definition": "an act of signing one’s name",
+          "world_new": [
+            "act",
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Signature of this document means that you agree to the terms of the contract.",
+              "world_new": [
+                "document",
+                "means",
+                "agree",
+                "terms",
+                "contract"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An abstraction for this machine is defined with an implementation of a signature that we will describe piece by piece.",
+    "In any particular application, a fixed number of constants are introduced, which form a signature.",
+    "The advantages of this approach are that it potentially affords the opportunity to study a greater sample size and to investigate undisturbed signatures in situ.",
+    "Its fight is not for legitimacy-that has already been won-but for signature causes, especially involving rights.",
+    "Variables and constants must be declared in the context or signature to be wellformed.",
+    "In addition, the signature identification in time series leading to fault detection and identification needs to be addressed.",
+    "Terms are typed inductively starting from types for variables and constants and signatures for operators.",
+    "Records of business transactions and contributions to temples show cases of dual signatures, the husband's in addition to the wife's."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sign language",
+    "sign up",
+    "signal",
+    "signalman",
+    "signature",
+    "signboard",
+    "significance",
+    "significant",
+    "significantly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339376_eb95d91ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339376_8abc97cd69_o.png",
+      "id_image": "signature_4391557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384267_efb9b6cd54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384267_e6b15e1cbd_o.png",
+      "id_image": "signature_4736027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076475_9b3e8c7739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076475_63e8ddf527_o.png",
+      "id_image": "signature_4827475"
+    }
+  ]
+}

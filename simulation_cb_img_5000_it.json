@@ -1,0 +1,75 @@
+{
+  "english": "simulation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giả vờ",
+          "definition": "(an act of) simulating.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "sự bắt chước",
+          "definition": "something made to resemble something else",
+          "world_new": [
+            "resemble",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a computer simulation of aircraft flight.",
+              "world_new": [
+                "computer",
+                "aircraft",
+                "flight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Quantification of modelling uncertainties in a large ensemble of climate change simulations.",
+    "The same release time was used in all the simulations.",
+    "The effectiveness of the proposed algorithm has been proved through simulations.",
+    "Afterwards, we check the validity of the analytical approach by simulations.",
+    "Both of these simulations used exactly the same number of ticks.",
+    "In the following set of simulations, we systematically increased the distinctiveness of the targets: such a manipulation has not been done before experimentally.",
+    "We then compare the outcomes of the carbon reduction simulations with the baseline solution.",
+    "Numerical simulations are carried out under the standard assumptions of earlier studies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "simplistically",
+    "simply",
+    "simulate",
+    "simulated",
+    "simulation",
+    "simulator",
+    "simultaneous",
+    "simultaneously",
+    "sin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453253_25654a0ab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453253_4980832307_o.png",
+      "id_image": "simulation_3410196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075320_2dbd0a6170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075320_f954cab6c7_o.png",
+      "id_image": "simulation_4795509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453148_314283c546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453148_ecafb6eddd_o.png",
+      "id_image": "simulation_4795547"
+    }
+  ]
+}

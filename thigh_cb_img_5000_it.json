@@ -1,0 +1,63 @@
+{
+  "english": "thigh",
+  "phat_am": "θai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đùi",
+          "definition": "the part of the leg between the knee and hip",
+          "world_new": [
+            "part",
+            "leg",
+            "knee",
+            "hip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "muscular thighs.",
+              "world_new": [
+                "muscular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The shank link was connected to the thigh link with a compliant elastic element.",
+    "The center of mass of the shank and thigh are located on the central vertical axis through the hip, knee and ankle joint.",
+    "Three-dimensional ultrasound-assessed fetal thigh volumetry in predicting birth weight.",
+    "Each leg has three links: foot-link, shank-link, and thigh-link.",
+    "Typically, the pain is suprapubic, with radiation to a number of sites including the lumbar and sacral spine, groins and medial aspects of thighs.",
+    "Of the 60 patients monitored, 50% experienced compensatory sweating on their back, stomach, and thighs.",
+    "The remaining women had combinations of pain involving the symphysis, lumbosacral spine and thighs.",
+    "These manoeuvres include squatting, isometric thigh contraction, leg crossing, raised toe walking and abdominal muscle contraction carried out before or immediately after posture change."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "thickly",
+    "thickness",
+    "thief",
+    "thieve",
+    "thigh",
+    "thimble",
+    "thin",
+    "thin air",
+    "thin out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394477_41d19e720a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394477_93aa90db1f_o.png",
+      "id_image": "thigh_5726954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086920_f9bff58169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086920_e03fe351b7_o.png",
+      "id_image": "thigh_6233397"
+    }
+  ]
+}

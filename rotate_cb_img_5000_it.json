@@ -1,0 +1,72 @@
+{
+  "english": "rotate",
+  "phat_am": "rəˈteit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quay tròn",
+          "definition": "to turn like a wheel",
+          "world_new": [
+            "turn",
+            "wheel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rotated the handle",
+              "world_new": [
+                "handle"
+              ]
+            },
+            {
+              "ex_of_definition": "The earth rotates.",
+              "world_new": [
+                "earth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The present paper considers the steady axially symmetrical flow due to a rotating sphere in a fluid at rest by the method of series truncation.",
+    "I n view of the evident importance of the topic, surprisingly little has been done in the laboratory on eddy-mean-flow interaction in rotating systems.",
+    "Thus, each condition was rotated systematically across participants.",
+    "The flow between two rotating disks is being currently investigated and it is hoped that this will throw further light on the problem.",
+    "Emergence trays were rotated regularly through the greenhouse.",
+    "In the third site this responsibility was rotated around the individual team members.",
+    "The linear stability of drift waves in a poloidally rotating tokamak plasma is considered.",
+    "After the base rotates about 8 degrees (clockwise) over the front edge, the implement retracts back to regain the stability."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rosy",
+    "rot",
+    "rota",
+    "rotary",
+    "rotate",
+    "rotation",
+    "rotor",
+    "rotten",
+    "rottenness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341806_7a5e17d3af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341806_527a00e2a1_o.png",
+      "id_image": "rotate_219657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386817_1560d3fc7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386817_8c68092cf8_o.png",
+      "id_image": "rotate_3646027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456603_6b483008dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456603_eb1b45d0cf_o.png",
+      "id_image": "rotate_4542652"
+    }
+  ]
+}

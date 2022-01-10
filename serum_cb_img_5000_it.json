@@ -1,0 +1,70 @@
+{
+  "english": "serum",
+  "phat_am": "ˈsiərəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "huyết thanh",
+          "definition": "a watery fluid which is given as an injection to fight, or give immunity from, a disease",
+          "world_new": [
+            "watery",
+            "fluid",
+            "injection",
+            "fight",
+            "immunity",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Diphtheria vaccine is a serum.",
+              "world_new": [
+                "vaccine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The wells were incubated for 2 h at room temperature with diluted human sera.",
+    "The normal control group of sera was obtained from ten healthy adults who were negative for any parasitic infection at the time of blood collection.",
+    "To assess potential cross-reactivity, sera from individuals (n 1⁄4 40) with parasitic diseases (leprosy, malaria, ascariasis) other than filariasis were used.",
+    "The rabbits were bled before the immunizations, and the sera obtained were used for control studies.",
+    "We compared the sera of two groups (f11 years and o12 years) with respect to their ability to bind to each chimeric protein.",
+    "No reactive bands were shown using pooled sera from nonimmunized mice (fig. 3).",
+    "The standard was given an arbitrary antibody unitage and the results obtained with test sera are presented as log antibody units.",
+    "Statistical analysis of results from all sera has previously demonstrated that this seven-band pattern was significantly correlated with a toxocaral infection."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "seriousness",
+    "sermon",
+    "serpent",
+    "serrated",
+    "serum",
+    "servant",
+    "serve",
+    "serve a purpose",
+    "serve an apprenticeship"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394242_1cdee067e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394242_111e9971bc_o.png",
+      "id_image": "serum_1005767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394217_c22a4c38d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394217_c3cb44aeec_o.png",
+      "id_image": "serum_4061589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086690_0abf6c3ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086690_b9e4707564_o.png",
+      "id_image": "serum_530370"
+    }
+  ]
+}

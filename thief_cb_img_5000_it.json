@@ -1,0 +1,48 @@
+{
+  "english": "thief",
+  "phat_am": "θiːv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ trộm, kẻ cắp",
+          "definition": "a person who steals",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thief got away with all my money.",
+              "world_new": [
+                "my",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "thieve"
+  ],
+  "list_browse": [
+    "thicken",
+    "thicket",
+    "thickly",
+    "thickness",
+    "thief",
+    "thieve",
+    "thigh",
+    "thimble",
+    "thin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394507_46191b537e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394507_61ded5759a_o.png",
+      "id_image": "thief_2267675"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "translation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự dịch, việc dịch",
+          "definition": "the act of translating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The translation of poetry is difficult.",
+              "world_new": [
+                "poetry",
+                "difficult"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản dịch",
+          "definition": "a version of a book, something said etc, in another language",
+          "world_new": [
+            "version",
+            "book",
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me an Italian translation of the Bible.",
+              "world_new": [
+                "Bible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Vertical translations are enough for all applications, as the previous results have indicated.",
+    "Finally, when they are compared with respect to the easiness of visual computations of the required motion parameters, rotation translation appears simpler.",
+    "However, the application of a primitive dictionary is not always sufficient; auxiliary data must often be considered to make a competent translation.",
+    "However, if the goal is translation into several languages eventually every distinction that can be made will be made, and there are few useful generalizations.",
+    "In short, the target's translation (\"dog\") interferes with the retrieval of the target's name in the response language (\"perro\").",
+    "As usual with generative probabilistic models, translation is performed by inverting the channel.",
+    "Instructions and sentences used for the elicited oral translation task.",
+    "This mixing of source material from two languages suggests that loan translation and, by extension, all structural borrowing should receive theoretical treatment together with codeswitching."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transition",
+    "transitional",
+    "transitive",
+    "translate",
+    "translation",
+    "translator",
+    "translucence",
+    "translucency",
+    "translucent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452338_9a9f8b598d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452338_bba145ce1d_o.png",
+      "id_image": "translation_6090999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382507_e8f39a50b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382507_23ee5df5f0_o.png",
+      "id_image": "translation_6091180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074510_4c1cd01d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074510_7d1a55727c_o.png",
+      "id_image": "translation_6091217"
+    }
+  ]
+}

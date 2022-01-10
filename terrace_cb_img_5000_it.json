@@ -1,0 +1,98 @@
+{
+  "english": "terrace",
+  "phat_am": "ˈterəs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ đất cao, tầng bậc",
+          "definition": "(one of a number of) raised level banks of earth etc, like large steps, on the side of a hill etc",
+          "world_new": [
+            "number",
+            "level",
+            "earth",
+            "large",
+            "steps",
+            "side",
+            "hill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Vines are grown on terraces on the hillside.",
+              "world_new": [
+                "grown",
+                "hillside"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dãy nhà",
+          "definition": "a row of houses connected to each other.",
+          "world_new": [
+            "row"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đắp thành nền cao",
+          "definition": "to make into a terrace or terraces",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hillside has been terraced to make new vineyards.",
+              "world_new": [
+                "hillside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The concrete ribbons are a shared motif between the terraces and the higher blocks.",
+    "The hilly terrain was also widely terraced to prevent erosion and maintain soil productivity.",
+    "Doublure incurved, narrow, gently decreasing in size anteriorly, and bearing at least two low terrace ridges.",
+    "The building type that gradually evolved was neither a terrace house nor a block of flats.",
+    "The central temple includes bands and triangles on the substructure element and terrace and scrolls on the molding above the door.",
+    "Higher rainfall, which can lead to erosion but is also associated with higher production possibility, was positively associated with terrace adoption.",
+    "That keeps us from working the land enough and building enough terraces.",
+    "The land rises quickly from the lake, as continuous ribbon development along the shore gives way to vineyard terraces behind."
+  ],
+  "list_see_also": [
+    "terraced house"
+  ],
+  "list_browse": [
+    "terminology",
+    "terminus",
+    "termite",
+    "terms",
+    "terrace",
+    "terraced house",
+    "terracotta",
+    "terrain",
+    "terrible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089070_1b1be4a672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089070_f815c40c6b_o.png",
+      "id_image": "terrace_1940135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396647_87a443fe8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396647_0db136474c_o.png",
+      "id_image": "terrace_240641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466353_18ef9e7284_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466353_6f0e6d741e_o.png",
+      "id_image": "terrace_3722727"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "swollen",
+  "phat_am": "ˈswəulən",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sưng phồng, phình raa",
+          "definition": "increased in size, thickness etc, through swelling",
+          "world_new": [
+            "size",
+            "thickness",
+            "swelling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a swollen river",
+              "world_new": [
+                "river"
+              ]
+            },
+            {
+              "ex_of_definition": "He had a swollen ankle after falling down the stairs.",
+              "world_new": [
+                "ankle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "switch on/off",
+    "switchback",
+    "switchboard",
+    "swivel",
+    "swollen",
+    "swollen-headed",
+    "swoon",
+    "swoop",
+    "swop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446658_8b45c02aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446658_01c6a9e8d6_o.png",
+      "id_image": "swollen_2400672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686649_073b7e6339_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686649_b8fc43307a_o.png",
+      "id_image": "swollen_2927328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376322_d08420f3ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376322_8b953943e5_o.png",
+      "id_image": "swollen_5727011"
+    }
+  ]
+}

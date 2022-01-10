@@ -1,0 +1,66 @@
+{
+  "english": "son",
+  "phat_am": "san",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con trai",
+          "definition": "a male child (when spoken of in relation to his parents)",
+          "world_new": [
+            "male",
+            "child",
+            "spoken",
+            "relation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is the son of the manager.",
+              "world_new": [
+                "manager"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their sons migrated for reasons of economic hardship and personal insecurity following political harassment.",
+    "In all three populations, new heads were almost always the sons or grandsons of the previous head (72 to 79 per cent).",
+    "No choice was provided, inducing her to accept the sleeping arrangement decided by her son.",
+    "Men sought to endow each son with sufficient land to establish a separate household.",
+    "Many women would have lost fathers, brothers, husbands and sons across the two wars.",
+    "The focus is now on her desires and goals and not on accommodating to her son in any way.",
+    "This study suggests that adopting a more protective role was considered by sons as gender-appropriate.",
+    "The son had directly been in contact with the sewage when helping his father with the repair work."
+  ],
+  "list_see_also": [
+    "son-in-law",
+    "son of a bitch"
+  ],
+  "list_browse": [
+    "sometimes",
+    "somewhat",
+    "somewhere",
+    "somewhere or other",
+    "son",
+    "son of a bitch",
+    "son-in-law",
+    "sonar",
+    "sonar system"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370767_78b52ddfb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370767_4f42a9985b_o.png",
+      "id_image": "son_2880690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370762_15cca66a93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370762_746da6c839_o.png",
+      "id_image": "son_4842674"
+    }
+  ]
+}

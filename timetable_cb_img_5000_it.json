@@ -1,0 +1,59 @@
+{
+  "english": "timetable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời gian biểu",
+          "definition": "a list of the times of trains, school classes etc",
+          "world_new": [
+            "list",
+            "times",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus/train timetable."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "timeliness",
+    "timely",
+    "timer",
+    "times",
+    "timetable",
+    "timid",
+    "timidity",
+    "timidly",
+    "timidness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392357_c764c66b64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392357_e60fbe9fa9_o.png",
+      "id_image": "timetable_2105239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462088_0ab15c0505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462088_31e40702b8_o.png",
+      "id_image": "timetable_2134050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462063_73f8c2c97e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462063_0c362b5c3a_o.png",
+      "id_image": "timetable_2855679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347236_cae6fe7d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347236_9db28d4658_o.png",
+      "id_image": "timetable_2855847"
+    }
+  ]
+}

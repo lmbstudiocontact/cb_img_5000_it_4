@@ -1,0 +1,101 @@
+{
+  "english": "sky",
+  "phat_am": "skai",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trời, bầu trời",
+          "definition": "the part of space above the earth, in which the sun, moon etc can be seen; the heavens",
+          "world_new": [
+            "part",
+            "space",
+            "earth",
+            "sun",
+            "moon",
+            "heavens"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sky was blue and cloudless",
+              "world_new": [
+                "blue",
+                "cloudless"
+              ]
+            },
+            {
+              "ex_of_definition": "We had grey skies and rain throughout our holiday",
+              "world_new": [
+                "grey",
+                "rain",
+                "throughout",
+                "our",
+                "holiday"
+              ]
+            },
+            {
+              "ex_of_definition": "The skies were grey all week.",
+              "world_new": [
+                "grey",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All indirect measurements were only taken during uniformly overcast sky conditions or after sunset (mostly after 1700 h).",
+    "In this image, a parapet separates an outdoor porch or balcony from a background landscape of sky, trees, hills, and water.",
+    "But this time, there was a short rain, and the sky was clouded.",
+    "The authors suggest this was caused by the darkened skies of the post-impact world.",
+    "But one can utter a sentence like (30a) as soon as storm clouds appear in the sky.",
+    "The riders must ' ride forever on that range up in the sky'.",
+    "It was a sunny day with a sky.",
+    "For those who enjoy the occasional frisson of mindnumbing fear, the ultimate adrenaline rush is a mountain hurtling from the sky."
+  ],
+  "list_see_also": [
+    "sky-blue",
+    "sky-diving",
+    "sky-diver",
+    "sky-high",
+    "skyjack",
+    "skyjacker",
+    "skylight",
+    "skyline",
+    "skyrocket",
+    "skyrocket",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "skittles",
+    "skulk",
+    "skull",
+    "skunk",
+    "sky",
+    "sky-blue",
+    "sky-diver",
+    "sky-diving",
+    "sky-high"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380062_1bc552feb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380062_9be4904257_o.png",
+      "id_image": "sky_390702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450028_309178e2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450028_d0df9f6283_o.png",
+      "id_image": "sky_3982016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071975_5a25f62696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071975_93ac7acd47_o.png",
+      "id_image": "sky_673897"
+    }
+  ]
+}

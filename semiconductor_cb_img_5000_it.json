@@ -1,0 +1,71 @@
+{
+  "english": "semiconductor",
+  "phat_am": "(British) ˈsemikənˌdaktə; (American) ˈsemiːkənˌdaktər, ˈsemaikənˌdaktər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất bán dẫn",
+          "definition": "a substance, such as silicon, that conducts electricity more easily than an insulator but less easily than a conductor, and is used in electronic circuits",
+          "world_new": [
+            "substance",
+            "silicon",
+            "electricity",
+            "easily",
+            "easily",
+            "conductor",
+            "electronic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Semiconductors are used extensively in solid-state electronic devices and computers.",
+              "world_new": [
+                "electronic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition to silicon, other common semiconductors used in the industry are germanium and gallium arsenide.",
+    "The microwave power was evaluated by means of integration of the energy density over the radiation pattern taken using a hot-carrier semiconductor detector.",
+    "Yet, there are major differences between ion channels and semiconductors, even in the simplest modelling level, that call for important modifications.",
+    "He expanded his work to calls from other sources and built more complex systems consisting of neurons and semiconductors.",
+    "Prior to the introduction of semiconductors, electronic circuits used vacuum tubes to obtain amplification.",
+    "The same structure is a feature of partial differential equations models of semiconductors and ion channels.",
+    "Moreover, in our calculations we neglect electron- electron collisions, which usually do not affect transpor t proper ties in semiconductors.",
+    "Work on the new technologies - computers, semiconductors, electronics, automation - which had started after the mapping of the twelve-year plan also developed rapidly."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "semibreve",
+    "semicircle",
+    "semicircular",
+    "semicolon",
+    "semiconductor",
+    "seminal",
+    "seminar",
+    "seminary",
+    "semitone"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705034_a5b73b309b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705034_fcdfebdaec_o.png",
+      "id_image": "semiconductor_2339056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350451_0d9d33422a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350451_7f1bc0dfd4_o.png",
+      "id_image": "semiconductor_2339156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704989_dc8c8bde9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704989_fa9339d2e0_o.png",
+      "id_image": "semiconductor_5387470"
+    }
+  ]
+}

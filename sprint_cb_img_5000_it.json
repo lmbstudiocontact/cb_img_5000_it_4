@@ -1,0 +1,104 @@
+{
+  "english": "sprint",
+  "phat_am": "sprint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chạy nhanh",
+          "definition": "a run or running race performed at high speed over a short distance",
+          "world_new": [
+            "run",
+            "running",
+            "race",
+            "speed",
+            "short",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who won the 100 metres sprint?"
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy nước rút",
+          "definition": "the pace of this",
+          "world_new": [
+            "pace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran up the road at a sprint.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy nước rút",
+          "definition": "to run at full speed especially (in) a race",
+          "world_new": [
+            "run",
+            "full",
+            "speed",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sprinted (for) the last few hundred metres."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are not sprinting dogs; they are bred to pursue for a long time.",
+    "Why say that they ran and then say that they sprinted?",
+    "The ad currently broadcasting shows a third transformer robot sprinting along a road, changing to car form and back to robot form during the run.",
+    "The rubber spring allows for four different tension settings from flexible for slow super efficient swimming through rigid for sprinting.",
+    "However, we seemed to do a bit of sprinting just before we reached this amendment.",
+    "During some sprints people new to the project are welcomed and get an intensive hands-on introduction pairing with an experienced project member.",
+    "When you cross the border you find everything sprinting up and going a little faster or going slower when it is going the other way.",
+    "The original passage uses irony in the penultimate paragraph when the writer describes the 'astonishing sprint finish' that is unlikely from the exhausted participant."
+  ],
+  "list_see_also": [
+    "sprinter"
+  ],
+  "list_browse": [
+    "springy",
+    "sprinkle",
+    "sprinkler",
+    "sprinkling",
+    "sprint",
+    "sprinter",
+    "sprite",
+    "sprout",
+    "sprout up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397042_b285a8b0f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397042_aa1ac0f5f5_o.png",
+      "id_image": "sprint_1934014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466798_5c6a2fc6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466798_48b717b7e5_o.png",
+      "id_image": "sprint_2620681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706774_76782e5394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706774_a6d51b5fc7_o.png",
+      "id_image": "sprint_3965798"
+    }
+  ]
+}

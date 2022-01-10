@@ -1,0 +1,199 @@
+{
+  "english": "star",
+  "phat_am": "staː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngôi sao",
+          "definition": "the fixed bodies in the sky, which are really distant suns",
+          "world_new": [
+            "fixed",
+            "sky",
+            "distant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Sun is a star, and the Earth is one of its planets.",
+              "world_new": [
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tinh tú",
+          "definition": "any of the bodies in the sky appearing as points of light",
+          "world_new": [
+            "sky",
+            "points",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sky was full of stars.",
+              "world_new": [
+                "sky",
+                "full"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật hình sao, trang trí ngôi sao",
+          "definition": "an object, shape or figure with a number of pointed rays, usually five or six, often used as a means of marking quality etc",
+          "world_new": [
+            "object",
+            "shape",
+            "figure",
+            "number",
+            "pointed",
+            "means",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher stuck a gold star on the child’s neat exercise book",
+              "world_new": [
+                "teacher",
+                "gold",
+                "neat",
+                "exercise",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "a four-star hotel.",
+              "world_new": [
+                "hotel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngôi sao điện ảnh",
+          "definition": "a leading actor or actress or other well-known performer eg in sport etc",
+          "world_new": [
+            "actor",
+            "well-known",
+            "performer",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a film/television star"
+            },
+            {
+              "ex_of_definition": "a football star",
+              "world_new": [
+                "football"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) She has had many star roles in films."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng vai chính",
+          "definition": "to play a leading role in a play, film etc",
+          "world_new": [
+            "play",
+            "play",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has starred in two recent films.",
+              "world_new": [
+                "recent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có đóng vai chính",
+          "definition": "(of a film etc) to have (a certain actor etc) as its leading performer",
+          "world_new": [
+            "film",
+            "certain",
+            "actor",
+            "its",
+            "performer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film starred Elvis Presley.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả khế",
+          "definition": "a juicy, yellow, oblong, tropical fruit, which, when cut across, is star-shaped.",
+          "world_new": [
+            "juicy",
+            "yellow",
+            "oblong",
+            "tropical",
+            "fruit",
+            "cut",
+            "across"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, he discovered that the period of 36,000 years that had been assigned to the movement of the xed stars was actually much shorter.",
+    "With radio, one has to send out the signals to many stars, over many thousands of years.",
+    "The contrast between planets and stars being the least in the infrared wavelength region, that has been chosen for this mission.",
+    "What could be done instead is, for example, to determine the probability of finding stars suitable for life for each part of the galaxy.",
+    "The children were asked to name the located objects and their attention was drawn to the stars on the located objects for ease of identification.",
+    "I poked my head out of the covers and stared over the edge of the bed.",
+    "First, when stars of at least 0.4 solar masses exhaust their supply of hydrogen, their outer layers expand to form a red giant.",
+    "He then moves on to a discussion of the second cause of the stars' heat."
+  ],
+  "list_see_also": [
+    "stardom",
+    "starry",
+    "starfish",
+    "starlight",
+    "starlit",
+    "star sign",
+    "star turn",
+    "see stars",
+    "thank one’s lucky stars"
+  ],
+  "list_browse": [
+    "standpoint",
+    "standstill",
+    "staple",
+    "stapler",
+    "star",
+    "star sign",
+    "star turn",
+    "starboard",
+    "starch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394207_2092a23be4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394207_df743015d8_o.png",
+      "id_image": "star_292616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704119_28f12147d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704119_98a6892f91_o.png",
+      "id_image": "star_560896"
+    }
+  ]
+}

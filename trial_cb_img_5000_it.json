@@ -1,0 +1,113 @@
+{
+  "english": "trial",
+  "phat_am": "ˈtraiəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phiên tòa xét xử",
+          "definition": "a legal process by which a person is judged in a court of law",
+          "world_new": [
+            "legal",
+            "process",
+            "person",
+            "court",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their trial will be held next week.",
+              "world_new": [
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thử thách",
+          "definition": "an act of testing or trying; a test",
+          "world_new": [
+            "act",
+            "test"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give the new car a trial",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "The disaster was a trial of his courage.",
+              "world_new": [
+                "disaster",
+                "courage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên nhân lo lắng",
+          "definition": "a (source of) trouble or anxiety",
+          "world_new": [
+            "trouble",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My son is a great trial (to me).",
+              "world_new": [
+                "son",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After five familiarization trials, five short and five long lines were presented in random sequence.",
+    "For studies such as surveys of farmer practice or multidisciplinary trials involving whole systems, plots are unlikely to be relevant.",
+    "The full articles of these trials were obtained and examined independently by both reviewers.",
+    "For each of the six trials, children were asked to predict the returning character's false belief.",
+    "Patients were selected for this trial if they had suffered from nonspecific low back pain for at least 6 weeks.",
+    "Across both tasks, children were given two naming trials each.",
+    "Further, magnitude of placebo response as well as drug response may help in the design of future clinical trials.",
+    "Also, we do have doubts about the practicalities of undertaking randomized controlled trials in some circumstances."
+  ],
+  "list_see_also": [
+    "trial run",
+    "on trial",
+    "trial and error"
+  ],
+  "list_browse": [
+    "trespass",
+    "trespasser",
+    "trestle",
+    "tri-",
+    "trial",
+    "trial and error",
+    "trial run",
+    "triangle",
+    "triangular"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071390_97e42c184b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071390_f7cd1a0b96_o.png",
+      "id_image": "trial_2720697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071435_ccd20591d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071435_f46024d8e6_o.png",
+      "id_image": "trial_354504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449428_dfbb3451a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449428_10d0948aa7_o.png",
+      "id_image": "trial_5110820"
+    }
+  ]
+}

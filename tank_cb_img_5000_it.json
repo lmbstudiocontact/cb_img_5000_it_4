@@ -1,0 +1,75 @@
+{
+  "english": "tank",
+  "phat_am": "tӕŋk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thùng; két",
+          "definition": "a large container for liquids or gas",
+          "world_new": [
+            "large",
+            "container",
+            "gas"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a hot-water / cold-water tank."
+            }
+          ]
+        },
+        {
+          "mean_english": "xe tăng",
+          "definition": "a heavy steel-covered vehicle armed with guns.",
+          "world_new": [
+            "heavy",
+            "vehicle",
+            "armed"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The fish were obtained from a local fish dealer and kept in 100 liter tanks at room temperature with a 12012 h light0dark regime.",
+    "Examination of fishes took place 2 - 10 days after they had been transferred to the tanks.",
+    "Regulations with respect to petroleum product contamination are much more varied and often relate to underground storage tanks and groundwater aquifers.",
+    "Two different designs have been developed for the two types of ponds: sea cages and tanks.",
+    "As discussed above, think tanks are prominent among these civil society groups.",
+    "They were placed in holding tanks containing aerated, dechlorinated water and washed sand, before being exposed to aqueous extracts.",
+    "To accommodate the flensing deck and blubber cookers a superstructure was added above the oil tanks.",
+    "The uv-cones were not taken into consideration because of the low emission of the monitor in this spectral range and the use of glass tanks."
+  ],
+  "list_see_also": [
+    "tanker"
+  ],
+  "list_browse": [
+    "tangle with",
+    "tangled",
+    "tango",
+    "tangram",
+    "tank",
+    "tankard",
+    "tanker",
+    "tanned",
+    "tanner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371537_a9ae6a6644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371537_9185f226e6_o.png",
+      "id_image": "tank_1176250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063780_71302f7d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063780_3ee8f9d2ab_o.png",
+      "id_image": "tank_416230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371572_84d4b55fb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371572_5c6fd4f175_o.png",
+      "id_image": "tank_942354"
+    }
+  ]
+}

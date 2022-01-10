@@ -1,0 +1,95 @@
+{
+  "english": "seesaw",
+  "phat_am": "ˈsiːsoː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ván bập bênh",
+          "definition": "a long flat piece of wood, metal etc, balanced on a central support so that one end of it goes up as the other goes down",
+          "world_new": [
+            "long",
+            "flat",
+            "piece",
+            "wood",
+            "metal",
+            "central",
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy fell off the seesaw in the park.",
+              "world_new": [
+                "boy",
+                "fell",
+                "park"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dao động",
+          "definition": "to move up and down like a seesaw",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat seesawed on the crest of the wave.",
+              "world_new": [
+                "boat",
+                "crest",
+                "wave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The trains trying to cross were occupying both the main and loop tracks, and in addition, the train doing the see-saw was standing outside station limits.",
+    "Man seesaws in history between animality and divinity.",
+    "The game of see-saw in which two children classically sit opposite each other holding hands and moving backwards and forwards first appears in print from about 1700.",
+    "The children's play area has both adult and toddler swings, a large slide, rocking chairs, and roundabout and a see-saw.",
+    "The advancing pass may also be by the left shoulders, although it will be called as a left do-si-do or a see-saw.",
+    "Many dogs are wary of the see-saw's movement, and the weave poles involve a behavior that does not occur naturally to the dog.",
+    "Figure 10 plots the time response for cart position and seesaw angle with unexpected load disturbance, respectively.",
+    "In these last four digital projections, a large glass globe seesaws tensely back and forth over a central fulcrum."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "seemingly",
+    "seemly",
+    "seep",
+    "seer",
+    "seesaw",
+    "seething",
+    "segment",
+    "segmented",
+    "segregate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323101_3c1227a0e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323101_13428e4bc9_o.png",
+      "id_image": "seesaw_1138467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367972_b75879dc5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367972_ba614f5f87_o.png",
+      "id_image": "seesaw_1588849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323081_3502d03dfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323081_0f87751d73_o.png",
+      "id_image": "seesaw_1787539"
+    }
+  ]
+}

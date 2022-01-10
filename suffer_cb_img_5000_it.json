@@ -1,0 +1,126 @@
+{
+  "english": "suffer",
+  "phat_am": "ˈsafə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đau khổ, chịu đựng",
+          "definition": "to undergo, endure or bear pain, misery etc",
+          "world_new": [
+            "undergo",
+            "endure",
+            "bear",
+            "pain",
+            "misery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He suffered terrible pain from his injuries",
+              "world_new": [
+                "terrible",
+                "pain"
+              ]
+            },
+            {
+              "ex_of_definition": "The crash killed him instantly – he didn’t suffer at all",
+              "world_new": [
+                "crash",
+                "instantly"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll make you suffer for this insolence.",
+              "world_new": [
+                "insolence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trải qua, chịu đựng",
+          "definition": "to undergo or experience",
+          "world_new": [
+            "undergo",
+            "experience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The army suffered enormous losses.",
+              "world_new": [
+                "army",
+                "enormous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên tồi tệ, mất chất lượng",
+          "definition": "to be neglected",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I like to see you enjoying yourself, but you mustn’t let your work suffer.",
+              "world_new": [
+                "I",
+                "see",
+                "let",
+                "your",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chịu, chịu đựng",
+          "definition": "(with from) to have or to have often (a particular illness etc)",
+          "world_new": [
+            "particular",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She suffers from stomach-aches."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The functional test is only applied to those who are unable to make a given decision because they are suffering from a mental disability.",
+    "Of 1037 subjects between 68-100 years, 22.3% suffered from back symptoms on most days.",
+    "Alongside increased criminal justice demands for contemporary perpetrators of violence, those who suffered from human rights violations do not sense any judicial support.",
+    "None of these seedlings has as yet suffered mortality.",
+    "Unfortunately she suffered complications in a later pregnancy and the stitch had to be removed.",
+    "Patients suffering from systemic diseases, referred pain, or severe biomedical or psychiatric disorders were excluded.",
+    "Many patients need to take several different drugs for single or multiple conditions with an increasing chance of suffering harmful interactions or side effects.",
+    "In shor t, effective early intervention programs may be a significant oppor tunity to prevent a great deal of suffering for children and their families."
+  ],
+  "list_see_also": [
+    "suffering"
+  ],
+  "list_browse": [
+    "suds",
+    "sue",
+    "suede",
+    "suet",
+    "suffer",
+    "suffering",
+    "suffice",
+    "suffice it to say",
+    "sufficiency"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694179_73e9f4c247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694179_d0be4bced3_o.png",
+      "id_image": "suffer_6001221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454008_7ec042cbb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454008_300d6d13c8_o.png",
+      "id_image": "suffer_6003116"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "trip",
+  "phat_am": "trip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trượt",
+          "definition": "(often with upor over) to (cause to) catch one’s foot and stumble or fall",
+          "world_new": [
+            "catch",
+            "foot",
+            "stumble",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tripped and fell",
+              "world_new": [
+                "fell"
+              ]
+            },
+            {
+              "ex_of_definition": "She tripped over the carpet.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi nhẹ",
+          "definition": "to walk with short, light steps",
+          "world_new": [
+            "walk",
+            "short",
+            "light",
+            "steps"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tripped happily along the road.",
+              "world_new": [
+                "happily",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến đi",
+          "definition": "a journey or tour",
+          "world_new": [
+            "journey",
+            "tour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She went on / took a trip to Paris."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The second author guided these trips, during in which other elders and hunters were met occasionally.",
+    "Buying local agricultural products generally involves an extra shopping trip, perhaps on a specific day of the week, to a specialized outlet.",
+    "The profile was taken 1020 trip heights downstream of the trip.",
+    "His idea of a delegation going to coastal areas for alleged purpose of attracting investment may well be an excuse for a sight-seeing trip.",
+    "After all, when you are immortal (or nearly so), all trips are the same length.",
+    "If plaintiffs lived in remote villages, they had to make overnight trips to the yamen courts in designated cities.",
+    "Tourists maximize their utility from visiting the sanctuary based on the characteristics of their trip and their own preferences and constraints.",
+    "Some had to carry their goods upstairs, and sometimes they had to make several trips."
+  ],
+  "list_see_also": [
+    "tripper"
+  ],
+  "list_browse": [
+    "trimming",
+    "trimness",
+    "trinket",
+    "trio",
+    "trip",
+    "triple",
+    "triplet",
+    "triplicate",
+    "tripod"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688119_de4a3e3e2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688119_45c9161164_o.png",
+      "id_image": "trip_2073199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069925_7973132b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069925_71e90253f6_o.png",
+      "id_image": "trip_3899191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333146_0bd09d5b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333146_1f177aae35_o.png",
+      "id_image": "trip_980771"
+    }
+  ]
+}

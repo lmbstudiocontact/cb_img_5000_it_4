@@ -1,0 +1,69 @@
+{
+  "english": "synchronize",
+  "phat_am": "ˈsiŋkrənaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xảy ra đồng thời, đồng bộ hóa",
+          "definition": "to (cause to) happen at the same time, go at the same speed etc, as something else",
+          "world_new": [
+            "happen",
+            "time",
+            "speed",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the film, the movements of the actors’ lips did not synchronize with the sounds of their words",
+              "world_new": [
+                "film",
+                "their"
+              ]
+            },
+            {
+              "ex_of_definition": "to synchronize watches."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "X-ray radiation pulse from the anode can be temporally synchronized w. r. t. the incident laser pulse as a reference.",
+    "The robot controller would send a status indication at the start of each trajectory, so that the trajectory and physiological data could be synchronized.",
+    "Responses were compiled into average histograms synchronized to each temporal cycle of the stimulus.",
+    "The times were synchronized before any measurements were taken within the plots.",
+    "The detection of atrial and ventricular septal defects with electrocardiographically synchronized magnetic resonance imaging.",
+    "Spontaneous periodic synchronized bursting during formation of mature patterns of connections in cortical cultures.",
+    "Grating noise was removed, using amplitude and phase information computed from a synchronized data record maintained for this purpose.",
+    "Mapping fusion and synchronized hyperedge replacement into logic programming."
+  ],
+  "list_see_also": [
+    "synchronization"
+  ],
+  "list_browse": [
+    "synagogue",
+    "synapse",
+    "synaptic",
+    "synchronization",
+    "synchronize",
+    "syncopate",
+    "syncopation",
+    "syndicate",
+    "syndrome"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445238_aa4353009a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445238_82e20a8538_o.png",
+      "id_image": "synchronize_2748790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685379_f5173629a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685379_7528043718_o.png",
+      "id_image": "synchronize_984457"
+    }
+  ]
+}

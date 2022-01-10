@@ -1,0 +1,78 @@
+{
+  "english": "sportsman",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người thích thể thao",
+          "definition": "a person who takes part in sports",
+          "world_new": [
+            "person",
+            "part",
+            "sports"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a very keen sportsman.",
+              "world_new": [
+                "keen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người có tinh thần thể thao",
+          "definition": "a person who shows a spirit of fairness and generosity in sport",
+          "world_new": [
+            "person",
+            "spirit",
+            "fairness",
+            "generosity",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a real sportsman who doesn’t seem to care if he wins or loses.",
+              "world_new": [
+                "real",
+                "seem",
+                "care"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I believe that racism, doping, and the treatment of sportswomen and sportsmen as commodities have left deep scars on the image of fair play.",
+    "Regardless of our political affiliations, we have worked to benefit culture, education, young people and sportsmen and -women.",
+    "Achievement was incompatible with enjoyment, as the folklore of championship sport still assumes by sentencing sportsmen to temporary celibacy before the big match or fight.",
+    "Nutritional status and physical fitness of elderly sportsmen.",
+    "Sportsmen should form local lobbies to go to see their councils and urge this upon them.",
+    "The needs of ordinary, everyday sportsmen with no pretensions to such high levels are of equal importance in our society, as my noble friend stressed.",
+    "With this hypocrisy about non-political sport the bourgeoisie is trying to confuse sportsmen so as to exploit them more easily for imperialist war policy.",
+    "If they were to do so, they would be taxed on their income in the same way as other sportsmen and women."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sporting",
+    "sports",
+    "sports car",
+    "sports jacket",
+    "sportsman",
+    "sportswear",
+    "sporty",
+    "spot",
+    "spot check"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397527_b577236c01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397527_0cd92e24d4_o.png",
+      "id_image": "sportsman_1867094"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "sewer",
+  "phat_am": "ˈsjuə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ may",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a good sewer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cống rãnh",
+          "definition": "an underground pipe or channel for carrying away water etc from drains",
+          "world_new": [
+            "underground",
+            "pipe",
+            "channel",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an open sewer.",
+              "world_new": [
+                "open"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is no specific duty on water and sewerage companies in relation to the control of rats in sewers.",
+    "Though most commissions rated many property owners who were not directly connected to the sewers, they did omit selected groups of ratepayers deemed to derive no benefit.",
+    "The plot is a bit of an urban leftover, an eccentric combination of fragments of subdivided lots, traversed by both sanitary and open storm sewers [5].",
+    "Site preparation ordinarily includes the making of the roads and putting in sewers.",
+    "I am not clear whether the communications of sewers are in the same position as water pipes.",
+    "The company spent £155 million on new sewers and £275 million on new treatment works.",
+    "In fact, the vast majority of the capital's sewers had long possessed semi-circular bottoms.",
+    "There is no obligation for the companies to keep records of connections to water mains or of private sewers or drains."
+  ],
+  "list_see_also": [
+    "sewage",
+    "sewage farm"
+  ],
+  "list_browse": [
+    "sew",
+    "sew up",
+    "sewage",
+    "sewage farm",
+    "sewer",
+    "sewing",
+    "sewing machine",
+    "sewn up",
+    "sex"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393052_1b92d8f353_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393052_7d8c76cc9a_o.png",
+      "id_image": "sewer_3417075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462978_da4a5d8c00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462978_e6b8ef0e58_o.png",
+      "id_image": "sewer_4633596"
+    }
+  ]
+}

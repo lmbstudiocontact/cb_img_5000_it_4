@@ -1,0 +1,74 @@
+{
+  "english": "snooker",
+  "phat_am": "ˈsnuːkə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trò chơi bi-da",
+          "definition": "a kind of game played on a billiard-table with fifteen red balls and seven balls of other colours/colors",
+          "world_new": [
+            "kind",
+            "game",
+            "red"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you play snooker?",
+              "world_new": [
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s have a game of snooker",
+              "world_new": [
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a snooker match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In a recent decision in my local council a snooker and billiards club was refused permission to use premises on several good grounds.",
+    "The public will be deprived of snooker championships, cinemas and other sponsorships.",
+    "Other research indicates that in 1988 tobacco sponsored televised snooker contained 21 references per hour to the name of the sponsor.",
+    "By far the largest is snooker, which occupies about 176 hours.",
+    "There is also in the game of snooker the pink.",
+    "I am a friend of one who uses three of these large arches as a restaurant with snooker tables.",
+    "The darts, snooker and bowls teams are all centred on the pub.",
+    "The other 140 have nothing to do but play snooker, in spite of the well-intentioned efforts of the governor and staff."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snobbery",
+    "snobbish",
+    "snobbishly",
+    "snobbishness",
+    "snooker",
+    "snoop",
+    "snooze",
+    "snore",
+    "snorkel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374067_bdf94325d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374067_4cf1fe3e58_o.png",
+      "id_image": "snooker_3713337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684394_a972fbac24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684394_f8503b65d8_o.png",
+      "id_image": "snooker_540150"
+    }
+  ]
+}

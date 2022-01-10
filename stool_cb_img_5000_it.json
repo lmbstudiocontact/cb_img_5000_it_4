@@ -1,0 +1,65 @@
+{
+  "english": "stool",
+  "phat_am": "stuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ghế đẩu",
+          "definition": "a seat without a back",
+          "world_new": [
+            "seat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a piano-stool"
+            },
+            {
+              "ex_of_definition": "a kitchen stool.",
+              "world_new": [
+                "kitchen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, 22 potassium-dichromate-preserved stool specimens from symptomatic patients were examined.",
+    "The nucleotide sequence of the amplicon from the water was identical to those determined from the three stool specimens for which sequencing was performed.",
+    "An estimate of number of stools from general practice would be extremely useful as a denominator for other national surveillance systems facilitating international comparisons.",
+    "We describe changes in stool specimen sensitivity for poliovirus isolation during a time when wild poliovirus transmission has been rapidly declining.",
+    "Questionnaires and stool samples from cases and controls were collected on the day of consultation.",
+    "Four weeks after praziquantel treatment, the stool collection and examination procedure was repeated.",
+    "It is programmatically important to identify and correct factors that lead to the collection of too few or inadequate stools.",
+    "Stool samples were also collected from each of the parents and the 2year-old brother."
+  ],
+  "list_see_also": [
+    "fall between two stools"
+  ],
+  "list_browse": [
+    "stonily",
+    "stoniness",
+    "stony",
+    "stooge",
+    "stool",
+    "stoop",
+    "stooped",
+    "stop",
+    "stop at nothing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345326_5f2e251bce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345326_97a04947eb_o.png",
+      "id_image": "stool_123782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700459_8d1bcf7ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700459_2f3dc1f834_o.png",
+      "id_image": "stool_1930598"
+    }
+  ]
+}

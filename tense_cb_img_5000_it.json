@@ -1,0 +1,122 @@
+{
+  "english": "tense",
+  "phat_am": "tens",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời của động từ",
+          "definition": "a form of a verb that shows the time of its action in relation to the time of speaking",
+          "world_new": [
+            "form",
+            "verb",
+            "time",
+            "its",
+            "action",
+            "relation",
+            "time",
+            "speaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a verb in the past/future/present tense.",
+              "world_new": [
+                "verb"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "căng thẳng",
+          "definition": "strained; nervous",
+          "world_new": [
+            "nervous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The crowd was tense with excitement",
+              "world_new": [
+                "crowd",
+                "excitement"
+              ]
+            },
+            {
+              "ex_of_definition": "a tense situation.",
+              "world_new": [
+                "situation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "căng",
+          "definition": "tight; tightly stretched",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Feel how tense my muscles are.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm căng ra",
+          "definition": "to make or become tense",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tensed his muscles."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The learner arrives at irregular past tenses by blocking default rule formation with a more specific form.",
+    "Regression to the mean predicts that high frequency irregular past tenses should not have, on average, accompanying stems of higher frequency.",
+    "In sentences with simple tenses it always occurs post-verbally, before any complements or satellites, as in (57).",
+    "In (4) the embedded clause has a tensed verb (the auxiliary is).",
+    "In this way tenses reflect the particular nature of the narrative act of fiction-making.",
+    "To explain this, we need to take a closer look at the temporal structure of tenses.",
+    "As a consequence, there are fewer character lines, the akls are generally tensed, not sharp and not wet.",
+    "They therefore speak of 'absolute tenses with relative interpretation', but not of 'relative tenses'."
+  ],
+  "list_see_also": [
+    "tensely",
+    "tenseness",
+    "tension"
+  ],
+  "list_browse": [
+    "tennis court",
+    "tennis racket",
+    "tennis shoe",
+    "tenor",
+    "tense",
+    "tensely",
+    "tenseness",
+    "tension",
+    "tent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706779_98a74deb14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706779_e3a1b40587_o.png",
+      "id_image": "tense_3362407"
+    }
+  ]
+}

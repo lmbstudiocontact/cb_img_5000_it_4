@@ -1,0 +1,93 @@
+{
+  "english": "sugar",
+  "phat_am": "ˈʃuɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường",
+          "definition": "the sweet substance that is obtained from sugar-cane, or from the juice of certain other plants, and used in cooking and for sweetening tea, coffee etc",
+          "world_new": [
+            "sweet",
+            "substance",
+            "juice",
+            "certain",
+            "cooking",
+            "tea",
+            "coffee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you take sugar in your coffee?",
+              "world_new": [
+                "your",
+                "coffee"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ngọt bằng đường",
+          "definition": "to sweeten, cover or sprinkle with sugar.",
+          "world_new": [
+            "sweeten",
+            "cover",
+            "sprinkle"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The labour requirements of the sugar companies had to be weighed against the political realities of mass unemployment and the rise of popular nationalism.",
+    "This work also calculates income elasticities for the various foodstuffs and confirms the luxury nature of tea and sugar.",
+    "Furthermore, were sugar-glasses to be formed in these locations, the mechanical resistance of the glass would enhance the protection provided by the small solutes.",
+    "The tomato seeds induced to germinate release soluble sugars into the incubation medium, including a significant amount of mannose, which indicates active polysaccharide degradation.",
+    "Therefore, a separation between sugars and organic or silage acids was needed.",
+    "These results indicate that the sugar residues of glycoproteins may play roles in promoting embryo maturation.",
+    "In the sugar fields, oxen replaced tractors in hauling cane to the mills, and bagasse was used as fuel to conserve oil.",
+    "At times, sugar sales were the only immediate means of getting money for vital imports, and sugar was sold while still in the field."
+  ],
+  "list_see_also": [
+    "sugary",
+    "sugariness",
+    "sugar-coated",
+    "sugar-free",
+    "sugar lump",
+    "sugar tongs"
+  ],
+  "list_browse": [
+    "suffocate",
+    "suffocation",
+    "suffrage",
+    "suffragette",
+    "sugar",
+    "sugar lump",
+    "sugar tongs",
+    "sugar-coated",
+    "sugar-free"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383812_485691aab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383812_6766b2d3f1_o.png",
+      "id_image": "sugar_1497133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383767_b67ab7e8d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383767_7a4a50a893_o.png",
+      "id_image": "sugar_3778975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075875_f1e555212d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075875_e1e9a5ffdb_o.png",
+      "id_image": "sugar_5900648"
+    }
+  ]
+}

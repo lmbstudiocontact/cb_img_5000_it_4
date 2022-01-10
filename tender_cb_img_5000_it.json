@@ -1,0 +1,118 @@
+{
+  "english": "tender",
+  "phat_am": "ˈtendə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người trông nom",
+          "definition": "a person who looks after something",
+          "world_new": [
+            "person",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bartender."
+            }
+          ]
+        },
+        {
+          "mean_english": "tàu chở khách",
+          "definition": "a small boat which carries stores or passengers to and from a larger boat.",
+          "world_new": [
+            "small",
+            "boat",
+            "boat"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mềm",
+          "definition": "soft; not hard or tough",
+          "world_new": [
+            "tough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meat is tender.",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đau, gây đau",
+          "definition": "sore; painful when touched",
+          "world_new": [
+            "painful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His injured leg is still tender.",
+              "world_new": [
+                "injured",
+                "leg"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng yêu",
+          "definition": "loving; gentle",
+          "world_new": [
+            "gentle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a tender heart.",
+              "world_new": [
+                "heart"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The second procedure for entry that states are allowed to institutionalize is tendering.",
+    "In focal dystonias, pick muscles which are tender, hypertrophied, visibly or palpably contracting, or are clearly responsible for the involuntary posture or spasm.",
+    "His young namesake, who duly appears a few numbers on, is evidently in no danger of suffering the fate of those tender babes.",
+    "The project was let on competitive tender in 2003, with the financial bid being one of the key criteria for selection.",
+    "The legal tender status of foreign coins was not cancelled until 1857.",
+    "Yet he also revealed a more tender side, and showed himself to have been unafraid to express true affection.",
+    "Receiving paper in return for taxes was the mechanism conceived by the government to enforce acceptance of the peso as legal tender.",
+    "Construction contracts were tendered locally and therefore came as a boost to local resource and manufacturing industries."
+  ],
+  "list_see_also": [
+    "tenderness",
+    "tenderly",
+    "tender-hearted",
+    "tender-heartedness"
+  ],
+  "list_browse": [
+    "tenant",
+    "tenanted",
+    "tend",
+    "tendency",
+    "tender",
+    "tender-hearted",
+    "tender-heartedness",
+    "tenderly",
+    "tenderness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706964_694f65f10c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706964_d014680332_o.png",
+      "id_image": "tender_2104152"
+    }
+  ]
+}

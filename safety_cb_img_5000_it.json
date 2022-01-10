@@ -1,0 +1,86 @@
+{
+  "english": "safety",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự an toàn",
+          "definition": "the state of being safe",
+          "world_new": [
+            "state",
+            "safe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I worry about the children’s safety on these busy roads",
+              "world_new": [
+                "I",
+                "worry",
+                "busy"
+              ]
+            },
+            {
+              "ex_of_definition": "a place of safety",
+              "world_new": [
+                "place"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) safety goggles",
+              "world_new": [
+                "goggles"
+              ]
+            },
+            {
+              "ex_of_definition": "safety helmet.",
+              "world_new": [
+                "helmet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The problems encountered above during type checking and safety checking are similar.",
+    "What do older people know about safety on stairs ?",
+    "The safety of this method, its efficiency to relieve the valve obstruction are established.",
+    "To compare the relative safety of the neoadjuvant treatment regimens in terms of reported adverse events.",
+    "The main reasons for disapproval were anxieties about patient safety and risk.",
+    "The practicality of the open system combined with the safety expected from a closed one.",
+    "They should go to the homes of people who have been told that, for safety's sake, they must leave the home in which they have lived all their lives.",
+    "There will need to be post-exposure follow-up of staff until percutaneous injury is reduced by the implementation of improved safety devices, or practices."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "safe and sound",
+    "safeguard",
+    "safely",
+    "safeness",
+    "safety",
+    "safety belt",
+    "safety lamp",
+    "safety measures",
+    "safety valve"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074550_614c99cfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074550_bd017462a3_o.png",
+      "id_image": "safety_1998603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382517_200f1b96e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382517_56d5befc35_o.png",
+      "id_image": "safety_3684402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337451_6fdfe77ba8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337451_687b974e36_o.png",
+      "id_image": "safety_5939776"
+    }
+  ]
+}

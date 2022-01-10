@@ -1,0 +1,136 @@
+{
+  "english": "roast",
+  "phat_am": "rəust",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nướng",
+          "definition": "to cook or be cooked in an oven, or over or in front of a fire etc",
+          "world_new": [
+            "cook",
+            "oven",
+            "front",
+            "fire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are roasting a chicken over the fire",
+              "world_new": [
+                "roasting",
+                "chicken",
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "The beef was roasting in the oven.",
+              "world_new": [
+                "beef",
+                "roasting",
+                "oven"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sấy",
+          "definition": "to heat (coffee-beans) before grinding.",
+          "world_new": [
+            "heat",
+            "grinding"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "được nướng; sấy khô",
+          "definition": "roasted",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "roast beef/chestnuts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thịt nướng",
+          "definition": "meat that has been roasted or is for roasting",
+          "world_new": [
+            "meat",
+            "roasting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She bought a roast"
+            },
+            {
+              "ex_of_definition": "a delicious roast.",
+              "world_new": [
+                "delicious"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "During the roasting process, the coffee beans are mixed with grains of selim, and sometimes other spices, and ground into powder after roasting.",
+    "Seeds were roasted and eaten whole or ground into flour.",
+    "The most common example of roasting is the oxidation of metal sulfide ores.",
+    "Baking and pan roasting are other dry-heat methods.",
+    "Metaphorically, that is what would happen if there were one word of truth in his allegation of dripping roasts.",
+    "Once roasted and ground, the coffee is dissolved in water.",
+    "In order to produce a pozzolan (supplementary cementitious material) nearly complete dehydroxylation must be reached without overheating, i.e., thoroughly roasted but not burnt.",
+    "The company took up the challenge and developed ptitim, which is made of hard wheat flour and roasted in an oven."
+  ],
+  "list_see_also": [
+    "roasting"
+  ],
+  "list_browse": [
+    "roadworthy",
+    "roam",
+    "roamer",
+    "roar",
+    "roast",
+    "roasting",
+    "rob",
+    "robber",
+    "robbery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344711_eafcab6204_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344711_6db39b7527_o.png",
+      "id_image": "roast_3005202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699799_59e288145a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699799_629e2286bd_o.png",
+      "id_image": "roast_5158601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699759_9a98bf851e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699759_a0d252c22b_o.png",
+      "id_image": "roast_5181408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344781_b5f09b799c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344781_b310e33540_o.png",
+      "id_image": "roast_532368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699854_9b2e18a280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699854_54c81ae51f_o.png",
+      "id_image": "roast_782265"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "structure",
+  "phat_am": "ˈstraktʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kết cấu, cấu trúc",
+          "definition": "the way in which something is arranged or organized",
+          "world_new": [
+            "organized"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A flower has quite a complicated structure",
+              "world_new": [
+                "flower",
+                "quite",
+                "complicated"
+              ]
+            },
+            {
+              "ex_of_definition": "the structure of a human body.",
+              "world_new": [
+                "human",
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công trình kiến trúc, xây dựng",
+          "definition": "a building, or something that is built or constructed",
+          "world_new": [
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Eiffel Tower is one of the most famous structures in the world.",
+              "world_new": [
+                "famous",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The frequency of repetition across target structures varied.",
+    "One extension of this point returns us to the issue of institutional structures within civil society.",
+    "Because we are referring to an abstract structure, the individual differences in representation will not have an impact on ordinary speech.",
+    "According to this hypothesis, neither random errors nor morphologically and syntactically more complex structures would be expected.",
+    "The spatial structure of the cross and its orientation are still clearly discernible, yet its size has been reduced significantly.",
+    "No discrepancy in the ability to define anatomic structure was encountered for the body or outflow regions of the right ventricle.",
+    "The terms in the temperature-reaction-zone structure equation (3.5) are plotted along four of the particle paths in figure 14.",
+    "Regular secondary structure elements are represented in black."
+  ],
+  "list_see_also": [
+    "structural",
+    "structurally"
+  ],
+  "list_browse": [
+    "strongly",
+    "strongroom",
+    "structural",
+    "structurally",
+    "structure",
+    "struggle",
+    "struggle along",
+    "strum",
+    "strung up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341736_6ecc988cae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341736_33362f3673_o.png",
+      "id_image": "structure_2180954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386777_20bb55b1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386777_d655132738_o.png",
+      "id_image": "structure_2547729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456543_2d6ec6574e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456543_e5b97eb28f_o.png",
+      "id_image": "structure_4156002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386822_30971e1bf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386822_b007455e39_o.png",
+      "id_image": "structure_536916"
+    }
+  ]
+}

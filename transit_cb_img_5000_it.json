@@ -1,0 +1,64 @@
+{
+  "english": "transit",
+  "phat_am": "ˈtrӕnsit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quá cảnh",
+          "definition": "the carrying or movement of goods, passengers etc from place to place",
+          "world_new": [
+            "movement",
+            "goods",
+            "place",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The goods have been lost in transit.",
+              "world_new": [
+                "goods",
+                "lost"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A discrete spectrum of phases exists for which complete mode conversion of the incident wave for a transit of the resonance region can be achieved.",
+    "While the high quality and great size of most ship-timbers made them valuable commodities, many were damaged in transit or storage.",
+    "Each electrode's signal was checked for transits and maximum amplitude.",
+    "First, individuals who transit an intermediate city (do not leave the airport) between their origin and destination are not distinguished from persons who travel directly.",
+    "In this paper, we describe two techniques that exploit the transits in order to detect other objects within the same system.",
+    "However, parametric imaging revealed delayed left lung flow and transit time and decreased left lung volume.",
+    "The molecule transits between states, and the ratio of average lifetimes in each state is the equilibrium constant.",
+    "We are working to optimize observing sites and procedures to increase transit detection rates."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transfusion",
+    "transgenic",
+    "transgenically",
+    "transistor",
+    "transit",
+    "transition",
+    "transitional",
+    "transitive",
+    "translate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693079_4f4962d22d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693079_5d9601b46c_o.png",
+      "id_image": "transit_3456126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337746_ae6055b76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337746_b050d3cc70_o.png",
+      "id_image": "transit_4283286"
+    }
+  ]
+}

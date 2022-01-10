@@ -1,0 +1,215 @@
+{
+  "english": "rock",
+  "phat_am": "rok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đá",
+          "definition": "(a large lump or mass of) the solid parts of the surface of the Earth",
+          "world_new": [
+            "large",
+            "lump",
+            "mass",
+            "solid",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship struck a rock and sank",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "the rocks on the seashore",
+              "world_new": [
+                "seashore"
+              ]
+            },
+            {
+              "ex_of_definition": "He built his house on solid rock.",
+              "world_new": [
+                "house",
+                "solid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đá tảng",
+          "definition": "a large stone",
+          "world_new": [
+            "large",
+            "stone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The climber was killed by a falling rock.",
+              "world_new": [
+                "climber"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh kẹo cứng",
+          "definition": "a type of hard sweet made in sticks",
+          "world_new": [
+            "type",
+            "sweet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stick of Edinburgh rock.",
+              "world_new": [
+                "stick"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đung đưa",
+          "definition": "to (cause to) swing gently backwards and forwards or from side to side",
+          "world_new": [
+            "swing",
+            "gently",
+            "backwards",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mother rocked the cradle",
+              "world_new": [
+                "mother",
+                "cradle"
+              ]
+            },
+            {
+              "ex_of_definition": "This cradle rocks.",
+              "world_new": [
+                "cradle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đung đưa cho cho một đứa bé ngủ trên tay",
+          "definition": "to swing (a baby) gently in one’s arms to comfort it or make it sleep",
+          "world_new": [
+            "swing",
+            "gently",
+            "arms",
+            "comfort",
+            "sleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She rocked the baby to sleep in her arms.",
+              "world_new": [
+                "baby",
+                "sleep",
+                "arms"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lắc mạnh",
+          "definition": "to shake or move violently",
+          "world_new": [
+            "shake",
+            "move",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The earthquake rocked the building.",
+              "world_new": [
+                "earthquake",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhạc rốc",
+          "definition": "(also rock music) music or songs with a strong, heavy beat and usually a simple melody",
+          "world_new": [
+            "music",
+            "strong",
+            "heavy",
+            "beat",
+            "simple",
+            "melody"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She likes rock"
+            },
+            {
+              "ex_of_definition": "(also adjective) a rock band.",
+              "world_new": [
+                "band"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rockery",
+    "rocky",
+    "rockiness",
+    "rock-bottom",
+    "rock garden",
+    "rock plant",
+    "on the rocks"
+  ],
+  "list_browse": [
+    "robot",
+    "robust",
+    "robustly",
+    "robustness",
+    "rock",
+    "rock garden",
+    "rock plant",
+    "rock’n’roll",
+    "rock-bottom"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458958_70179e34d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458958_43f4925f07_o.png",
+      "id_image": "rock_3413211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344251_93ea020157_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344251_d3286b7bee_o.png",
+      "id_image": "rock_343034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458928_0f78e2196c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458928_50c7cd496e_o.png",
+      "id_image": "rock_5167332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699349_0f15e7ba95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699349_fa2de388f9_o.png",
+      "id_image": "rock_881190"
+    }
+  ]
+}

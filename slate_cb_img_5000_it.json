@@ -1,0 +1,96 @@
+{
+  "english": "slate",
+  "phat_am": "sleit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đá phiến, đá acđoa",
+          "definition": "(a piece of) a type of easily split rock of a dull blue-grey/-gray colour/color, used for roofing etc",
+          "world_new": [
+            "piece",
+            "type",
+            "easily",
+            "split",
+            "rock",
+            "dull",
+            "roofing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Slates fell off the roof in the wind",
+              "world_new": [
+                "fell",
+                "roof",
+                "wind"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a slate roof.",
+              "world_new": [
+                "roof"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảng đá đen",
+          "definition": "a small writing-board made of this, used by schoolchildren.",
+          "world_new": [
+            "small"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "công kích, đả kích",
+          "definition": "to say harsh things to or about",
+          "world_new": [
+            "harsh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The new play was slated by the critics.",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the next list, in paragraph 8, tiles and bricks are excluded, and they are in my view quite as destructible as slates.",
+    "Where are you going to get your timber, slates, and the hundred and one things required for building houses?",
+    "Arrangements are in hand to accumulate supplies of tiles and slates for the housing programme.",
+    "Earlier, he said, that the slates on the roof of a house were pulled off.",
+    "Then, unfortunately, slates were put upon the roof.",
+    "The production of tiles and slates is also eminently suitable for the work of those displaced in the mining industry at the present time.",
+    "Slates are used for public buildings whenever this material is most suitable, having regard to all the circumstances.",
+    "In cases where the landlord did do repairs this is what they found—11 years, odd slates; 46 years, a new ceiling."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slapdash",
+    "slapstick",
+    "slash",
+    "slat",
+    "slate",
+    "slatted",
+    "slaughter",
+    "slaughter-house",
+    "slave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071575_337ab2a871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071575_fc31f9557f_o.png",
+      "id_image": "slate_2473171"
+    }
+  ]
+}

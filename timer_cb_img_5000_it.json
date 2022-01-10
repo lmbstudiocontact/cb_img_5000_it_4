@@ -1,0 +1,79 @@
+{
+  "english": "timer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người, vật tính, đo thời gian",
+          "definition": "a person who, or a device which, measures the time taken by anything",
+          "world_new": [
+            "person",
+            "device",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a three-minute egg-timer."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết bị hẹn giờ",
+          "definition": "a clock-like device which sets something off or switches something on or off at a given time",
+          "world_new": [
+            "device",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A timer automatically switches off the computer after a certain amount of time.",
+              "world_new": [
+                "automatically",
+                "computer",
+                "certain",
+                "amount",
+                "time"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are nearly 500 full-timers and 3,700 auxiliaries.",
+    "The part-timers could all go to nursery classes attached to primary schools.",
+    "The basic principle of the legislation is to treat part-timers no less favourably than comparable full-timers.",
+    "I have always taken the view that part-timers were a waste of time, except on charitable do-gooding committees and so on.",
+    "However, the truth is that part-timers are paid lower hourly rates and usually have worse conditions than full-time workers.",
+    "Let us remember that those knights of old were not whole-timers.",
+    "A watch is being kept on the effects of the tax on the employment of part-timers.",
+    "The vast majority of those who sit as part-timers will not in fact be in line for permanent full-time judicial appointment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "timelessly",
+    "timelessness",
+    "timeliness",
+    "timely",
+    "timer",
+    "times",
+    "timetable",
+    "timid",
+    "timidity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084760_0fcd74822f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084760_464bd594e6_o.png",
+      "id_image": "timer_165056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462163_2895da0c1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462163_b95971e196_o.png",
+      "id_image": "timer_601661"
+    }
+  ]
+}

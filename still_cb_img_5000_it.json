@@ -1,0 +1,186 @@
+{
+  "english": "still",
+  "phat_am": "stil",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đứng yên, phẳng lặng",
+          "definition": "without movement or noise",
+          "world_new": [
+            "movement",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The city seems very still in the early morning",
+              "world_new": [
+                "city",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "Please stand/sit/keep/hold still while I brush your hair!",
+              "world_new": [
+                "I",
+                "brush",
+                "your",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "still (= calm) water/weather."
+            }
+          ]
+        },
+        {
+          "mean_english": "không có ga, không sủi bọt",
+          "definition": "(of drinks) not fizzy",
+          "world_new": [
+            "fizzy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "still orange juice.",
+              "world_new": [
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức ảnh về một cảnh của bộ phim",
+          "definition": "a photograph selected from a cinema film",
+          "world_new": [
+            "photograph",
+            "cinema",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The magazine contained some stills from the new film.",
+              "world_new": [
+                "magazine",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vẫn còn",
+          "definition": "up to and including the present time, or the time mentioned previously",
+          "world_new": [
+            "including",
+            "present",
+            "time",
+            "time",
+            "previously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you still working for the same firm?",
+              "world_new": [
+                "firm"
+              ]
+            },
+            {
+              "ex_of_definition": "By Saturday he had still not / still hadn’t replied to my letter.",
+              "world_new": [
+                "Saturday",
+                "my",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc dù vậy, tuy nhiên",
+          "definition": "nevertheless; in spite of that",
+          "world_new": [
+            "spite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Although the doctor told him to rest, he still went on working",
+              "world_new": [
+                "doctor",
+                "rest"
+              ]
+            },
+            {
+              "ex_of_definition": "This picture is not valuable – still, I like it.",
+              "world_new": [
+                "picture",
+                "valuable",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thậm chí",
+          "definition": "even",
+          "world_new": [
+            "even"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He seemed very ill in the afternoon and in the evening looked still worse.",
+              "world_new": [
+                "ill",
+                "afternoon",
+                "evening",
+                "worse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consumption was part of the ordinary life, still represented, albeit often precariously, by the home front.",
+    "The purpose is to record things which have been important in the past, those still possible, as well as current activities.",
+    "But when planning housing in new regions, the cultural community from where the settlers will come is still unknown.",
+    "Still, it may capture some novel aspects of structural technological change.",
+    "If the hammer were still threatening it into destruction, it would bounce back on this plastic and resilient network.",
+    "Most of the fundamental changes of which agriculture is but a symptom took place while people were still basically foragers.",
+    "Because my research started out by locating sufficient conditions for stability in heterogeneous capital goods models, and that problem still fascinates me to this day.",
+    "So speakers may merge in minimal pair lists but still maintain a phonetic distinction in conversational style."
+  ],
+  "list_see_also": [
+    "stillness",
+    "stillborn",
+    "still life"
+  ],
+  "list_browse": [
+    "stifling",
+    "stigma",
+    "stile",
+    "stiletto",
+    "still",
+    "still life",
+    "stillborn",
+    "stillness",
+    "stilts"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461258_51b8e8c35d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461258_6fc5d356f5_o.png",
+      "id_image": "still_1484373"
+    }
+  ]
+}

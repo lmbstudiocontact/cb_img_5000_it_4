@@ -1,0 +1,190 @@
+{
+  "english": "since",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "từ khi",
+          "definition": "(often with ever) from a certain time onwards",
+          "world_new": [
+            "certain",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have been at home (ever) since I returned from Italy.",
+              "world_new": [
+                "I",
+                "home",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kể từ",
+          "definition": "at a time after",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since he agreed to come, he has become ill.",
+              "world_new": [
+                "agreed",
+                "become",
+                "ill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bởi vì, vì lẽ rằng",
+          "definition": "because",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Since you are going, I will go too.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "từ lúc ấy",
+          "definition": "(usually with ever) from that time onwards",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We fought and I have avoided him ever since.",
+              "world_new": [
+                "I",
+                "ever"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ đó",
+          "definition": "at a later time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have since become friends.",
+              "world_new": [
+                "become"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "từ một thời điểm trong quá khứ đến nay",
+          "definition": "from the time of (something in the past) until the present time",
+          "world_new": [
+            "time",
+            "present",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has been very unhappy ever since her quarrel with her boyfriend.",
+              "world_new": [
+                "unhappy",
+                "ever",
+                "quarrel",
+                "boyfriend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kể từ",
+          "definition": "at a time between (something in the past) and the present time",
+          "world_new": [
+            "time",
+            "present",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve changed my address since last year.",
+              "world_new": [
+                "my",
+                "address",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kể từ khi",
+          "definition": "from the time of (the invention, discovery etc of)",
+          "world_new": [
+            "time",
+            "invention",
+            "discovery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the greatest invention since the wheel.",
+              "world_new": [
+                "invention",
+                "wheel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, they cannot do so, since a debt cannot be paid twice, and their own reparation - their repentance and apology - sufficiently pays it.",
+    "They do care about the methodology since it affects the efficiency of their software development process and their revenue.",
+    "Since resurrection bodies are incorruptible, they are not carbonbased and hence not identical to organisms, human biological bodies.",
+    "His condition had worsened since his last visit 1 week earlier.",
+    "Since the robot is only expected to have to negotiate small grades, it only incorporates suspension systems at the two lateral wheels.",
+    "Basically, farmers and businessmen are opposed to green taxes because they increase production costs and are burdensome since they create uncertainty about future tax levels.",
+    "She has been continuously hospitalized since she was in her teens.",
+    "Since a machine at some initial time is at rest, this constant must be zero."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "simulator",
+    "simultaneous",
+    "simultaneously",
+    "sin",
+    "since",
+    "sincere",
+    "sincerely",
+    "sincerity",
+    "sinew"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452943_983be7ee20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452943_4deb60284b_o.png",
+      "id_image": "since_5277664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075020_2a9e7f4c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075020_0288efdf66_o.png",
+      "id_image": "since_5361023"
+    }
+  ]
+}

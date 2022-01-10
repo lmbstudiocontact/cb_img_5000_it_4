@@ -1,0 +1,133 @@
+{
+  "english": "tea",
+  "phat_am": "tiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây chè",
+          "definition": "a type of plant grown in Asia, especially India, Ceylon and China, or its dried and prepared leaves",
+          "world_new": [
+            "type",
+            "plant",
+            "grown",
+            "its",
+            "dried",
+            "prepared"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought half a kilo of tea.",
+              "world_new": [
+                "I",
+                "half"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước trà",
+          "definition": "a drink made by adding boiling water to these",
+          "world_new": [
+            "drink",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have a cup of tea!",
+              "world_new": [
+                "cup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chén trà",
+          "definition": "a cup etc of tea",
+          "world_new": [
+            "cup"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two teas, please!",
+              "world_new": [
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bữa trà",
+          "definition": "a small meal in the afternoon (afternoon tea) or a larger one in the early evening, at which tea is often drunk",
+          "world_new": [
+            "small",
+            "meal",
+            "afternoon",
+            "evening",
+            "drunk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She invited him to tea."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One may drink any of them with tea-bread containing very little sugar or with sugarbread, which has more sugar in it.",
+    "The annual mean rainfall was 3869 mm, recorded at the office of a tea plantation near the study site during 1998 to 2002.",
+    "The more even seasonal distribution of tea yields, following the introduction of irrigation, also resulted in a more stable demand for labour than before.",
+    "Export crops are cotton, sisal, coffee, tea, tobacco, and pyrethrum.",
+    "This work also calculates income elasticities for the various foodstuffs and confirms the luxury nature of tea and sugar.",
+    "Clonal variations in the response of black tea quality due to plucking standards.",
+    "Thus, the t phoneme is likely to be pronounced correctly in tea or eaten before boat.",
+    "Places where the traders could gather and negotiate also grew up - eating-houses, tea shops, tea gardens, playhouses and the like - and a townscape was formed."
+  ],
+  "list_see_also": [
+    "teabag",
+    "teacup",
+    "tea party",
+    "teapot",
+    "tea set",
+    "teaspoon",
+    "teaspoonful",
+    "teatime",
+    "tea towel"
+  ],
+  "list_browse": [
+    "taxpayer",
+    "TB",
+    "TBA",
+    "tbsp",
+    "tea",
+    "tea party",
+    "tea set",
+    "tea towel",
+    "teabag"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398647_e27cde99c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398647_b4a4669142_o.png",
+      "id_image": "tea_1140850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468553_73eaf18a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468553_0fb697d88e_o.png",
+      "id_image": "tea_170321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468523_07981f54c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468523_efc87a09ed_o.png",
+      "id_image": "tea_509934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468513_804e2499c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468513_d1cb787fa2_o.png",
+      "id_image": "tea_703020"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "english": "season",
+  "phat_am": "ˈsiːzn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mùa",
+          "definition": "one of the main divisions of the year according to the regular variation of the weather, length of day etc",
+          "world_new": [
+            "main",
+            "year",
+            "regular",
+            "variation",
+            "weather",
+            "length",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The four seasons are spring, summer, autumn and winter",
+              "world_new": [
+                "spring",
+                "summer",
+                "autumn",
+                "winter"
+              ]
+            },
+            {
+              "ex_of_definition": "The monsoon brings the rainy season.",
+              "world_new": [
+                "monsoon",
+                "rainy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mùa, đợt",
+          "definition": "the usual, proper or suitable time for something",
+          "world_new": [
+            "usual",
+            "proper",
+            "suitable",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the football season.",
+              "world_new": [
+                "football"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho gia vị",
+          "definition": "to add salt, pepper, mustard etc to",
+          "world_new": [
+            "add",
+            "salt",
+            "pepper",
+            "mustard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She seasoned the meat with plenty of pepper.",
+              "world_new": [
+                "seasoned",
+                "meat",
+                "pepper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho thích hợp",
+          "definition": "to let (wood) be affected by rain, sun etc until it is ready for use.",
+          "world_new": [
+            "let",
+            "affected",
+            "rain",
+            "sun",
+            "ready"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The covariates include the control variables mentioned above (parity, season, education, and religion) plus the length of the previous birth interval.",
+    "Verbal evidence from shepherds and veterinarians also indicates that reproducing females can be found on sheep in these environments in all seasons.",
+    "This parameter was not included in previous tables because it was not analyzed during the initial sampling season.",
+    "Vertical bars represent s. e. d. for each season.",
+    "The highest values for mean species richness, percentage of baits attacked and intensities of attack, all occurred during the transitional season.",
+    "Later, for the 2002 swimming season, the pool was equipped with continuous filtration and chlorination of the water.",
+    "The majority of the elephants using the park disperse during the wet season into surrounding areas to forage.",
+    "The fungicide scheduling programme that provided the highest grain yield varied by cultivar and season."
+  ],
+  "list_see_also": [
+    "seasonable",
+    "seasonal",
+    "seasoned",
+    "seasoning",
+    "season ticket",
+    "in season",
+    "out of season"
+  ],
+  "list_browse": [
+    "seashore",
+    "seasick",
+    "seasickness",
+    "seaside",
+    "season",
+    "season ticket",
+    "seasonable",
+    "seasonal",
+    "seasoned"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369567_88ac3d0f93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369567_c91e5e82d3_o.png",
+      "id_image": "season_2832057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061600_bcb3b2ba67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061600_b05c7541a2_o.png",
+      "id_image": "season_2964502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439703_92482bf24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439703_756a42cb98_o.png",
+      "id_image": "season_4514913"
+    }
+  ]
+}

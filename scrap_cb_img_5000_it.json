@@ -1,0 +1,172 @@
+{
+  "english": "scrap",
+  "phat_am": "skrӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mảnh nhỏ",
+          "definition": "a small piece or fragment",
+          "world_new": [
+            "small",
+            "piece",
+            "fragment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a scrap of paper.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mẩu thừa",
+          "definition": "a piece of food left over after a meal",
+          "world_new": [
+            "piece",
+            "food",
+            "left",
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They gave the scraps to the dog.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phế liệu",
+          "definition": "waste articles that are only valuable for the material they contain",
+          "world_new": [
+            "waste",
+            "valuable",
+            "material",
+            "contain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old car was sold as scrap",
+              "world_new": [
+                "old",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) scrap metal.",
+              "world_new": [
+                "metal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoạn cắt, ảnh cắt (ở báo)",
+          "definition": "a picture etc for sticking into a scrapbook.",
+          "world_new": [
+            "picture",
+            "scrapbook"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thải ra",
+          "definition": "to discard",
+          "world_new": [
+            "discard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They scrapped the old television set",
+              "world_new": [
+                "old",
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "She decided to scrap the whole plan.",
+              "world_new": [
+                "whole",
+                "plan"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ẩu đả, đấu đá",
+          "definition": "a fight",
+          "world_new": [
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tore his jacket in a scrap with another boy.",
+              "world_new": [
+                "jacket",
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đánh nhau",
+          "definition": "to fight",
+          "world_new": [
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dogs were scrapping over a bone.",
+              "world_new": [
+                "bone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "scrappy",
+    "scrappily",
+    "scrappiness",
+    "scrapbook"
+  ],
+  "list_browse": [
+    "scraggy",
+    "scramble",
+    "scrambled egg",
+    "scrambler",
+    "scrap",
+    "scrapbook",
+    "scrape",
+    "scrape the bottom of the barrel",
+    "scrape through"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328096_74dd769956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328096_3656a43a97_o.png",
+      "id_image": "scrap_4465715"
+    }
+  ]
+}

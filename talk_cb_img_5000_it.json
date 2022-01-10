@@ -1,0 +1,181 @@
+{
+  "english": "talk",
+  "phat_am": "toːk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói chuyện",
+          "definition": "to speak; to have a conversation or discussion",
+          "world_new": [
+            "conversation",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We talked about it for hours"
+            },
+            {
+              "ex_of_definition": "My parrot can talk (= imitate human speech).",
+              "world_new": [
+                "parrot",
+                "imitate",
+                "human"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tán chuyện",
+          "definition": "to gossip",
+          "world_new": [
+            "gossip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t stay here – people will talk!",
+              "world_new": [
+                "stay",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói về, bàn bạc về",
+          "definition": "to talk about",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They spent the whole time talking philosophy.",
+              "world_new": [
+                "spent",
+                "whole",
+                "time",
+                "philosophy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội đàm",
+          "definition": "a conversation or discussion",
+          "world_new": [
+            "conversation",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a long talk about it",
+              "world_new": [
+                "long"
+              ]
+            },
+            {
+              "ex_of_definition": "The Prime Ministers met for talks on their countries’ economic problems.",
+              "world_new": [
+                "their",
+                "economic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài giảng",
+          "definition": "a lecture",
+          "world_new": [
+            "lecture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor gave us a talk on family health.",
+              "world_new": [
+                "doctor",
+                "family",
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời bàn tán",
+          "definition": "gossip",
+          "world_new": [
+            "gossip"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her behaviour/behavior causes a lot of talk among the neighbours/neighbors."
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyện gẫu",
+          "definition": "useless discussion; statements of things a person says he will do but which will never actually be done",
+          "world_new": [
+            "useless",
+            "person",
+            "actually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s too much talk and not enough action.",
+              "world_new": [
+                "action"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "talkative",
+    "talking book",
+    "talking head",
+    "talking point",
+    "talk show",
+    "talking-to",
+    "talk back",
+    "talk big",
+    "talk down to",
+    "talk (someone) into / out of (doing)",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "tale",
+    "talent",
+    "talented",
+    "talisman",
+    "talk",
+    "talk (someone) into / out of (doing)",
+    "talk back",
+    "talk big",
+    "talk down to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327246_cd053bfb85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327246_ffc0ba59af_o.png",
+      "id_image": "talk_1376427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064045_5c5a3af526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064045_5ab1dbcc19_o.png",
+      "id_image": "talk_2542449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682334_1266eed92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682334_eaa99c88d7_o.png",
+      "id_image": "talk_3890870"
+    }
+  ]
+}

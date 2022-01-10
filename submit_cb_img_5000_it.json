@@ -1,0 +1,97 @@
+{
+  "english": "submit",
+  "phat_am": "səbˈmit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chịu phục tùng, qui phục",
+          "definition": "to yield to control or to a particular kind of treatment by another person etc",
+          "world_new": [
+            "yield",
+            "control",
+            "particular",
+            "kind",
+            "treatment",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I refuse to submit to his control",
+              "world_new": [
+                "I",
+                "refuse",
+                "control"
+              ]
+            },
+            {
+              "ex_of_definition": "The rebels were ordered to submit."
+            }
+          ]
+        },
+        {
+          "mean_english": "đệ trình, đưa ra để xem xét",
+          "definition": "to offer (a plan, suggestion, proposal, entry etc)",
+          "world_new": [
+            "offer",
+            "plan",
+            "suggestion",
+            "proposal",
+            "entry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Competitors for the painting competition must submit their entries by Friday.",
+              "world_new": [
+                "painting",
+                "competition",
+                "their",
+                "Friday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The issue is concluded with three recently submitted book reviews.",
+    "All labor disputes had to be submitted to it, and no strikes were allowed during its deliberations.",
+    "We would like to thank all those contributors who submitted work on the theme.",
+    "The text appears to have been submitted in camera-ready form.",
+    "Manuscripts must be submitted in a format which will enable anonymous reviewing.",
+    "Throughout the process, the students are encouraged to maintain a diary which then informs the process report that is submitted.",
+    "Finally, it submits the total votes to its parent.",
+    "Only one patient submitted both types of samples."
+  ],
+  "list_see_also": [
+    "submission",
+    "submissive",
+    "submissively",
+    "submissiveness"
+  ],
+  "list_browse": [
+    "submission",
+    "submissive",
+    "submissively",
+    "submissiveness",
+    "submit",
+    "subnormal",
+    "subordinate",
+    "subordinate clause",
+    "subscribe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385227_edb7e038d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385227_ea87471407_o.png",
+      "id_image": "submit_2680985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340226_dd4a2fe7af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340226_9cfbd5b1f5_o.png",
+      "id_image": "submit_4047156"
+    }
+  ]
+}

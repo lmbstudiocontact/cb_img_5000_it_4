@@ -1,0 +1,103 @@
+{
+  "english": "tub",
+  "phat_am": "tab",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chậu",
+          "definition": "a round (usually wooden) container for keeping water, washing clothes etc",
+          "world_new": [
+            "container",
+            "keeping",
+            "water",
+            "washing",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a huge tub of water.",
+              "world_new": [
+                "huge",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bồn tắm",
+          "definition": "a bath",
+          "world_new": [
+            "bath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sitting in the tub.",
+              "world_new": [
+                "sitting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp bọc ngoài cho que kem",
+          "definition": "a small round container for ice-cream etc",
+          "world_new": [
+            "small",
+            "container"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tub of popcorn.",
+              "world_new": [
+                "popcorn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The method consists, briefly, in the liberation of pupae in tubs or large tins in the field.",
+    "These were attached to the tube by means of a plastic tub pushed over the lid.",
+    "The contents of the tub were analysed under a stereomicroscope, counting seeds of all recognizable species.",
+    "The definition of z tub is as follows.",
+    "Aphids were collected from the bagged plants by dipping and shaking the plants in a tub of hot water.",
+    "The dog was brushed again in the collection tub after traversing 5 m, 120 m, 240 m and 600 m on a road without contact with vegetation.",
+    "After 24 h exposure the survivors were removed from the tubs, placed in rearing bowls and reared up to adults.",
+    "A hole was cut to allow the tube to be pushed through the bottom of the tub and against the lid of the jar."
+  ],
+  "list_see_also": [
+    "tubby"
+  ],
+  "list_browse": [
+    "trying",
+    "tsar",
+    "tsp",
+    "tsunami",
+    "tub",
+    "tuba",
+    "tubby",
+    "tube",
+    "tuber"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445503_84e5b029c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445503_85b51b4e3b_o.png",
+      "id_image": "tub_3372619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445478_119c6ed25e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445478_17c62b4a73_o.png",
+      "id_image": "tub_4312035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445443_a8986295dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445443_cce9efd18b_o.png",
+      "id_image": "tub_5507892"
+    }
+  ]
+}

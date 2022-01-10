@@ -1,0 +1,121 @@
+{
+  "english": "scrub",
+  "phat_am": "skrab",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lau chùi; cọ rửa",
+          "definition": "to rub hard in order to clean",
+          "world_new": [
+            "rub",
+            "order",
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s scrubbing the floor.",
+              "world_new": [
+                "floor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cọ sạch",
+          "definition": "to remove by scrubbing",
+          "world_new": [
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She scrubbed the mess off the carpet.",
+              "world_new": [
+                "mess",
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hủy bỏ",
+          "definition": "to cancel",
+          "world_new": [
+            "cancel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We planned to go but had to scrub the idea.",
+              "world_new": [
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cọ rửa",
+          "definition": "an act of scrubbing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I tried giving the stain a good scrub.",
+              "world_new": [
+                "I",
+                "stain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The largest proportion of skunks observed during the 1997 dry season was in grasslands (51.2%), and the next proportion corresponded to scrub habitats (29.0%).",
+    "There were also less planned checks on the scrub succession since gorse fires were a regular occurrence in the 1970s.",
+    "Regeneration window for fleshy-fruited plants during scrub development on abandoned grassland.",
+    "But the spiral of lower stocking levels and greater scrub regeneration has proved irreversible.",
+    "The suppression of bracken and regenerating woodland scrub is also detrimental to the conservation of much of its flora.",
+    "The great advantage for law enforcement is that, however hard we scrub or cover ourselves in deodorant, we cannot entirely obscure our 'sniff signature'.",
+    "Most represent open sites in an otherwise forested landscape, or are separated from the surroundings by scrub, water courses or roads.",
+    "The gorse and the scrub are not just seen as an impediment to grazing but welcomed as attributes of the common."
+  ],
+  "list_see_also": [
+    "scrubbing brush"
+  ],
+  "list_browse": [
+    "scroll",
+    "scrotum",
+    "scrounge",
+    "scrounger",
+    "scrub",
+    "scrubbing brush",
+    "scruff",
+    "scruffy",
+    "scrum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441198_942bc03876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441198_1c1f001122_o.png",
+      "id_image": "scrub_3378694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063030_0cce15a47e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063030_05d5b2ea16_o.png",
+      "id_image": "scrub_4200449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062965_87551dccdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062965_6c5da96d6f_o.png",
+      "id_image": "scrub_4236934"
+    }
+  ]
+}

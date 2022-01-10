@@ -1,0 +1,51 @@
+{
+  "english": "terrorist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kẻ khủng bố",
+          "definition": "a person who tries to frighten people or governments into doing what he/she wants by using or threatening violence",
+          "world_new": [
+            "person",
+            "frighten",
+            "people",
+            "violence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane was hijacked by terrorists",
+              "world_new": [
+                "plane"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) terrorist activities."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "territory",
+    "terror",
+    "terror-stricken",
+    "terrorism",
+    "terrorist",
+    "terrorization",
+    "terrorize",
+    "tertiary",
+    "test"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706109_85c98c2fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706109_fda105b4d8_o.png",
+      "id_image": "terrorist_1022332"
+    }
+  ]
+}

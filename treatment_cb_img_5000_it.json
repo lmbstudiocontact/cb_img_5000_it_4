@@ -1,0 +1,78 @@
+{
+  "english": "treatment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đối xử",
+          "definition": "(an) act or manner of treating",
+          "world_new": [
+            "act",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This chair seems to have received rough treatment",
+              "world_new": [
+                "chair",
+                "rough"
+              ]
+            },
+            {
+              "ex_of_definition": "This patient/disease requires urgent treatment.",
+              "world_new": [
+                "urgent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, growth rates may increase over time simply because the initial and descendant cells are recovering from treatment rather than evolving.",
+    "There were seven treatments (table 1) with 10 replicate plots for each treatment.",
+    "The treatment of linearised rules in the rest of the section, though rigorous, will not be too formal.",
+    "It developed plans to offer medical care, hospital treatment, electricity, and water trucking.",
+    "In this commentary we raise two issues that we think are directly related to the theory's treatment of mental representations as emulations.",
+    "The past and current medications used in their cancer treatment were also examined in detail for an accurate evaluation.",
+    "Patients can be randomly allocated to different treatment groups using tables of random numbers.",
+    "The average treatment slot was reported as 20 min (ranging from 15 to 60 min)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "treasured",
+    "treasurer",
+    "treat",
+    "treatise",
+    "treatment",
+    "treaty",
+    "treble",
+    "trebly",
+    "tree"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335251_0a66346290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335251_81914a5552_o.png",
+      "id_image": "treatment_2358537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072165_718c033fa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072165_0c18965477_o.png",
+      "id_image": "treatment_2688386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380257_13c3989256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380257_48916c2749_o.png",
+      "id_image": "treatment_3027624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690444_81cca986e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690444_6679d52687_o.png",
+      "id_image": "treatment_963310"
+    }
+  ]
+}

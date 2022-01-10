@@ -1,0 +1,64 @@
+{
+  "english": "toxic",
+  "phat_am": "ˈtoksik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "độc",
+          "definition": "poisonous",
+          "world_new": [
+            "poisonous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "toxic substances."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both minor and major toxic events produced a one-time cost increase and quality-of-life reduction.",
+    "The table presents the number of adults of each genotype emerging from toxic and control treatments.",
+    "A counter-argument to this hypothesis is that what is toxic to mammals is not necessarily toxic to invertebrates.",
+    "In addition, reconstituted samples are often toxic for cells, which makes these samples unsuitable for virus neutralization assays.",
+    "Post-mortem evidence of a diffuse toxic or infectious process is pleural effusions, soft tissue oedema and necrosis at the injection site.",
+    "Investigations of behavioural toxicity are considered together with their implications for further improvement of behavioural methods for the early detection of toxic effects of pollutants.",
+    "In addition, there is the ever-present risk of unintentional exposures of populations to toxic chemicals and pathogens through industrial accidents and food contamination.",
+    "Thirty years ago it was thought for a while that, far from being behaviourally toxic, glutamic acid could possibly enhance intelligence."
+  ],
+  "list_see_also": [
+    "toxin"
+  ],
+  "list_browse": [
+    "town",
+    "town centre",
+    "town hall",
+    "townsfolk",
+    "toxic",
+    "toxin",
+    "toy",
+    "trace",
+    "trace elements"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079120_fb4ba83773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079120_a88c6b3a67_o.png",
+      "id_image": "toxic_4061417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341636_32f478f2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341636_b5a7fe52ae_o.png",
+      "id_image": "toxic_4643272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696849_4b6cfc50cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696849_820e5e69d8_o.png",
+      "id_image": "toxic_4657983"
+    }
+  ]
+}

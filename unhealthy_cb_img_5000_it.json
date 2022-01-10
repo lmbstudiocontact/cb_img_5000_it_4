@@ -1,0 +1,85 @@
+{
+  "english": "unhealthy",
+  "phat_am": "anˈhelθi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ốm yếu",
+          "definition": "not healthy",
+          "world_new": [
+            "healthy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is fat and unhealthy, mainly because he doesn’t take enough exercise.",
+              "world_new": [
+                "fat",
+                "mainly",
+                "exercise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguy hiểm",
+          "definition": "dangerous",
+          "world_new": [
+            "dangerous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The situation was getting unhealthy.",
+              "world_new": [
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Early initiation of unhealthy behaviours might place the individual at higher risk for health problems in later life.",
+    "Prior to use, dejellied eggs were examined under a dissecting microscope, and unhealthy and damaged eggs were discarded.",
+    "Everything is here: surprise, dismay, complacency, botched-up appearances, introversion, ego split, and unhealthy spirituality.",
+    "The currently fashionable virtue of self-esteem is a much overrated attribute, but it is unhealthy to have none at all.",
+    "Such findings imply that the unhealthier one's overall vocal functioning is, the less confident the child is.",
+    "Instead of developing and becoming efficient in the competitive struggle, it loses its fighting strength in the unhealthy atmosphere of monopolistic protectionism.",
+    "Overweight individuals are stereotyped as lazy, lacking in self-control, unattractive, undesirable and unhealthy.",
+    "Associated with the dwindling in size is the production of poor unhealthy top-growth which tends to die off prematurely."
+  ],
+  "list_see_also": [
+    "unhealthily",
+    "unhealthiness"
+  ],
+  "list_browse": [
+    "unhappy",
+    "unharmed",
+    "unhealthily",
+    "unhealthiness",
+    "unhealthy",
+    "unhelpful",
+    "unhelpfully",
+    "unhelpfulness",
+    "unholy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398087_d9183346e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398087_8c3a2d5c3d_o.png",
+      "id_image": "unhealthy_5705018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707869_bdb37e16c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707869_9b39e4a350_o.png",
+      "id_image": "unhealthy_6194087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398042_6f0cc0cc79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398042_293dd0eeb8_o.png",
+      "id_image": "unhealthy_6214069"
+    }
+  ]
+}

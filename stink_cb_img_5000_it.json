@@ -1,0 +1,80 @@
+{
+  "english": "stink",
+  "phat_am": "stiŋk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có mùi khó chịu, hôi thối",
+          "definition": "to have a very bad smell",
+          "world_new": [
+            "bad",
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That fish stinks",
+              "world_new": [
+                "fish"
+              ]
+            },
+            {
+              "ex_of_definition": "The house stinks of cats.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mùi khó chịu, hôi thối",
+          "definition": "a very bad smell",
+          "world_new": [
+            "bad",
+            "smell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a stink!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Does he not agree that this rising cry of stinking fish is somewhat discreditable?",
+    "I see no mention of the problem of stinking.",
+    "The risk-reward of methodology stinks.",
+    "I know that many farmers go on to silage, but silage stinks and it is mucky.",
+    "I would hate to see our estuary become a stinking drain.",
+    "They are leaving that stinking and sinking ship so fast it is unbelievable.",
+    "I know the stinking miserable feeling in one's belly when one cannot provide the wherewithal for one's children.",
+    "If we were to hear it at all, we might have heard it, as it were, fresh instead of stinking."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sting",
+    "stingily",
+    "stinginess",
+    "stingy",
+    "stink",
+    "stipulate",
+    "stipulation",
+    "stir",
+    "stir up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346361_c75ced6132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346361_ed2440517f_o.png",
+      "id_image": "stink_4694798"
+    }
+  ]
+}

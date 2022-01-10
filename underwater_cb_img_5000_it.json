@@ -1,0 +1,82 @@
+{
+  "english": "underwater",
+  "phat_am": "ˈandəˈwoːtə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ở dưới nước",
+          "definition": "existing or used below the surface of an area of water",
+          "world_new": [
+            "existing",
+            "surface",
+            "area",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an underwater cave/creature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "dưới mặt nước",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "animals that live underwater.",
+              "world_new": [
+                "live"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A detailed study of the relationship between transition and stability in a heated underwater body will be presented elsewhere.",
+    "The major application areas for professional robots are underwater robots, medical robots, demolition robots, mobile robot platforms for multiple use, laboratory robots, and cleaning robots.",
+    "This was a good analogy to the underwater currents and showed that the simulation approach had been appropriate.",
+    "We consider the trajectory planning of underwater robotic systems as an application to the proposed theoretical development.",
+    "It was noted that rough ice can be particularly influenced by the currents due to underwater ice topography.",
+    "Real underwater surfaces are unlikely to be large enough for surface noise to be important.",
+    "Adaptive control schemes for autonomous underwater vehicle which is supplied by the thrusters.",
+    "In detail, underwater sensors and actuators are characterized by poorer performances with respect to industrial applications in terms of bandwidth, noise and limit cycles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "understudy",
+    "undertake",
+    "undertaker",
+    "undertaking",
+    "underwater",
+    "underwear",
+    "underworld",
+    "undesirable",
+    "undivided"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353536_fdc853e403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353536_ea5e5c44c2_o.png",
+      "id_image": "underwater_3204079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708219_ddd3cf2467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708219_9e195601fa_o.png",
+      "id_image": "underwater_3204148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353491_a3d1688a84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353491_63a2c8de56_o.png",
+      "id_image": "underwater_4127133"
+    }
+  ]
+}

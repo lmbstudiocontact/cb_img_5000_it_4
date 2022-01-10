@@ -1,0 +1,76 @@
+{
+  "english": "smirk",
+  "phat_am": "sməːk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cười ngớ ngẩn",
+          "definition": "to smile in a self-satisfied or foolish manner",
+          "world_new": [
+            "smile",
+            "self-satisfied",
+            "foolish",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sat there smirking after the teacher had praised him.",
+              "world_new": [
+                "teacher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điệu cười ngớ ngẩn",
+          "definition": "a smile of this sort",
+          "world_new": [
+            "smile",
+            "sort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wipe that stupid smirk off your face!",
+              "world_new": [
+                "stupid",
+                "your",
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "smelly",
+    "smelt",
+    "smile",
+    "smiling",
+    "smirk",
+    "smith",
+    "smithy",
+    "smock",
+    "smog"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331221_6747aa7fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331221_5d49d5321b_o.png",
+      "id_image": "smirk_4126490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331206_9e07f69f33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331206_50a5997e1b_o.png",
+      "id_image": "smirk_4177338"
+    }
+  ]
+}

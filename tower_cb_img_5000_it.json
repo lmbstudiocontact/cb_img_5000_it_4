@@ -1,0 +1,94 @@
+{
+  "english": "tower",
+  "phat_am": "ˈtauə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tháp",
+          "definition": "a tall, narrow (part of a) building, especially (of) a castle",
+          "world_new": [
+            "tall",
+            "narrow",
+            "building",
+            "castle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Tower of London"
+            },
+            {
+              "ex_of_definition": "a church tower.",
+              "world_new": [
+                "church"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nâng cao",
+          "definition": "to rise high",
+          "world_new": [
+            "rise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is so small that he towers above her.",
+              "world_new": [
+                "small"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Four of 25 patients worked in factories where cooling towers were identified as the source of infection.",
+    "Architects should read it to see what wind towers do and what they can look like.",
+    "Turrets at the four corners of the pavilion towers are similarly important parts of the ventilation system.",
+    "In our situation, such a subdivision will automatically be achieved by the way we construct the towers.",
+    "The city has a busy waterfront, office towers, streets lined with shops and entertainment and a public transportation system that ties the city together.",
+    "The chapter opens with quotes and images about towers that soar skywards but which function as anchors, reminding people of their most profound cultural base.",
+    "Every effort must be made to lend enchantment to towers by night.",
+    "Even the ivory towers of academia were affected."
+  ],
+  "list_see_also": [
+    "towering",
+    "tower block"
+  ],
+  "list_browse": [
+    "tow",
+    "towards",
+    "towel",
+    "towelling",
+    "tower",
+    "tower block",
+    "towering",
+    "towline",
+    "town"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079260_22ecc1d790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079260_d1d1504de0_o.png",
+      "id_image": "tower_1835019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341771_a4943a8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341771_4df8e22510_o.png",
+      "id_image": "tower_4458936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456608_4f0cf9da53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456608_ed9caa38b0_o.png",
+      "id_image": "tower_5559362"
+    }
+  ]
+}

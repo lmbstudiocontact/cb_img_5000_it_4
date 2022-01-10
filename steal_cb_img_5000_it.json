@@ -1,0 +1,108 @@
+{
+  "english": "steal",
+  "phat_am": "stiːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ăn cắp, ăn trộm",
+          "definition": "to take (another person’s property), especially secretly, without permission or legal right",
+          "world_new": [
+            "secretly",
+            "permission",
+            "legal",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Thieves broke into the house and stole money and jewellery",
+              "world_new": [
+                "broke",
+                "house",
+                "money",
+                "jewellery"
+              ]
+            },
+            {
+              "ex_of_definition": "He was expelled from the school because he had been stealing (money).",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dành được, lấy được cái gì vụng trộm, lén lút",
+          "definition": "to obtain or take (eg a look, a nap etc) quickly or secretly",
+          "world_new": [
+            "obtain",
+            "look",
+            "nap",
+            "quickly",
+            "secretly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stole a glance at her.",
+              "world_new": [
+                "glance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuồn, đi lén",
+          "definition": "to move quietly",
+          "world_new": [
+            "move",
+            "quietly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stole quietly into the room.",
+              "world_new": [
+                "quietly",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Alternatively, consider the rule allowing the use of force to recapture stolen property or to effectuate reentry upon land.",
+    "Five bicycle thieves were arrested, and two men stealing from cars.",
+    "Scroremoies testified that he harbored no ill feelings toward the victim and that she had not stolen from him.",
+    "Very serious cases of violating moral rules, such as stealing, bullying, and hitting, were seldom discussed.",
+    "Such assets are much more easily stolen than traditional factors such as physical capital and land.",
+    "Often the craftsmen used raw materials stolen from factories or building sites (building materials, metals, yarn).",
+    "Such information can be stolen while in transit or in storage.",
+    "He was stolen away by fate for ever..."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "steadiness",
+    "steady",
+    "steady (on)!",
+    "steak",
+    "steal",
+    "stealth",
+    "stealthily",
+    "stealthiness",
+    "stealthy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702659_d2feef36ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702659_5b386aee38_o.png",
+      "id_image": "steal_4201580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347941_253ed76ba2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347941_f8291f624a_o.png",
+      "id_image": "steal_4633945"
+    }
+  ]
+}

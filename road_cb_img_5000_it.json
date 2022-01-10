@@ -1,0 +1,133 @@
+{
+  "english": "road",
+  "phat_am": "rəud",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường giao thông",
+          "definition": "a strip of ground usually with a hard level surface for people, vehicles etc to travel on",
+          "world_new": [
+            "strip",
+            "ground",
+            "level",
+            "surface",
+            "people",
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This road takes you past the school",
+              "world_new": [
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) road safety.",
+              "world_new": [
+                "safety"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phố",
+          "definition": "(often abbreviated to Rdwhen written) used in the names of roads or streets",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His address is 24 School Road.",
+              "world_new": [
+                "address"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuyến đường",
+          "definition": "a route; the correct road(s) to follow in order to arrive somewhere",
+          "world_new": [
+            "correct",
+            "follow",
+            "order",
+            "arrive",
+            "somewhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’d better look at the map because I’m not sure of the road.",
+              "world_new": [
+                "better",
+                "look",
+                "map",
+                "sure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "con đường dẫn tới",
+          "definition": "a way that leads to something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the road to peace",
+              "world_new": [
+                "peace"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s on the road to ruin.",
+              "world_new": [
+                "ruin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The road to understanding continues to reward the persistent investigator.",
+    "They include structural adjustment reforms, road sector reform, banking sector reform, agricultural sector reform, land sector reform, and tax reform.",
+    "One familiar debate concerns the contrasting situations of rail and road safety.",
+    "Long-term historical change, however, should not be treated in terms of routes, incentives and destinations, with their implicit accompaniment of cul-de-sacs, diversions, and road blocks.",
+    "Competition is against the clock on road courses over distances between 10 and 100 miles or for periods of 12 or 24 hours.",
+    "After calculating road construction cost in terms of $/m3, the sum of road construction and skidding costs for different road densities are determined.",
+    "The working plans included construction of forest access roads at fairly high labour cost.",
+    "From the volunteers, 20 participants that lived close to main roads (to secure accessibility) and distributed over the entire irrigation scheme were selected."
+  ],
+  "list_see_also": [
+    "roadblock",
+    "road map",
+    "road rage",
+    "roadside",
+    "roadway",
+    "roadworks",
+    "roadworthy",
+    "roadworthiness",
+    "by road"
+  ],
+  "list_browse": [
+    "river bed",
+    "riverside",
+    "rivet",
+    "riveter",
+    "road",
+    "road map",
+    "road rage",
+    "roadblock",
+    "roadside"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344966_8216b3ee03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344966_c7a8bac799_o.png",
+      "id_image": "road_619147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082410_8d7d5d769a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082410_afd2eb90bf_o.png",
+      "id_image": "road_777567"
+    }
+  ]
+}

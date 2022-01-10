@@ -1,0 +1,73 @@
+{
+  "english": "tomato",
+  "phat_am": "təˈmaːtəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cà chua",
+          "definition": "a type of fleshy, juicy fruit, usually red, used in salads, sauces etc",
+          "world_new": [
+            "type",
+            "fleshy",
+            "juicy",
+            "fruit",
+            "red"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had a salad of lettuce, tomatoes and cucumbers",
+              "world_new": [
+                "salad",
+                "lettuce"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) tomato sauce.",
+              "world_new": [
+                "sauce"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây cà chua",
+          "definition": "the plant which bears these.",
+          "world_new": [
+            "plant"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, organic lettuce, tomatoes and carrots were said to have lot more flavor than their conventional counterparts.",
+    "They learned about weeding, mulching, about the handling of tomatoes, harrowing and about the use of allelopathic effects.",
+    "The chapter on molecular markers in selection of tomato germplasm has been cleverly written even though markers are used in many other chapters.",
+    "The three cultivators had diversified their cropping pattern by planting 4 to 4.7 hectares of tomatoes and sugar beets in 2000-2001.",
+    "In tomato/cowpea intercropping, all cowpea pods were harvested at maturity and dried to a moisture content of 120 g water/kg fresh weight.",
+    "This effect is caused by the generally lower chlorophyll concentrations in healthy lettuce leaves, as compared with healthy tomato and pepper plants.",
+    "In these experiments, excised tomato leaflets with petioles were used instead of leaf discs.",
+    "The redness of a tomato, unlike the brightness of the sky, gives no insight to us as to its physical nature."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tolerate",
+    "toleration",
+    "toll",
+    "tom-tom",
+    "tomato",
+    "tomb",
+    "tomboy",
+    "tombstone",
+    "tomcat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389692_04490b9049_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389692_16a4d0d1c4_o.png",
+      "id_image": "tomato_1054111"
+    }
+  ]
+}

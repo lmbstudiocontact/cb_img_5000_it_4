@@ -1,0 +1,124 @@
+{
+  "english": "select",
+  "phat_am": "səˈlekt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuyển chọn, lựa chọn",
+          "definition": "to choose or pick from among a number",
+          "world_new": [
+            "choose",
+            "pick",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She selected a blue dress from the wardrobe",
+              "world_new": [
+                "blue",
+                "dress",
+                "wardrobe"
+              ]
+            },
+            {
+              "ex_of_definition": "You have been selected to represent us on the committee.",
+              "world_new": [
+                "represent",
+                "committee"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tuyển, được lựa chọn",
+          "definition": "picked or chosen carefully",
+          "world_new": [
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A select group of friends was invited.",
+              "world_new": [
+                "group"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kén chọn",
+          "definition": "intended only for carefully chosen (usually rich or upper-class) people",
+          "world_new": [
+            "carefully",
+            "rich",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That school is very select.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The thunk for the selected branch can then be applied to the dummy argument.",
+    "We randomly selected a 13,469-word chunk of data from the corpus.",
+    "When selecting a hypertheme topic term, a term that is also a main sentence topic has always priority over a comment term.",
+    "Since such a physical action cannot be achieved by a single behavior, the coordinator selects multiple behaviors that should cooperate together to perform this action.",
+    "Independent raters reviewed audiotapes of 242 randomly selected informant interviews.",
+    "A randomly selected 30 % of all interactions were independently coded and reliability checked by two trained coders.",
+    "I outlined the core action of the scene and selected two or three lines of dialogue that summed up the moment.",
+    "A meta-analysis of selected studies on the effectiveness of bilingual education."
+  ],
+  "list_see_also": [
+    "selection",
+    "selective",
+    "selectively",
+    "selectiveness",
+    "selector"
+  ],
+  "list_browse": [
+    "seize on",
+    "seize up",
+    "seizure",
+    "seldom",
+    "select",
+    "selection",
+    "selective",
+    "selectively",
+    "selectiveness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465708_aac7697e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465708_4307569b7a_o.png",
+      "id_image": "select_165034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465688_6a885379fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465688_3fdf630839_o.png",
+      "id_image": "select_2005220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395842_3fce4d4a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395842_c8d1e73e46_o.png",
+      "id_image": "select_2249856"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465623_e4c7042322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465623_ef047a692f_o.png",
+      "id_image": "select_6064965"
+    }
+  ]
+}

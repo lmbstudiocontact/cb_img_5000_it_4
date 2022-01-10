@@ -1,0 +1,213 @@
+{
+  "english": "thick",
+  "phat_am": "θik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dày",
+          "definition": "having a relatively large distance between opposite sides; not thin",
+          "world_new": [
+            "relatively",
+            "large",
+            "distance",
+            "opposite",
+            "thin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a thick book",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "thick walls"
+            },
+            {
+              "ex_of_definition": "thick glass.",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có bề dày là",
+          "definition": "having a certain distance between opposite sides",
+          "world_new": [
+            "certain",
+            "distance",
+            "opposite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s two inches thick"
+            },
+            {
+              "ex_of_definition": "a two-inch-thick pane of glass.",
+              "world_new": [
+                "pane",
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặc",
+          "definition": "(of liquids, mixtures etc) containing solid matter; not flowing (easily) when poured",
+          "world_new": [
+            "solid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "thick soup.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rậm, rậm rạp",
+          "definition": "made of many single units placed very close together; dense",
+          "world_new": [
+            "single",
+            "close",
+            "dense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a thick forest",
+              "world_new": [
+                "forest"
+              ]
+            },
+            {
+              "ex_of_definition": "thick hair.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dày đặc",
+          "definition": "difficult to see through",
+          "world_new": [
+            "difficult",
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "thick fog.",
+              "world_new": [
+                "fog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầy, phủ đầy",
+          "definition": "full of, covered with etc",
+          "world_new": [
+            "full"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The room was thick with dust",
+              "world_new": [
+                "room",
+                "dust"
+              ]
+            },
+            {
+              "ex_of_definition": "The air was thick with smoke.",
+              "world_new": [
+                "air",
+                "smoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngu ngốc, dại dột",
+          "definition": "stupid",
+          "world_new": [
+            "stupid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t be so thick!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ dày nhất",
+          "definition": "the thickest, most crowded or active part",
+          "world_new": [
+            "crowded",
+            "active",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in the thick of the forest",
+              "world_new": [
+                "forest"
+              ]
+            },
+            {
+              "ex_of_definition": "in the thick of the fight.",
+              "world_new": [
+                "fight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The individual ignimbrite sequences are up to 200 m thick.",
+    "The target was a flat thick foil placed perpendicularly to the beam, which could be moved along the x and y direction by external motions.",
+    "In the post-1870 era serious medical books emphasizing these themes came thick and fast.",
+    "The internal and external elastic laminae are thick concentric elastic-fibre layers that separate the intima and media, and the media and adventitia, respectively.",
+    "Numerous thin sandstone beds (in general about 10 cm thick) are separated by thicker units of flaser-bedded siltstones and mudstones.",
+    "After opening the pleura, large tortuous venous vessels as thick as a finger were seen.",
+    "If a thick sense of welfare is used, then it is unlikely that competition will maximize it.",
+    "The thick diagonal line separates the traditional orientations ofprocessual archaeology (left) from those of post-processual archaeology (right)."
+  ],
+  "list_see_also": [
+    "thickly",
+    "thickness",
+    "thicken",
+    "thick-skinned",
+    "thick and fast",
+    "through thick and thin"
+  ],
+  "list_browse": [
+    "thermostatically",
+    "thesaurus",
+    "thesis",
+    "they",
+    "thick",
+    "thick and fast",
+    "thick-skinned",
+    "thicken",
+    "thicket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464463_7743a8ce95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464463_d31bfd1a04_o.png",
+      "id_image": "thick_4637345"
+    }
+  ]
+}

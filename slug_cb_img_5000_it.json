@@ -1,0 +1,94 @@
+{
+  "english": "slug",
+  "phat_am": "slaɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con sên",
+          "definition": "a kind of animal like a snail.",
+          "world_new": [
+            "kind",
+            "animal",
+            "snail"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viên đạn nhỏ",
+          "definition": "a piece of metal, especially an irregularly shaped lump used as a bullet.",
+          "world_new": [
+            "piece",
+            "metal",
+            "irregularly",
+            "shaped",
+            "lump",
+            "bullet"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh mạnh",
+          "definition": "to strike (a person) heavily usually causing unconsciousness",
+          "world_new": [
+            "strike",
+            "heavily",
+            "unconsciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man had been slugged on the back of the neck with a heavy object.",
+              "world_new": [
+                "neck",
+                "heavy",
+                "object"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sluggish",
+    "sluggishly",
+    "sluggishness"
+  ],
+  "list_browse": [
+    "slow motion",
+    "slowly",
+    "slowness",
+    "sludge",
+    "slug",
+    "sluggish",
+    "sluggishly",
+    "sluggishness",
+    "sluice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068770_7babf1a6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068770_805c99bb3f_o.png",
+      "id_image": "slug_2036640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447058_47aa5e5f70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447058_117c0ecee5_o.png",
+      "id_image": "slug_2162041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332016_6b6a1c93ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332016_5f52571e15_o.png",
+      "id_image": "slug_3751492"
+    }
+  ]
+}

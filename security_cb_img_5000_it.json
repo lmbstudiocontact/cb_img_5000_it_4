@@ -1,0 +1,97 @@
+{
+  "english": "security",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự an toàn",
+          "definition": "the state of being, or making safe, secure, free from danger etc",
+          "world_new": [
+            "state",
+            "safe",
+            "secure",
+            "free",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the security of a happy home",
+              "world_new": [
+                "happy",
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "This alarm system will give the factory some security",
+              "world_new": [
+                "alarm",
+                "system",
+                "factory"
+              ]
+            },
+            {
+              "ex_of_definition": "There has to be tight security at a prison",
+              "world_new": [
+                "tight",
+                "prison"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the security forces",
+              "world_new": [
+                "forces"
+              ]
+            },
+            {
+              "ex_of_definition": "a security guard.",
+              "world_new": [
+                "guard"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The net impact of introducing derivatives on the informational efficiency of the securities market depends on the interaction between these two effects.",
+    "In those days if you got a move of 4/32nd's in the government securities market, it was considered a turbulent day.",
+    "In the absence of state-contingent securities, the story is quite different.",
+    "However, under this preference, an investor's holding of risky securities is independent of his wealth, as are the equilibrium prices.",
+    "One fund holds its entire portfolio in fixed income securities, whereas other funds have none or only few fixed income holdings.",
+    "He has currently postponed doctoral studies to pursue a career in securities.",
+    "Modeling the actual process of introducing derivative securities is also beyond the scope of this paper.",
+    "The existence (and the creation) of multiple agents as in the cases of energy and securities tends to increase the control capacity of the principal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sector",
+    "secular",
+    "secure",
+    "securely",
+    "security",
+    "security risk",
+    "sedan",
+    "sedate",
+    "sedately"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368212_9a470c151a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368212_1479218e5a_o.png",
+      "id_image": "security_1567975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060065_0f2b249d2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060065_125c990c11_o.png",
+      "id_image": "security_171675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368222_9b38bb114a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368222_b2ba28d9ac_o.png",
+      "id_image": "security_748900"
+    }
+  ]
+}

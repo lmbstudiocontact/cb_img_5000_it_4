@@ -1,0 +1,100 @@
+{
+  "english": "slave",
+  "phat_am": "sleiv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người nô lệ",
+          "definition": "a person who works for a master to whom he belongs",
+          "world_new": [
+            "person",
+            "works",
+            "master"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the nineteenth century many Africans were sold as slaves in the United States.",
+              "world_new": [
+                "century"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người làm việc đầu tắt, mặt tối",
+          "definition": "a person who works very hard for someone else",
+          "world_new": [
+            "person",
+            "works",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a slave who types his letters and organizes his life for him.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm việc quần quật",
+          "definition": "to work very hard, often for another person",
+          "world_new": [
+            "work",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve been slaving away for you all day while you sit and watch television.",
+              "world_new": [
+                "day",
+                "sit",
+                "watch",
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "slavery"
+  ],
+  "list_browse": [
+    "slate",
+    "slatted",
+    "slaughter",
+    "slaughter-house",
+    "slave",
+    "slavery",
+    "slay",
+    "sleaze",
+    "sleazy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689619_ed169e66aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689619_f78fd7baef_o.png",
+      "id_image": "slave_5773048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689574_248c171dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689574_8a5ae9b923_o.png",
+      "id_image": "slave_5906183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379397_46685ef08a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379397_a59ea76cdb_o.png",
+      "id_image": "slave_6146655"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "soundtrack",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giải, đường ghi âm",
+          "definition": "(a recording of) the music from a film",
+          "world_new": [
+            "recording",
+            "music",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve just bought the soundtrack of that new film.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The 1950s soundtrack is of course only one example of sonic memory material.",
+    "It has no information about actors, directors, soundtracks, etc., however.",
+    "Both are edited to the same soundtrack and show different but complementary scenes simultaneously.",
+    "This can be done even more effectively with multiple channel inputs where each soundtrack can be kept discrete and projected independently of all others.",
+    "Sweetback rendered film anthems fashionable, creating a commercial demand for soundtracks written by contemporary funk and soul artists.",
+    "This clearly had consequences for the future use of musical soundtrack.",
+    "The quality of the performances is very good but unfortunately the soundtrack on my particular copy was distorted.",
+    "Earlier ones involved storage on disc or film soundtrack, while more recent ones have been based on magnetic tape or actual sampling machines."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "soundlessly",
+    "soundly",
+    "soundness",
+    "soundproof",
+    "soundtrack",
+    "soup",
+    "sour",
+    "sour grapes",
+    "source"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325536_7136b136b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325536_898ba27271_o.png",
+      "id_image": "soundtrack_122877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325506_ea9d8c033e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325506_a4300f797f_o.png",
+      "id_image": "soundtrack_2123953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325501_2437762c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325501_0d4b3ef5d3_o.png",
+      "id_image": "soundtrack_4133247"
+    }
+  ]
+}

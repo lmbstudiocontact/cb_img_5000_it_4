@@ -1,0 +1,62 @@
+{
+  "english": "summary",
+  "phat_am": "ˈsaməri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản tóm tắt",
+          "definition": "a shortened form of a statement, story etc giving only the main points",
+          "world_new": [
+            "form",
+            "statement",
+            "story",
+            "main",
+            "points"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A summary of his speech was printed in the newspaper.",
+              "world_new": [
+                "speech",
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The factoid analysis investigated 50 different summaries from two news stories.",
+    "The editors invite research groups around the world to offer summaries of their current or recent research projects for consideration for publication in the journal.",
+    "In a first step, irrelevant reports were excluded, based on information from titles and summaries.",
+    "To what degree is information uniform across different summaries?",
+    "Her summaries at the end of chapters are a saving grace.",
+    "In the extrinsic ad hoc task, the focus was on indicative summaries which were tailored to a particular topic.",
+    "Their excellent lively introduction, lyrical afterword and summaries throughout contribute to the reading process that is of necessity comparative and reflective.",
+    "Most chapters contain helpful summaries and suggestions for future research."
+  ],
+  "list_see_also": [
+    "summarize"
+  ],
+  "list_browse": [
+    "sum",
+    "sum total",
+    "sum up",
+    "summarize",
+    "summary",
+    "summer",
+    "summer camp",
+    "summerhouse",
+    "summertime"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453048_15ca33fbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453048_c0265813c8_o.png",
+      "id_image": "summary_4833961"
+    }
+  ]
+}

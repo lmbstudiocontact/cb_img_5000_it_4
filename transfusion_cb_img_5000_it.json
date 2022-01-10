@@ -1,0 +1,82 @@
+{
+  "english": "transfusion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lượng máu được truyền",
+          "definition": "a quantity of blood transferred from one person to another",
+          "world_new": [
+            "quantity",
+            "blood",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was given a blood transfusion.",
+              "world_new": [
+                "blood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự truyền máu",
+          "definition": "the act or process of transferring blood from one person to another.",
+          "world_new": [
+            "act",
+            "process",
+            "blood",
+            "person"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They may, for example, be infected through receiving blood transfusions following a traffic accident, or when they visit their dentist.",
+    "There are more than 1,000 haemophiliacs and nearly 100 others who received contaminated blood transfusions.",
+    "Maternal platelet transfusions are only effective for several hours and can lead to alloimmunization to donor platelet antigens.",
+    "Efforts have been made to minimize circuit prime to avoid homologous transfusions and blood product administration.",
+    "Cost-effectiveness of recombinant human erythropoietin for reducing red blood cells transfusions in critically ill patients.",
+    "A caesarean section and a hysterectomy will be required to save her and her baby, but the surgery will involve blood transfusions.",
+    "A biochemical approach, called phenotyping, is in use but has important limitations as blood transfusions interfere with the results.",
+    "The earliest of those 15 transfusions was in 1993 and the latest in 2001."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transform",
+    "transformation",
+    "transformer",
+    "transfuse",
+    "transfusion",
+    "transgenic",
+    "transgenically",
+    "transistor",
+    "transit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693319_6f82a99277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693319_409a6d4d1e_o.png",
+      "id_image": "transfusion_1142136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338011_9b1b92845b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338011_9320a73f5a_o.png",
+      "id_image": "transfusion_1467313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075150_0095d53644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075150_53fbbbac1f_o.png",
+      "id_image": "transfusion_354482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453003_c3888144f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453003_d56086cddc_o.png",
+      "id_image": "transfusion_472923"
+    }
+  ]
+}

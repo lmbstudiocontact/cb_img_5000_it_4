@@ -1,0 +1,64 @@
+{
+  "english": "treadmill",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công việc đơn điệu",
+          "definition": "a situation that is boring because you always have to do the same things",
+          "world_new": [
+            "situation",
+            "boring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the office treadmill.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy tập chạy bộ",
+          "definition": "an exercise machine with a moving surface that you walk or run on while remaining in the same place.",
+          "world_new": [
+            "exercise",
+            "machine",
+            "moving",
+            "surface",
+            "walk",
+            "run",
+            "place"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "treachery",
+    "treacle",
+    "tread",
+    "tread water",
+    "treadmill",
+    "treason",
+    "treasure",
+    "treasure hunt",
+    "treasured"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690834_079e81ebc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690834_74b6a6333a_o.png",
+      "id_image": "treadmill_3979004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335611_ee26c01d33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335611_36a7ae5809_o.png",
+      "id_image": "treadmill_4220355"
+    }
+  ]
+}

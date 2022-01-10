@@ -1,0 +1,106 @@
+{
+  "english": "snow",
+  "phat_am": "snəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuyết",
+          "definition": "frozen water vapour/vapor that falls to the ground in soft white flakes",
+          "world_new": [
+            "frozen",
+            "water",
+            "falls",
+            "ground",
+            "soft",
+            "white"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We woke up to find snow on the ground",
+              "world_new": [
+                "find",
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "We were caught in a heavy snow-shower",
+              "world_new": [
+                "heavy"
+              ]
+            },
+            {
+              "ex_of_definition": "About 15 centimetres of snow had fallen overnight.",
+              "world_new": [
+                "overnight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tuyết rơi",
+          "definition": "to shower down in, or like, flakes of snow",
+          "world_new": [
+            "shower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s snowing heavily.",
+              "world_new": [
+                "heavily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "snowy",
+    "snowball",
+    "snowboard",
+    "snow-capped",
+    "snowdrift",
+    "snowdrop",
+    "snowfall",
+    "snowflake",
+    "snowman",
+    "snowstorm",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "snore",
+    "snorkel",
+    "snort",
+    "snout",
+    "snow",
+    "snow-capped",
+    "snow-white",
+    "snowball",
+    "snowboard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373712_783b129e70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373712_ab300d1a93_o.png",
+      "id_image": "snow_2204374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373697_59d1985529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373697_9d4e00e124_o.png",
+      "id_image": "snow_4647927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443863_4883a0d978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443863_fb6e04fabd_o.png",
+      "id_image": "snow_4727668"
+    }
+  ]
+}

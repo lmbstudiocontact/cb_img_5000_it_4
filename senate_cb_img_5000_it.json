@@ -1,0 +1,71 @@
+{
+  "english": "senate",
+  "phat_am": "ˈsenət",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thượng nghị viện",
+          "definition": "a lawmaking body, especially the upper house of the parliament in some countries",
+          "world_new": [
+            "body",
+            "upper",
+            "house",
+            "parliament"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a senate committee.",
+              "world_new": [
+                "committee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hội đồng nhà nước cao nhất",
+          "definition": "in ancient Rome, the chief legislative and administrative body.",
+          "world_new": [
+            "ancient",
+            "chief",
+            "legislative",
+            "administrative",
+            "body"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The ceremony ended with the departure of the senate.",
+    "By the 1920s, the traditional parties had lost their majorities in the house of representatives and were gradually losing power in the senate.",
+    "Congressional elections in 1882 replaced the lower house's membership as well as a portion of the senate.",
+    "It came at a time when congress and the senate were not allowed to alter budget legislation.",
+    "Perhaps they could prevail on the governor or on their allies in the senate to exact harm on cities.",
+    "Other factors, such as partisanship, gender, occupational identification, and the timing of arrival in the senate should not be significant predictors.",
+    "Irregular professors had the jus promovendum, and were members of the faculty and senate, but they lacked the power to vote in these decision-making bodies.",
+    "In this sample, 65 elections were decided by majority votes in the state house and state senate, and 48 elections were decided in joint session."
+  ],
+  "list_see_also": [
+    "senator"
+  ],
+  "list_browse": [
+    "seminary",
+    "semitone",
+    "semolina",
+    "Sen",
+    "senate",
+    "senator",
+    "send",
+    "send (someone) packing / send (someone) about his business",
+    "send (someone/something) flying"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087530_d9c1b5c558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087530_0c071e8419_o.png",
+      "id_image": "senate_6333053"
+    }
+  ]
+}

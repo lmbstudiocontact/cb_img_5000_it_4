@@ -1,0 +1,96 @@
+{
+  "english": "tailor",
+  "phat_am": "ˈteilə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thợ may",
+          "definition": "a person who cuts and makes suits, overcoats etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has his clothes made by a London tailor.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "may đo",
+          "definition": "to make and fit (suits, coats etc)",
+          "world_new": [
+            "fit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has his suits tailored in London."
+            }
+          ]
+        },
+        {
+          "mean_english": "thích nghi",
+          "definition": "to make (something) fit the circumstances; to adapt",
+          "world_new": [
+            "fit",
+            "adapt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tailored his way of living to his income.",
+              "world_new": [
+                "living",
+                "income"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As such, assessment is tailored online to accommodate the test taker's estimated ability and confront the examinee with items that best measure that ability.",
+    "The importance of tailoring interventions to meet the needs of t he individual patients has also been emphasized.",
+    "Will medicine become a practice of tailoring molecules?",
+    "Their suggestion that studies be carefully tailored to their real-world target behaviors implies that experimenters only use one procedure if it is relevant.",
+    "Predictive research thus can inform the design of prevention programs and permit interventions to be tailored to those at highest risk.",
+    "Experience can refine the subject's representation, promoting tolerance and help that is tailored to the object's needs.",
+    "Their results suggested that interventions particularly tailored to specific deficits might be more efficacious than general stimulation and rehearsal.",
+    "The relationship of drapery to the underlying structure is clearly of fundamental significance and leads to a clearer distinction between tailored and draped architecture."
+  ],
+  "list_see_also": [
+    "tailor-made"
+  ],
+  "list_browse": [
+    "tail light",
+    "tail off",
+    "tail-end",
+    "-tailed",
+    "tailor",
+    "tailor-made",
+    "tails",
+    "tailwind",
+    "taint"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327851_4f0c66e43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327851_8a9813961c_o.png",
+      "id_image": "tailor_5857235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064485_38d86b59f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064485_973d867ae4_o.png",
+      "id_image": "tailor_6036809"
+    }
+  ]
+}

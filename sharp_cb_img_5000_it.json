@@ -1,0 +1,270 @@
+{
+  "english": "sharp",
+  "phat_am": "ʃaːp",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sắc, nhọn, bén",
+          "definition": "having a thin edge that can cut or a point that can pierce",
+          "world_new": [
+            "thin",
+            "edge",
+            "cut",
+            "point",
+            "pierce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sharp knife.",
+              "world_new": [
+                "knife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ ràng, rõ nét",
+          "definition": "(of pictures, outlines etc) clear and distinct",
+          "world_new": [
+            "clear",
+            "distinct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the sharp outline of the mountain.",
+              "world_new": [
+                "outline",
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thình lình, đột ngột",
+          "definition": "(of changes in direction) sudden and quick",
+          "world_new": [
+            "sudden",
+            "quick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sharp left turn.",
+              "world_new": [
+                "left",
+                "turn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buốt, nhói",
+          "definition": "(of pain etc) keen, acute or intense",
+          "world_new": [
+            "pain",
+            "keen",
+            "acute",
+            "intense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gets a sharp pain after eating.",
+              "world_new": [
+                "pain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ trích gay gắt",
+          "definition": "(often with with) severe",
+          "world_new": [
+            "severe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t be so sharp with the child!",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "She got a sharp reproach from me.",
+              "world_new": [
+                "reproach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thính, tinh ,nhạy",
+          "definition": "alert",
+          "world_new": [
+            "alert"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dogs have sharp ears."
+            }
+          ]
+        },
+        {
+          "mean_english": "the thé",
+          "definition": "shrill and sudden",
+          "world_new": [
+            "shrill",
+            "sudden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sharp cry.",
+              "world_new": [
+                "cry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thăng, cao nửa cung",
+          "definition": "(of a musical note) raised a semitone; too high in pitch",
+          "world_new": [
+            "musical",
+            "pitch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "F sharp",
+              "world_new": [
+                "F"
+              ]
+            },
+            {
+              "ex_of_definition": "That last note was sharp.",
+              "world_new": [
+                "note"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đúng",
+          "definition": "punctually",
+          "world_new": [
+            "punctually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Come at six (o’clock) sharp."
+            }
+          ]
+        },
+        {
+          "mean_english": "đột ngột, bất thình lình",
+          "definition": "with an abrupt change of direction",
+          "world_new": [
+            "abrupt",
+            "change",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Turn sharp left here.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cao quá độ cao đúng",
+          "definition": "at too high a pitch",
+          "world_new": [
+            "pitch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re singing sharp.",
+              "world_new": [
+                "singing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nốt thăng",
+          "definition": "a sharp note",
+          "world_new": [
+            "note"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sharps and flats."
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu thăng",
+          "definition": "a sign (#) to show that a note is to be raised a semitone.",
+          "world_new": [
+            "sign",
+            "note",
+            "semitone"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As the wave amplitude increases, the wavelength also increases, as is evident from the diagram, and the interfaces develop sharper crests.",
+    "The weakening of the stability criterion is merely due to a sharper numerical evaluation of the relative contributions of the two terms.",
+    "Among the poor, class solidarity overrode race hierarchies that were sharper among the elite, but both shared a very patriarchal view of women.",
+    "Percutaneous injury from non-hollow-bore sharps most commonly occurred during suturing (83.4 %).",
+    "The more obvious consequence is that one cannot write double sharps or double flats.",
+    "Of course, disabilities (as well as other sorts of harms) may enhance one's life in various respects, making it sharper and more directed.",
+    "However, it may be that sharper specifying of the reduction preorder is needed.",
+    "Safety features were present in 8.9 % of all sharps implicated in a reported percutaneous incident, most commonly intravenous needles and butterfly needles."
+  ],
+  "list_see_also": [
+    "sharpen",
+    "sharpener",
+    "sharply",
+    "sharpness",
+    "sharp practice",
+    "sharp-witted",
+    "look sharp"
+  ],
+  "list_browse": [
+    "share and share alike",
+    "shared writing",
+    "shareholder",
+    "shark",
+    "sharp",
+    "sharp practice",
+    "sharp-witted",
+    "sharpen",
+    "sharpener"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701504_f075cf2073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701504_3786df5168_o.png",
+      "id_image": "sharpen_648411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391647_bf8155c0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391647_9212de4c26_o.png",
+      "id_image": "sharp_215046"
+    }
+  ]
+}

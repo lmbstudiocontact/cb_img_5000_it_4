@@ -1,0 +1,147 @@
+{
+  "english": "romantic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc lãng mạn",
+          "definition": "(opposite unromantic) (of a story) about people who are in love",
+          "world_new": [
+            "people",
+            "love"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a romantic novel.",
+              "world_new": [
+                "novel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có tính lãng mạn",
+          "definition": "causing or feeling love, especially the beautiful love described in a romance",
+          "world_new": [
+            "feeling",
+            "love",
+            "beautiful",
+            "love",
+            "romance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her husband is very romantic – he brings her flowers every day",
+              "world_new": [
+                "husband",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "romantic music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mơ mộng",
+          "definition": "too concerned with love and excitement",
+          "world_new": [
+            "love",
+            "excitement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her head is full of romantic notions.",
+              "world_new": [
+                "head",
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người bay bổng",
+          "definition": "someone who is not practical and who has hopes that are not realistic, but are based on an imagined world in which things are better than they really are",
+          "world_new": [
+            "practical",
+            "realistic",
+            "world",
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an incurable romantic who dreamt of changing the world.",
+              "world_new": [
+                "incurable",
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người lãng mạn",
+          "definition": "someone who likes to do things to show his or her love for someone, for example by buying flowers.",
+          "world_new": [
+            "love",
+            "example"
+          ]
+        },
+        {
+          "mean_english": "nhà văn, nhà thơ lãng mạn",
+          "definition": "a writer, artist, composer etc whose work is in the style of Romanticism.",
+          "world_new": [
+            "writer",
+            "artist",
+            "composer",
+            "work",
+            "style"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Roman Catholic",
+    "Roman Catholicism",
+    "Roman numerals",
+    "romance",
+    "romantic",
+    "romantically",
+    "romanticize",
+    "romp",
+    "roof"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387897_7c3bd7cba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387897_583e687838_o.png",
+      "id_image": "romantic_1911850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698134_4d5c27d968_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698134_3901b38d4f_o.png",
+      "id_image": "romantic_1911853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080315_d7c24c2960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080315_5916b42aaa_o.png",
+      "id_image": "romantic_1911865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080430_b41feee15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080430_be4f611e99_o.png",
+      "id_image": "romantic_325628"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "unhappy",
+  "phat_am": "anˈhӕpi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "buồn rầu, khổ sở",
+          "definition": "sad or miserable",
+          "world_new": [
+            "sad",
+            "miserable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had an unhappy childhood.",
+              "world_new": [
+                "childhood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không thích đáng",
+          "definition": "regrettable",
+          "world_new": [
+            "regrettable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has an unhappy knack of always saying the wrong thing.",
+              "world_new": [
+                "knack",
+                "wrong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since voting generates winners and losers, the losers are unhappy even when they had a chance to vote for their favorite option.",
+    "This argument ties happy more closely to -er than to un- and thereby renders unhappy right-branching.",
+    "Contests for scarce resources in under-funded universities provide situations in which unhappy cohabitations may be remembered more than alternative narratives of co-operative ventures.",
+    "By remaining together, both unhappy spouses can carry out their parental roles and by this undertaking receive the community's acknowledgment of their parental status.",
+    "Looking back over a span of 40 or more years, they could remember difficulties and times when they were unhappy.",
+    "It believed this group both personally unhappy and a source of malaise for the rest of society.",
+    "This unhappy state was the result of antidemocratic policies vigorously pursued and enforced by means of terror and repression.",
+    "This means that, at a given level of proficiency, happy, unhappy, and happiness are counted as one item."
+  ],
+  "list_see_also": [
+    "unhappiness",
+    "unhappily"
+  ],
+  "list_browse": [
+    "ungrateful",
+    "unguarded",
+    "unhappily",
+    "unhappiness",
+    "unhappy",
+    "unharmed",
+    "unhealthily",
+    "unhealthiness",
+    "unhealthy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353176_66a6f47b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353176_40e564d52f_o.png",
+      "id_image": "unhappy_5132862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090535_f55e2f23dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090535_5fcc396221_o.png",
+      "id_image": "unhappy_6306506"
+    }
+  ]
+}

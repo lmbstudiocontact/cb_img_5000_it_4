@@ -1,0 +1,85 @@
+{
+  "english": "ruler",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người cai trị",
+          "definition": "a person who governs",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ruler of the state.",
+              "world_new": [
+                "state"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thước kẻ",
+          "definition": "a long narrow piece of wood, plastic etc for drawing straight lines",
+          "world_new": [
+            "long",
+            "narrow",
+            "piece",
+            "wood",
+            "plastic",
+            "drawing",
+            "straight",
+            "lines"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t draw straight lines without a ruler.",
+              "world_new": [
+                "I",
+                "draw",
+                "straight",
+                "lines"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In both cases the reasons are generally ideolog ical, relating to the reputations of the rulers in power at the time.",
+    "In order to administrate effectively, the colonial powers were interested in establishing communities with clearly defined rulers.",
+    "As a result, many rulers turned to parochial and exclusive identity groups, such as ethnicity, for support.",
+    "Many new townships were established by these rulers in different parts of the country.",
+    "They were also sometimes seized and moved by rulers and would-be rulers seeking to make use of their symbolic power.",
+    "They were not the formal way whereby leaders were chosen and did not represent the linkage between the rulers and the ruled.",
+    "The rulers of today are perceived to a lesser degree than in the past as benefactors, albeit still as the most efficient potential protectors.",
+    "The ethics and rhetoric of exemplarity took precedence over the provision of complete chronicles of rulers, deeds, and battles."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rule off",
+    "rule out",
+    "rule the roost",
+    "ruled",
+    "ruler",
+    "ruling",
+    "rum",
+    "rumba",
+    "rumble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454463_b4ef4fd0f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454463_0a930a4ec1_o.png",
+      "id_image": "ruler_170615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694739_31902ae06a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694739_01e94c7f38_o.png",
+      "id_image": "ruler_252500"
+    }
+  ]
+}

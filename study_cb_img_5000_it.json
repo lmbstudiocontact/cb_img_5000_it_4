@@ -1,0 +1,184 @@
+{
+  "english": "study",
+  "phat_am": "ˈstadi",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "học, nghiên cứu",
+          "definition": "to give time and attention to gaining knowledge of a subject",
+          "world_new": [
+            "time",
+            "attention",
+            "knowledge",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What subject is he studying?",
+              "world_new": [
+                "subject"
+              ]
+            },
+            {
+              "ex_of_definition": "He is studying French",
+              "world_new": [
+                "French"
+              ]
+            },
+            {
+              "ex_of_definition": "He is studying for a degree in mathematics",
+              "world_new": [
+                "degree",
+                "mathematics"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s studying to be a teacher.",
+              "world_new": [
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xem xét cẩn thận",
+          "definition": "to look at or examine carefully",
+          "world_new": [
+            "look",
+            "examine",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He studied the railway timetable",
+              "world_new": [
+                "railway",
+                "timetable"
+              ]
+            },
+            {
+              "ex_of_definition": "Give yourself time to study the problem in detail.",
+              "world_new": [
+                "time",
+                "problem",
+                "detail"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự học tập, sự nghiên cứu",
+          "definition": "the act of devoting time and attention to gaining knowledge",
+          "world_new": [
+            "act",
+            "time",
+            "attention",
+            "knowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spends all his evenings in study"
+            },
+            {
+              "ex_of_definition": "She has made a study of the habits of bees."
+            }
+          ]
+        },
+        {
+          "mean_english": "bài tập (âm nhạc)",
+          "definition": "a musical or artistic composition",
+          "world_new": [
+            "musical",
+            "artistic",
+            "composition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a book of studies for the piano",
+              "world_new": [
+                "book",
+                "piano"
+              ]
+            },
+            {
+              "ex_of_definition": "The picture was entitled ‘Study in Grey’.",
+              "world_new": [
+                "picture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng làm việc",
+          "definition": "a room in a house etc, in which to study, read, write etc",
+          "world_new": [
+            "room",
+            "house",
+            "read"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The headmaster wants to speak to the senior pupils in his study.",
+              "world_new": [
+                "headmaster",
+                "speak",
+                "senior"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, future studies could investigate the reasons as to why therapy radiographers exper ience stress associated with the potential to make er rors.",
+    "The final personal characteristic we examine is country of birth, which has not been as extensively studied in the literature as the other personal characteristics.",
+    "Information from other research studies has also been used.",
+    "The following two case studies illustrate how changes in compatibility can occur over a small geographical range.",
+    "Most of these studies emphasize the correspondence between an object and a hand shape.",
+    "We know of only three studies that examine the relationship between market concentration and price for a specific procedure at a hospital.",
+    "Her chapter offers a detailed and informative account of these case studies.",
+    "A new class of fast instabilities of z pinches was studied both in experiments and in analytical theory."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "studio",
+    "studious",
+    "studiously",
+    "studiousness",
+    "study",
+    "stuff",
+    "stuff up",
+    "stuffily",
+    "stuffiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341211_484d283cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341211_2997f446bb_o.png",
+      "id_image": "study_1225910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455993_927c0aca4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455993_1fe3dc6456_o.png",
+      "id_image": "study_2598789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386197_738d705539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386197_8f6ce20e04_o.png",
+      "id_image": "study_392791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696384_0e8ef7a2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696384_0f420a1556_o.png",
+      "id_image": "study_4334817"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "subway",
+  "phat_am": "ˈsabwei",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường ngầm",
+          "definition": "an underground passage eg for pedestrians, under a busy road",
+          "world_new": [
+            "underground",
+            "passage",
+            "busy",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cross by the subway."
+            }
+          ]
+        },
+        {
+          "mean_english": "xe điện ngầm",
+          "definition": "an underground railway in a city",
+          "world_new": [
+            "underground",
+            "railway",
+            "city"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Go by subway."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In recent years, we, for our part, have done what we can to improve the design of subways.",
+    "They live in the underground sewage systems and subways in the winter and survive by begging.",
+    "While one of the timed walks went into an underground station and through a subway, the second remained outdoors, to create an acoustic disjunction.",
+    "I am told that what will swing it will be when the dollar is a minimum basic amount for subway fares.",
+    "In contrast, in winter she prefers the subway.",
+    "Relates to railroads, street railways, subways, streetcars, and fares; includes bills regulating automobile operation and driving.",
+    "For both, the subway afforded them a novel form of visuality.",
+    "Some of these children cross this road by a subway, others by special transport, and others at a crossing supervised by a traffic warden."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "suburbia",
+    "subversion",
+    "subversive",
+    "subvert",
+    "subway",
+    "succeed",
+    "success",
+    "successful",
+    "successfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384452_23317e6343_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384452_10f9ba6299_o.png",
+      "id_image": "subway_224581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339481_83eb5703c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339481_ffb89e3a12_o.png",
+      "id_image": "subway_382327"
+    }
+  ]
+}

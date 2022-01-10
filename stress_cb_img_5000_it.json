@@ -1,0 +1,142 @@
+{
+  "english": "stress",
+  "phat_am": "stres",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự căng thẳng",
+          "definition": "the worry experienced by a person in particular circumstances, or the state of anxiety caused by this",
+          "world_new": [
+            "worry",
+            "experienced",
+            "person",
+            "particular",
+            "state",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the stresses of modern life",
+              "world_new": [
+                "modern",
+                "life"
+              ]
+            },
+            {
+              "ex_of_definition": "Her headaches may be caused by stress."
+            }
+          ]
+        },
+        {
+          "mean_english": "ứng suất",
+          "definition": "force exerted by (parts of) bodies on each other",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bridge-designers have to know about stress.",
+              "world_new": [
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trọng âm",
+          "definition": "force or emphasis placed, in speaking, on particular syllables or words",
+          "world_new": [
+            "force",
+            "emphasis",
+            "speaking",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the word ‘widow’ we put stress on the first syllable.",
+              "world_new": [
+                "syllable"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhấn mạnh",
+          "definition": "to emphasize (a syllable etc, or a fact etc)",
+          "world_new": [
+            "emphasize",
+            "syllable",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Should you stress the last syllable in ‘violin’?",
+              "world_new": [
+                "syllable"
+              ]
+            },
+            {
+              "ex_of_definition": "He stressed the necessity of being punctual.",
+              "world_new": [
+                "stressed",
+                "necessity",
+                "punctual"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rather, material structure is progressively broken up by increasing shear stresses.",
+    "If there is no such syllable, the syllable with a single coda consonant is stressed.",
+    "Another possible cause for the generally higher stresses in the present study is that the present mixing layer is in relatively early development.",
+    "The magnitudes of the compressive stresses in masonry are very small.",
+    "If the final syllable does not have a long vowel or end in two or more consonants, the initial syllable is stressed.",
+    "Two points need stressing when explaining coding of this category.",
+    "There will also be a tendency to increase the shear through the action of local wave stresses.",
+    "Combined stresses are more likely to be encountered in the field than single stresses."
+  ],
+  "list_see_also": [
+    "stressed",
+    "stressful",
+    "stress mark",
+    "lay/put stress on"
+  ],
+  "list_browse": [
+    "strength",
+    "strengthen",
+    "strenuous",
+    "strenuously",
+    "stress",
+    "stress mark",
+    "stressed",
+    "stressful",
+    "stretch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342886_3f475680d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342886_874637acc2_o.png",
+      "id_image": "stress_1488190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457648_3a81651d4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457648_bb191b6950_o.png",
+      "id_image": "stress_2037388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080275_4b7dc38b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080275_4ddb7f766f_o.png",
+      "id_image": "stress_3590386"
+    }
+  ]
+}

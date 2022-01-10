@@ -1,0 +1,80 @@
+{
+  "english": "smoothie",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tên khéo mồm",
+          "definition": "an attractive man with a confident manner who is good at persuading people, but is not sincere and cannot be trusted",
+          "world_new": [
+            "attractive",
+            "confident",
+            "manner",
+            "people",
+            "sincere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a real smoothie, especially with the ladies.",
+              "world_new": [
+                "real",
+                "especially"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sinh tố",
+          "definition": "a thick drink made of fruit or fruit juice mixed with yoghurt, milk, or ice",
+          "world_new": [
+            "thick",
+            "drink",
+            "fruit",
+            "fruit",
+            "juice",
+            "mixed",
+            "yoghurt",
+            "milk",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a banana/pineapple/strawberry smoothie."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "smoking",
+    "smoky",
+    "smooth",
+    "smoothen",
+    "smoothie",
+    "smoothly",
+    "smoothness",
+    "smother",
+    "smoulder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330526_497569709c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330526_21dc7fecdc_o.png",
+      "id_image": "smoothie_2093381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330481_8618a0ef55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330481_14888f171e_o.png",
+      "id_image": "smoothie_4524537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067390_b000f0c615_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067390_8414c46597_o.png",
+      "id_image": "smoothie_768164"
+    }
+  ]
+}

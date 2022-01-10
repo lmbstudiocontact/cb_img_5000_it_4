@@ -1,0 +1,75 @@
+{
+  "english": "seller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người bán",
+          "definition": "someone who sells something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flower seller.",
+              "world_new": [
+                "flower"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồ bán được",
+          "definition": "something that has been sold in large/small etc quantities",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The deluxe model is one of the company’s biggest sellers.",
+              "world_new": [
+                "deluxe",
+                "model"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Vegetables are also a highly perishable commodity and therefore sellers are price takers who cannot wait for an upswing in prices.",
+    "Both sellers and buyers have a 'limit price'.",
+    "133 prices, poor grading, lack of consistent volume of product, competition (side deals between sellers and buyers), and timely payments to growers9,14.",
+    "Agents holding money are referred to as money traders or buyers, whereas those with production opportunities are referred to as commodity traders or sellers.",
+    "None of this implies that sellers or speakers can legitimately force others to buy their products or listen to their opinions, of course.",
+    "The ominous feature which caused concern was the fall in prices, a sudden change from the dominance of buyers to that of sellers.",
+    "The payoff on the seller's replicating portfolio is the negative of the buyer's.",
+    "Additional transaction costs may occur at the market level, some borne by sellers and some by buyers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sell down the river",
+    "sell off",
+    "sell up",
+    "sell-out",
+    "seller",
+    "Sellotape",
+    "semantic",
+    "semaphore",
+    "semblance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705279_8e94841c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705279_ccd779f1bf_o.png",
+      "id_image": "seller_1028011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350731_aed705d594_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350731_188fac5fe2_o.png",
+      "id_image": "seller_1441373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395457_f79ac00997_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395457_a968aa2bf1_o.png",
+      "id_image": "seller_4668539"
+    }
+  ]
+}

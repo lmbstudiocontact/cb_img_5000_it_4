@@ -1,0 +1,120 @@
+{
+  "english": "shy",
+  "phat_am": "ʃai",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhút nhát, bẽn lẽn",
+          "definition": "lacking confidence in the presence of others, especially strangers; not wanting to attract attention",
+          "world_new": [
+            "confidence",
+            "presence",
+            "attract",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is too shy to go to parties."
+            }
+          ]
+        },
+        {
+          "mean_english": "cảnh giác, sợ",
+          "definition": "drawing back from (an action, person etc)",
+          "world_new": [
+            "drawing",
+            "action",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is shy of strangers."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhát",
+          "definition": "(of a wild animal) easily frightened; timid",
+          "world_new": [
+            "wild",
+            "easily",
+            "timid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Deer are very shy animals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngừng lại, khựng lại",
+          "definition": "(of a horse) to jump or turn suddenly aside in fear",
+          "world_new": [
+            "jump",
+            "turn",
+            "suddenly",
+            "aside",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse shied at the strangers.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Three men said they were too shy to have the examination done.",
+    "Partly because of the subject's political sensitivity, many scholars shy away from it.",
+    "He loved children and had a gift of dealing with them - even with those who were the shyest, most frightened, and most recalcitrant.",
+    "It is extremely well written without being simplistic or shying away from complex concepts which the author covers with engaging and clear expositions.",
+    "He appears at one point to gesture towards the theoretical framework of structuralism, only to shy away from it.",
+    "The behavioral descriptors included a child who was: cooperative, a leader, shy, disruptive, and a fighter.",
+    "He remained shy, however, and was referred to an out-of-plan group therapy situation, from which he clearly benefited over a period of several years.",
+    "Though an orator, he is painfully shy and inarticulate."
+  ],
+  "list_see_also": [
+    "shyly",
+    "shyness"
+  ],
+  "list_browse": [
+    "shutter",
+    "shuttered",
+    "shuttle",
+    "shuttlecock",
+    "shy",
+    "shyly",
+    "shyness",
+    "sibling",
+    "sick"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078050_0f833e210f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078050_0d33c64aa8_o.png",
+      "id_image": "shy_214255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385652_1a3c6c9930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385652_99d33ffc06_o.png",
+      "id_image": "shy_599568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695959_95ff121ff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695959_e91d26c621_o.png",
+      "id_image": "shy_6001194"
+    }
+  ]
+}

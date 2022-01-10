@@ -1,0 +1,63 @@
+{
+  "english": "turnstile",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa quay",
+          "definition": "a revolving gate which allows only one person to pass at a time, usually after payment of entrance fees etc",
+          "world_new": [
+            "revolving",
+            "gate",
+            "person",
+            "pass",
+            "time",
+            "payment",
+            "entrance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a turnstile at the entrance to the football ground.",
+              "world_new": [
+                "entrance",
+                "football",
+                "ground"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In conclusion one could argue indefinitely the pros and cons of membership cards, electronic turnstiles and possible costs.",
+    "In this prover, the \"hypotheses\" to the left of the turnstile are treated as commands to the union-find engine.",
+    "The clubs do not like it, because of delay in examining the cards at the turnstiles.",
+    "Fifty authorities have refused to remove any turnstiles; nine have removed some turnstiles but are keeping others.",
+    "The turnstile symbol is sometimes decorated to distinguish canonical subtyping derivations from derivations in other calculi.",
+    "One of these has only one turnstile, and it is in a lavatory which is closed.",
+    "Sixty-nine authorities have refused to remove some or all of their turnstiles and have declined to reconsider their decision; 18 authorities are still undecided.",
+    "Before it introduced charges, it made people go through turnstiles so it knows exactly how many people visited."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turning-point",
+    "turnip",
+    "turnover",
+    "turnpike",
+    "turnstile",
+    "turntable",
+    "turpentine",
+    "turquoise",
+    "turret"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443178_8768c32e97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443178_a18a369812_o.png",
+      "id_image": "turnstile_3124255"
+    }
+  ]
+}

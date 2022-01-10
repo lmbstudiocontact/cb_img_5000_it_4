@@ -1,0 +1,120 @@
+{
+  "english": "sister",
+  "phat_am": "ˈsistə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chị, em gái",
+          "definition": "the title given to a female child to describe her relationship to the other children of her parents",
+          "world_new": [
+            "title",
+            "female",
+            "child",
+            "describe",
+            "relationship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s my sister",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "my father’s sister.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bà xơ",
+          "definition": "a type of senior nurse",
+          "world_new": [
+            "type",
+            "senior",
+            "nurse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a sister on Ward 5."
+            }
+          ]
+        },
+        {
+          "mean_english": "bà chị ,cô em",
+          "definition": "a female member of a religious group.",
+          "world_new": [
+            "female",
+            "member",
+            "religious",
+            "group"
+          ]
+        },
+        {
+          "mean_english": "chị em",
+          "definition": "a female fellow member of any group",
+          "world_new": [
+            "female",
+            "fellow",
+            "member",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must fight for equal opportunities, sisters!",
+              "world_new": [
+                "fight",
+                "equal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có tính chất chị em",
+          "definition": "closely similar in design, function etc",
+          "world_new": [
+            "closely",
+            "similar",
+            "design",
+            "function"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sister ships."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sister-in-law"
+  ],
+  "list_browse": [
+    "sir",
+    "siren",
+    "sirloin",
+    "sisal",
+    "sister",
+    "sister-in-law",
+    "sit",
+    "sit back",
+    "sit down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073910_e0d3782b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073910_3697e32e0f_o.png",
+      "id_image": "sister_4842391"
+    }
+  ]
+}

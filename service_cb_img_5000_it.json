@@ -1,0 +1,274 @@
+{
+  "english": "service",
+  "phat_am": "ˈsəːvis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phục vụ",
+          "definition": "the process of serving customers in a hotel, shop etc",
+          "world_new": [
+            "process",
+            "serving",
+            "hotel",
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You get very slow service in that shop",
+              "world_new": [
+                "slow",
+                "shop"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a service charge on a hotel bill.",
+              "world_new": [
+                "charge",
+                "hotel",
+                "bill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giúp đỡ",
+          "definition": "the act of doing something to help",
+          "world_new": [
+            "act",
+            "help"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was rewarded for his service to refugees."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hầu hạ",
+          "definition": "the condition or work of a servant",
+          "world_new": [
+            "condition",
+            "work",
+            "servant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In the last century, many young women went into service",
+              "world_new": [
+                "century",
+                "young"
+              ]
+            },
+            {
+              "ex_of_definition": "She had been in service as a kitchen maid",
+              "world_new": [
+                "kitchen",
+                "maid"
+              ]
+            },
+            {
+              "ex_of_definition": "He has given faithful service to the church for many years.",
+              "world_new": [
+                "faithful",
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bảo dưỡng",
+          "definition": "a check made of all parts of eg a car, machine etc to ensure that it is in a good condition",
+          "world_new": [
+            "check",
+            "car",
+            "machine",
+            "ensure",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bring your car in for a service.",
+              "world_new": [
+                "your",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hệ thống dịch vụ, ngành dịch vụ",
+          "definition": "a regular public supply of something eg transport",
+          "world_new": [
+            "regular",
+            "public",
+            "supply",
+            "transport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a good train service into the city.",
+              "world_new": [
+                "train",
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tế lễ, buổi lễ",
+          "definition": "a regular meeting for worship, or a religious ceremony (in church)",
+          "world_new": [
+            "regular",
+            "meeting",
+            "worship",
+            "religious",
+            "ceremony"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He attends a church service every Sunday.",
+              "world_new": [
+                "church",
+                "Sunday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú giao bóng",
+          "definition": "in tennis and similar games, the act or manner of serving the ball",
+          "world_new": [
+            "tennis",
+            "similar",
+            "games",
+            "act",
+            "manner",
+            "serving",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a strong service.",
+              "world_new": [
+                "strong"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cục, sở, khoa, ban ngành",
+          "definition": "a department of public or government work",
+          "world_new": [
+            "department",
+            "public",
+            "government",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Civil Service."
+            }
+          ]
+        },
+        {
+          "mean_english": "quân chủng",
+          "definition": "one of the three fighting forces, the army, navy or air force",
+          "world_new": [
+            "fighting",
+            "forces",
+            "army",
+            "navy",
+            "air",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s in the services."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự phục vụ",
+          "definition": "employment in one of these",
+          "world_new": [
+            "employment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "military service.",
+              "world_new": [
+                "military"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo dưỡng",
+          "definition": "to check (a car, machine etc) thoroughly to ensure that it works properly",
+          "world_new": [
+            "check",
+            "car",
+            "machine",
+            "thoroughly",
+            "ensure",
+            "works",
+            "properly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car needs servicing.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "serviceable",
+    "serviceman",
+    "service station"
+  ],
+  "list_browse": [
+    "serve out",
+    "serve right",
+    "serve up",
+    "server",
+    "service",
+    "service station",
+    "serviceable",
+    "serviceman",
+    "serviette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393902_6270da79fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393902_12fa32dcbf_o.png",
+      "id_image": "service_1897384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703844_cbcf2bf8fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703844_92dcb33431_o.png",
+      "id_image": "service_3422870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463803_3113976ca5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463803_68313a520d_o.png",
+      "id_image": "service_4277552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349041_d92e6fa17b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349041_5f712d5de7_o.png",
+      "id_image": "service_5778362"
+    }
+  ]
+}

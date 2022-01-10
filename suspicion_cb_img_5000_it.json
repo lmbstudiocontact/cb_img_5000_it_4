@@ -1,0 +1,81 @@
+{
+  "english": "suspicion",
+  "phat_am": "səˈspiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nghi ngờ, sự bị nghi ngờ",
+          "definition": "the process of suspecting or being suspected; the/a feeling causing a person to suspect",
+          "world_new": [
+            "process",
+            "feeling",
+            "person",
+            "suspect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They looked at each other with suspicion"
+            },
+            {
+              "ex_of_definition": "I have a suspicion that she is not telling the truth.",
+              "world_new": [
+                "I",
+                "telling",
+                "truth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một thoáng, một chút",
+          "definition": "a slight quantity or trace",
+          "world_new": [
+            "slight",
+            "quantity",
+            "trace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a suspicion of triumph in his tone.",
+              "world_new": [
+                "triumph",
+                "tone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Yet on the face of it, this suspicion has proved wrong.",
+    "At the outset they had delayed seeking treatment because of their suspicions about the therapeutic options they had already received.",
+    "The central finale brings the principals together for a simultaneous exposition of all aspects of the triangle, sometimes revealing concealed conflicts or reinforcing latent suspicions.",
+    "As a result we run the risk of exhausting ourselves with issues relating to deception, suspicion, fakery and inauthenticity.",
+    "Yet his unchecked authority enabled him to overcome suspicions by fiat.",
+    "The whole book is a sad caricature of the kind of unselective suspicion of motives which has made psychoanalysis increasingly a laughing-stock amongst psychiatrists.",
+    "In such cases all data under suspicion must be treated alike.",
+    "Moreover, we must weigh history's suspicion of rhetoric in context."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "suspenders",
+    "suspense",
+    "suspension",
+    "suspension bridge",
+    "suspicion",
+    "suspicious",
+    "suspiciously",
+    "suspiciousness",
+    "sustain"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071800_0a480ac78b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071800_3ddff9d248_o.png",
+      "id_image": "suspicion_6001237"
+    }
+  ]
+}

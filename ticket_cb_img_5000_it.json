@@ -1,0 +1,97 @@
+{
+  "english": "ticket",
+  "phat_am": "ˈtikit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vé",
+          "definition": "a piece of card or paper which gives the holder a certain right, eg of travel, entering a theatre/theater etc",
+          "world_new": [
+            "piece",
+            "card",
+            "paper",
+            "certain",
+            "right",
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus ticket",
+              "world_new": [
+                "bus"
+              ]
+            },
+            {
+              "ex_of_definition": "a cinema ticket.",
+              "world_new": [
+                "cinema"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẻ",
+          "definition": "a notice advising of a minor motoring offence/offense",
+          "world_new": [
+            "notice",
+            "minor",
+            "motoring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a parking ticket.",
+              "world_new": [
+                "parking"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhãn ghi giá",
+          "definition": "a card or label stating the price etc of something",
+          "world_new": [
+            "card",
+            "label",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What does it say on the ticket?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tick",
+    "tick (someone) off",
+    "tick over",
+    "ticked off",
+    "ticket",
+    "tickle",
+    "ticklish",
+    "tidal",
+    "tidal wave"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702919_4c29684f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702919_9b061483cf_o.png",
+      "id_image": "ticket_169464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393047_113023790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393047_3f8048cbb0_o.png",
+      "id_image": "ticket_218372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348111_e7ef66b047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348111_59e547a5ba_o.png",
+      "id_image": "ticket_884097"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "struggle",
+  "phat_am": "ˈstraɡl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vẫy vùng, vật lộn",
+          "definition": "to twist violently when trying to free oneself",
+          "world_new": [
+            "twist",
+            "violently",
+            "trying",
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child struggled in his arms.",
+              "world_new": [
+                "child",
+                "arms"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gắng sức",
+          "definition": "to make great efforts or try hard",
+          "world_new": [
+            "great",
+            "try"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All his life he has been struggling with illness / against injustice.",
+              "world_new": [
+                "life",
+                "illness",
+                "injustice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "di chuyển một cách khó khăn",
+          "definition": "to move with difficulty",
+          "world_new": [
+            "move",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He struggled out of the hole.",
+              "world_new": [
+                "hole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc đấu tranh",
+          "definition": "an act of struggling, or a fight",
+          "world_new": [
+            "act",
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The struggle for independence was long and hard.",
+              "world_new": [
+                "independence",
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Instead, it was a series of ad hoc measures implemented in a struggle to prevent chaos and to stop revolutionary turmoil.",
+    "From a handful of scientific consultants and then the heads of struggling forestry administrations, the scientific enterprise had by the late 1940s enlarged considerably.",
+    "It reflected, moreover, political striving within the psychoanalytic movement and between it and its opponents and enemies in the struggle for recognition.",
+    "And energy recovered from the heterogeneous fuel of rubbish struggles to be economically competitive.",
+    "Much archaeological research deals with periods and regions for which it is a real struggle to discern the agency of individuals.",
+    "These were the areas, he argued, in which the struggle between the royal prerogative and ' constitutional forces ' - as he defined ' politics ' - took place.",
+    "Additionally, a dyad will only be classified as coercively attached if the attachment figure engages in the struggle which cannot be resolved.",
+    "Contemporary social scientists struggle with the problem of being precise about that which defies precision : the cloudiness of our own lives."
+  ],
+  "list_see_also": [
+    "struggle along"
+  ],
+  "list_browse": [
+    "strongroom",
+    "structural",
+    "structurally",
+    "structure",
+    "struggle",
+    "struggle along",
+    "strum",
+    "strung up",
+    "strut"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341626_0dd2b3f075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341626_075c71ea83_o.png",
+      "id_image": "struggle_4185454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079025_672b8eb54b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079025_98500c5648_o.png",
+      "id_image": "struggle_4813857"
+    }
+  ]
+}

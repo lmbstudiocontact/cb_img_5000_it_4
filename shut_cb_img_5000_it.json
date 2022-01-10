@@ -1,0 +1,159 @@
+{
+  "english": "shut",
+  "phat_am": "ʃat",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng",
+          "definition": "to move (a door, window, lid etc) so that it covers or fills an opening; to move (a drawer, book etc) so that it is no longer open",
+          "world_new": [
+            "move",
+            "door",
+            "window",
+            "lid",
+            "move",
+            "drawer",
+            "book",
+            "open"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shut that door, please!",
+              "world_new": [
+                "door",
+                "please"
+              ]
+            },
+            {
+              "ex_of_definition": "Shut your eyes and don’t look.",
+              "world_new": [
+                "your",
+                "look"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gập, gấp lại",
+          "definition": "to become closed",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The window shut with a bang.",
+              "world_new": [
+                "window",
+                "bang"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng cửa",
+          "definition": "to close and usually lock (a building etc) eg at the end of the day or when people no longer work there",
+          "world_new": [
+            "close",
+            "lock",
+            "building",
+            "day",
+            "people",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shops all shut at half past five",
+              "world_new": [
+                "half"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s a rumour that the factory is going to be shut.",
+              "world_new": [
+                "rumour",
+                "factory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhốt",
+          "definition": "to keep in or out of some place or keep away from someone by shutting something",
+          "world_new": [
+            "keep",
+            "place",
+            "keep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dog was shut inside the house.",
+              "world_new": [
+                "dog",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khép kín",
+          "definition": "closed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Make sure the gate is shut when you leave.",
+              "world_new": [
+                "sure",
+                "gate",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, indigenous peoples often referred to a history that had led to their marginal position and to their being shut out of decision-making.",
+    "Although the copy numbers of the vector genome were reduced, our data did not rule out promoter shut-off completely.",
+    "I am not sure the field is in much danger of shutting itself off through single-author books.",
+    "After the guests' departure from the third camp the establishment was shut down and cleaned professionally before reopening.",
+    "In a real application of this system, the failed component can be shut down when a failure is detected.",
+    "Parasites and parasitoids often shut down host investment in reproduction which is wasteful from the parasite's point of view.",
+    "The present results indicate that a step is a single photon response with an aberrant long-lasting shut-off mechanism.",
+    "The exponential distribution of step durations suggests that the shut-off of activated rhodopsin under these conditions is rate limited by a single first-order process."
+  ],
+  "list_see_also": [
+    "shut down",
+    "shut off",
+    "shut up"
+  ],
+  "list_browse": [
+    "shrunken",
+    "shudder",
+    "shuffle",
+    "shun",
+    "shut",
+    "shut down",
+    "shut off",
+    "shut up",
+    "shutter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078380_cb48178bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078380_9226af8d76_o.png",
+      "id_image": "shut_1933079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455843_1c51f4bddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455843_31806c5921_o.png",
+      "id_image": "shut_214235"
+    }
+  ]
+}

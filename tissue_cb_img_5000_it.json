@@ -1,0 +1,84 @@
+{
+  "english": "tissue",
+  "phat_am": "ˈtiʃuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mô",
+          "definition": "(one of the kinds of) substance of which the organs of the body are made",
+          "world_new": [
+            "substance",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "nervous tissue",
+              "world_new": [
+                "nervous"
+              ]
+            },
+            {
+              "ex_of_definition": "the tissues of the body.",
+              "world_new": [
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giấy lau",
+          "definition": "(a piece of) thin soft paper used for wiping the nose etc",
+          "world_new": [
+            "piece",
+            "thin",
+            "soft",
+            "paper",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bought a box of tissues for his cold.",
+              "world_new": [
+                "box",
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is hypothesized that the presence of these structures is a factor helping the parasite to grow in a variety of hosts and tissues.",
+    "Can we exploit understanding of the molecular organisation of elastic fibres to engineer robust replacement elastic tissues such as small-diameter arteries and ligaments?",
+    "By understanding how chemicals work, appropriate cell and tissue systems can be selected to specifically address questions.",
+    "The separation was not observed in tissues that were prepared completely without water.",
+    "We speculate that, earlier during development, the aorta was damaged, became inflamed and was repaired, with fibrosis obliterating the elastic tissue.",
+    "The walls of the cysts contain prominent smooth muscle and elastic tissue.",
+    "Removing water from living tissues causes a series of dehydration stresses.",
+    "It undergoes complex alternative splicing in different elastic tissues."
+  ],
+  "list_see_also": [
+    "tissue paper"
+  ],
+  "list_browse": [
+    "tiresome",
+    "tiresomely",
+    "tiresomeness",
+    "tiring",
+    "tissue",
+    "tissue paper",
+    "tit",
+    "titbit",
+    "title"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461268_6d588dd802_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461268_1845cf86dd_o.png",
+      "id_image": "tissue_843871"
+    }
+  ]
+}

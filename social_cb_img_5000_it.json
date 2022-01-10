@@ -1,0 +1,127 @@
+{
+  "english": "social",
+  "phat_am": "ˈsəuʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có tính chất xã hội",
+          "definition": "concerning or belonging to the way of life and welfare of people in a community",
+          "world_new": [
+            "concerning",
+            "life",
+            "welfare",
+            "people",
+            "community"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "social problems."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuộc quan hệ gữa người và người, thuộc xã hội",
+          "definition": "concerning the system by which such a community is organized",
+          "world_new": [
+            "concerning",
+            "system",
+            "community",
+            "organized"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "social class.",
+              "world_new": [
+                "class"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống thành đàn, quần thể",
+          "definition": "living in communities",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Ants are social insects."
+            }
+          ]
+        },
+        {
+          "mean_english": "tình bạn bè và sự giải trí",
+          "definition": "concerning the gathering together of people for the purposes of recreation or amusement",
+          "world_new": [
+            "concerning",
+            "gathering",
+            "people",
+            "recreation",
+            "amusement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a social club",
+              "world_new": [
+                "club"
+              ]
+            },
+            {
+              "ex_of_definition": "His reasons for calling were purely social.",
+              "world_new": [
+                "calling",
+                "purely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My examination of these cross-tabulated data leads me to suggest the following propositions with regard to the social capital theory.",
+    "The state, they argue, consists of three interrelated parts : an idea, the crystallisation of social relations of domination and subordination, and their expression in institutions.",
+    "Second, the magnitude of the physical risks is therefore a direct function of the quality of social relations and processes.",
+    "Such assessments may be more than is needed in the majority of general needs housing applications—that is, assessments by socials services departments.",
+    "Future policy trends in relation to the personal social services are also considered.",
+    "Only the state is seen to have the capacity to ensure adequate social protection in the modern world.",
+    "At the moment, friends are organising concerts and socials to help the boy and his parents.",
+    "The clubs reproduced social and institutional hierarchies in contradiction to the democratic rhetoric of the political leaders."
+  ],
+  "list_see_also": [
+    "socialism",
+    "socialist",
+    "socialize",
+    "socially",
+    "social science",
+    "social security",
+    "social studies",
+    "social work",
+    "social worker"
+  ],
+  "list_browse": [
+    "soberness",
+    "soccer",
+    "sociable",
+    "sociably",
+    "social",
+    "social science",
+    "social security",
+    "social studies",
+    "social work"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442728_6ffcd458ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442728_f7c0c55242_o.png",
+      "id_image": "social_780563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327661_344d88ed45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327661_ae41058540_o.png",
+      "id_image": "social_992641"
+    }
+  ]
+}

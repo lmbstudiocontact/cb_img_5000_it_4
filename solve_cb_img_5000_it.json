@@ -1,0 +1,81 @@
+{
+  "english": "solve",
+  "phat_am": "solv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giải, tìm ra lời giải",
+          "definition": "to discover the answer to (a problem etc)",
+          "world_new": [
+            "discover",
+            "answer",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The mathematics teacher gave the children some problems to solve.",
+              "world_new": [
+                "mathematics",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phá(án)",
+          "definition": "to clear up or explain (a mystery, crime etc)",
+          "world_new": [
+            "clear",
+            "explain",
+            "mystery",
+            "crime"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That crime has never been solved.",
+              "world_new": [
+                "crime"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although the results in this and the following two sections make no reference to solving equation (1.1), we will, of course, ultimately make this connection.",
+    "Therefore, try your best when you tell the story, so (s)he can solve the riddle.",
+    "Two students directly compared technical problems with the process of analysis in their attempts to apply analytical methods in solving technical problems.",
+    "Here it is suggested that the problem of factionalism, so evident in the 1920s, was never really solved in the 1930s.",
+    "However, those who campaign for debt relief, increased aid and direct budgetary support to solve the challenges of poverty and hunger, should take note.",
+    "Considering only those building blocks that are useful in solving a given problem should also improve the efficiency of synthesis.",
+    "There are a number of intellectual challenges to be solved to truly make the approach informative.",
+    "These types of recurrence equation are not easy to solve."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "solubility",
+    "soluble",
+    "solute",
+    "solution",
+    "solve",
+    "solvent",
+    "sombre",
+    "some",
+    "some day"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326101_c6feda482f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326101_68bb6e94d1_o.png",
+      "id_image": "solution_536921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062845_cabbdc2235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062845_f1d767a02e_o.png",
+      "id_image": "solve_2191253"
+    }
+  ]
+}

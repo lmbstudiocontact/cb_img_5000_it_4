@@ -1,0 +1,105 @@
+{
+  "english": "shop",
+  "phat_am": "ʃop",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa hàng",
+          "definition": "a place where goods are sold",
+          "world_new": [
+            "place",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a baker’s shop."
+            }
+          ]
+        },
+        {
+          "mean_english": "phân xưởng",
+          "definition": "a workshop, or a place where any kind of industry is carried on",
+          "world_new": [
+            "workshop",
+            "place",
+            "kind",
+            "industry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a machine-shop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi mua hàng ở chợ",
+          "definition": "(often go shopping) to visit shops for the purpose of buying",
+          "world_new": [
+            "visit",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We shop on Saturdays"
+            },
+            {
+              "ex_of_definition": "She goes shopping once a week.",
+              "world_new": [
+                "shopping",
+                "once",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "shopper",
+    "shopping",
+    "shop assistant",
+    "shop floor",
+    "shopkeeper",
+    "shoplifter",
+    "shoplifting",
+    "shopping centre",
+    "shopping mall",
+    "shop around"
+  ],
+  "list_browse": [
+    "shoot down",
+    "shoot rapids",
+    "shoot system",
+    "shoot up",
+    "shop",
+    "shop around",
+    "shop assistant",
+    "shop floor",
+    "shopkeeper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388332_2723ddd983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388332_cae57b45e3_o.png",
+      "id_image": "shop_290957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080790_655f2e7a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080790_be83f6b53d_o.png",
+      "id_image": "shop_298338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343276_17fba94c33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343276_acd76458fc_o.png",
+      "id_image": "shop_606817"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "screw",
+  "phat_am": "skruː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đinh vít",
+          "definition": "a type of nail that is driven into something by a firm twisting action",
+          "world_new": [
+            "type",
+            "nail",
+            "firm",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need four strong screws for fixing the cupboard to the wall.",
+              "world_new": [
+                "I",
+                "strong",
+                "cupboard",
+                "wall"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xiết con vít",
+          "definition": "an action of twisting a screw etc",
+          "world_new": [
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tightened it by giving it another screw."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "screed",
+    "screen",
+    "screenplay",
+    "screensaver",
+    "screw",
+    "screw up",
+    "screw up one’s courage",
+    "screwdriver",
+    "scribble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441983_28b13de53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441983_b768e9f273_o.png",
+      "id_image": "screw_1678192"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326916_e19bab9cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326916_1a42ba0ea1_o.png",
+      "id_image": "screw_3275806"
+    }
+  ]
+}

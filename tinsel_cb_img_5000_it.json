@@ -1,0 +1,51 @@
+{
+  "english": "tinsel",
+  "phat_am": "ˈtinsəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kim tuyến",
+          "definition": "a sparkling, glittering substance used for decoration",
+          "world_new": [
+            "sparkling",
+            "glittering",
+            "substance",
+            "decoration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Christmas tree was decorated with tinsel.",
+              "world_new": [
+                "Christmas",
+                "tree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "tinselly"
+  ],
+  "list_browse": [
+    "tingle",
+    "tinker",
+    "tinkle",
+    "tinned",
+    "tinsel",
+    "tinselly",
+    "tint",
+    "tiny",
+    "tip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461808_55b3a1d33d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461808_34318d5559_o.png",
+      "id_image": "tinsel_616076"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "thaw",
+  "phat_am": "θoː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tan, chảy",
+          "definition": "(of ice, snow etc) to melt, or make or become liquid",
+          "world_new": [
+            "ice",
+            "snow",
+            "melt",
+            "become",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The snow thawed quickly.",
+              "world_new": [
+                "snow",
+                "quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm tan, làm chảy",
+          "definition": "(of frozen food etc) to make or become unfrozen",
+          "world_new": [
+            "frozen",
+            "food",
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frozen food must be thawed before cooking.",
+              "world_new": [
+                "food",
+                "cooking"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tan của tuyết",
+          "definition": "(the time of) the melting of ice and snow at the end of winter, or the change of weather that causes this",
+          "world_new": [
+            "time",
+            "ice",
+            "snow",
+            "winter",
+            "change",
+            "weather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thaw has come early this year.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once ice thaws, continued radiation effects can cause mixing of the fuel with meltwater.",
+    "After thawing, saliva samples were centrifuged at 2000 g for 10 min, which resulted in a clear supernatant of low viscosity.",
+    "On thawing cells don't regain their original shape and turgidity.",
+    "On the day of use, an aliquot was thawed and diluted in the culture medium to the desired working concentrations.",
+    "The column was subjected to several cycles of top-down freezing and thawing to simulate an active layer.",
+    "About 7 days before each individual test, worms were thawed and grown for at least 2 generations.",
+    "Survival was evaluated 24 hours after the beginning of thawing.",
+    "Measurements were taken at time intervals after thawing to determine when the bacteria regained photosynthetic activity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "that’s that",
+    "that’s the stuff!",
+    "thatch",
+    "thatched",
+    "thaw",
+    "the",
+    "the (House of) Commons",
+    "the … the …",
+    "the accused"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087850_b8357afeee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087850_eb509c6204_o.png",
+      "id_image": "thaw_2067629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705214_930b8d22a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705214_9be00ec9ae_o.png",
+      "id_image": "thaw_357295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465218_2dc6c9e678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465218_0e42ae2999_o.png",
+      "id_image": "thaw_3937391"
+    }
+  ]
+}

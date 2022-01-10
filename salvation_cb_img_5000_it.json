@@ -1,0 +1,60 @@
+{
+  "english": "salvation",
+  "phat_am": "sӕlˈveiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cứu rỗi linh hồn",
+          "definition": "in religion, the freeing of a person from sin or the saving of his/her soul.",
+          "world_new": [
+            "religion",
+            "person",
+            "sin",
+            "saving",
+            "soul"
+          ]
+        },
+        {
+          "mean_english": "sự cứu tế, sự cứu giúp",
+          "definition": "the cause, means, or act of saving",
+          "world_new": [
+            "cause",
+            "means",
+            "act",
+            "saving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This delay was the salvation of the army.",
+              "world_new": [
+                "delay",
+                "army"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "saltiness",
+    "salty",
+    "salute",
+    "salvage",
+    "salvation",
+    "salve",
+    "salver",
+    "same",
+    "same here"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335751_ae4f95fee8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335751_9926e24e4b_o.png",
+      "id_image": "salvation_252068"
+    }
+  ]
+}

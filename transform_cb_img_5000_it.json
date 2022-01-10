@@ -1,0 +1,84 @@
+{
+  "english": "transform",
+  "phat_am": "trӕnsˈfoːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "biến đổi",
+          "definition": "to change the appearance or nature of completely",
+          "world_new": [
+            "change",
+            "appearance",
+            "nature",
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He transformed the old kitchen into a beautiful sitting-room",
+              "world_new": [
+                "old",
+                "kitchen",
+                "beautiful"
+              ]
+            },
+            {
+              "ex_of_definition": "His marriage has transformed him.",
+              "world_new": [
+                "marriage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The counts were natural log transformed, after being augmented by 1 to avoid 1n(0).",
+    "For each one, we show how the set of solutions is correspondingly transformed.",
+    "Cyst counts were transformed to instantaneous rates of infection.",
+    "Otherwise, the primes' impact was compromised, presumably because time was too short to transform the mapping rule into a corresponding intention.",
+    "This portion (basophilic cytoplasm) transforms to a nurse cell but soon dies due to the apoptotic process.",
+    "Finally, a mapping transforms related-to-sound-perception data into synthesis model data.",
+    "Means were separated based on arcsine transformed data.",
+    "The advent of the gramophone transformed the cultural conditions of contemporary music, including the way it was taught."
+  ],
+  "list_see_also": [
+    "transformation",
+    "transformer"
+  ],
+  "list_browse": [
+    "transcontinental",
+    "transcript",
+    "transfer",
+    "transferable",
+    "transform",
+    "transformation",
+    "transformer",
+    "transfuse",
+    "transfusion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453483_1c20058a62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453483_fdd40fc870_o.png",
+      "id_image": "transform_232965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693619_cc6f5ea66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693619_5fa2258199_o.png",
+      "id_image": "transform_2587057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075495_58a8c263b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075495_e29f4d5292_o.png",
+      "id_image": "transform_448110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383337_b882de8cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383337_be6e1bd216_o.png",
+      "id_image": "transform_5266069"
+    }
+  ]
+}

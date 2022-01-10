@@ -1,0 +1,161 @@
+{
+  "english": "shoulder",
+  "phat_am": "ˈʃəuldə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vai",
+          "definition": "the part of the body between the neck and the upper arm",
+          "world_new": [
+            "part",
+            "body",
+            "neck",
+            "upper",
+            "arm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was carrying the child on his shoulders.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ phận giống như vai con người",
+          "definition": "anything that resembles a shoulder",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the shoulder of the hill.",
+              "world_new": [
+                "hill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vai áo",
+          "definition": "the part of a garment that covers the shoulder",
+          "world_new": [
+            "part",
+            "garment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the shoulder of a coat.",
+              "world_new": [
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt vai",
+          "definition": "the upper part of the foreleg of an animal",
+          "world_new": [
+            "upper",
+            "part",
+            "foreleg",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shoulder of lamb.",
+              "world_new": [
+                "lamb"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt lên vai",
+          "definition": "to lift on to the shoulder",
+          "world_new": [
+            "lift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shouldered his pack and set off on his walk.",
+              "world_new": [
+                "pack",
+                "walk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vác lên vai, gánh",
+          "definition": "to bear the full weight of",
+          "world_new": [
+            "bear",
+            "full",
+            "weight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He must shoulder his responsibilities."
+            }
+          ]
+        },
+        {
+          "mean_english": "đẩy ai, cái gì bằng vai mình",
+          "definition": "to make (one’s way) by pushing with the shoulder",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shouldered his way through the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, the forces on actuators in some typical motions for neck and shoulder are plotted.",
+    "This means the shoulder angle sensory information contains a negligible amount of motion acceleration compared to gravity acceleration.",
+    "On measures of shoulder muscle strength, there was no effect of lighting in subjects exposed to incandescent or fluorescent sources.",
+    "She heels the floor and slowly moves her body forward, making ample gestures with her arms, first the right shoulder, then the left shoulder.",
+    "Those responsible for protecting adolescents often try to slow down the relentless process of preparation for shouldering adult burdens.",
+    "It is thus possible to draw the range of spike length for which oscillation occurred against shoulder radius (figure 3).",
+    "It is at this point that the shoulders usually come to lie in an oblique orientation relative to the maternal pelvis.",
+    "A patient between age 50 and 92, usually over the age of 60, develops bilateral symmetrical stiffness and pain in the shoulders and upper arms."
+  ],
+  "list_see_also": [
+    "shoulder-blade",
+    "put one’s shoulder to the wheel",
+    "shoulder to shoulder"
+  ],
+  "list_browse": [
+    "shot",
+    "shotgun",
+    "should",
+    "should/would like",
+    "shoulder",
+    "shoulder to shoulder",
+    "shoulder-blade",
+    "shout",
+    "shove"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697699_0b8a14a351_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697699_7aeb9ac330_o.png",
+      "id_image": "shoulder_2417963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387447_80afdf73c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387447_0bb3099467_o.png",
+      "id_image": "shoulder_5726774"
+    }
+  ]
+}

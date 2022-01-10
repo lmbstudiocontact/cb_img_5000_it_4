@@ -1,0 +1,66 @@
+{
+  "english": "screwdriver",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái tua vít",
+          "definition": "a kind of tool for turning screws",
+          "world_new": [
+            "kind",
+            "tool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an electric screwdriver.",
+              "world_new": [
+                "electric"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Should it also include those which require a screwdriver to remove?",
+    "For example, the court have held a screwdriver to be a house-breaking implement.",
+    "Screwdrivers and spanners are necessary in munitions factories.",
+    "We need long-term investment in research and development—otherwise we will finish up as a screwdriver nation.",
+    "An obvious example might be a swordstick or a sharpened screwdriver.",
+    "If one had a hammer, a chisel or a screwdriver, one would fall within the ambit of subsection (6)(b).",
+    "I suppose that the average handyman probably has about eight screwdrivers which he has bought at various times.",
+    "This is readily apparent in the case of artifacts such as can openers, screwdrivers and chairs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "screensaver",
+    "screw",
+    "screw up",
+    "screw up one’s courage",
+    "screwdriver",
+    "scribble",
+    "scribbler",
+    "scrimmage",
+    "scrimp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681964_2b6257c1f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681964_27c78ecd53_o.png",
+      "id_image": "screwdriver_217186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063740_d2b9a8b1c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063740_2c23f1cd98_o.png",
+      "id_image": "screwdriver_280108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371497_b86f4b110f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371497_3337d8c7f9_o.png",
+      "id_image": "screwdriver_620523"
+    }
+  ]
+}

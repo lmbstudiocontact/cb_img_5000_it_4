@@ -1,0 +1,117 @@
+{
+  "english": "sweat",
+  "phat_am": "swet",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mồ hôi",
+          "definition": "the moisture given out through the skin",
+          "world_new": [
+            "moisture",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was dripping with sweat after running so far in the heat.",
+              "world_new": [
+                "dripping",
+                "running",
+                "far",
+                "heat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đổ mồ hôi",
+          "definition": "to give out sweat",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Vigorous exercise makes you sweat.",
+              "world_new": [
+                "exercise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm việc vất vả",
+          "definition": "to work hard",
+          "world_new": [
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was sweating (away) at my work from morning till night.",
+              "world_new": [
+                "I",
+                "my",
+                "work",
+                "morning",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Patients with excessive sweating on: palms 52%, palms and underarms 43% and underarms 6%.",
+    "Patients with excessive sweating on: upper limbs 100%.",
+    "The symptoms associated with myelofibrosis are variable and in more than 50% of patients include marked lassitude, loss of weight and night sweats.",
+    "Increased sweating 45% (associated with heat and exercise).",
+    "I think it was wrong that what really amount in some cases to sweated wages should be paid in those works.",
+    "Patients with excessive sweating on the palms 100%.",
+    "In other words, unless that principle is admitted you immediately say that you agree with sweated labour.",
+    "Patients with excessive sweating on: palms 31%; palms and feet 49%; palms and underarms 2%; palms, underarms and feet 16%; palms, feet, underarms and back 3%."
+  ],
+  "list_see_also": [
+    "sweater",
+    "sweaty",
+    "sweatiness",
+    "sweat gland",
+    "sweatshirt",
+    "a cold sweat"
+  ],
+  "list_browse": [
+    "swear by",
+    "swear in",
+    "swear to",
+    "swear word",
+    "sweat",
+    "sweat gland",
+    "sweater",
+    "sweatiness",
+    "sweatshirt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070620_59e8bab8f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070620_8a561477c8_o.png",
+      "id_image": "sweat_1466560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688734_2a247183f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688734_7f72fe3c6a_o.png",
+      "id_image": "sweat_1933297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070535_29bcc3e31b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070535_ce4818d4dd_o.png",
+      "id_image": "sweat_2688373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070495_bdc1d1f7e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070495_980ca5f564_o.png",
+      "id_image": "sweat_5571657"
+    }
+  ]
+}

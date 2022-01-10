@@ -1,0 +1,116 @@
+{
+  "english": "skip",
+  "phat_am": "skip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhảy",
+          "definition": "to go along with a hop on each foot in turn",
+          "world_new": [
+            "hop",
+            "foot",
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The little girl skipped up the path.",
+              "world_new": [
+                "girl",
+                "path"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhảy dây",
+          "definition": "to jump over a rope that is being turned under the feet and over the head (as a children’s game).",
+          "world_new": [
+            "jump",
+            "rope",
+            "head"
+          ]
+        },
+        {
+          "mean_english": "bỏ qua",
+          "definition": "to miss out (a meal, part of a book etc)",
+          "world_new": [
+            "miss",
+            "meal",
+            "part",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I skipped lunch and went shopping instead",
+              "world_new": [
+                "I",
+                "lunch",
+                "shopping",
+                "instead"
+              ]
+            },
+            {
+              "ex_of_definition": "Skip chapter two.",
+              "world_new": [
+                "chapter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Newspapers can afford to offer stories with limited appeal, since uninterested consumers can simply skip them.",
+    "We will skip the technical details of the solution and proceed to evaluate condition (28).",
+    "Again we skip the details of the proof, which is straightforward but notationally heavy.",
+    "On first reading it is advisable to skip to section 6 which shows the rules in action.",
+    "Recall that the effect of the gyro-kinetic polarization has been skipped in the derivation.",
+    "The derivation may be skipped on first reading, and the reader may want to proceed directly to the formulation.",
+    "In our study, readers skipped 31% of predictable words compared with 22% of the unpredictable words.",
+    "Of course, not everyone had access to such powerful patrons, so it is no surprise that only the most famous musicians could skip the broker."
+  ],
+  "list_see_also": [
+    "skipping rope"
+  ],
+  "list_browse": [
+    "skinhead",
+    "skinniness",
+    "skinny",
+    "skinny-dipping",
+    "skip",
+    "skipper",
+    "skipping rope",
+    "skirt",
+    "skittle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335311_fac11040df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335311_f71764d3f0_o.png",
+      "id_image": "skip_1236502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450278_e35c1a50d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450278_d3dc2daaf3_o.png",
+      "id_image": "skip_2368554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690409_c780de9dcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690409_f71afdeeda_o.png",
+      "id_image": "skip_2372117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072145_76c73272bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072145_401951b8d1_o.png",
+      "id_image": "skip_4483469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072120_e686bcfca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072120_d472a504fd_o.png",
+      "id_image": "skip_4631777"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "english": "spell",
+  "phat_am": "spel",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh vần",
+          "definition": "to name or give in order the letters of (a word)",
+          "world_new": [
+            "name",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I asked him to spell his name for me.",
+              "world_new": [
+                "I",
+                "name"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết theo chính tả",
+          "definition": "(of letters) to form (a word)",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "C-a-t spells ‘cat’."
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh vần, viết vần",
+          "definition": "to (be able to) spell words correctly",
+          "world_new": [
+            "correctly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t spell!",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "báo hiệu",
+          "definition": "to mean or amount to",
+          "world_new": [
+            "mean",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This spells disaster.",
+              "world_new": [
+                "disaster"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu thần chú, bùa mê",
+          "definition": "a set or words which, when spoken, is supposed to have magical power",
+          "world_new": [
+            "spoken",
+            "magical",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The witch recited a spell and turned herself into a swan.",
+              "world_new": [
+                "witch",
+                "swan"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sức quyến rũ",
+          "definition": "a strong influence",
+          "world_new": [
+            "strong",
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was completely under her spell.",
+              "world_new": [
+                "completely"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đợt, lượt, phiên",
+          "definition": "a turn (at work)",
+          "world_new": [
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shortly afterwards I did another spell working on the checkout desk.",
+              "world_new": [
+                "afterwards",
+                "I",
+                "checkout",
+                "desk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một đợt",
+          "definition": "a period of time during which something lasts",
+          "world_new": [
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spell of bad health.",
+              "world_new": [
+                "bad",
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời gian ngắn",
+          "definition": "a short time",
+          "world_new": [
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We stayed in the country for a spell and then came home.",
+              "world_new": [
+                "country",
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The school was operated very efficiently - procedures were spelled out and insisted on.",
+    "The problem may seem dreary but it still needs spelling out in detail.",
+    "Teachers' perception of spelling patterns and children's spelling errors : a crosslinguistic perspective.",
+    "Substitutions seem to top the list in spelling errors whereas omissions and insertions are more common in typos.",
+    "On the role of spelling in morpheme recognition : experimental studies with children and adults.",
+    "The concurrent development of spelling and decoding in two different orthographies.",
+    "Due to phonological neutralizations, both orthographies contain homophonous graphemes, which provide alternative spellings for the same phoneme and constitute sources for spelling errors.",
+    "I have spelled out this trilemma for the value of fairness."
+  ],
+  "list_see_also": [
+    "speller",
+    "spelling",
+    "spell-check",
+    "spell-checker"
+  ],
+  "list_browse": [
+    "speediness",
+    "speeding",
+    "speedometer",
+    "speedy",
+    "spell",
+    "spell-check",
+    "spell-checker",
+    "speller",
+    "spelling"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679454_ea42376cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679454_94fdc1e90e_o.png",
+      "id_image": "spell_1617776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679434_74a24ffa5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679434_5be927ec38_o.png",
+      "id_image": "spell_4209632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679424_795ab9467c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679424_23c4b1c1ea_o.png",
+      "id_image": "spell_5345565"
+    }
+  ]
+}

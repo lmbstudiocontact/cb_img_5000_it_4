@@ -1,0 +1,84 @@
+{
+  "english": "spear",
+  "phat_am": "spiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái mác, cái thương",
+          "definition": "a type of long-handled weapon, usually with an iron or steel point on the end",
+          "world_new": [
+            "type",
+            "weapon",
+            "iron",
+            "steel",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was armed with a spear and a round shield.",
+              "world_new": [
+                "armed",
+                "shield"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xiên cá, đâm bằng giáo",
+          "definition": "to pierce or kill with a spear",
+          "world_new": [
+            "pierce",
+            "kill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went out in a boat and speared some fish.",
+              "world_new": [
+                "boat",
+                "fish"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "spearhead"
+  ],
+  "list_browse": [
+    "speak out of turn",
+    "speak up",
+    "speaker",
+    "speaking",
+    "spear",
+    "spearhead",
+    "special",
+    "special needs",
+    "specialist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061570_7357d95ce5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061570_89afa24e38_o.png",
+      "id_image": "spear_3806320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324616_4a6c08783d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324616_7e7927fd0b_o.png",
+      "id_image": "spear_3949807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679859_717fb62b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679859_054df1dc05_o.png",
+      "id_image": "spear_506947"
+    }
+  ]
+}

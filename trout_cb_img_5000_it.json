@@ -1,0 +1,83 @@
+{
+  "english": "trout",
+  "phat_am": "traut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá hồi",
+          "definition": "a type of freshwater fish of the salmon family",
+          "world_new": [
+            "type",
+            "freshwater",
+            "fish",
+            "salmon",
+            "family"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He caught five trout."
+            }
+          ]
+        },
+        {
+          "mean_english": "thịt cá hồi",
+          "definition": "its flesh, used as food",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "steamed trout"
+            },
+            {
+              "ex_of_definition": "Have some more trout!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The developmental trajectory of ultraviolet photosensitivity in rainbow trout is altered by thyroxin.",
+    "Therefore, future studies should also include the epithelial cells of trout.",
+    "The occurrence of this species whose adults are parasites of marine mammals is evidence that trout have spent time at sea.",
+    "Five thousand trouts are set out each year to sustain the population.",
+    "Five component species were recorded in wild trout in 1997 and 7 component species were recorded in wild trout in 1998.",
+    "The cortisol concentrations in muscle tissue fluid and plasma from rainbow trout fingerlings are positively correlated, although lower in the muscle tissue.",
+    "An evaluation of pollutant induced changes in the gills of rainbow trout using scanning electron microscopy.",
+    "The physostome fish encompass the bichirs, gars, a number of carps, trouts, herrings, catfish, eels and the lungfish."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "trouper",
+    "trouser suit",
+    "trouser-",
+    "trousers",
+    "trout",
+    "trowel",
+    "truancy",
+    "truant",
+    "truce"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331876_1e18d2369a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331876_26ff41e65a_o.png",
+      "id_image": "trout_1881812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331846_c11428ae78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331846_86dc5407b9_o.png",
+      "id_image": "trout_2166214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376552_d84ea5b63f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376552_ac7039af9e_o.png",
+      "id_image": "trout_2243648"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "english": "signal",
+  "phat_am": "ˈsiɡnəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu hiệu",
+          "definition": "a sign (eg a movement of the hand, a light, a sound), especially one arranged beforehand, giving a command, warning or other message",
+          "world_new": [
+            "sign",
+            "movement",
+            "hand",
+            "light",
+            "beforehand",
+            "command",
+            "warning",
+            "message"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the signal to advance.",
+              "world_new": [
+                "advance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy báo tín hiệu",
+          "definition": "a machine etc used for this purpose",
+          "world_new": [
+            "machine",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a railway signal.",
+              "world_new": [
+                "railway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tín hiệu",
+          "definition": "the wave, sound received or sent out by a radio set etc",
+          "world_new": [
+            "wave",
+            "sound",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The signal is very faint.",
+              "world_new": [
+                "faint"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ra hiệu, báo hiệu",
+          "definition": "to make signals (to)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policeman signalled the driver to stop.",
+              "world_new": [
+                "policeman",
+                "driver",
+                "stop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển bằng tín hiệu",
+          "definition": "to send (a message etc) by means of signals.",
+          "world_new": [
+            "send",
+            "message",
+            "means"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More or less at birth, if the fetal exposure to attenuated (but prosodically informative) speech signals is set aside.",
+    "During morphogenesis.positional information is conveyed to neiboring cells by signaling molecules.",
+    "Expression of connexin-43 and connexin-26 in the rat myometrium during pregnancy and labor is differentially regulated by mechanical and hormonal signals.",
+    "Semantic radicals provide a guide to characters' meanings by signaling, in most instances, the semantic category of the whole character.",
+    "If this attempt at signalling works, it does so by means of salience (pp. 158-9).",
+    "In phase 4, similarities between the query vector and the corresponding par ts of all the other signals are computed.",
+    "Thus, it is possible that right prefrontal asymmetry results in reduced inhibitory signals toward the amygdala, which would then maintain aversive-related responses.",
+    "The genetic basis of differences in visual and/or auditory signals between species has been explored by the use of backcrosses between species."
+  ],
+  "list_see_also": [
+    "signalman"
+  ],
+  "list_browse": [
+    "sign",
+    "sign in",
+    "sign language",
+    "sign up",
+    "signal",
+    "signalman",
+    "signature",
+    "signboard",
+    "significance"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384592_8df2829a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384592_7a005221d0_o.png",
+      "id_image": "signal_1680169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694879_e98f2d7c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694879_c55aee85b4_o.png",
+      "id_image": "signal_1871150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076915_29aa192e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076915_5a75d3a6b3_o.png",
+      "id_image": "signal_224666"
+    }
+  ]
+}

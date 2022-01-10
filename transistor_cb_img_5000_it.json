@@ -1,0 +1,78 @@
+{
+  "english": "transistor",
+  "phat_am": "trӕnˈsistə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng bán dẫn",
+          "definition": "a small electronic device that controls the flow of an electric current.",
+          "world_new": [
+            "small",
+            "electronic",
+            "device",
+            "flow",
+            "electric",
+            "current"
+          ]
+        },
+        {
+          "mean_english": "máy thu thanh bán dẫn",
+          "definition": "(also transistor radio) a portable radio that uses these",
+          "world_new": [
+            "portable",
+            "radio"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took her transistor everywhere with her.",
+              "world_new": [
+                "everywhere"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I do not intend to produce special transistors in commercial quantities and private industry has been encouraged to produce its own types.",
+    "Imagine what we can do with germanium in transistors.",
+    "Transistors in every country pick up a torrent of ideas, facts and figures.",
+    "Young people do not want to become industrial robots producing transistors by the million or motor-cars by the million.",
+    "Optical transistors provide a means to control light using only light and has applications in optical computing and fiber-optic communication networks.",
+    "Unlike digital logic based on tubes or transistors, which uses defined voltages to represent values, magnetic amplifiers based their logic values on current flows.",
+    "He forecast the coming industrial revolution as a result of transistors.",
+    "Is it reasonable that even for walkie-talkie equipment there should be added this great weight of valves when transistors are available?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transfuse",
+    "transfusion",
+    "transgenic",
+    "transgenically",
+    "transistor",
+    "transit",
+    "transition",
+    "transitional",
+    "transitive"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074915_091a5d1a28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074915_bbe55171bd_o.png",
+      "id_image": "transistor_1772561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074890_833e18276e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074890_9a5ae91574_o.png",
+      "id_image": "transistor_2339022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337811_bac0f880b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337811_4eeaf7d195_o.png",
+      "id_image": "transistor_5147322"
+    }
+  ]
+}

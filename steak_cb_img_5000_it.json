@@ -1,0 +1,73 @@
+{
+  "english": "steak",
+  "phat_am": "steik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng cá, thịt để nướng",
+          "definition": "a slice of meat (usually beef) or fish (often cod) for eg frying or stewing",
+          "world_new": [
+            "slice",
+            "meat",
+            "fish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a piece of steak",
+              "world_new": [
+                "piece"
+              ]
+            },
+            {
+              "ex_of_definition": "two cod steaks.",
+              "world_new": [
+                "cod"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is staggering to see haddock selling at a higher price than salmon, and at almost the same price as best steak.",
+    "The same applies to obesity and the consumption of steaks, which has increased.",
+    "Notice that well-done fits the bill: steaks can be well-done, but you can't well-do steaks.",
+    "The meat had been consumed as ground meat (11 cases), consumed raw by at least six cases, or steak (three cases).",
+    "However, currently if an order for six steaks is made, the restaurant and café area is filled with smoke and overheating in the kitchen is also a concern.",
+    "She said that she had cooked some steak for her husband, who suffers from dementia.",
+    "One had to clock up a certain number of points to obtain a steak, a piece of mutton or a rasher of bacon.",
+    "For example, eating a steak dinner at a restaurant and drinking a \"malted\" at a lunch counter might be counted as repetitions of the same brief activity - eating high-calorie food."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "steadily",
+    "steadiness",
+    "steady",
+    "steady (on)!",
+    "steak",
+    "steal",
+    "stealth",
+    "stealthily",
+    "stealthiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348106_3b153dc2ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348106_3332c3f4c0_o.png",
+      "id_image": "steak_1939686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085385_a9832cfc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085385_ae4b2f7edc_o.png",
+      "id_image": "steak_3005059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085335_be740915a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085335_9907f1187b_o.png",
+      "id_image": "steak_3005152"
+    }
+  ]
+}

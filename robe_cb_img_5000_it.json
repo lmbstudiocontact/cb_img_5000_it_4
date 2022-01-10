@@ -1,0 +1,110 @@
+{
+  "english": "robe",
+  "phat_am": "rəub",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "áo choàng",
+          "definition": "a long, loose piece of clothing",
+          "world_new": [
+            "long",
+            "loose",
+            "piece",
+            "clothing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many Arabs still wear robes",
+              "world_new": [
+                "wear"
+              ]
+            },
+            {
+              "ex_of_definition": "a baby’s christening robe."
+            }
+          ]
+        },
+        {
+          "mean_english": "áo choàng trong một số nghề nghiệp",
+          "definition": "a long, loose piece of clothing worn as a sign of a person’s rank eg on official occasions",
+          "world_new": [
+            "long",
+            "loose",
+            "piece",
+            "clothing",
+            "worn",
+            "sign",
+            "rank",
+            "official"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a judge’s robes."
+            }
+          ]
+        },
+        {
+          "mean_english": "áo choàng mặc ở nhà",
+          "definition": "a loose garment worn casually; a dressing-gown",
+          "world_new": [
+            "loose",
+            "garment",
+            "worn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore a robe over her nightdress",
+              "world_new": [
+                "nightdress"
+              ]
+            },
+            {
+              "ex_of_definition": "a bath-robe"
+            },
+            {
+              "ex_of_definition": "a beach-robe."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If some of us wear robes, why not all?",
+    "I do not believe that we have a sense of changing our personality, character or concern by putting our robes on and taking them off.",
+    "They put on robes covered with ermine.",
+    "If those arguments are important, then robes would probably be sufficient.",
+    "She wears dark robes and a large hat that covers most of her face.",
+    "We had to have our chancellors, our degrees, our robes, and so on.",
+    "I know that, in donning the robes of office, they have not changed the views they held then.",
+    "Therefore, they should wear robes."
+  ],
+  "list_see_also": [
+    "robed"
+  ],
+  "list_browse": [
+    "roasting",
+    "rob",
+    "robber",
+    "robbery",
+    "robe",
+    "robed",
+    "robin",
+    "robot",
+    "robust"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459338_e648601c99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459338_8f709e122d_o.png",
+      "id_image": "robe_2597558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459328_be8ff6035f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459328_2bee12b6e5_o.png",
+      "id_image": "robe_3943665"
+    }
+  ]
+}

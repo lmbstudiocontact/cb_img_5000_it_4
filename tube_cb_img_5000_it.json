@@ -1,0 +1,134 @@
+{
+  "english": "tube",
+  "phat_am": "tjuːb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống",
+          "definition": "a long, low cylinder-shaped object through which liquid can pass; a pipe",
+          "world_new": [
+            "long",
+            "low",
+            "object",
+            "liquid",
+            "pipe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The water flowed through a rubber tube",
+              "world_new": [
+                "water",
+                "rubber"
+              ]
+            },
+            {
+              "ex_of_definition": "a glass tube.",
+              "world_new": [
+                "glass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ống, vòi",
+          "definition": "an organ of this kind in animals or plants.",
+          "world_new": [
+            "organ",
+            "kind"
+          ]
+        },
+        {
+          "mean_english": "xe điện ngầm",
+          "definition": "an underground railway/railroad ( especially in London); subway( American)",
+          "world_new": [
+            "underground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I go to work on the tube / by tube",
+              "world_new": [
+                "I",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a tube train/station."
+            }
+          ]
+        },
+        {
+          "mean_english": "tuýp thuốc",
+          "definition": "a container for a semi-liquid substance which is got out by squeezing",
+          "world_new": [
+            "container",
+            "substance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must buy a tube of toothpaste.",
+              "world_new": [
+                "I",
+                "buy",
+                "toothpaste"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But in case the supply of tubes is insufficient they should be transferred, as caught, into any dry bottle, such as a whisky bottle.",
+    "In brief, washed labelled trypomastigotes (5 x 104/tube) were dispensed into small plastic tubes.",
+    "Eels were maintained individually in 40 l-tanks equipped with a polypropylene tube serving as a hiding place.",
+    "Study of the membrane effect on turbulent mixing measurements in shock tubes.",
+    "The airstream directs the pollen up a tube having openings, at several different points along its length, through which the pollen is dispersed.",
+    "Both extremes are axially symmetric flow, the lower being flow about a sphere, the upper being flow inside a round tube.",
+    "Drawings were made with the aid of a drawing tube, and measurements were made with calibrated eyepieces.",
+    "Afterwards the filters were cut and transferred in a tube with 4 ml of sterilized water."
+  ],
+  "list_see_also": [
+    "tubing",
+    "tubular"
+  ],
+  "list_browse": [
+    "tsunami",
+    "tub",
+    "tuba",
+    "tubby",
+    "tube",
+    "tuber",
+    "tuberculosis",
+    "tubing",
+    "tubular"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685294_0bf9c4e01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685294_d1ffbcf1db_o.png",
+      "id_image": "tube_1373939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374892_ee3b5512bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374892_a221ef5a7c_o.png",
+      "id_image": "tube_2421628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685224_3b773a275f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685224_a0851b9d68_o.png",
+      "id_image": "tube_2491467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067165_5ef25da3f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067165_4b5e9119fb_o.png",
+      "id_image": "tube_752547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330261_9405ee3b93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330261_37831348b0_o.png",
+      "id_image": "tube_772952"
+    }
+  ]
+}

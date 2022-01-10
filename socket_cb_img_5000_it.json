@@ -1,0 +1,63 @@
+{
+  "english": "socket",
+  "phat_am": "ˈsokit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lỗ, hốc, ổ",
+          "definition": "a specially-made or specially-shaped hole or set of holes into which something is fitted",
+          "world_new": [
+            "hole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll need to have a new electric socket fitted into the wall for the television plug.",
+              "world_new": [
+                "electric",
+                "wall",
+                "television",
+                "plug"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most modern homes, even of the humblest kind, are built with space in the kitchen for a refrigerator and are provided with suitable electric sockets.",
+    "My second question concerns the problem of harmonising plugs and sockets.",
+    "Their eyes appeared to be sunken in their sockets.",
+    "The resources used via context switching are socket connections for downloading pages and local storage for programs.",
+    "Twenty-two desks will be equipped, at a cost of £40 per desk, with three sockets to which an electric typewriter, table lamp and tape recorder can be connected.",
+    "All other wall sockets have to be imported.",
+    "As subsection (2) stands, a local authority, not being a highway authority, may not erect pylons or construct sockets in the highway without the consent of the highway authority.",
+    "The eye-sockets of tyrannosaurs are positioned so that the eyes would point forward, giving them binocular vision slightly better than that of modern hawks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sociologically",
+    "sociologist",
+    "sociology",
+    "sock",
+    "socket",
+    "soda",
+    "soda water",
+    "sodium",
+    "sofa"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327391_b78250b778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327391_15dc395e38_o.png",
+      "id_image": "socket_252598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327336_6aed82dc1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327336_8219272542_o.png",
+      "id_image": "socket_403151"
+    }
+  ]
+}

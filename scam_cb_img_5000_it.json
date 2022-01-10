@@ -1,0 +1,54 @@
+{
+  "english": "scam",
+  "phat_am": "skæm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lừa đảo",
+          "definition": "a clever and dishonest way of getting money",
+          "world_new": [
+            "clever",
+            "dishonest",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an insurance/investment scam."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scalloped",
+    "scalp",
+    "scalpel",
+    "scaly",
+    "scam",
+    "scamper",
+    "scampi",
+    "scan",
+    "scandal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447678_f32d8cf796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447678_a1517592ab_o.png",
+      "id_image": "scam_2297656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332586_ce82fdb705_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332586_03eecac181_o.png",
+      "id_image": "scam_5511782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332551_34f5866f6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332551_60ec4d9c2c_o.png",
+      "id_image": "scam_5966499"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "roundabout",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chỗ đường vòng",
+          "definition": "a circular piece of ground where several roads meet, and round which traffic must travel; traffic circle American",
+          "world_new": [
+            "circular",
+            "piece",
+            "ground",
+            "meet",
+            "traffic"
+          ]
+        },
+        {
+          "mean_english": "vòng ngựa gỗ cho trẻ em",
+          "definition": "a revolving machine on which one can ride for pleasure; a merry-go-round.",
+          "world_new": [
+            "revolving",
+            "machine",
+            "ride",
+            "merry-go-round"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc vòng",
+          "definition": "not direct",
+          "world_new": [
+            "direct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a roundabout route.",
+              "world_new": [
+                "route"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, repress the instantaneous motions of merriment may be seen as a roundabout and obscure way of saying stop laughing.",
+    "At times, roundabouts or other forms of traffic control might be more appropriate than traffic lights.",
+    "It is swings and roundabouts.",
+    "I appreciate that the amendment is a roundabout way of meeting our argument.",
+    "The ten essays together manage to achieve most of these objectives, albeit sometimes in a roundabout and discursive way.",
+    "This is a matter of swings and roundabouts.",
+    "What he loses on the swings he may gain on the roundabout.",
+    "They have wanted war, they have been waging it upon us for three years, but in a clandestine, hypocritical, roundabout manner."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "round the clock",
+    "round trip",
+    "round up",
+    "round-shouldered",
+    "roundabout",
+    "rounded",
+    "rounders",
+    "roundly",
+    "roundness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341241_c3c51e3d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341241_c09b265296_o.png",
+      "id_image": "roundabout_1434832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456023_1359810021_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456023_d2ff70e6cc_o.png",
+      "id_image": "roundabout_1581880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696414_0aa1fe6159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696414_83c9b65d19_o.png",
+      "id_image": "roundabout_3752004"
+    }
+  ]
+}

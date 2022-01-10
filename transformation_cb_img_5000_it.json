@@ -1,0 +1,83 @@
+{
+  "english": "transformation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chuyển đổi",
+          "definition": "the act of transforming or process of being transformed",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the transformation of water into ice.",
+              "world_new": [
+                "water",
+                "ice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thay đổi",
+          "definition": "a change",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The event caused a transformation in her character.",
+              "world_new": [
+                "event",
+                "character"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This relation models the transformations that can happen in the presence of decoherence and imprecision of physical operations.",
+    "Finding an answer to the question of why a transformation took place in prehistory, then, would ideally mean taking all factors involved into account.",
+    "The most important transformation perhaps has been the guiding principle.",
+    "Transformation, then, seems to be a key concept for understanding the ritual practices.",
+    "It is unlikely that, in this case, the aneurysmal transformation had been caused by tuberculosis, considering its frequent association with peri-membranous ventricular septal defects.",
+    "The transformation of the body by burning implies quite different things within different eschatologies.",
+    "We can now return to the process of transformation by which we convert inward invisible stores of knowledge into visible information.",
+    "Rather, it may be more appropriate to describe the calibration of visual-motor transformations as involving procedural memory."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transcript",
+    "transfer",
+    "transferable",
+    "transform",
+    "transformation",
+    "transformer",
+    "transfuse",
+    "transfusion",
+    "transgenic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453348_0468316cf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453348_c06b3c9923_o.png",
+      "id_image": "transformation_2799892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338301_55d2e49004_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338301_7fa7932933_o.png",
+      "id_image": "transformation_4072717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338266_9984886a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338266_2e253edf51_o.png",
+      "id_image": "transformation_5139931"
+    }
+  ]
+}

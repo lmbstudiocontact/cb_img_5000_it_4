@@ -1,0 +1,88 @@
+{
+  "english": "transaction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vụ giao dịch",
+          "definition": "a particular piece of business; a business deal",
+          "world_new": [
+            "particular",
+            "piece",
+            "business",
+            "deal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "online financial transactions.",
+              "world_new": [
+                "financial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công việc giao dịch",
+          "definition": "the act of transacting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The transaction of the deal took several days.",
+              "world_new": [
+                "deal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These economies of scope in transaction differ radically from the traditional economies of scope in terms of production costs.",
+    "The coordination of all threads belonging to the same transaction is then crucial, because they must all commit or abort in case the transaction fails.",
+    "It was only in the late 1820s that transactions in pounds, shillings and pence became virtually extinct.",
+    "Although the convent's credit varied from 200 to 20,000 pesos in single transactions, the average amount was usually between 3,000-5,000 pesos.",
+    "Yet little attention is paid to the cost of derivative transactions other than the existence of intermediary expenses.",
+    "The transactions for both parties were done face to face (and privately) with the game administrator.",
+    "In such cases, the real bearer of the deontology is the participant in the economic transactions and the player in the game.",
+    "These typically involve some form of transaction processing and require accessing multiple information systems."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tranquillizer",
+    "tranquilly",
+    "trans-",
+    "transact",
+    "transaction",
+    "transatlantic",
+    "transcontinental",
+    "transcript",
+    "transfer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338966_842cb8f43a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338966_2c1842273f_o.png",
+      "id_image": "transaction_1685703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383847_b57680ff7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383847_f70ae2d4d3_o.png",
+      "id_image": "transaction_1728990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383982_273c0fd435_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383982_6269b680e2_o.png",
+      "id_image": "transaction_762227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339021_fb58fb1b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339021_22e1f73e93_o.png",
+      "id_image": "transaction_894145"
+    }
+  ]
+}

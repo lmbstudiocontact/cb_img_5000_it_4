@@ -1,0 +1,74 @@
+{
+  "english": "rocky",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lởm chởm đá",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rocky coastline.",
+              "world_new": [
+                "coastline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không an toàn",
+          "definition": "which rocks or shakes; unsteady; unsafe",
+          "world_new": [
+            "unsafe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rocky ride along the muddy track.",
+              "world_new": [
+                "ride",
+                "muddy",
+                "track"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The landscape is a combination of rocky outcrop, rolling hills and long coastlines.",
+    "In the meantime, the city authorities had to build on the rocky forest areas to the east, which was much more complicated.",
+    "The album was described as having a slightly rockier tone than their previous efforts.",
+    "Rocky planetesimals formed in the inner zone of this disc, eventually growing into terrestrial planets.",
+    "In some of the songs, the band decided to take on a rockier and heavier side, using distortion and increasing the volume.",
+    "The road in this jjart i s rocky, and trekking was difficult owing to numerous streams which were considerably augmented by the recent rain.",
+    "A prominent portion of the reef wall or a rocky outcropping might also be classified as a point feature.",
+    "The study area is dominated by stony and rocky land (39%) and rangeland (33%)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rocket",
+    "rockiness",
+    "rocking chair",
+    "rocking horse",
+    "rocky",
+    "rod",
+    "rodent",
+    "rodeo",
+    "roe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699034_11300e622a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699034_0f013f80f9_o.png",
+      "id_image": "rocky_327427"
+    }
+  ]
+}

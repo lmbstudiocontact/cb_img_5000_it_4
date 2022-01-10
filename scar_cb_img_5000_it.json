@@ -1,0 +1,72 @@
+{
+  "english": "scar",
+  "phat_am": "skaː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sẹo, vết sẹo",
+          "definition": "the mark that is left by a wound or sore",
+          "world_new": [
+            "mark",
+            "left",
+            "wound",
+            "sore"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a scar on the arm where the dog bit him.",
+              "world_new": [
+                "arm",
+                "dog",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "để lại vết sẹo",
+          "definition": "to mark with a scar",
+          "world_new": [
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He recovered from the accident, but his face was badly scarred.",
+              "world_new": [
+                "accident",
+                "face",
+                "badly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scantiness",
+    "scanty",
+    "scapegoat",
+    "scapula",
+    "scar",
+    "scarce",
+    "scarcely",
+    "scarcity",
+    "scare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332246_8f4bacc7ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332246_99542d1227_o.png",
+      "id_image": "scar_5154849"
+    }
+  ]
+}

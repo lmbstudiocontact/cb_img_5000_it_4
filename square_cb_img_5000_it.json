@@ -1,0 +1,300 @@
+{
+  "english": "square",
+  "phat_am": "skweə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình vuông",
+          "definition": "a four-sided two-dimensional figure with all sides equal in length and all angles right angles",
+          "world_new": [
+            "figure",
+            "equal",
+            "length",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Draw a square"
+            },
+            {
+              "ex_of_definition": "Calculate the area of the square.",
+              "world_new": [
+                "area"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vuông",
+          "definition": "something in the shape of this.",
+          "world_new": [
+            "shape"
+          ]
+        },
+        {
+          "mean_english": "quảng trường",
+          "definition": "an open place in a town, with the buildings round it",
+          "world_new": [
+            "open",
+            "place",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a public square",
+              "world_new": [
+                "public"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình phương",
+          "definition": "the resulting number when a number is multiplied by itself",
+          "world_new": [
+            "number",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "3  3, or 32 = 9, so 9 is the square of 3."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vuông",
+          "definition": "having the shape of a square or right angle",
+          "world_new": [
+            "shape",
+            "right",
+            "angle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need a square piece of paper",
+              "world_new": [
+                "I",
+                "piece",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a short, square body / a square chin.",
+              "world_new": [
+                "short",
+                "body",
+                "chin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công bằng, sòng phẳng",
+          "definition": "(of business dealings, scores in games etc) level, even, fairly balanced etc",
+          "world_new": [
+            "business",
+            "games",
+            "level",
+            "even",
+            "fairly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If I pay you an extra $5 shall we be (all) square?",
+              "world_new": [
+                "I",
+                "pay",
+                "extra"
+              ]
+            },
+            {
+              "ex_of_definition": "Their scores are (all) square (= equal)."
+            }
+          ]
+        },
+        {
+          "mean_english": "mét vuông",
+          "definition": "measuring a particular amount on all four sides",
+          "world_new": [
+            "particular",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This piece of wood is two metres square.",
+              "world_new": [
+                "piece",
+                "wood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỗi thời",
+          "definition": "old-fashioned",
+          "world_new": [
+            "old-fashioned"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has rather square ideas about clothes.",
+              "world_new": [
+                "rather",
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vuông vắn",
+          "definition": "at right angles, or in a square shape",
+          "world_new": [
+            "right",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The carpet is not cut square with the corner.",
+              "world_new": [
+                "carpet",
+                "cut",
+                "corner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẳng thắn, trực tiếp",
+          "definition": "firmly and directly",
+          "world_new": [
+            "firmly",
+            "directly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She hit him square on the point of the chin.",
+              "world_new": [
+                "hit",
+                "point",
+                "chin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho vuông",
+          "definition": "to give a square shape to or make square.",
+          "world_new": [
+            "shape"
+          ]
+        },
+        {
+          "mean_english": "thanh toán, trả",
+          "definition": "to settle, pay etc (an account, debt etc)",
+          "world_new": [
+            "settle",
+            "pay",
+            "account",
+            "debt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I must square my account with you.",
+              "world_new": [
+                "I",
+                "my",
+                "account"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm cho phù hợp",
+          "definition": "to (cause to) fit or agree",
+          "world_new": [
+            "fit",
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His story doesn’t square with the facts.",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình phương",
+          "definition": "to multiply a number by itself",
+          "world_new": [
+            "multiply",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two squared is four.",
+              "world_new": [
+                "squared"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "squared",
+    "squarely",
+    "square centimetre/metre",
+    "square root",
+    "fair and square",
+    "go back to square one",
+    "a square deal"
+  ],
+  "list_browse": [
+    "squalid",
+    "squall",
+    "squalor",
+    "squander",
+    "square",
+    "square centimetre/metre",
+    "square root",
+    "squared",
+    "squarely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706304_7d4f731875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706304_f804fb6d95_o.png",
+      "id_image": "square_217237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466298_e123393694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466298_3b0fa799b5_o.png",
+      "id_image": "square_2845069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466288_ee7a27f86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466288_a8431c073b_o.png",
+      "id_image": "square_6006398"
+    }
+  ]
+}

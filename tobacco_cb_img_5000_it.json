@@ -1,0 +1,74 @@
+{
+  "english": "tobacco",
+  "phat_am": "təˈbӕkəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuốc lá",
+          "definition": "(a type of plant that has) leaves that are dried and used for smoking in pipes, cigarettes, cigars etc, or as snuff",
+          "world_new": [
+            "type",
+            "plant",
+            "dried",
+            "smoking",
+            "pipes",
+            "snuff"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tobacco is bad for your health.",
+              "world_new": [
+                "bad",
+                "your",
+                "health"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, in tobacco-growing areas the tobacco-feeding form predominated in spring populations on peach, and was sometimes found on other secondary hosts.",
+    "In all forest fallows, ranging from 0.2-1.5 ha in size, tobacco and cotton were cultivated for a period of 3 y prior to abandonment.",
+    "The opposite was observed in clones that were from tobacco-growing regions.",
+    "Could it be right to spend as much on tobacco as on machinery?",
+    "Damage to tobacco is caused by the insect larvae that eat stored leaves and contaminate the product with excreta and body oils.",
+    "This evidence suggested that policy could reduce, for example, diseases linked to tobacco use, inadequate diet, and lack of exercise.",
+    "Only 75 out of the 1982 examined clones from tobacco were intermediates (3.8%).",
+    "Thus, current laws outlawing the sale of tobacco products to minors will not have their intended effect if they can be easily circumvented."
+  ],
+  "list_see_also": [
+    "tobacconist"
+  ],
+  "list_browse": [
+    "toast rack",
+    "toasted",
+    "toaster",
+    "toaster oven",
+    "tobacco",
+    "tobacconist",
+    "toboggan",
+    "today",
+    "toddle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083490_7ac393a2da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083490_dbc45a3f5e_o.png",
+      "id_image": "tobacco_1085379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390957_b79936a665_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390957_83c25e6e39_o.png",
+      "id_image": "tobacco_4343664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700989_8e8bc5cb50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700989_8d188ee295_o.png",
+      "id_image": "tobacco_5459505"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "swine",
+  "phat_am": "swain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con heo",
+          "definition": "(plural swine) an old word for a pig.",
+          "world_new": [
+            "old",
+            "pig"
+          ]
+        },
+        {
+          "mean_english": "người đáng ghét",
+          "definition": "(plural swines) an offensive word for a person who behaves in a cruel or disgusting way towards others",
+          "world_new": [
+            "offensive",
+            "person",
+            "cruel",
+            "disgusting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You filthy swine!",
+              "world_new": [
+                "filthy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "swimming trunks",
+    "swimsuit",
+    "swindle",
+    "swindler",
+    "swine",
+    "swing",
+    "swing bridge",
+    "swing door",
+    "swinging"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332271_3ce0070915_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332271_87539083fd_o.png",
+      "id_image": "swine_4310590"
+    }
+  ]
+}

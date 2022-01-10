@@ -1,0 +1,80 @@
+{
+  "english": "temple",
+  "phat_am": "ˈtempl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đền, điện, miếu",
+          "definition": "a building in which people worship, usually as part of a non-Christian religion",
+          "world_new": [
+            "building",
+            "people",
+            "worship",
+            "part",
+            "religion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a Greek/Hindu temple."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thái dương",
+          "definition": "either of the flat parts of the head at the side of the forehead",
+          "world_new": [
+            "flat",
+            "head",
+            "side",
+            "forehead"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stone hit him on the temple.",
+              "world_new": [
+                "stone",
+                "hit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tempestuous",
+    "tempestuously",
+    "tempestuousness",
+    "template",
+    "temple",
+    "tempo",
+    "temporarily",
+    "temporariness",
+    "temporary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467123_0a141eaa85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467123_5bb015b8ec_o.png",
+      "id_image": "temple_129334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089790_b4a0438198_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089790_15a1ce29f4_o.png",
+      "id_image": "temple_1531405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467078_734c77e060_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467078_a4b4c1a9b2_o.png",
+      "id_image": "temple_2456061"
+    }
+  ]
+}

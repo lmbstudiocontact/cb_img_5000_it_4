@@ -1,0 +1,64 @@
+{
+  "english": "tendon",
+  "phat_am": "ˈtendən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gân, dây chằng",
+          "definition": "a strong cord joining a muscle to a bone etc",
+          "world_new": [
+            "strong",
+            "cord",
+            "muscle",
+            "bone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has damaged a tendon in his leg.",
+              "world_new": [
+                "damaged",
+                "leg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As such, only the tendons essential for the index finger flexion/extension and abduction/adduction are studied and mimicked in our design.",
+    "This is a problem inherent to tendon-based systems with feedback of only tendon measurements.",
+    "Since the tendons get stiffer as they are stretched, they allow finger joints to flex or extend within a limited range.",
+    "If for example, the growth of a bone is delayed, so too will be that of the associated muscles and tendons.",
+    "None had cerebral palsy, but, in the child with left sided epilepsy, the deep tendon reflexes were slightly increased on the left side.",
+    "Moreover, all stripeinduced tendon-cell markers are still expressed in gcm-gcm2 embryos, implying that gcm-gcm2 control the expression of unknown targets.",
+    "In animals, particularly at medium and high velocities, the muscles and the tendons behave like parallel springdashpot systems.",
+    "With progression, some have vibration and proprioception loss, abnormal saccades, nystagmus, ophthalmoparesis, mild optic atrophy, hypertonia (usually early), hypotonia (later), and decreased deep tendon reflexes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tender-hearted",
+    "tender-heartedness",
+    "tenderly",
+    "tenderness",
+    "tendon",
+    "tennis",
+    "tennis court",
+    "tennis racket",
+    "tennis shoe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706909_9294f37e98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706909_b1a884caf2_o.png",
+      "id_image": "tendon_3978817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352321_226b0c614c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352321_0f3cd2b93d_o.png",
+      "id_image": "tendon_5746310"
+    }
+  ]
+}

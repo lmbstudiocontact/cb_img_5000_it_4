@@ -1,0 +1,66 @@
+{
+  "english": "sharpen",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho sắc",
+          "definition": "to make or grow sharp",
+          "world_new": [
+            "grow",
+            "sharp"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sharpened his pencil.",
+              "world_new": [
+                "pencil"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My inner eye, sharpened by the manifold appearances of a similar kind, now distinguished larger structures of various shapes.",
+    "Replying to the commentaries has sharpened and clarified many of the issues and helped me to view them from fresh angles.",
+    "No matter how much one sharpens the argument, updates references, and reduces some of the data, its original nature remains indelible.",
+    "In short, since the 1950s there has been a general trend towards sharpened competition between shepherds.",
+    "They contributed in sharpening my view of epistemological problems and promoted a more distanced view of the sciences.",
+    "Engineering employers, frequently stealing workers from each other, dealt with the matter collectively by sharpening their rules against poaching.",
+    "Of course, the assumption needs to be sharpened immediately, if it is to be useful.",
+    "Ethnic tensions, which in part underlay the original divisions between the three anti-colonial movements in the 1960s and 1970s, had been sharpened and entrenched."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shark",
+    "sharp",
+    "sharp practice",
+    "sharp-witted",
+    "sharpen",
+    "sharpener",
+    "sharply",
+    "sharpness",
+    "shatter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701494_797bcefa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701494_9dc3534e87_o.png",
+      "id_image": "sharpen_2280502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346596_cf16f969d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346596_ef3bdea2bf_o.png",
+      "id_image": "sharpen_4427902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701504_f075cf2073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701504_3786df5168_o.png",
+      "id_image": "sharpen_648411"
+    }
+  ]
+}

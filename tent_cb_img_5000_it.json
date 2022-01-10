@@ -1,0 +1,76 @@
+{
+  "english": "tent",
+  "phat_am": "tent",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lều",
+          "definition": "a movable shelter made of canvas or other material, supported by poles or a frame and fastened to the ground with ropes and pegs",
+          "world_new": [
+            "movable",
+            "shelter",
+            "canvas",
+            "material",
+            "frame",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When we go on holiday, we usually sleep in a tent.",
+              "world_new": [
+                "holiday",
+                "sleep"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the holidays, wherever he camped, one hundred tents would join him.",
+    "In bad weather, convicts had to spend the night in nomad tents erected by the locals, in caravansaries, or in empty huts.",
+    "They sat in the tent all day, fully clothed but very cold, waiting for a break in the weather.",
+    "The implied actual law of motion (3) coincides therefore with the tent map dynamics (4).",
+    "In these two areas we searched for palms and other plants with large leaves that were modified into tents.",
+    "People and cars milled about us, while posters, caravans, tents, and stalls were crammed in everywhere.",
+    "Yet, even in low density tents, the rate of parasitism exceeded 60% only in a single case.",
+    "We started to head to the wrong way to the side of the tent as we continued to make a detour avoiding the raven."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tense",
+    "tensely",
+    "tenseness",
+    "tension",
+    "tent",
+    "tentacle",
+    "tentative",
+    "tentatively",
+    "tentativeness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089380_de71185bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089380_b50a85fa60_o.png",
+      "id_image": "tent_1083263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352236_0bffb922ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352236_cfc6a7ecf9_o.png",
+      "id_image": "tent_762498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466713_b25c9599d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466713_fca2045144_o.png",
+      "id_image": "tent_907385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352206_63aa1f2e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352206_638f23ec3b_o.png",
+      "id_image": "tent_920416"
+    }
+  ]
+}

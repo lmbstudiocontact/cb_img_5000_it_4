@@ -1,0 +1,142 @@
+{
+  "english": "switch",
+  "phat_am": "switʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công tắc",
+          "definition": "a small lever, handle or other device eg for putting or turning an electric current on or off",
+          "world_new": [
+            "small",
+            "lever",
+            "handle",
+            "device",
+            "electric",
+            "current"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The switch is down when the power is on and up when it’s off",
+              "world_new": [
+                "power"
+              ]
+            },
+            {
+              "ex_of_definition": "He couldn’t find the light-switch.",
+              "world_new": [
+                "find"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự di chuyển, thay đổi đột ngột",
+          "definition": "an act of turning or changing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After several switches of direction they found themselves on the right road.",
+              "world_new": [
+                "direction",
+                "found",
+                "right",
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cành cây, gậy mềm",
+          "definition": "a thin stick.",
+          "world_new": [
+            "thin",
+            "stick"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyển, thay đổi",
+          "definition": "to change, turn",
+          "world_new": [
+            "change",
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He switched the lever to the ‘off’ position",
+              "world_new": [
+                "lever",
+                "position"
+              ]
+            },
+            {
+              "ex_of_definition": "Let’s switch over to another programme",
+              "world_new": [
+                "programme"
+              ]
+            },
+            {
+              "ex_of_definition": "Having considered that problem, they switched their attention to other matters.",
+              "world_new": [
+                "problem",
+                "their",
+                "attention"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, switching behavior is important for risk adjustment.",
+    "What can also complicate the task of exiting a relationship are the costs of switching resources to another relationship.",
+    "Most pension funds have found a solution by switching to an average-wage plan with solvency-contingent indexation and contributions.",
+    "We searched for interaction efforts between modules; the flexible frame switches naturally, without actuating it.",
+    "Varying combinations of muscle groups were stimulated and foot switches were used to trigger each channel at the appropriate period of the gait cycle.",
+    "Generally, switching is only possible when an employee moves to an employer connected to a different pension fund.",
+    "Rapid camera switching enables an average of 50 data points per camera to be collected for each field.",
+    "We see that the optimal policy is switching between stations 1 and 2 three times, so it is not characterized by a single switching curve."
+  ],
+  "list_see_also": [
+    "switchback",
+    "switchboard",
+    "switch on/off"
+  ],
+  "list_browse": [
+    "swinging",
+    "swipe",
+    "swirl",
+    "swish",
+    "switch",
+    "switch on/off",
+    "switchback",
+    "switchboard",
+    "swivel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446758_4b4aa88853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446758_87671db541_o.png",
+      "id_image": "switch_2106054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068405_8cdf8620f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068405_f5f01a4a26_o.png",
+      "id_image": "switch_2231274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068475_b825e32591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068475_c415511c10_o.png",
+      "id_image": "switch_527006"
+    }
+  ]
+}

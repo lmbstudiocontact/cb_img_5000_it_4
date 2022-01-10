@@ -1,0 +1,140 @@
+{
+  "english": "stitch",
+  "phat_am": "stitʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mũi khâu, mũi đan",
+          "definition": "a loop made in thread, wool etc by a needle in sewing or knitting",
+          "world_new": [
+            "loop",
+            "thread",
+            "wool",
+            "needle",
+            "sewing",
+            "knitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sewed the hem with small, neat stitches",
+              "world_new": [
+                "hem",
+                "small",
+                "neat"
+              ]
+            },
+            {
+              "ex_of_definition": "Bother! I’ve dropped a stitch."
+            }
+          ]
+        },
+        {
+          "mean_english": "vết chỉ, đường may",
+          "definition": "a type of stitch forming a particular pattern in sewing, knitting etc",
+          "world_new": [
+            "type",
+            "particular",
+            "pattern",
+            "sewing",
+            "knitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cloth was edged in blanket stitch",
+              "world_new": [
+                "cloth",
+                "blanket"
+              ]
+            },
+            {
+              "ex_of_definition": "The jersey was knitted in stocking stitch.",
+              "world_new": [
+                "jersey",
+                "stocking"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đau xóc hông",
+          "definition": "a sharp pain in a person’s side caused by eg running",
+          "world_new": [
+            "sharp",
+            "pain",
+            "side",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a stitch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khâu, may, đính, đơm",
+          "definition": "to sew or put stitches into",
+          "world_new": [
+            "sew"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stitched the two pieces together"
+            },
+            {
+              "ex_of_definition": "I stitched the button on.",
+              "world_new": [
+                "I",
+                "button"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A scan at this time showing funnelling down to the stitch or a reduced cervical length was predictive of preterm delivery.",
+    "How to stitch these modalities into a durable fabric?",
+    "Alternatively, a patch can be placed by sewing the stitches exclusively in the straddling leaflet of the tricuspid valve.",
+    "Policies may be developed in a way that loosely stitches together a range of different goals and that attempts to reconcile multiple interests.",
+    "Some male figurines have lines across the eyes, as if they were stitched closed.",
+    "Good anchoring of the stitch on all aspects of the cervix is therefore important.",
+    "A suction curette was used to extract the placenta leaving the stitch in place.",
+    "The incised portion was stitched with nylon suturing thread."
+  ],
+  "list_see_also": [
+    "stitching",
+    "in stitches",
+    "stitch up"
+  ],
+  "list_browse": [
+    "stir up",
+    "stir-fry",
+    "stirring",
+    "stirrup",
+    "stitch",
+    "stitch up",
+    "stitching",
+    "stoat",
+    "stock"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391152_b4a380e982_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391152_2e64f798f8_o.png",
+      "id_image": "stitch_2442329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346141_618e286211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346141_2d0bea6236_o.png",
+      "id_image": "stitch_2927914"
+    }
+  ]
+}

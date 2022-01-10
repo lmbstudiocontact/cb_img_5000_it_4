@@ -1,0 +1,124 @@
+{
+  "english": "shrink",
+  "phat_am": "ʃriŋk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "co lại",
+          "definition": "to (cause material, clothes etc to) become smaller",
+          "world_new": [
+            "material",
+            "clothes",
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My jersey shrank in the wash",
+              "world_new": [
+                "jersey",
+                "wash"
+              ]
+            },
+            {
+              "ex_of_definition": "Do they shrink the material before they make it up into clothes?",
+              "world_new": [
+                "material",
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lùi lại , chùn lại",
+          "definition": "to move back in fear, disgust etc (from)",
+          "world_new": [
+            "move",
+            "fear",
+            "disgust"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shrank (back) from the man."
+            }
+          ]
+        },
+        {
+          "mean_english": "lưỡng lự",
+          "definition": "to wish to avoid something unpleasant",
+          "world_new": [
+            "wish",
+            "avoid",
+            "unpleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I shrank from telling him the terrible news.",
+              "world_new": [
+                "I",
+                "telling",
+                "terrible",
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bác sĩ tâm thần",
+          "definition": "a psychiatrist.",
+          "world_new": [
+            "psychiatrist"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because the size of technological devices is ever shrinking, once irrelevant phenomena at the microscopic level are now considered relevant.",
+    "Figure 14 indicates the result of the enlarging and shrinking platform strategy.",
+    "The prospect almost certainly deterred those who shrank from so exposing their private life from seeking a public imprimatur for their personal marital failure.",
+    "A shrinking rural labor pool and/or competition from other non-farm industries may limit producers' ability to get dependable labor for their operations.",
+    "The 'gap' between the two parties shrank from 36 points to 17 points.",
+    "Over a period of time the sac epithelialises and shrinks facilitating closure of the inevitable ventral hernia.",
+    "A shrinking hear t was associated with intense episodes of either fear or anger.",
+    "The same tendency to form rapidly shrinking sub-sheets was found and described in [27, 36]."
+  ],
+  "list_see_also": [
+    "shrinkage",
+    "shrunken"
+  ],
+  "list_browse": [
+    "shrillness",
+    "shrilly",
+    "shrimp",
+    "shrine",
+    "shrink",
+    "shrinkage",
+    "shrivel",
+    "shrivel up",
+    "shroud"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386357_d1c909e71b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386357_7057b6fa92_o.png",
+      "id_image": "shrink_2142442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386302_7cde0e2e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386302_30f27e36c4_o.png",
+      "id_image": "shrink_3043349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386287_3ed84a9572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386287_3c4da04a7a_o.png",
+      "id_image": "shrink_4116740"
+    }
+  ]
+}

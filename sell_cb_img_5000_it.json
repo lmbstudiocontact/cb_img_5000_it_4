@@ -1,0 +1,126 @@
+{
+  "english": "sell",
+  "phat_am": "sel",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bán",
+          "definition": "to give something in exchange for money",
+          "world_new": [
+            "exchange",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sold her a car",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve got some books to sell."
+            }
+          ]
+        },
+        {
+          "mean_english": "bán",
+          "definition": "to have for sale",
+          "world_new": [
+            "sale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The farmer sells milk and eggs.",
+              "world_new": [
+                "farmer",
+                "milk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bán chạy",
+          "definition": "to be sold",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His book sold well.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để bán",
+          "definition": "to cause to be sold",
+          "world_new": [
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Packaging sells a product.",
+              "world_new": [
+                "product"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It can thus easily be used in television programmes or films, and so has the capability to be sold twice over.",
+    "Fishing vessels came alongside and sold their catch.",
+    "The case studies reiterated that some firms were forced to sell their assets and machinery.",
+    "Rich farmers sold grain on credit to poorer households when prices were high.",
+    "Other retail outlets for eggs include kiosks, roadside vendors, supermarkets (small, medium or large) selling table eggs where few had refrigeration facilities for the eggs.",
+    "The woman's husband could not sell or otherwise alienate that land without her permission.",
+    "It went on to sell over a million copies globally and was translated into over 20 languages.",
+    "He will sell the crops to customers at farmers' markets and restaurants within 40 miles of his farm."
+  ],
+  "list_see_also": [
+    "seller",
+    "sell-out",
+    "be sold on",
+    "be sold out",
+    "sell down the river",
+    "sell off",
+    "sell out",
+    "sell up"
+  ],
+  "list_browse": [
+    "selfishness",
+    "selfless",
+    "selflessly",
+    "selflessness",
+    "sell",
+    "sell down the river",
+    "sell off",
+    "sell up",
+    "sell-out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395582_82232a010a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395582_9ba1330a60_o.png",
+      "id_image": "sell_1610418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087975_c7351f74b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087975_3341d131fc_o.png",
+      "id_image": "sell_3163293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350816_44513ea8e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350816_e6388a1493_o.png",
+      "id_image": "sell_5141650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465313_b162bb60f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465313_db10e29d89_o.png",
+      "id_image": "sell_6385216"
+    }
+  ]
+}

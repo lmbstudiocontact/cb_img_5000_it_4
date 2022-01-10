@@ -1,0 +1,306 @@
+{
+  "english": "turn",
+  "phat_am": "təːn",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xoay, vặn",
+          "definition": "to (make something) move or go round; to revolve",
+          "world_new": [
+            "move",
+            "revolve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wheels turned"
+            },
+            {
+              "ex_of_definition": "He turned the handle.",
+              "world_new": [
+                "handle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quay về phía",
+          "definition": "to face or go in another direction",
+          "world_new": [
+            "face",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He turned and walked away"
+            },
+            {
+              "ex_of_definition": "She turned towards him."
+            }
+          ]
+        },
+        {
+          "mean_english": "đổi hướng",
+          "definition": "to change direction",
+          "world_new": [
+            "change",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road turned to the left.",
+              "world_new": [
+                "road",
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tập trung",
+          "definition": "to direct; to aim or point",
+          "world_new": [
+            "aim",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He turned his attention to his work.",
+              "world_new": [
+                "attention",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi dạo",
+          "definition": "to go round",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They turned the corner.",
+              "world_new": [
+                "corner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biến thành",
+          "definition": "to (cause something to) become or change to",
+          "world_new": [
+            "become",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can’t turn lead into gold",
+              "world_new": [
+                "lead",
+                "gold"
+              ]
+            },
+            {
+              "ex_of_definition": "At what temperature does water turn into ice?",
+              "world_new": [
+                "temperature",
+                "water",
+                "ice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đổi màu",
+          "definition": "to (cause to) change colour/color to",
+          "world_new": [
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her hair turned white",
+              "world_new": [
+                "hair",
+                "white"
+              ]
+            },
+            {
+              "ex_of_definition": "The shock turned his hair white.",
+              "world_new": [
+                "shock",
+                "hair",
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xoay",
+          "definition": "an act of turning",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the handle a turn.",
+              "world_new": [
+                "handle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng xoắn",
+          "definition": "a winding or coil",
+          "world_new": [
+            "winding",
+            "coil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are eighty turns of wire on this aerial.",
+              "world_new": [
+                "wire",
+                "aerial"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rẽ",
+          "definition": "(also turning) a point where one can change direction, eg where one road joins another",
+          "world_new": [
+            "point",
+            "change",
+            "direction",
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take the third turn(ing) on/to the left.",
+              "world_new": [
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lượt",
+          "definition": "one’s chance or duty (to do, have etc something shared by several people)",
+          "world_new": [
+            "chance",
+            "duty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s your turn to choose a record",
+              "world_new": [
+                "your",
+                "choose",
+                "record"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ll have to wait your turn in the bathroom.",
+              "world_new": [
+                "wait",
+                "your",
+                "bathroom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đội xiếc",
+          "definition": "one of a series of short circus or variety acts, or the person or persons who perform it",
+          "world_new": [
+            "series",
+            "short",
+            "circus",
+            "variety",
+            "person",
+            "perform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The show opened with a comedy turn.",
+              "world_new": [
+                "comedy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It turns out that this difficulty considerably slows down both tasks, as compared to the scenario with positive knowledge radius.",
+    "The degree to which the bias or variance is reduced will in turn affect the rate by which the model's error will decrease.",
+    "He tries to turn the tables, thereby running the risk of turning philosophy into psychology.",
+    "This, in turn, is supposed to define the environment for evaluating the let-body.",
+    "These stresses and antisocial behavior may, in turn, cause an increase in children's internalizing problems through the life course.",
+    "This first synthesis in turn helped in the production of a more perspicuous analysis, with a more satisfactory synthesis.",
+    "In other words, they tended to turn away from avoidant behaviors and show frustration or anger in response to resistant behaviors.",
+    "This conflict in turn will promote volatility in partisan preferences."
+  ],
+  "list_see_also": [
+    "turning-point",
+    "turnover",
+    "turnpike",
+    "turnstile",
+    "turntable",
+    "turn-up",
+    "do (someone) a good turn",
+    "in turn",
+    "out of turn",
+    "speak out of turn",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "turbulently",
+    "turf",
+    "turkey",
+    "turmoil",
+    "turn",
+    "turn a blind eye",
+    "turn a deaf ear to",
+    "turn against",
+    "turn away"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065215_19111839af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065215_ba274e307e_o.png",
+      "id_image": "turn_536739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328321_4f301ed722_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328321_2d91eb4419_o.png",
+      "id_image": "turn_5776385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683479_f2025298f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683479_d752ba877c_o.png",
+      "id_image": "turn_933091"
+    }
+  ]
+}

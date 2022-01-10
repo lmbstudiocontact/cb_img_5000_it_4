@@ -1,0 +1,109 @@
+{
+  "english": "spotlight",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đèn pha",
+          "definition": "(a lamp for projecting) a circle of light that is thrown on to a small area",
+          "world_new": [
+            "lamp",
+            "circle",
+            "light",
+            "small",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actor was lit by a single spotlight in the middle of the stage.",
+              "world_new": [
+                "actor",
+                "single",
+                "middle",
+                "stage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rọi sáng",
+          "definition": "to light with a spotlight",
+          "world_new": [
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stage was spotlit.",
+              "world_new": [
+                "stage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lôi cuốn sự chú ý",
+          "definition": "to show up clearly or draw attention to",
+          "world_new": [
+            "clearly",
+            "draw",
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The incident spotlighted the difficulties with which we were faced.",
+              "world_new": [
+                "incident"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such issues are crucial and have been spotlighted by the interim advisory committee.",
+    "All the topics are well introduced, usually with a quick dive back into the history of the subject in question, spotlighting particular scientists and the seminal role they played.",
+    "We all know that the spotlights are turned towards the big cities where the most well-known monuments are to be found.",
+    "He has spotlighted something that did not occur to us in the debate.",
+    "They cast spotlights on the murky areas in which occasionally the media show interest.",
+    "However, depending on the exact location and width of the attentional spotlights, resulting activation maps might reveal merged activation patterns even in the presence of distinct attentional spotlights.",
+    "We should not try to focus all the spotlights on the great foreign policy debates and defence discussions.",
+    "There is no doubt that the weather has spotlighted it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spot on",
+    "spotless",
+    "spotlessly",
+    "spotlessness",
+    "spotlight",
+    "spotted",
+    "spottiness",
+    "spotty",
+    "spouse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397452_2fc49a959c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397452_daba6ccc02_o.png",
+      "id_image": "spotlight_208671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089950_2546eac373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089950_129a4557c3_o.png",
+      "id_image": "spotlight_493435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397402_fc187f4bea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397402_099bd38cd6_o.png",
+      "id_image": "spotlight_879521"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "schizophrenia",
+  "phat_am": "skitsəˈfriːniə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bệnh tâm thần phân liệt",
+          "definition": "a form of insanity in which the patient becomes severely withdrawn from reality, has delusions etc",
+          "world_new": [
+            "form",
+            "insanity",
+            "patient",
+            "severely",
+            "withdrawn",
+            "reality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been diagnosed with schizophrenia."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "schizophrenic"
+  ],
+  "list_browse": [
+    "schematically",
+    "scheme",
+    "schemer",
+    "scheming",
+    "schizophrenia",
+    "schizophrenic",
+    "scholar",
+    "scholarliness",
+    "scholarly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067445_e0b388f9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067445_1df94ec5bb_o.png",
+      "id_image": "schizophrenia_3997819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685649_e75b260539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685649_80206bfcbd_o.png",
+      "id_image": "schizophrenia_4897142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375252_7a1fc75bd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375252_6667625510_o.png",
+      "id_image": "schizophrenia_5705111"
+    }
+  ]
+}

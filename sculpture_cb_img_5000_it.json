@@ -1,0 +1,86 @@
+{
+  "english": "sculpture",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nghệ thuật điêu khắc",
+          "definition": "the art of modelling or carving figures, shapes etc",
+          "world_new": [
+            "art",
+            "modelling",
+            "carving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went to art school to study painting and sculpture.",
+              "world_new": [
+                "art",
+                "school",
+                "study",
+                "painting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tác phẩm điêu khắc",
+          "definition": "work done by a sculptor",
+          "world_new": [
+            "work",
+            "sculptor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These statues are all examples of ancient Greek sculpture.",
+              "world_new": [
+                "ancient"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This stage of the workshop was related to 'giving life' to sculptures.",
+    "Monuments include structures and large sculpture such as stelae that were carved with information about cosmologies and hierarchies of power.",
+    "Thus, neither the stereotyped delta rhythm nor spindles require local inhibitory interneurons, which are rather engaged in sculpturing information processing during adaptive behavioral states.",
+    "It is hoped that the second volume may contain the rest of the sculpture, the terra-cottas, and the architectural fragments.",
+    "Two new representational media, sculpture and epigraphy, could be recruited to the same ends.",
+    "Beyond this, we can ask what figurative sculpture gave abstract architects, and why they used it.",
+    "On the contrary, the coarse seed-coat sculpture showed a negative effect upon seed burial capacity.",
+    "This means that approximately 42% of the sites with potbelly sculptures have examples with pedestals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scuffle",
+    "scull",
+    "scullery",
+    "sculptor",
+    "sculpture",
+    "scum",
+    "scurf",
+    "scurfy",
+    "scurrilous"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680934_84fc5d264f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680934_5d87b098cc_o.png",
+      "id_image": "sculpture_4341099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370552_9b11776b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370552_94c6495f82_o.png",
+      "id_image": "sculpture_5830701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325776_4ac22c14af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325776_5261122724_o.png",
+      "id_image": "sculpture_647689"
+    }
+  ]
+}

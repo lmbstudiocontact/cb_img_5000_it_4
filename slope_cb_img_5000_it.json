@@ -1,0 +1,109 @@
+{
+  "english": "slope",
+  "phat_am": "sləup",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ dốc, đường dốc",
+          "definition": "a position or direction that is neither level nor upright; an upward or downward slant",
+          "world_new": [
+            "position",
+            "direction",
+            "level",
+            "nor",
+            "upward",
+            "downward",
+            "slant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The floor is on a slight slope.",
+              "world_new": [
+                "floor",
+                "slight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khu vực đất nhô lên, dốc xuống",
+          "definition": "a surface with one end higher than the other",
+          "world_new": [
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house stands on a gentle slope.",
+              "world_new": [
+                "house",
+                "gentle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghiêng, dốc",
+          "definition": "to be in a position which is neither level nor upright",
+          "world_new": [
+            "position",
+            "level",
+            "nor",
+            "upright"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The field slopes towards the road.",
+              "world_new": [
+                "field",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both ci and @i were measured and the slope computed.",
+    "The optimal value for slope and the optimal value for height could not always be simultaneously reached for some initial conditions.",
+    "Survival across months showed an overall negative slope for the survival of each species with time of exposure in the field (figs 3 and 4).",
+    "The genetic variances in height and slope of a linear reaction norm, and their covariance, are predicted to decrease with the variation in the environment.",
+    "The slope of the regression line passing through these columns reflects the optimal leastsquares trajectory based on an average of their scores on each variable.",
+    "Conversely, the outer ramp and upper slope of the clinoform is marked by abundant autochthonous red algae and large benthic foraminifers.",
+    "The nature of the flow and the change in slope of the heat flux curve have been predicted and experimentally verified.",
+    "Determining the slope of the sequestration isocline requires an additional assumption."
+  ],
+  "list_see_also": [
+    "sloping"
+  ],
+  "list_browse": [
+    "slither",
+    "slog",
+    "slogan",
+    "slop",
+    "slope",
+    "sloping",
+    "sloppily",
+    "sloppiness",
+    "sloppy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687344_65c292422a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687344_d6fd577892_o.png",
+      "id_image": "slope_1413074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687389_41aaf61d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687389_93594a31b6_o.png",
+      "id_image": "slope_933071"
+    }
+  ]
+}

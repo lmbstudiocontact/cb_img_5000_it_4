@@ -1,0 +1,72 @@
+{
+  "english": "sociology",
+  "phat_am": "(British) ˌsousiˈolədʒi, ˌsouʃiˈolədʒi; (American) ˌsousiːˈolədʒiː, ˌsouʃiːˈolədʒiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xã hội học",
+          "definition": "the scientific study of society and social behaviour/behavior",
+          "world_new": [
+            "scientific",
+            "study",
+            "society",
+            "social"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s studying for a degree in sociology.",
+              "world_new": [
+                "degree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, a number of recent works of history and sociology have begun to concentrate on television, and its history.",
+    "An adequate sociology of contentious public discourse, however, shows that social movements must often act coercively in order to be included.",
+    "The essays combine the disciplines of history, sociology, economics and archaeology into the volume, making the work useful to academics in all of those fields.",
+    "The main title suggests it is, but the subtitle hints at theoretical sociology.",
+    "Research in social epidemiology and medical sociology has consistently shown socio-economic differentials in health in general populations.",
+    "And he argued that equilibrium analysis neglected questions of 'economic sociology' that were crucial to the processes by which economic institutions rose and fell.",
+    "The book's ambitious topic successfully integrates the social sciences with language, making the author a leader in the political sociology of language.",
+    "The contributors have diverse academic backgrounds, including sociology, teacher and nurse education, and women's and inter-cultural studies."
+  ],
+  "list_see_also": [
+    "sociological",
+    "sociologically",
+    "sociologist"
+  ],
+  "list_browse": [
+    "society",
+    "sociological",
+    "sociologically",
+    "sociologist",
+    "sociology",
+    "sock",
+    "socket",
+    "soda",
+    "soda water"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327546_a3bf0886b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327546_beb4191bcc_o.png",
+      "id_image": "sociology_1651656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682614_79c1182817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682614_778b45e9bb_o.png",
+      "id_image": "sociology_1900274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442473_c5bcdfab17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442473_63b8f27191_o.png",
+      "id_image": "sociology_4459268"
+    }
+  ]
+}

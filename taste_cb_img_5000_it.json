@@ -1,0 +1,275 @@
+{
+  "english": "taste",
+  "phat_am": "teist",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhận ra mùi vị",
+          "definition": "to be aware of, or recognize, the flavour/flavor of something",
+          "world_new": [
+            "aware",
+            "recognize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can taste ginger in this cake.",
+              "world_new": [
+                "I",
+                "ginger",
+                "cake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nếm",
+          "definition": "to test or find out the flavour/flavor or quality of (food etc) by eating or drinking a little of it",
+          "world_new": [
+            "test",
+            "find",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please taste this and tell me if it is too sweet.",
+              "world_new": [
+                "tell",
+                "sweet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có vị",
+          "definition": "to have a particular flavour/flavor or other quality that is noticed through the act of tasting",
+          "world_new": [
+            "particular",
+            "quality",
+            "noticed",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This milk tastes sour",
+              "world_new": [
+                "milk",
+                "sour"
+              ]
+            },
+            {
+              "ex_of_definition": "The sauce tastes of garlic.",
+              "world_new": [
+                "sauce",
+                "garlic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thích ăn",
+          "definition": "to eat (food) especially with enjoyment",
+          "world_new": [
+            "eat",
+            "enjoyment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I haven’t tasted such a delicious curry for ages.",
+              "world_new": [
+                "I",
+                "delicious",
+                "curry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thưởng thức",
+          "definition": "to experience",
+          "world_new": [
+            "experience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tasted the delights of country life.",
+              "world_new": [
+                "country",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vị giác",
+          "definition": "one of the five senses, the sense by which we are aware of flavour/flavor",
+          "world_new": [
+            "senses",
+            "sense",
+            "aware"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "one’s sense of taste",
+              "world_new": [
+                "sense"
+              ]
+            },
+            {
+              "ex_of_definition": "This apple is slightly bitter to the taste.",
+              "world_new": [
+                "apple",
+                "slightly",
+                "bitter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vị",
+          "definition": "the quality or flavour/flavor of anything that is known through this sense",
+          "world_new": [
+            "quality",
+            "sense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wine has an unusual taste.",
+              "world_new": [
+                "wine",
+                "unusual"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nếm thử",
+          "definition": "an act of tasting or a small quantity of food etc for tasting",
+          "world_new": [
+            "act",
+            "small",
+            "quantity",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do have a taste of this cake!",
+              "world_new": [
+                "cake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sở thích",
+          "definition": "a liking or preference",
+          "world_new": [
+            "liking",
+            "preference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a taste for designer clothes",
+              "world_new": [
+                "designer",
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a strange taste in music",
+              "world_new": [
+                "strange",
+                "music"
+              ]
+            },
+            {
+              "ex_of_definition": "Sally has expensive tastes.",
+              "world_new": [
+                "expensive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khiếu thẩm mỹ",
+          "definition": "the ability to judge what is suitable in behaviour/behavior, dress etc or what is fine and beautiful",
+          "world_new": [
+            "ability",
+            "judge",
+            "suitable",
+            "dress",
+            "fine",
+            "beautiful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shows good taste in clothes",
+              "world_new": [
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "a man of taste"
+            },
+            {
+              "ex_of_definition": "That joke was in good/bad taste.",
+              "world_new": [
+                "joke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Now, his customers want fruit that not only tastes good but is also free from blemishes.",
+    "You must educate the taste of the consumer.",
+    "They watch world cinema and have very different tastes from their parents.",
+    "This suggests that his theory is less important in his own practice, and in the practice of others, than unspoken and unverified matters of taste.",
+    "They are too dominated by conventions of rhyming for his taste (1986: 8).",
+    "Though such apparently polarised genres often appeal to markedly different tastes and aesthetic ideologies, they nonetheless share a number of similar conventions.",
+    "It is a condition that does not lead to contentment and an even satisfaction, but to an ever extending desire for the choice fruits tasted.",
+    "Taste is a complex, modern phenomenon that can be understood in a number of ways."
+  ],
+  "list_see_also": [
+    "tasteful",
+    "tastefully",
+    "tastefulness",
+    "tasteless",
+    "tastelessly",
+    "tastelessness",
+    "-tasting",
+    "tasty",
+    "tastiness"
+  ],
+  "list_browse": [
+    "task",
+    "task force",
+    "tassel",
+    "tasselled",
+    "taste",
+    "tasteful",
+    "tastefully",
+    "tastefulness",
+    "tasteless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354291_10426f513c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354291_c1e56b648b_o.png",
+      "id_image": "taste_4785966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468973_4dd7945551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468973_4edb6855d4_o.png",
+      "id_image": "taste_4799086"
+    }
+  ]
+}

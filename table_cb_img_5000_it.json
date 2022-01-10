@@ -1,0 +1,101 @@
+{
+  "english": "table",
+  "phat_am": "ˈteibl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái bàn",
+          "definition": "a piece of furniture consisting of a flat, horizontal surface on legs used eg to put food on at meals, or for some games",
+          "world_new": [
+            "piece",
+            "furniture",
+            "flat",
+            "horizontal",
+            "surface",
+            "food",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dining table."
+            },
+            {
+              "ex_of_definition": "Put all the plates on the table."
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu, cột",
+          "definition": "a statement of facts or figures arranged in columns etc",
+          "world_new": [
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The results of the experiments can be seen in table 5."
+            }
+          ]
+        },
+        {
+          "mean_english": "người ngồi trong cùng một bàn",
+          "definition": "the people sitting at a table",
+          "world_new": [
+            "people",
+            "sitting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The whole table heard what he said.",
+              "world_new": [
+                "whole"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Stocking (1994) provides tables that help predict the item pool size necessary for simpler item-bank designs.",
+    "The information contained in evidence tables may vary, depending on what kinds of studies are being used and also on the scope of the assessment.",
+    "Expedients such as reference price tables had to be used, although it was impossible to ascertain their validity.",
+    "Correcting for misclassification in two-way tables and matched-pair studies.",
+    "Patients can be randomly allocated to different treatment groups using tables of random numbers.",
+    "Sharp bounds for the maximum of the chi-square index in a class of contingency tables with given marginals.",
+    "In these tables, all numbers represent the average of ten runs.",
+    "Most of the book's 250 tables and 137 graphs and maps are located in these last chapters."
+  ],
+  "list_see_also": [
+    "tablecloth",
+    "table linen",
+    "tablespoon",
+    "tablespoonful",
+    "table tennis",
+    "lay/set the table"
+  ],
+  "list_browse": [
+    "ta",
+    "ta-ta",
+    "tab",
+    "tabby",
+    "table",
+    "table linen",
+    "table tennis",
+    "tablecloth",
+    "tablespoon"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374077_db2085eb92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374077_5163a98f25_o.png",
+      "id_image": "table_170934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684344_5e0cfd8725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684344_f2200f38bb_o.png",
+      "id_image": "table_638214"
+    }
+  ]
+}

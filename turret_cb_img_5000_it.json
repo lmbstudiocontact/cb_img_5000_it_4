@@ -1,0 +1,55 @@
+{
+  "english": "turret",
+  "phat_am": "ˈtarit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tháp",
+          "definition": "a small tower",
+          "world_new": [
+            "small",
+            "tower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A fortress often has turrets.",
+              "world_new": [
+                "fortress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "pháo trên xe tăng",
+          "definition": "steel protecting gunners on a tank, plane etc.",
+          "world_new": [
+            "steel",
+            "tank",
+            "plane"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turnstile",
+    "turntable",
+    "turpentine",
+    "turquoise",
+    "turret",
+    "turtle",
+    "turtle soup",
+    "turtleneck",
+    "tusk"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064755_601a2c9e02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064755_a5a30b6e83_o.png",
+      "id_image": "turret_4612047"
+    }
+  ]
+}

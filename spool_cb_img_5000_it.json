@@ -1,0 +1,82 @@
+{
+  "english": "spool",
+  "phat_am": "spuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống chỉ",
+          "definition": "a type of cylindrical holder",
+          "world_new": [
+            "type",
+            "cylindrical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How can I wind this film back onto its spool?",
+              "world_new": [
+                "I",
+                "wind",
+                "film",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số lượng chỉ cuộn nơi một ống chỉ",
+          "definition": "the amount of thread, film etc held by such a holder",
+          "world_new": [
+            "amount",
+            "thread",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She used three spools of thread in one week.",
+              "world_new": [
+                "thread",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It may be that the definition of \"video recording, video spool or video case\" is inadequate.",
+    "A pair of small ceramic, bi-conical ear spools were found scattered among the large bone deposit found next to the north wall.",
+    "It is not necessary to be well versed in the art of computer hardware and software, or even to know the difference between spools and floppy discs.",
+    "Natal nest location and small mammal tracking with a spool and line technique.",
+    "These facts suggest that some rather general formulation of this force beyond the inverse spool models is needed.",
+    "They should know that the spool is as described on the packet and that the packet represents what it says it does.",
+    "Detection of habitat selection at small scales is only possible with the spool-and-line technique, a major advantage of this method over t he traditional use o f t raps.",
+    "They come in under a definition covering reels and spools of all kinds."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spoof",
+    "spook",
+    "spookiness",
+    "spooky",
+    "spool",
+    "spoon",
+    "spoon-feed",
+    "spoonful",
+    "sporadic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352886_ecd5ff3ec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352886_b79c9ee0af_o.png",
+      "id_image": "spool_5032060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397782_c83b6e0cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397782_38df8114c7_o.png",
+      "id_image": "spool_5330710"
+    }
+  ]
+}

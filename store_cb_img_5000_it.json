@@ -1,0 +1,182 @@
+{
+  "english": "store",
+  "phat_am": "stoː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khối lượng dự trữ",
+          "definition": "a supply of eg goods from which things are taken when required",
+          "world_new": [
+            "supply",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They took a store of dried and canned food on the expedition",
+              "world_new": [
+                "dried",
+                "canned",
+                "food",
+                "expedition"
+              ]
+            },
+            {
+              "ex_of_definition": "The quartermaster is the officer in charge of stores.",
+              "world_new": [
+                "quartermaster",
+                "officer",
+                "charge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự có nhiều, dồi dào",
+          "definition": "a (large) collected amount or quantity",
+          "world_new": [
+            "collected",
+            "amount",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a store of interesting facts in his head.",
+              "world_new": [
+                "interesting",
+                "head"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà kho",
+          "definition": "a place where a supply of goods etc is kept; a storehouse or storeroom",
+          "world_new": [
+            "place",
+            "supply",
+            "goods",
+            "storehouse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s in the store(s)."
+            }
+          ]
+        },
+        {
+          "mean_english": "cửa hàng, cửa hiệu",
+          "definition": "a shop",
+          "world_new": [
+            "shop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The post office here is also the village store",
+              "world_new": [
+                "office",
+                "village"
+              ]
+            },
+            {
+              "ex_of_definition": "a department store.",
+              "world_new": [
+                "department"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cất giữ",
+          "definition": "to put into a place for keeping",
+          "world_new": [
+            "place",
+            "keeping"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We stored our furniture in the attic while the tenants used our house.",
+              "world_new": [
+                "our",
+                "furniture",
+                "attic",
+                "our",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tích trữ, để dành",
+          "definition": "to stock (a place etc) with goods etc",
+          "world_new": [
+            "stock",
+            "place",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The museum is stored with interesting exhibits.",
+              "world_new": [
+                "museum",
+                "interesting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What is stored as semantic involves regularities in experience at the time language forms are used, and surely that varies a good deal.",
+    "Secondly, even if it was possible, the performance cost of checking all array stores would be prohibitive.",
+    "The thermal mass in superinsulated housing is not able to store all this solar energy, so the useful solar gains are greatly reduced.",
+    "The search engine's query results deliver identifiers used to retrieve entities and their metadata from the store.",
+    "The movement of this parasitoid over a 5-min period was then recorded and stored as an electronic track (period 1).",
+    "Sufficient practice may enable the poor readers to gradually store the orthographic form into memory and rely on direct recognition at the time of posttesting.",
+    "The place where the travellers had reached the shore was far from where the food supplies were stored.",
+    "Measuring decomposition, nutrient turnover, and stores in plant litter."
+  ],
+  "list_see_also": [
+    "storage",
+    "storehouse",
+    "storekeeper",
+    "in store",
+    "set (great) store by",
+    "store up"
+  ],
+  "list_browse": [
+    "stopper",
+    "stopping",
+    "stopwatch",
+    "storage",
+    "store",
+    "store up",
+    "storehouse",
+    "storekeeper",
+    "storey"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459828_0755671c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459828_eebf983a67_o.png",
+      "id_image": "store_217806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389972_47ebe9a215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389972_624357064b_o.png",
+      "id_image": "store_390717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700129_5f6334d844_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700129_494d9250db_o.png",
+      "id_image": "store_407810"
+    }
+  ]
+}

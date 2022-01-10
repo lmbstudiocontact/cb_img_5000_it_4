@@ -1,0 +1,71 @@
+{
+  "english": "sheep",
+  "phat_am": "ʃiːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con cừu",
+          "definition": "a kind of animal related to the goat, whose flesh is used as food and from whose wool clothing is made",
+          "world_new": [
+            "kind",
+            "animal",
+            "related",
+            "goat",
+            "flesh",
+            "food",
+            "wool",
+            "clothing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flock of sheep.",
+              "world_new": [
+                "flock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sheep-rearing was cheap because commons and wastes were plentiful, and because it provided the shepherd with plenty of free time.",
+    "But since the late 1960s many sheep bones have surfaced in just such sites.",
+    "The state court had upheld the livestock classification on the grounds that it was well-known that sheep, unlike cattle, damaged pasture land.",
+    "The value of circulating eosinophil count as a selection criterion for resistance of sheep to trichostrongyle parasites.",
+    "It will be interesting to find out whether this expression is evolutionarily conserved in other mammalian species (such as in sheep and mice).",
+    "Four groups of four sheep were formed, depending upon the average number of eggs deposited per gram of faeces after the prepatent period.",
+    "Quantitative trait loci for body weight in layers differ from quantitative trait loci specific for antibody responses to sheep red blood cells.",
+    "Molecular and cellular changes associated with maturation and early development of sheep eggs."
+  ],
+  "list_see_also": [
+    "sheepish",
+    "sheepishly",
+    "sheepdog"
+  ],
+  "list_browse": [
+    "sheathe",
+    "shed",
+    "shed light on",
+    "sheen",
+    "sheep",
+    "sheepdog",
+    "sheepish",
+    "sheepishly",
+    "sheer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700959_751b2db023_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700959_5aef93458c_o.png",
+      "id_image": "sheep_124375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345886_6f20920857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345886_7cc7a6b7a2_o.png",
+      "id_image": "sheep_194983"
+    }
+  ]
+}

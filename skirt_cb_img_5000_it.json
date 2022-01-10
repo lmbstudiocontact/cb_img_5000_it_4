@@ -1,0 +1,71 @@
+{
+  "english": "skirt",
+  "phat_am": "skəːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "váy, áo đầm của phụ nữ",
+          "definition": "a garment, worn by women, that hangs from the waist",
+          "world_new": [
+            "garment",
+            "worn",
+            "waist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Was she wearing trousers or a skirt?",
+              "world_new": [
+                "wearing",
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vạt áo",
+          "definition": "the lower part of a dress, coat etc",
+          "world_new": [
+            "lower",
+            "part",
+            "dress",
+            "coat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a dress with a flared skirt.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "skinny-dipping",
+    "skip",
+    "skipper",
+    "skipping rope",
+    "skirt",
+    "skittle",
+    "skittles",
+    "skulk",
+    "skull"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072085_7a51326436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072085_a546f89238_o.png",
+      "id_image": "skirt_215242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690269_35ceeafa10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690269_7e2f933235_o.png",
+      "id_image": "skirt_407323"
+    }
+  ]
+}

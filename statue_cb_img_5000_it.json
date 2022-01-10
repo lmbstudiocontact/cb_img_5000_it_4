@@ -1,0 +1,68 @@
+{
+  "english": "statue",
+  "phat_am": "ˈstӕtjuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức tượng",
+          "definition": "a sculptured figure of a person, animal etc in bronze, stone, wood etc",
+          "world_new": [
+            "figure",
+            "person",
+            "animal",
+            "bronze",
+            "stone",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A statue of Nelson stands at the top of Nelson’s Column",
+              "world_new": [
+                "top"
+              ]
+            },
+            {
+              "ex_of_definition": "The children stood as still as statues."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Small objects, such as pots, seals and statues, had a cultural environment in the ancient past.",
+    "Only the non-architectural finds, such as statues, seals or tablets, which were and are shown in separate rooms, could be rearranged without unjustifiable effort.",
+    "A people therefore remember as well as forget through every representation - such as a statue.",
+    "Much the same could be said of the exotic plants in the parks' inevitable conservatories as well as the statues, grottoes, fountains and pavilions.",
+    "He is thinking with and through his visual and material sources - paintings, prints, statues, magazines, cartoons, drawings, buildings, photographs, and diagrams.",
+    "The town erected a statue of him and named a street and their new basketball gym after him.",
+    "Furthermore, when you examine the statue up close, you immediately recognise i the robust poet immortalised in bronze.",
+    "In some sense, the most vivid element is that of the voice which is found to be, as if petrified, turned into a statue."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "statistical",
+    "statistically",
+    "statistician",
+    "statistics",
+    "statue",
+    "stature",
+    "status",
+    "status symbol",
+    "statute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085665_c8463b6ecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085665_36e24b403a_o.png",
+      "id_image": "statue_1193517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703079_a87972ce68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703079_885f36d406_o.png",
+      "id_image": "statue_1354633"
+    }
+  ]
+}

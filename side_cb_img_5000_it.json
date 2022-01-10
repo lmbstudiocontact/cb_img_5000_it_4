@@ -1,0 +1,273 @@
+{
+  "english": "side",
+  "phat_am": "said",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mép, lề, bờ, ranh giới",
+          "definition": "(the ground beside) an edge, border or boundary line",
+          "world_new": [
+            "ground",
+            "edge",
+            "border",
+            "boundary",
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked round the side of the field",
+              "world_new": [
+                "field"
+              ]
+            },
+            {
+              "ex_of_definition": "He lives on the same side of the street as me.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt",
+          "definition": "a surface of something",
+          "world_new": [
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A cube has six sides.",
+              "world_new": [
+                "cube"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cạnh, bên cạnh",
+          "definition": "one of the two of such surfaces which are not the top, bottom, front, or back",
+          "world_new": [
+            "top",
+            "bottom",
+            "front"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a label on the side of the box.",
+              "world_new": [
+                "label",
+                "box"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt",
+          "definition": "either surface of a piece of paper, cloth etc",
+          "world_new": [
+            "surface",
+            "piece",
+            "paper",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t waste paper – write on both sides!",
+              "world_new": [
+                "waste",
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sườn",
+          "definition": "the right or left part of the body",
+          "world_new": [
+            "right",
+            "left",
+            "part",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve got a pain in my side.",
+              "world_new": [
+                "pain",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phía, bên",
+          "definition": "a part or division of a town etc",
+          "world_new": [
+            "part",
+            "division",
+            "town"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives on the north side of the town.",
+              "world_new": [
+                "north",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sườn, vách",
+          "definition": "a slope (of a hill)",
+          "world_new": [
+            "slope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mountainside.",
+              "world_new": [
+                "mountainside"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khía cạnh",
+          "definition": "a point of view; an aspect",
+          "world_new": [
+            "point",
+            "aspect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must look at all sides of the problem.",
+              "world_new": [
+                "look",
+                "problem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phe, phái",
+          "definition": "a party, team etc which is opposing another",
+          "world_new": [
+            "party",
+            "team",
+            "opposing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whose side are you on?"
+            },
+            {
+              "ex_of_definition": "Which side is winning?",
+              "world_new": [
+                "winning"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phụ, ít quan trọng",
+          "definition": "additional, but less important",
+          "world_new": [
+            "additional",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a side issue.",
+              "world_new": [
+                "issue"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "bờ, rìa, mép",
+          "definition": "(the ground etc beside) the edge of something",
+          "world_new": [
+            "ground",
+            "edge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked along the dockside/quayside"
+            },
+            {
+              "ex_of_definition": "a roadside café.",
+              "world_new": [
+                "roadside",
+                "café"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Since neither type of engineering can be undertaken without involving the other, strategies may focus on one side, but involve the other too.",
+    "Running vertically down the centre of each door is an expansion slot between the two sides of the panel, producing a clear vertical stripe.",
+    "These critical trajectories approach at zero angle and from the side opposite the approach of the hinge points.",
+    "Likewise, we can reverse the roles of the left- and right-hand sides.",
+    "The side-effects of disulfiram are not commonly a problem, but may include peripheral neuropathy, confusional states and, rarely, psychosis.",
+    "Samples were taken by horizon from three sides of the pit walls for laboratory analyses.",
+    "It is assumed that the peg is infinitely rigid, and thus, deformation appears on the cart side only.",
+    "First, because the left-hand side and the right-hand side of a rule could have different types in the same context."
+  ],
+  "list_see_also": [
+    "-side",
+    "-sided",
+    "sidelong",
+    "sideways",
+    "sideboard",
+    "sideburns",
+    "side effect",
+    "sidelight",
+    "sideline",
+    "sidelines",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "sickeningly",
+    "sickle",
+    "sickly",
+    "sickness",
+    "side",
+    "side by side",
+    "side effect",
+    "side road",
+    "side street"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455263_a844ccc226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455263_fac0d0dc7b_o.png",
+      "id_image": "sideboard_1691582"
+    }
+  ]
+}

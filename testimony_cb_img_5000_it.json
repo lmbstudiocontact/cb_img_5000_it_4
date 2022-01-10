@@ -1,0 +1,65 @@
+{
+  "english": "testimony",
+  "phat_am": "ˈtestiməni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lời chứng, lời khai",
+          "definition": "the statement(s) made by a person or people who testify in a law-court; evidence",
+          "world_new": [
+            "person",
+            "people",
+            "testify",
+            "evidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The jury listened to his testimony.",
+              "world_new": [
+                "jury"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The soldiers' testimonies, however, conveyed a deep sense of disappointment and frustration over their failure to fulfil their imagined sense of themselves as soldiers.",
+    "The social importance of periodic life-cycle celebrations in particular is a recurrent theme in the collected testimonies.",
+    "Reports of unknown philosophers from far afield needed to be believed as trustworthy, as they were the testimonies of gentlemen.",
+    "The statistics of admissions in the government hospitals appear to confirm such testimonies.",
+    "Unlike the other testimonies, the final survey results are not a reaction to the model.",
+    "While the archival data is rich on the pioneer schools, this is not the case with oral testimonies.",
+    "Combined, we believe that testimonies and social controls provide sufficient evidence to verify the model.",
+    "A recurrent theme in oral testimonies is the use of alliances of protection by weaker leaders who sought the support of more powerful neighbors."
+  ],
+  "list_see_also": [
+    "testimonial"
+  ],
+  "list_browse": [
+    "testament",
+    "testicle",
+    "testify",
+    "testimonial",
+    "testimony",
+    "testosterone",
+    "tetanus",
+    "tether",
+    "text"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088415_377d004d65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088415_ecbd9d9e01_o.png",
+      "id_image": "testimony_4795898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705714_4e358f0246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705714_8f08554925_o.png",
+      "id_image": "testimony_6174438"
+    }
+  ]
+}

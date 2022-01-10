@@ -1,0 +1,75 @@
+{
+  "english": "slime",
+  "phat_am": "slaim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất lỏng đặc, chất nhờn",
+          "definition": "thin, slippery mud or other matter that is soft, sticky and half-liquid",
+          "world_new": [
+            "thin",
+            "slippery",
+            "mud",
+            "matter",
+            "soft",
+            "sticky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a layer of slime at the bottom of the pond.",
+              "world_new": [
+                "layer",
+                "bottom",
+                "pond"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Throughout the winter these are areas of green slime.",
+    "In the main they were aesthetically crude constructions, corroded in their slime green or battleship grey paint.",
+    "I was sorry to hear him using the phrase, \"trail of slime\".",
+    "They get covered in slime from the fish and are liable to slip off and get lost in the course of his work.",
+    "The occurrence of biofilms (slime-forming microbes) is a major problem in the sanitation and disinfection of process equipment.",
+    "Our approach was designed to enhance the removal of slime on closed surfaces in order to assess the effectiveness of sanitation in food plant.",
+    "Hurley cites the slime mold as a biological example of collective agency.",
+    "The soot and slime, the slagheaps and the sewer rivers which disfigure so much of our country were applauded as a sign of our prosperity."
+  ],
+  "list_see_also": [
+    "slimy",
+    "sliminess"
+  ],
+  "list_browse": [
+    "slighting",
+    "slightingly",
+    "slightly",
+    "slim",
+    "slime",
+    "sliminess",
+    "slimming",
+    "slimness",
+    "slimy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687979_b45d50da50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687979_1700004ca6_o.png",
+      "id_image": "slime_2213618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332946_6b75089e14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332946_703128acfe_o.png",
+      "id_image": "slime_5507660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447978_23b474dc19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447978_0ea0ff1b2d_o.png",
+      "id_image": "slime_5507730"
+    }
+  ]
+}

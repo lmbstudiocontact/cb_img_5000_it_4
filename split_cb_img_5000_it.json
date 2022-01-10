@@ -1,0 +1,117 @@
+{
+  "english": "split",
+  "phat_am": "split",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bửa, tách",
+          "definition": "to cut or (cause to) break lengthwise",
+          "world_new": [
+            "cut",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used an axe/ax to split the firewood",
+              "world_new": [
+                "firewood"
+              ]
+            },
+            {
+              "ex_of_definition": "The skirt split all the way down the back seam.",
+              "world_new": [
+                "skirt",
+                "seam"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chia ra từng phần",
+          "definition": "to divide or (cause to) disagree",
+          "world_new": [
+            "divide",
+            "disagree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dispute split the workers into two opposing groups.",
+              "world_new": [
+                "dispute",
+                "opposing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết rạn, rách",
+          "definition": "a crack or break",
+          "world_new": [
+            "crack",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a split in one of the sides of the cardboard box.",
+              "world_new": [
+                "cardboard",
+                "box"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are also many areas where people take sides or can't see what the problem is - like avoiding generic \"he\" or splitting infinitives.",
+    "The torus splits into three invariant sets on which the dynamics are quite different.",
+    "Arbitrarily splitting the data into halves was not uncommon.",
+    "The latter work handles more general queries and achieves completeness with a certain restriction on types that ensures splitting to be finite.",
+    "The king humoured him, and was amazed when the old man succeeded - not only in bringing down the mango, but in splitting it in two.",
+    "First, defining recursive data types by splitting them into two levels: a structure defining level, and a recursive knot-tying level.",
+    "We consider splitting the critical path at various points.",
+    "On occasions, this bound might still be somewhat conservative, for example if the proposition tested is a tautology or depends on previous case splits."
+  ],
+  "list_see_also": [
+    "split-level",
+    "split second",
+    "splitting headache",
+    "the splits"
+  ],
+  "list_browse": [
+    "splendidness",
+    "splendour",
+    "splint",
+    "splinter",
+    "split",
+    "split hairs",
+    "split second",
+    "split-level",
+    "splitting headache"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398227_efa443f9c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398227_d7d12b8f83_o.png",
+      "id_image": "split_3557652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468018_df93172ef6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468018_3ac308356b_o.png",
+      "id_image": "split_6026427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468063_7c5c7ee72c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468063_6873369fa5_o.png",
+      "id_image": "split_868666"
+    }
+  ]
+}

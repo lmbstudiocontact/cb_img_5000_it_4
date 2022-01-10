@@ -1,0 +1,72 @@
+{
+  "english": "streamer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biểu ngữ, cờ giải",
+          "definition": "a long narrow banner, or narrow paper ribbon",
+          "world_new": [
+            "long",
+            "narrow",
+            "banner",
+            "narrow",
+            "paper",
+            "ribbon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The aeroplane dragged a streamer that read ‘Come to the Festival’",
+              "world_new": [
+                "aeroplane",
+                "read"
+              ]
+            },
+            {
+              "ex_of_definition": "The classroom was decorated with balloons and streamers.",
+              "world_new": [
+                "classroom"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the nonlinear regime, magnetic shearing decorrelates vortices and limits the growth of radial streamer structures.",
+    "The dynamics are tightly linked to a complex structure formation such as a streamer and sprite.",
+    "Finally, our fluid simulations give an electron turbulent transport much lower when compared with gyrokinetic simulations, the presence of streamers notwithstanding.",
+    "This, together with quadrature, leads to an explicit formula for the calculation of the streamer that does not require any truncation of the series.",
+    "After a long time interval, streamers are slowly developed from a tiny ionization spot that is initially set.",
+    "The team also used long streamers to display the trajectories of selected air particles inside the storm.",
+    "A tradition of decorating one's home, if one has a son, with a display of dolls and carp streamers.",
+    "The saturation amplitude decreases as increasing the streamer intensity or/and decreasing the real frequency."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stray",
+    "streak",
+    "streaky",
+    "stream",
+    "streamer",
+    "streamlined",
+    "street",
+    "street directory",
+    "streetcar"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080685_10c47c056a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080685_11a1d6f370_o.png",
+      "id_image": "streamer_2009726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080650_0ff3c05b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080650_018ffc41ae_o.png",
+      "id_image": "streamer_2201264"
+    }
+  ]
+}

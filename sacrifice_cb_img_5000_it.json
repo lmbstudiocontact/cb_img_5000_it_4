@@ -1,0 +1,139 @@
+{
+  "english": "sacrifice",
+  "phat_am": "ˈsӕkrifais",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cúng tế, sự hi sinh",
+          "definition": "the act of offering something (eg an animal that is specially killed) to a god",
+          "world_new": [
+            "act",
+            "offering",
+            "animal",
+            "specially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A lamb was offered in sacrifice.",
+              "world_new": [
+                "lamb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hi sinh",
+          "definition": "the thing that is offered in this way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A slaughtered lamb was offered as a sacrifice.",
+              "world_new": [
+                "lamb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hi sinh",
+          "definition": "something of value given away or up in order to gain something more important or to benefit another person",
+          "world_new": [
+            "value",
+            "order",
+            "gain",
+            "important",
+            "benefit",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His parents made sacrifices to pay for his education.",
+              "world_new": [
+                "pay",
+                "education"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cúng",
+          "definition": "to offer as a sacrifice",
+          "world_new": [
+            "offer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sacrificed a sheep in the temple.",
+              "world_new": [
+                "sheep",
+                "temple"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hi sinh",
+          "definition": "to give away etc for the sake of something or someone else",
+          "world_new": [
+            "sake",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sacrificed his life trying to save the children from the burning house.",
+              "world_new": [
+                "life",
+                "trying",
+                "save",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Productoriented architecture students consider that anything is worth sacrificing to achieve the object they want.",
+    "Ridgeologists consider this position unsci atific on the ground that it sacrifices knowledge for the sake of certainty.",
+    "In many cases believers are not sacrificing at all, but simply (and rationally) exchanging goods or labor for desired services.",
+    "Such women should have refrained from extra-pair mating, sacrificing some genetic benefits they might otherwise have obtained.",
+    "Utilitarianism does not, therefore, do justice to what is lost for the individual who sacrifices her own nonmoral commitments.",
+    "However, perhaps he sacrifices too much by going along with the assumption that ' religious ' experiences occurring in the context of brain pathology are unreliable.",
+    "There is still appropriate attention to efficiency without sacrificing clarity and important functional programming transformation techniques are used to improve efficiency where it is important.",
+    "Excepting perhaps the fetuses that are aborted as a result of such a program, no one would be asked to make sacrifices."
+  ],
+  "list_see_also": [
+    "sacrificial",
+    "sacrificially"
+  ],
+  "list_browse": [
+    "sacrament",
+    "sacramental",
+    "sacred",
+    "sacredness",
+    "sacrifice",
+    "sacrificial",
+    "sacrificially",
+    "sacrilege",
+    "sacrilegious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452813_1656d3aff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452813_a2ebcf8229_o.png",
+      "id_image": "sacrifice_5521210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382887_43be83897c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382887_1dcbe08394_o.png",
+      "id_image": "sacrifice_5521294"
+    }
+  ]
+}

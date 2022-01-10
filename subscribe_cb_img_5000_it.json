@@ -1,0 +1,93 @@
+{
+  "english": "subscribe",
+  "phat_am": "səbˈskraib",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt mua dài hạn",
+          "definition": "(with to) to promise to receive and pay for a series of issues of (a magazine etc)",
+          "world_new": [
+            "promise",
+            "receive",
+            "pay",
+            "series",
+            "magazine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve been subscribing to that magazine for four years.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quyên tiền, góp tiền",
+          "definition": "to give money, with other people, to a charity or other cause",
+          "world_new": [
+            "money",
+            "people",
+            "charity",
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He subscribes to a lot of charities"
+            },
+            {
+              "ex_of_definition": "We each subscribed $1 towards the present.",
+              "world_new": [
+                "present"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Would you consider subscribing to both seasons?",
+    "What action has been taken in the past year by the international consortium to which this country subscribes?",
+    "However, we hesitate in subscribing to this line of reasoning.",
+    "Then we have the concept of a permanent international court which is subscribed to by over 100 countries.",
+    "All this money has to be found, in addition to the money subscribed for shares, whether by premium or not.",
+    "Money has been subscribed for this hospital which consists of only 24 beds and one operating theatre.",
+    "In their efforts to improve the sensory experiences of the poor, missionary aesthetes subscribed to a liberatory aesthetic rather than a decadent one.",
+    "They all subscribed to these values, although to varying degrees."
+  ],
+  "list_see_also": [
+    "subscriber",
+    "subscription"
+  ],
+  "list_browse": [
+    "submit",
+    "subnormal",
+    "subordinate",
+    "subordinate clause",
+    "subscribe",
+    "subscriber",
+    "subscription",
+    "subsequent",
+    "subsequent to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077360_5351540c27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077360_f0676bc91c_o.png",
+      "id_image": "subscribe_2033254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454963_64b35333cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454963_31232b6155_o.png",
+      "id_image": "subscribe_4659043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695319_852a21fff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695319_9a6947aaca_o.png",
+      "id_image": "subscribe_5638277"
+    }
+  ]
+}

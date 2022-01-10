@@ -1,0 +1,94 @@
+{
+  "english": "sieve",
+  "phat_am": "siv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái giần, cái sàng",
+          "definition": "a container with a bottom full of very small holes, used to separate liquids from solids or small, fine pieces from larger ones etc",
+          "world_new": [
+            "container",
+            "bottom",
+            "full",
+            "small",
+            "separate",
+            "small",
+            "fine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He poured the soup through a sieve to remove all the lumps.",
+              "world_new": [
+                "soup",
+                "remove"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giần, sàng",
+          "definition": "to pass (something) through a sieve",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Prospectors sieve the water for tiny pieces of gold.",
+              "world_new": [
+                "water",
+                "tiny",
+                "gold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To extract seeds, we thoroughly mixed each sample with water and rinsed it through sieves with decreasing mesh width (4, 2, 1 mm).",
+    "Ants were baited with milled rice that was sieved into five particle sizes: < 0.2, 0.2-0.5, 0.5-0.8, 0.8-1.5 and 1.5-2.5 mm.",
+    "At examination, intestines were opened along their lengths and the contents collected over a series of staked sieves with pore sizes of 2 mm, 1 mm and 0.5 mm.",
+    "Extraction of the macroscopic plant remains involved the wet sieving of 500 cm3 of sediment through a nest of sieves down to 150 m mesh size.",
+    "At the very least it might refer to multiple staves; as another possibility, we may need two sieves, one for tonal and the other for mensural behaviour.",
+    "At planting, the seeds were mixed with finely sieved sand in the ratio of 1:99 (seed:sand) by weight.",
+    "The sand was sieved and washed, and the fraction retained between sieves of 160 m and 425 m pore size was used.",
+    "A certain number of these resting larvae may be induced to pupate by sieving and addition of fresh food, but some resist all stimulation and die without any further development."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sideways",
+    "sidle",
+    "siege",
+    "siesta",
+    "sieve",
+    "sift",
+    "sigh",
+    "sight",
+    "sightseeing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077550_b0df889205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077550_ab59c5b192_o.png",
+      "id_image": "sieve_1027108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340231_04653ea4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340231_ba3c9a7ef1_o.png",
+      "id_image": "sieve_3690118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455103_87085047ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455103_fa3e330b88_o.png",
+      "id_image": "sieve_5900472"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "statistics",
+  "phat_am": "stəˈtistiks",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "số liệu thống kê",
+          "definition": "figures giving information about something",
+          "world_new": [
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were 900 deaths and 20,000 injuries on the roads last year, but the statistics for the previous year were worse.",
+              "world_new": [
+                "year",
+                "previous",
+                "year",
+                "worse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "khoa học thống kê",
+          "definition": "the study of such figures.",
+          "world_new": [
+            "study"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "statistical",
+    "statistically",
+    "statistician"
+  ],
+  "list_browse": [
+    "stationery",
+    "statistical",
+    "statistically",
+    "statistician",
+    "statistics",
+    "statue",
+    "stature",
+    "status",
+    "status symbol"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348451_b6cc141a1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348451_35f252b826_o.png",
+      "id_image": "statistics_1238629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463238_0787a2963c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463238_4551d295bb_o.png",
+      "id_image": "statistics_1580760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703179_d381b5c82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703179_a5fb4d3c31_o.png",
+      "id_image": "statistics_326923"
+    }
+  ]
+}

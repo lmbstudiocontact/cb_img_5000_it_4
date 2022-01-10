@@ -1,0 +1,76 @@
+{
+  "english": "trend",
+  "phat_am": "trend",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuynh hướng",
+          "definition": "a general direction or tendency",
+          "world_new": [
+            "general",
+            "direction",
+            "tendency"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She follows all the latest trends in fashion",
+              "world_new": [
+                "fashion"
+              ]
+            },
+            {
+              "ex_of_definition": "an upward trend in share prices.",
+              "world_new": [
+                "upward",
+                "share"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At best, turnover rates better represent trends over time and must be used with other sources, ranging from managerial testimony to rates of worker retention.",
+    "Furthermore, earlier marriage reinforces this trend, because graduates will be spending a greater proportion of their childbearing years in marriage.",
+    "Finally, we found a modest time trend towards lower prices, but the trend was not statistically significant.",
+    "We conclude that a purely statistical analysis of the trend properties of economic time series is not sufficient.",
+    "However, even in this context, patrician fathers were dismayed to see the lengths to which their sons took this trend.",
+    "The intention of a quick perusal of such a table is to observe trends, not attempt to produce statistical evidence.",
+    "If anything, during the past few years the trend has been towards the recentralisation of wage fixing.",
+    "The predicted stable stage distributions present the same trends (within savanna types, and during the two yearly transitions) in comparison to the observed distributions."
+  ],
+  "list_see_also": [
+    "trendy"
+  ],
+  "list_browse": [
+    "tremendous",
+    "tremendously",
+    "tremor",
+    "trench",
+    "trend",
+    "trendy",
+    "trespass",
+    "trespasser",
+    "trestle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449758_fbc6308eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449758_5480c08cec_o.png",
+      "id_image": "trend_2015802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379622_a44c5c3f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379622_a8e5815501_o.png",
+      "id_image": "trend_2132635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449783_3cea78178b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449783_ca7c6ceb47_o.png",
+      "id_image": "trend_992854"
+    }
+  ]
+}

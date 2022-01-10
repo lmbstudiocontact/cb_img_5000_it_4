@@ -1,0 +1,74 @@
+{
+  "english": "sanitary",
+  "phat_am": "ˈsӕnitəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vệ sinh",
+          "definition": "of or concerning conditions or arrangements that encourage good health.",
+          "world_new": [
+            "concerning",
+            "arrangements",
+            "encourage",
+            "health"
+          ]
+        },
+        {
+          "mean_english": "thuộc vệ sinh",
+          "definition": "free from dirt and germs",
+          "world_new": [
+            "free",
+            "dirt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The conditions in that camp are not sanitary.",
+              "world_new": [
+                "camp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Almost any reformer could find a reason for being a sanitary reformer too.",
+    "On the whole, financial and administrative factors constrained the development of sanitary and public health services on estates.",
+    "In the circumstances, composing a sanitary profile of national scale appears an enormous undertaking.",
+    "In practice, moreover, sanitary improvements contributed to the upheaval of the city's topography and its reconstruction on a grander scale.",
+    "Even the municipal authorities believed that health officials were too severe in the implementation of sanitary laws and that such severity was not justified.",
+    "One of the first things people mention about a city they have just visited is their impression of its sanitary conditions.",
+    "In that process sanitary arguments served at best to support a case made primarily for economic reasons.",
+    "However, sanitary reforms occupied a relatively low place in the agenda of the colonial state during the late nineteenth century."
+  ],
+  "list_see_also": [
+    "sanitation",
+    "sanitary towel"
+  ],
+  "list_browse": [
+    "sandy",
+    "sane",
+    "sanely",
+    "sanitarium",
+    "sanitary",
+    "sanitary towel",
+    "sanitation",
+    "sanity",
+    "Santa Claus"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334796_4b28ebdb6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334796_f47b61ed69_o.png",
+      "id_image": "sanitary_3959112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071770_0dcab9768b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071770_9f58fa8469_o.png",
+      "id_image": "sanitary_4698505"
+    }
+  ]
+}

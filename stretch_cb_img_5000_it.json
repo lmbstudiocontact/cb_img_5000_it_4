@@ -1,0 +1,193 @@
+{
+  "english": "stretch",
+  "phat_am": "stretʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo dài ra, duỗi ra",
+          "definition": "to make or become longer or wider especially by pulling or by being pulled",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stretched the piece of elastic to its fullest extent",
+              "world_new": [
+                "piece",
+                "elastic",
+                "its",
+                "extent"
+              ]
+            },
+            {
+              "ex_of_definition": "His scarf was so long that it could stretch right across the room",
+              "world_new": [
+                "scarf",
+                "long",
+                "right",
+                "across",
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "This material stretches",
+              "world_new": [
+                "material"
+              ]
+            },
+            {
+              "ex_of_definition": "The dog yawned and stretched (itself)",
+              "world_new": [
+                "dog"
+              ]
+            },
+            {
+              "ex_of_definition": "He stretched (his arm/hand) up as far as he could, but still could not reach the shelf",
+              "world_new": [
+                "far",
+                "reach",
+                "shelf"
+              ]
+            },
+            {
+              "ex_of_definition": "Ask someone to pass you the jam instead of stretching across the table for it.",
+              "world_new": [
+                "pass",
+                "jam",
+                "instead",
+                "across",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trải ra, chạy dài ra",
+          "definition": "(of land etc) to extend",
+          "world_new": [
+            "land",
+            "extend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plain stretched ahead of them for miles.",
+              "world_new": [
+                "plain",
+                "ahead"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự duỗi ra, sự bị kéo dài ra",
+          "definition": "an act of stretching or state of being stretched",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got out of bed and had a good stretch.",
+              "world_new": [
+                "bed"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng, thời gian kéo dài liên tục",
+          "definition": "a continuous extent, of eg a type of country, or of time",
+          "world_new": [
+            "continuous",
+            "extent",
+            "type",
+            "country",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pretty stretch of country",
+              "world_new": [
+                "pretty",
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "a stretch of bad road",
+              "world_new": [
+                "bad",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "a stretch of twenty years."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The same perception differences apply with commonly used procedures in composition such as transposition, stretching or superposition of sounds.",
+    "Large valvular annuluses are generally caused by increased volume flow through the valve or ventricular dilatation stretching the annulus.",
+    "She would rub my back for long stretches of time.",
+    "Note that the curvature of the surface along the twisting coordinate changes as a function of the stretching coordinate.",
+    "First, the fast electron duration was stretched by a factor of five.",
+    "The stretching lineation is associated with the formation of early ductile, high-temperature-type folds.",
+    "Perception of what stands before us is instantaneously global but is also slow and successive, immediate but also stretched out.",
+    "The trends of mineral stretching lineations in these protophyllonites are identical to those in the phyllonites suggesting a similar deformational regime for both units."
+  ],
+  "list_see_also": [
+    "stretcher",
+    "stretchy",
+    "at a stretch",
+    "be at full stretch",
+    "stretch one’s legs",
+    "stretch out"
+  ],
+  "list_browse": [
+    "stress",
+    "stress mark",
+    "stressed",
+    "stressful",
+    "stretch",
+    "stretch one’s legs",
+    "stretch out",
+    "stretcher",
+    "stretchy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342656_428649be3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342656_5f407fce8c_o.png",
+      "id_image": "stretch_1140864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080120_efa1605a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080120_57b348c20c_o.png",
+      "id_image": "stretch_4601186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080085_56eac5c4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080085_524f92ea0c_o.png",
+      "id_image": "stretch_4760683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387557_ba4a3b0476_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387557_7d2de21f29_o.png",
+      "id_image": "stretch_5375386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342481_b0c5c412b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342481_0933741401_o.png",
+      "id_image": "stretch_5830739"
+    }
+  ]
+}

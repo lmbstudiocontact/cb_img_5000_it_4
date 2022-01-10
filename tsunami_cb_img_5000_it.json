@@ -1,0 +1,74 @@
+{
+  "english": "tsunami",
+  "phat_am": "(British) tsuˈnæmi; (American) tsuˈnaːmiː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sóng thần",
+          "definition": "a very large sea wave, caused by an underwater earthquake or a volcanic eruption, that can cause a lot of destruction when it hits land",
+          "world_new": [
+            "large",
+            "sea",
+            "wave",
+            "underwater",
+            "earthquake",
+            "volcanic",
+            "eruption",
+            "cause",
+            "destruction",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A 100-foot tsunami struck the area of Scotch Cap.",
+              "world_new": [
+                "area"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Several facets of the mathematical problem are rather fascinating but the results do suggest that scattering is not the most important part of the tsunami propagation.",
+    "Well, the worst always happens, the earthquake plus the tsunami, this was, of course, the worst scenario.",
+    "This would simplify the relief effort and contribute to the development of the local economies of the countries hit by the tsunami.",
+    "Volcanic islands, whether they erupt or not, now seem to have been responsible for sea-level-linked tsunamis vastly larger than any caused by earthquakes.",
+    "The refractive influence on tsunami run-up of the offshore bottom topography of islands is analyzed.",
+    "Only when close to shore do tsunami sometimes assume such shapes.",
+    "The most controversial section is that dealing with postulated tsunami-generated coastal forms, especially scoured bedrock surfaces.",
+    "The disastrous effects of the tsunami are limited to coastal regions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "try out",
+    "trying",
+    "tsar",
+    "tsp",
+    "tsunami",
+    "tub",
+    "tuba",
+    "tubby",
+    "tube"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445563_c97e30f156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445563_ff20decffd_o.png",
+      "id_image": "tsunami_2640464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330571_72866d062c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330571_20f2e5943a_o.png",
+      "id_image": "tsunami_3937371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330656_2a1278e248_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330656_4e13e2e7e2_o.png",
+      "id_image": "tsunami_491238"
+    }
+  ]
+}

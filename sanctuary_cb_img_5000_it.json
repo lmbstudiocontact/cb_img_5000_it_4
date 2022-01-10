@@ -1,0 +1,86 @@
+{
+  "english": "sanctuary",
+  "phat_am": "ˈsӕŋktʃuəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nơi linh thiêng",
+          "definition": "a holy or sacred place",
+          "world_new": [
+            "holy",
+            "sacred",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the sanctuary of the god Apollo."
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi trú ẩn",
+          "definition": "a place of safety from eg arrest",
+          "world_new": [
+            "place",
+            "safety",
+            "arrest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In earlier times a criminal could use a church as a sanctuary.",
+              "world_new": [
+                "times",
+                "criminal",
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khu bảo tồn động vật hoang dã",
+          "definition": "an area of land in which the killing of wild animals etc is forbidden",
+          "world_new": [
+            "area",
+            "land",
+            "wild",
+            "forbidden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bird sanctuary.",
+              "world_new": [
+                "bird"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sanctimonious",
+    "sanctimoniously",
+    "sanctimoniousness",
+    "sanction",
+    "sanctuary",
+    "sand",
+    "sandal",
+    "sandbank",
+    "sandcastle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690599_38cb44c3b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690599_2afe1a87e7_o.png",
+      "id_image": "sanctuary_3498689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450358_de6f65d09e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450358_2f97f07828_o.png",
+      "id_image": "sanctuary_4470253"
+    }
+  ]
+}

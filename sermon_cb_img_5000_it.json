@@ -1,0 +1,50 @@
+{
+  "english": "sermon",
+  "phat_am": "ˈsəːmən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài thuyết giáo",
+          "definition": "a serious talk, especially one given in church based on or discussing a passage in the Bible",
+          "world_new": [
+            "serious",
+            "talk",
+            "church",
+            "passage",
+            "Bible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The text for this morning’s sermon is taken from the fifth chapter of Exodus.",
+              "world_new": [
+                "text",
+                "chapter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "series",
+    "serious",
+    "seriously",
+    "seriousness",
+    "sermon",
+    "serpent",
+    "serrated",
+    "serum",
+    "servant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394347_9244059bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394347_4f2222d52f_o.png",
+      "id_image": "sermon_1699163"
+    }
+  ]
+}

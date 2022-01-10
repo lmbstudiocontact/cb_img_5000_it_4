@@ -1,0 +1,57 @@
+{
+  "english": "saline",
+  "phat_am": "(British) ˈseilain; (American) ˈseiliːn, ˈseilain",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có muối",
+          "definition": "containing salt",
+          "world_new": [
+            "salt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a saline solution.",
+              "world_new": [
+                "solution"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "salinity"
+  ],
+  "list_browse": [
+    "salesclerk",
+    "salesman",
+    "salesmanship",
+    "salient",
+    "saline",
+    "salinity",
+    "saliva",
+    "salivary gland",
+    "salivate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073335_a7a4766e1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073335_cf15760820_o.png",
+      "id_image": "saline_2941513"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691714_9797c0998e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691714_56da76f613_o.png",
+      "id_image": "saline_469426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073375_66657408ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073375_3606c121fb_o.png",
+      "id_image": "saline_813604"
+    }
+  ]
+}

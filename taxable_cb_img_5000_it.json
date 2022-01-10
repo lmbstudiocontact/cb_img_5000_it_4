@@ -1,0 +1,52 @@
+{
+  "english": "taxable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể phải đóng thuế được",
+          "definition": "liable to be taxed",
+          "world_new": [
+            "liable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "taxable income/goods."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If, on the other hand, the person waits until vesting, she must pay income taxes on the $100 before placing it in the taxable account.",
+    "He recommends a taxable universal pension from age 65 years, associated with increased tax on larger superannuation benefits.",
+    "It includes types of taxation and categories of taxable income and deductible allowances, etc., for income tax purposes.",
+    "Even more, the nontaxable sector may have had displayed a different behaviour than the taxable sector.",
+    "It becomes a taxable benefit, but the employee continues to benefit from the employer contributions that would otherwise be lost.",
+    "The taxable income of the father (in most cases) was divided by a quotient arrived at according to the size of the family.",
+    "We have data on individuals' taxable income in 1998.",
+    "In terms of taxable wealth, the three leading towns again dominated the area."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tawny",
+    "tax",
+    "tax (someone) with",
+    "tax-free",
+    "taxable",
+    "taxation",
+    "taxi",
+    "taxi rank",
+    "taxidermist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091360_a6b69e017e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091360_89baf36040_o.png",
+      "id_image": "taxable_2170995"
+    }
+  ]
+}

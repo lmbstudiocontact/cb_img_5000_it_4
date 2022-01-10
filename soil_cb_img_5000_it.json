@@ -1,0 +1,99 @@
+{
+  "english": "soil",
+  "phat_am": "soil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đất trồng",
+          "definition": "the upper layer of the earth, in which plants grow",
+          "world_new": [
+            "upper",
+            "layer",
+            "earth",
+            "grow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to plant seeds in the soil",
+              "world_new": [
+                "plant"
+              ]
+            },
+            {
+              "ex_of_definition": "a handful of soil.",
+              "world_new": [
+                "handful"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm bẩn, làm ô nhiễm",
+          "definition": "to dirty or stain",
+          "world_new": [
+            "dirty",
+            "stain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t soil your dress with these dusty books!",
+              "world_new": [
+                "your",
+                "dress",
+                "dusty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Large concentrations of polyaromatic compounds, many of which are known carcinogens, have spilled into the soils at the historic fuel depot areas.",
+    "Compost-treated soils exhibited higher organic carbon content than inorganically fertilized soils, throughout the experimental period.",
+    "Both soils were submitted to penguins guano during the summer season.",
+    "Not all soils are susceptible to frost heaving.",
+    "However, minimum or zero tillage would not be suitable for soils that are susceptible to compaction, and for highly degraded soils.",
+    "Managing soils for sustainable production of food and industrial crops.",
+    "Reduced nitrate leaching and enhanced denitifer activity and efficiency in organically fertilized soils.",
+    "In frozen soils, this influence seems to be magnified by the added presence of pore ice."
+  ],
+  "list_see_also": [
+    "soil erosion"
+  ],
+  "list_browse": [
+    "software",
+    "softwood",
+    "sogginess",
+    "soggy",
+    "soil",
+    "soil erosion",
+    "solar",
+    "solar energy",
+    "solar flare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063795_f493d473bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063795_a6f5de92ef_o.png",
+      "id_image": "soil_2458067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326871_121b33ca15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326871_7dcdbe7bfa_o.png",
+      "id_image": "soil_3382647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441858_1b1f6830c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441858_949e49d453_o.png",
+      "id_image": "soil_5016674"
+    }
+  ]
+}

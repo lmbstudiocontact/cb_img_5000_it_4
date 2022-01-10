@@ -1,0 +1,84 @@
+{
+  "english": "spinach",
+  "phat_am": "ˈspinidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây rau bina",
+          "definition": "a kind of plant whose young leaves are eaten as a vegetable",
+          "world_new": [
+            "kind",
+            "plant",
+            "young",
+            "vegetable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He grows spinach in his garden.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rau bina",
+          "definition": "the leaves as food",
+          "world_new": [
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had steak and spinach for dinner.",
+              "world_new": [
+                "steak",
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Common species of vegetables cultivated on the plots were tomato, spinach, potato, sweet potato and chillies.",
+    "Crystal structures of two functionally different thioredoxins in spinach chloroplasts.",
+    "Are we going to stamp eggs, or mark spinach, asparagus, and other things of the sort?",
+    "The leaves are cooked and used like spinach.",
+    "Moreover, carrots and spinach are also cultivated in this part of the farm.",
+    "The lysine-sensitive isoenzyme of aspartate kinase from spinach leaves has a subunit composition of 4 large and 4 small subunits.",
+    "Variations can include black olives or pepperoni with the spinach.",
+    "Green leafy vegetables such as spinach are also rich in magnesium as they contain chlorophyll."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spin",
+    "spin doctor",
+    "spin out",
+    "spin-drier",
+    "spinach",
+    "spinal",
+    "spinal column",
+    "spinal cord",
+    "spindle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468658_3c5bdcda58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468658_1b40acfb41_o.png",
+      "id_image": "spinach_2358693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091260_12ddae2f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091260_340d7caa12_o.png",
+      "id_image": "spinach_4278326"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353896_fb52278c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353896_e5dc675f99_o.png",
+      "id_image": "spinach_4463850"
+    }
+  ]
+}

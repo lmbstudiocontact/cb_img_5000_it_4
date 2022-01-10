@@ -1,0 +1,80 @@
+{
+  "english": "tension",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự căng",
+          "definition": "the state of being stretched, or the degree to which something is stretched",
+          "world_new": [
+            "state",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the tension of the rope.",
+              "world_new": [
+                "rope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng căng thẳng",
+          "definition": "mental strain; anxiety",
+          "world_new": [
+            "mental",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is suffering from nervous tension",
+              "world_new": [
+                "suffering",
+                "nervous"
+              ]
+            },
+            {
+              "ex_of_definition": "the tensions of modern life.",
+              "world_new": [
+                "modern",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both these perspectives have merit, and are not necessarily mutually exclusive, although a conceptual tension is implicit.",
+    "In the initial stages a degree of nationalistic euphoria disguised a series of political tensions.",
+    "Most people who are not themselves singers fail to appreciate the extraordinary physical labour and tension required to produce an operatic sound.",
+    "For workers as \"cell proprietors\" were to be afforded crucial domains of discretion, albeit ones traversed by tensions and potential conflicts.",
+    "It is not to be expected that this massive undertaking should end in a coda, with all the tensions resolved, and it does not.",
+    "The surface stresses (tensions) are functions of the local extension ratios, which depend on the global deformation of the membrane.",
+    "There are interesting tensions between the chapters, which the editors have wisely avoided editing out for the sake of consistency of viewpoint.",
+    "Here modernization took place in a relatively smooth manner and there was no need to fear external threats, but domestic tensions were inevitable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tenor",
+    "tense",
+    "tensely",
+    "tenseness",
+    "tension",
+    "tent",
+    "tentacle",
+    "tentative",
+    "tentatively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352246_25700391b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352246_d5c283f16a_o.png",
+      "id_image": "tension_6433905"
+    }
+  ]
+}

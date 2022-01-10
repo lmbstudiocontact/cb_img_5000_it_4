@@ -1,0 +1,88 @@
+{
+  "english": "sporty",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ham mê thể thao",
+          "definition": "(of a person) liking or good at sport; athletic",
+          "world_new": [
+            "liking",
+            "athletic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s quite a sporty person.",
+              "world_new": [
+                "quite",
+                "person"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảnh bao",
+          "definition": "(of clothes) attractive in a bright informal way",
+          "world_new": [
+            "attractive",
+            "bright",
+            "informal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sporty jacket.",
+              "world_new": [
+                "jacket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dáng thể thao",
+          "definition": "(of a car) fast, elegant, and expensive",
+          "world_new": [
+            "fast",
+            "elegant",
+            "expensive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drives a sporty Alfa Romeo."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Inside was a sporty and luxurious interior highlighted by a wraparound cockpit-style instrument panel, bucket seats and center console.",
+    "Updated styling to the front end and the addition of a spoiler to the rear aimed to create a bolder and sportier look.",
+    "The car had distinctive sporty styling, including an integrated rear spoiler.",
+    "The models were not sporty, as the company specialized in stately, elegant carriages.",
+    "Yaguchi designed this car as a mix between a luxury car and a very sporty car.",
+    "Today, many compact executive cars particularly emphasize sporty handling.",
+    "In a parallel development, however, a sportier style of shirt emerged with unstarched cuffs that could be secured with simple buttons.",
+    "While being red according to 1946 documents, it has been resprayed metallic blue, and then black by current owner, who also replaced the original windshield with a smaller, sportier one."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sports car",
+    "sports jacket",
+    "sportsman",
+    "sportswear",
+    "sporty",
+    "spot",
+    "spot check",
+    "spot on",
+    "spotless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352671_8f741b43c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352671_71112bc18a_o.png",
+      "id_image": "sporty_1376743"
+    }
+  ]
+}

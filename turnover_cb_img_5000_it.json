@@ -1,0 +1,85 @@
+{
+  "english": "turnover",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "doanh thu",
+          "definition": "the total value of sales in a business during a certain time",
+          "world_new": [
+            "total",
+            "value",
+            "business",
+            "certain",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firm had a turnover of $100,000 last year.",
+              "world_new": [
+                "firm",
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quay vòng",
+          "definition": "the rate at which money or workers pass through a business.",
+          "world_new": [
+            "rate",
+            "money",
+            "pass",
+            "business"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Specifications and costings are worked out jointly with the producers, and are based on large turnovers and continuous production.",
+    "The first is that payment up front may be particularly disadvantageous to small developers as opposed to large ones with large budgets and turnovers.",
+    "I suggest that turnovers of this kind are excessive and that they are indicative of something which is seriously wrong.",
+    "Nationalised industries are enormous organisations, with very high turnovers.",
+    "The allowances went to exams and as the musical chairs developed and staff turnovers increased, the ordinary pupils lost out.",
+    "If he had, he would know that we are talking about companies with turnovers of £50 million or balance sheets of £25 million or with more than 500 employees.",
+    "The stallholders were, by and large, small firms—some were family businesses and some had turnovers of a few tens of millions of pounds.",
+    "Of course, problems arise with the percentage of small businesses that qualify, because retail businesses have higher turnovers than other small businesses."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turn-up",
+    "turn/use something to your advantage",
+    "turning-point",
+    "turnip",
+    "turnover",
+    "turnpike",
+    "turnstile",
+    "turntable",
+    "turpentine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683269_4f281e7e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683269_9ab4e5526f_o.png",
+      "id_image": "turnover_2168756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372897_de95551e89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372897_57417f982c_o.png",
+      "id_image": "turnover_2910460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064885_74a1d17146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064885_c436d6d04b_o.png",
+      "id_image": "turnover_3830700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064880_4e09f1c7fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064880_992dc5a25d_o.png",
+      "id_image": "turnover_4133649"
+    }
+  ]
+}

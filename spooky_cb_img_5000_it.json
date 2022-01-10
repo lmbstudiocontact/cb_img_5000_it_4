@@ -1,0 +1,57 @@
+{
+  "english": "spooky",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "như ma quỷ",
+          "definition": "eerie and suggesting the presence of ghosts",
+          "world_new": [
+            "eerie",
+            "presence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s very spooky walking through the graveyard at night.",
+              "world_new": [
+                "graveyard",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spontaneousness",
+    "spoof",
+    "spook",
+    "spookiness",
+    "spooky",
+    "spool",
+    "spoon",
+    "spoon-feed",
+    "spoonful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352956_a740815d49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352956_723ed996f4_o.png",
+      "id_image": "spooky_359975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090355_ea2d55d801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090355_f58a6fc059_o.png",
+      "id_image": "spooky_360016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467683_cb033589ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467683_7e6ba49218_o.png",
+      "id_image": "spooky_5509026"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "english": "step",
+  "phat_am": "step",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bước chân, bước",
+          "definition": "one movement of the foot in walking, running, dancing etc",
+          "world_new": [
+            "movement",
+            "foot",
+            "running",
+            "dancing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took a step forward",
+              "world_new": [
+                "forward"
+              ]
+            },
+            {
+              "ex_of_definition": "walking with hurried steps.",
+              "world_new": [
+                "hurried",
+                "steps"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bước",
+          "definition": "the distance covered by this",
+          "world_new": [
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He moved a step or two nearer"
+            },
+            {
+              "ex_of_definition": "The restaurant is only a step (= a short distance) away.",
+              "world_new": [
+                "restaurant",
+                "short"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng bước chân, dáng đi",
+          "definition": "the sound made by someone walking etc",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I heard (foot) steps.",
+              "world_new": [
+                "I",
+                "steps"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bước nhảy, điệu nhảy",
+          "definition": "a particular movement with the feet, eg in dancing",
+          "world_new": [
+            "particular",
+            "movement",
+            "dancing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dance has some complicated steps.",
+              "world_new": [
+                "dance",
+                "complicated",
+                "steps"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bậc, nấc",
+          "definition": "a flat surface, or one flat surface in a series, eg on a stair or stepladder, on which to place the feet or foot in moving up or down",
+          "world_new": [
+            "flat",
+            "surface",
+            "flat",
+            "surface",
+            "series",
+            "stair",
+            "stepladder",
+            "place",
+            "foot",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A flight of steps led down to the cellar",
+              "world_new": [
+                "flight",
+                "steps",
+                "cellar"
+              ]
+            },
+            {
+              "ex_of_definition": "Mind the step!"
+            },
+            {
+              "ex_of_definition": "She was sitting on the doorstep.",
+              "world_new": [
+                "sitting",
+                "doorstep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bước tiến",
+          "definition": "a stage in progress, development etc",
+          "world_new": [
+            "stage",
+            "progress",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mankind made a big step forward with the invention of the wheel",
+              "world_new": [
+                "big",
+                "forward",
+                "invention",
+                "wheel"
+              ]
+            },
+            {
+              "ex_of_definition": "His present job is a step up from his previous one.",
+              "world_new": [
+                "present",
+                "job",
+                "previous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biện pháp",
+          "definition": "an action or move (towards accomplishing an aim etc)",
+          "world_new": [
+            "action",
+            "move",
+            "aim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That would be a foolish/sensible step to take"
+            },
+            {
+              "ex_of_definition": "I shall take steps to prevent this happening again.",
+              "world_new": [
+                "I",
+                "steps",
+                "prevent",
+                "happening"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bước, bước đi",
+          "definition": "to make a step, or to walk",
+          "world_new": [
+            "walk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He opened the door and stepped out",
+              "world_new": [
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "She stepped briskly along the road.",
+              "world_new": [
+                "briskly",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "không phải ruột thịt",
+          "definition": "showing a relationship not by blood but by another marriage.",
+          "world_new": [
+            "relationship",
+            "blood",
+            "marriage"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Logical next steps might include undertaking a comprehensive synthesis of appropriateness focused on specific clinical interventions.",
+    "If the landmark contains symbolic information, the next step is reading its contents.",
+    "At this critical juncture government was still reluctant to get involved but private initiative stepped in and took the lead.",
+    "Although no visible zonation, the layer was sampled in several steps from bottom to top.",
+    "It achieves this by describing the step-by-step construction of the various models which ultimately lead to a full description of the soil-plant-atmosphere system.",
+    "The value of is reduced by 1% at each step after the sample is allowed to reach equilibrium.",
+    "The method then needs to use a new corpus provided by the user and different from the corpus used in the previous step.",
+    "The parsimony analysis found 156 shortest trees with a length of 151 steps."
+  ],
+  "list_see_also": [
+    "steps",
+    "stepladder",
+    "stepping-stones",
+    "in/out of step",
+    "step aside",
+    "step by step",
+    "step in",
+    "step out",
+    "step up",
+    "watch one’s step"
+  ],
+  "list_browse": [
+    "stem",
+    "-stemmed",
+    "stench",
+    "stencil",
+    "step",
+    "step aside",
+    "step by step",
+    "step in",
+    "step out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084765_c915853d38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084765_9119e2d504_o.png",
+      "id_image": "step_1177625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702184_1ce0a8bc2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702184_a9831d49de_o.png",
+      "id_image": "step_1330216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702149_b5b4b93694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702149_64ee4c1eda_o.png",
+      "id_image": "step_4158050"
+    }
+  ]
+}

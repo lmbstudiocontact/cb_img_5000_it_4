@@ -1,0 +1,70 @@
+{
+  "english": "stair",
+  "phat_am": "steə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bậc thang",
+          "definition": "(any one of) a number of steps, usually inside a building, going from one floor to another",
+          "world_new": [
+            "number",
+            "steps",
+            "building",
+            "floor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell down the stairs.",
+              "world_new": [
+                "fell"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other roving stairs include external stairs front and back, almost impossible to locate on plan due to discrepancies between set design and location.",
+    "I don't like stairs, from not having stairs for ten years.",
+    "Several different gaits were implemented16 (quadruped crawl forward, backward, side walk to the left, to the right, turning motion, motion over inclination, motion over stairs).",
+    "The stairs, lavatory and kitchen were concentrated in the core of the plan.",
+    "I have not been able to discover how far the treads of the earliest stairs were built into the supporting walls.",
+    "In many residential designs, bedrooms, kitchens, bathrooms, living rooms, dining rooms, deck/patios, windows, doors, stairs or gables, are no more than standard architectural features.",
+    "In addition, photographs were circulated showing examples of different types of stairs.",
+    "His physical activity had become limited to ascending two flights of stairs."
+  ],
+  "list_see_also": [
+    "staircase"
+  ],
+  "list_browse": [
+    "stagnation",
+    "staid",
+    "stain",
+    "stainless steel",
+    "stair",
+    "staircase",
+    "stake",
+    "stalactite",
+    "stalagmite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350421_81066abcc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350421_7c14352131_o.png",
+      "id_image": "stair_1533284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704939_4f351c4c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704939_94b1113c17_o.png",
+      "id_image": "stair_5798480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087555_9d632d00ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087555_3bb40c5560_o.png",
+      "id_image": "stair_6342781"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "test",
+  "phat_am": "test",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài kiểm tra",
+          "definition": "a set of questions or exercises intended to find out a person’s ability, knowledge etc; a short examination",
+          "world_new": [
+            "find",
+            "ability",
+            "knowledge",
+            "short",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an arithmetic/driving test."
+            }
+          ]
+        },
+        {
+          "mean_english": "xét nghiệm",
+          "definition": "something done to find out whether a thing is good, strong, efficient etc",
+          "world_new": [
+            "find",
+            "strong",
+            "efficient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a blood test.",
+              "world_new": [
+                "blood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kiểm tra",
+          "definition": "an event, situation etc that shows how good or bad something is",
+          "world_new": [
+            "event",
+            "situation",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a test of his courage.",
+              "world_new": [
+                "courage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc thử nghiệm",
+          "definition": "a way to find out if something exists or is present",
+          "world_new": [
+            "find",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a test for radioactivity.",
+              "world_new": [
+                "radioactivity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trận đấu thử nghiệm",
+          "definition": "a test match.",
+          "world_new": [
+            "match"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thử nghiệm",
+          "definition": "to carry out a test or tests on (someone or something)",
+          "world_new": [
+            "carry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The students were tested on their knowledge of French",
+              "world_new": [
+                "their",
+                "knowledge",
+                "French"
+              ]
+            },
+            {
+              "ex_of_definition": "They tested the new aircraft.",
+              "world_new": [
+                "aircraft"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The parent who requests a label does not ask to be enlightened, but to test and reinforce the child's lexicon.",
+    "It is clear that some quite abstract robot representations have usefully tested some quite specific biological hypotheses.",
+    "For each of the two subexperiments, the receptive tests took place 2 weeks later.",
+    "Note that even if we rely on purely structural tests, this is a problem.",
+    "Contingency tables involving small numbers and the c2 test.",
+    "He tests this hypothesis using various quantitative methods, including surname change and replacement rates among male testators.",
+    "The enforcement of such regulations may be difficult where monitoring is poor or testing is accessed from foreign jurisdictions.",
+    "The administration of the test took about 15 minutes."
+  ],
+  "list_see_also": [
+    "test match",
+    "test pilot",
+    "test-tube"
+  ],
+  "list_browse": [
+    "terrorist",
+    "terrorization",
+    "terrorize",
+    "tertiary",
+    "test",
+    "test match",
+    "test pilot",
+    "test-tube",
+    "testament"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466168_9ddf057b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466168_5bb34f6880_o.png",
+      "id_image": "test_2484611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466143_997824c920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466143_02163f5f68_o.png",
+      "id_image": "test_2490313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396277_7b96ee2545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396277_3a64fdf5db_o.png",
+      "id_image": "test_2725724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705999_c043ff7af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705999_95b53fa23e_o.png",
+      "id_image": "test_3335843"
+    }
+  ]
+}

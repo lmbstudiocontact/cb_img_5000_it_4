@@ -1,0 +1,85 @@
+{
+  "english": "shepherd",
+  "phat_am": "ˈʃepəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người chăn cừu",
+          "definition": "a person who looks after sheep",
+          "world_new": [
+            "person",
+            "looks",
+            "sheep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shepherd and his dog gathered in the sheep.",
+              "world_new": [
+                "dog",
+                "sheep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trông nom, hướng dẫn",
+          "definition": "(often with around, in, out etc) to guide or lead carefully",
+          "world_new": [
+            "guide",
+            "lead",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shepherded me through a maze of corridors.",
+              "world_new": [
+                "maze"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The basis of the myth is that shepherds absconded to the diggings, forcing pastoralists to pay higher wages, and increase flock sizes to reduce costs.",
+    "The greatest frequency of consanguineous marriages is recorded for the shepherds.",
+    "Whereas the earlier characterization of the authorities as shepherds constituted them as superior, they were now held accountable for the motherland's suffering and imminent death.",
+    "I never touched so much as a forkful of his shepherd's pie.",
+    "The shepherds staying behind generally moved to higher altitudes, which were until then 'untouched' by flocks and consequently still fresh.",
+    "Many of the early fences were brush or log, and many squatters went directly from shepherding to wire fences.",
+    "Undeterred, he shepherded his flock and gradually built up a base of popular support through a display of leadership, toughness and humour.",
+    "The first three shepherds' huts are distributed at the bottom of the valley between the complex pastoral sites."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shellfish",
+    "shelter",
+    "sheltered",
+    "shelve",
+    "shepherd",
+    "sheriff",
+    "sherry",
+    "shield",
+    "shift"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390142_c8f97faa3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390142_d4a1b0406f_o.png",
+      "id_image": "shepherd_1983425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390112_c8d602f1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390112_8e43e0252e_o.png",
+      "id_image": "shepherd_4033077"
+    }
+  ]
+}

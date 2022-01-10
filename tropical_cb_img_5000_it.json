@@ -1,0 +1,72 @@
+{
+  "english": "tropical",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhiệt đới",
+          "definition": "of the tropics",
+          "world_new": [
+            "tropics"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The climate there is tropical.",
+              "world_new": [
+                "climate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cây ở vùng nhiệt đới",
+          "definition": "growing etc in hot countries",
+          "world_new": [
+            "hot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tropical plants."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Rare species in communities of tropical insect herbivores: pondering the mystery of singletons.",
+    "Do dipterocarp seedlings really partition tropical rainforest gaps?",
+    "Effects of climate and stand age on annual tree dynamics in tropical second-growth rain forests.",
+    "Environmental impacts on tropical rainforest dipterocarp tree seedling regeneration.",
+    "Increasing day-length induces spring flushing of tropical dry forest trees in the absence of rain.",
+    "Do dipterocarp seedlings really partition tropical rain forest gaps?",
+    "Impact of forest fragmentation on seedling abundance in a tropical rain forest.",
+    "Seedling survival of tropical species: interaction of dispersal distance, light gaps and pathogens."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "troops",
+    "trophic",
+    "trophy",
+    "tropic",
+    "tropical",
+    "tropically",
+    "tropics",
+    "tropism",
+    "troposphere"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687304_73fd9436df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687304_15cdef54c0_o.png",
+      "id_image": "tropical_1890062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687234_5b2351f0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687234_207fa5c5ab_o.png",
+      "id_image": "tropical_3038816"
+    }
+  ]
+}

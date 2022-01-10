@@ -1,0 +1,90 @@
+{
+  "english": "selection",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lựa chọn",
+          "definition": "the act or process of selecting or being selected",
+          "world_new": [
+            "act",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a selection of boys for the choir",
+              "world_new": [
+                "choir"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a selection committee.",
+              "world_new": [
+                "committee"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người, vật, số lượng được chọn lựa",
+          "definition": "a collection or group of things that have been selected",
+          "world_new": [
+            "collection",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a selection of verses/fruit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They tend to abandon it if other forces oppose it and their selections of novel kinds are not strongly reinforced.",
+    "I find some of the later selections distinctly odd.",
+    "Since the procedure for the high- and low-contrast trials was the same, a comparison of participants' selections could be made between the trial types.",
+    "All bases with b0 () > 0 are suitable and other selections like b0 () = 1 or b0 equal to the mean may (and have also been) used.",
+    "Scandinavian singers routinely recorded selections from about thirty popular operas.",
+    "First, children's lexical selections are influenced by both similarity and recent activation.",
+    "Purchases and ratings can be examples of actions that confirm (or disconfirm) previous selections.",
+    "A separate control was made for all county councils for the period from 1987-95, comparing trends with the selections made in this study."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "seize up",
+    "seizure",
+    "seldom",
+    "select",
+    "selection",
+    "selective",
+    "selectively",
+    "selectiveness",
+    "selector"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395737_91353d6620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395737_a0438b4be8_o.png",
+      "id_image": "selection_165011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705539_cb2042bb16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705539_463ccbb635_o.png",
+      "id_image": "selection_3645318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088105_f4344f3880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088105_2101e1a96b_o.png",
+      "id_image": "selection_3645485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350986_7a642e7586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350986_307e429334_o.png",
+      "id_image": "selection_6092338"
+    }
+  ]
+}

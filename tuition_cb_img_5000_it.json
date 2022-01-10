@@ -1,0 +1,83 @@
+{
+  "english": "tuition",
+  "phat_am": "tjuˈʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gia sư",
+          "definition": "teaching, especially private",
+          "world_new": [
+            "teaching",
+            "private"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gives music tuition / tuition in music.",
+              "world_new": [
+                "music",
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "học phí",
+          "definition": "tuition fee; the money a student pays to a college, university or private school",
+          "world_new": [
+            "money",
+            "student",
+            "college",
+            "university",
+            "private",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How much is the tuition at your university?",
+              "world_new": [
+                "your",
+                "university"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To encourage new students to begin an instrument, a free semester of music tuitions is given as part of the year 7 students curriculum.",
+    "I have to cook and take them to tuition and so on.",
+    "Elicited imitation is as close as one can come to direct linguistic tuition and simultaneously maintain an agreeable social interaction.",
+    "The expenditure level at that school is $6,600, the upper-middle-class, able students pay $5,788 in tuition and the rich, unable students pay $8,494 in tuition.",
+    "After that he kept on getting scholarships and even did private tuitions to support his education.",
+    "They became solely reliant on income from memberships and tuitions, making self-sufficiency essential.",
+    "At present, the vast majority of student radiographers are exempt from paying tuition fees.",
+    "Reduced tuitions for boys whose families could not pay were not made up for by donations from friends and alumni supporting those students."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tufted",
+    "tug",
+    "tug-boat",
+    "tug-of-war",
+    "tuition",
+    "tulip",
+    "tumble",
+    "tumble-drier",
+    "tumbler"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374602_c7f687eb1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374602_ff32f0bb1f_o.png",
+      "id_image": "tuition_2387683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066610_0dd21bb18d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066610_9bef61734b_o.png",
+      "id_image": "tuition_4650660"
+    }
+  ]
+}

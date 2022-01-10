@@ -1,0 +1,195 @@
+{
+  "english": "scale",
+  "phat_am": "skeil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ thống chia độ",
+          "definition": "a set of regularly spaced marks made on something (eg a thermometer or a ruler) for use as a measure; a system of numbers, measurement etc",
+          "world_new": [
+            "regularly",
+            "thermometer",
+            "system",
+            "measurement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This thermometer has two scales marked on it, one in Fahrenheit and one in Centigrade.",
+              "world_new": [
+                "thermometer",
+                "scales",
+                "marked",
+                "Fahrenheit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mức độ",
+          "definition": "a series or system of items of increasing or decreasing size, value etc",
+          "world_new": [
+            "series",
+            "system",
+            "size",
+            "value"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wage/salary scale."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sắp xếp theo trình tự",
+          "definition": "in music, a group of notes going up or down in order",
+          "world_new": [
+            "music",
+            "group",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy practised his scales on the piano.",
+              "world_new": [
+                "boy",
+                "practised",
+                "scales",
+                "piano"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỉ lệ, số tỉ lệ",
+          "definition": "the size of measurements on a map etc compared with the real size of the country etc shown by it",
+          "world_new": [
+            "size",
+            "map",
+            "real",
+            "size",
+            "country"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In a map drawn to the scale 1:50,000, one centimetre represents half a kilometre.",
+              "world_new": [
+                "map",
+                "drawn",
+                "centimetre",
+                "half",
+                "kilometre"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phạm vi",
+          "definition": "the size of an activity",
+          "world_new": [
+            "size",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These guns are being manufactured on a large scale.",
+              "world_new": [
+                "large"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "leo, trèo",
+          "definition": "to climb (a ladder, cliff etc)",
+          "world_new": [
+            "climb",
+            "ladder",
+            "cliff"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The prisoner scaled the prison walls and escaped.",
+              "world_new": [
+                "prisoner",
+                "prison"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lớp gỉ, vảy da",
+          "definition": "any of the small thin plates or flakes that cover the skin of fishes, reptiles etc",
+          "world_new": [
+            "small",
+            "thin",
+            "cover",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A herring’s scales are silver in colour.",
+              "world_new": [
+                "scales",
+                "silver",
+                "colour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We assume that there are constant returns to scale in agriculture.",
+    "Some demonstrated the use of technical language, for example 'it did sound very like a scale'.",
+    "Here we study color scaling using photographs of natural fruit objects.",
+    "Our minimalist design tradition removes the intermediate and smaller scales from built form.",
+    "The study area was delimited on aerial photographs (scale 1:50 000).",
+    "Scale models were the preferred method because they allowed not only a quantitative analysis, but also the qualitative aspects to be represented.",
+    "The following two examples outline cases where the gross pollution function does not exhibit constant returns to scale.",
+    "Improving the readability of time frequency and time scale representations by the reassignment method."
+  ],
+  "list_see_also": [
+    "scaly"
+  ],
+  "list_browse": [
+    "scaffold",
+    "scaffolding",
+    "scald",
+    "scalding",
+    "scale",
+    "scales",
+    "scallop",
+    "scalloped",
+    "scalp"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687939_305a141cb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687939_b18e062ba5_o.png",
+      "id_image": "scale_1070237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687884_559d3d6548_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687884_afeb9033e8_o.png",
+      "id_image": "scale_1070251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332911_ba3ce91da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332911_0652042588_o.png",
+      "id_image": "scale_3898095"
+    }
+  ]
+}

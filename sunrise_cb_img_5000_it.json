@@ -1,0 +1,60 @@
+{
+  "english": "sunrise",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lúc bình minh",
+          "definition": "the rising of the sun in the morning, or the time of this",
+          "world_new": [
+            "rising",
+            "sun",
+            "morning",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We got up at sunrise."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Flowering individuals of each bromeliad species were observed in the morning, starting about 30 min after sunrise, as well as in the afternoon, ending close to sunset.",
+    "Sunrise's specialization on robot anime continues to this date.",
+    "There was a dawn peak at 02.38 h and a peak at 05.29 h, about 30 min before sunrise.",
+    "At 12 h after sunrise patches were removed from the experimental eyes and the lights were turned on.",
+    "Eyes collected in the dark at 12 h after sunrise were taken from animals placed in the dark 10 h after sunrise.",
+    "The centrepiece of the building is a 5000 m2 artificial beach, where a giant 150by40 m screen forms the horizon to offer sunrises and sunsets.",
+    "He asks whether music education is at a time of sunrise or sunset, or whether it is going through a long dark night.",
+    "Sweeping vistas of open prairie, incredibly beautiful sunsets and sunrises and abundant wildflowers are just some of the attractions of this remarkable area."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sunlight",
+    "sunlit",
+    "sunniness",
+    "sunny",
+    "sunrise",
+    "sunset",
+    "sunshade",
+    "sunshine",
+    "sunspot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074500_6ce52fcb48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074500_db22e9130d_o.png",
+      "id_image": "sunrise_286614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337416_21c90ca738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337416_bd61956d2a_o.png",
+      "id_image": "sunrise_5493270"
+    }
+  ]
+}

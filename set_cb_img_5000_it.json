@@ -1,0 +1,462 @@
+{
+  "english": "set",
+  "phat_am": "set",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt , để",
+          "definition": "to put or place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She set the tray down on the table.",
+              "world_new": [
+                "tray",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp, dọn, bày",
+          "definition": "to put plates, knives, forks etc on (a table) for a meal",
+          "world_new": [
+            "meal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please would you set the table for me?",
+              "world_new": [
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải quyết",
+          "definition": "to settle or arrange (a date, limit, price etc)",
+          "world_new": [
+            "settle",
+            "arrange",
+            "date",
+            "limit",
+            "price"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you set a date for the wedding yet?",
+              "world_new": [
+                "date",
+                "wedding",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ra, giao cho, đặt ra",
+          "definition": "to give a person (a task etc) to do",
+          "world_new": [
+            "person",
+            "task"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The witch set the prince three tasks",
+              "world_new": [
+                "witch",
+                "prince"
+              ]
+            },
+            {
+              "ex_of_definition": "The teacher set a test for her pupils",
+              "world_new": [
+                "teacher",
+                "test"
+              ]
+            },
+            {
+              "ex_of_definition": "He should set the others a good example.",
+              "world_new": [
+                "example"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt ai làm gì",
+          "definition": "to cause to start doing something",
+          "world_new": [
+            "cause",
+            "start"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His behaviour set people talking.",
+              "world_new": [
+                "behaviour",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lặn",
+          "definition": "(of the sun etc) to disappear below the horizon",
+          "world_new": [
+            "sun",
+            "disappear",
+            "horizon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It gets cooler when the sun sets.",
+              "world_new": [
+                "sun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở nên cứng",
+          "definition": "to become firm or solid",
+          "world_new": [
+            "become",
+            "firm",
+            "solid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Has the concrete set?",
+              "world_new": [
+                "concrete"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặt chuông",
+          "definition": "to adjust (eg a clock or its alarm) so that it is ready to perform its function",
+          "world_new": [
+            "adjust",
+            "clock",
+            "its",
+            "ready",
+            "perform",
+            "its",
+            "function"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He set the alarm for 7.00 a.m.",
+              "world_new": [
+                "alarm",
+                "m"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sửa, uốn tóc",
+          "definition": "to arrange (hair) in waves or curls.",
+          "world_new": [
+            "arrange"
+          ]
+        },
+        {
+          "mean_english": "gắn, dát, nạm",
+          "definition": "to fix in the surface of something, eg jewels in a ring.",
+          "world_new": [
+            "fix",
+            "surface",
+            "ring"
+          ]
+        },
+        {
+          "mean_english": "đặt lại cho đúng",
+          "definition": "to put (broken bones) into the correct position for healing",
+          "world_new": [
+            "correct",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They set his broken arm.",
+              "world_new": [
+                "broken",
+                "arm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cố định",
+          "definition": "fixed or arranged previously",
+          "world_new": [
+            "fixed",
+            "previously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a set procedure for doing this.",
+              "world_new": [
+                "procedure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiên quyết",
+          "definition": "(often with on) ready, intending or determined (to do something)",
+          "world_new": [
+            "ready",
+            "determined"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is set on going."
+            }
+          ]
+        },
+        {
+          "mean_english": "cố ý, có chủ tâm",
+          "definition": "deliberate",
+          "world_new": [
+            "deliberate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had the set intention of hurting her.",
+              "world_new": [
+                "intention"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cố định",
+          "definition": "stiff; fixed",
+          "world_new": [
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a set smile on his face.",
+              "world_new": [
+                "smile",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cố định",
+          "definition": "not changing or developing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "set ideas."
+            }
+          ]
+        },
+        {
+          "mean_english": "được đặt trong",
+          "definition": "(with with) having something set in it",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gold ring set with diamonds.",
+              "world_new": [
+                "gold",
+                "ring",
+                "diamonds"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ",
+          "definition": "a group of things used or belonging together",
+          "world_new": [
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a set of carving tools",
+              "world_new": [
+                "carving"
+              ]
+            },
+            {
+              "ex_of_definition": "a complete set of (the novels of) Jane Austen.",
+              "world_new": [
+                "complete"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy thu thanh",
+          "definition": "an apparatus for receiving radio or television signals",
+          "world_new": [
+            "apparatus",
+            "radio",
+            "television"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a television/radio set."
+            }
+          ]
+        },
+        {
+          "mean_english": "giới",
+          "definition": "a group of people",
+          "world_new": [
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the musical set.",
+              "world_new": [
+                "musical"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự sửa, uốn tóc",
+          "definition": "the process of setting hair",
+          "world_new": [
+            "process",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shampoo and set.",
+              "world_new": [
+                "shampoo"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảnh dựng",
+          "definition": "scenery for a play or film",
+          "world_new": [
+            "scenery",
+            "play",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a very impressive set in the final act.",
+              "world_new": [
+                "final",
+                "act"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ván, xéc",
+          "definition": "a group of six or more games in tennis",
+          "world_new": [
+            "group",
+            "games",
+            "tennis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She won the first set and lost the next two.",
+              "world_new": [
+                "lost"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But this is also to be kept secret, lest he should perhaps want to set himself against this as well.",
+    "A set of players, a constant fraction of which are dishonest, are trying to elect a common leader.",
+    "Intuitively, with the pollution charge set too high, good 2 is protected less than good, 3 initially.",
+    "The predicate consistent1/2 creates a set of more involved constraints.",
+    "Computing preferred answer sets by meta-interpretation in answer set programming.",
+    "The fifth (unactuated) equation in the set (23) is a second-order nonholonomic constraint.",
+    "A second common feature of qualitative research is the emphasis upon the description of the setting being investigated.",
+    "Traditions, he concludes, are \"not merely sets of ideas\" (507)."
+  ],
+  "list_see_also": [
+    "setting",
+    "setback",
+    "set phrase",
+    "set-square",
+    "setting lotion",
+    "set-to",
+    "set-up",
+    "all set",
+    "set about",
+    "set (someone) against (someone)",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "servility",
+    "serving",
+    "servitude",
+    "session",
+    "set",
+    "set (great) store by",
+    "set (someone) against (someone)",
+    "set (someone) an example",
+    "set (something or someone) on (someone)"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348711_23aa5622dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348711_0061167656_o.png",
+      "id_image": "set_1068221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393517_50e64a8e95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393517_a87061cd4a_o.png",
+      "id_image": "set_2270982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348636_e5fe4d6c1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348636_58de046df4_o.png",
+      "id_image": "set_2270984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463403_0d58c82e33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463403_49d641d640_o.png",
+      "id_image": "set_6040435"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "theme",
+  "phat_am": "θiːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ đề",
+          "definition": "the subject of a discussion, essay etc",
+          "world_new": [
+            "subject",
+            "discussion",
+            "essay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The theme for tonight’s talk is education.",
+              "world_new": [
+                "talk",
+                "education"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chủ đề",
+          "definition": "in a piece of music, the main melody, which may be repeated often.",
+          "world_new": [
+            "piece",
+            "music",
+            "main",
+            "melody",
+            "repeated"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The following three chapters are based on the three principle themes.",
+    "There were several significant themes in his narrative.",
+    "Looking at four teachers and eighteen students, the results revealed a number of complex and interconnected themes which both aided and hindered learning.",
+    "Any exploration of travel-writing and the art it describes must take account of these themes.",
+    "If the cortex were organized in this manner, one would suspect that experimental results would have established such themes, as it has for subcortical structures.",
+    "The notion of \"change over time\" in dream content (from ancestral themes to current themes) is problematic because such change would serve no obvious function.",
+    "Individual interviews were conducted with two participants to explore themes and issues raised during discussions which they did not attend.",
+    "Nationalist narratives construct social memory using isolated images and themes from the material culture of the past."
+  ],
+  "list_see_also": [
+    "theme park"
+  ],
+  "list_browse": [
+    "theft",
+    "their",
+    "theirs",
+    "them",
+    "theme",
+    "theme park",
+    "themselves",
+    "then",
+    "theologian"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350411_d57cb6b3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350411_63027a45b4_o.png",
+      "id_image": "theme_1199134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350381_095b0cdc37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350381_b3690fb728_o.png",
+      "id_image": "theme_2236194"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "stormy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có bão",
+          "definition": "having a lot of strong wind, heavy rain etc",
+          "world_new": [
+            "strong",
+            "wind",
+            "heavy",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stormy day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "stormy weather",
+              "world_new": [
+                "weather"
+              ]
+            },
+            {
+              "ex_of_definition": "a stormy voyage.",
+              "world_new": [
+                "voyage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ào ạt , sôi nổi",
+          "definition": "full of anger or uncontrolled feeling",
+          "world_new": [
+            "full",
+            "anger",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in a stormy mood",
+              "world_new": [
+                "mood"
+              ]
+            },
+            {
+              "ex_of_definition": "a stormy discussion.",
+              "world_new": [
+                "discussion"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have had a quiet debate after a rather stormy start.",
+    "We are now moving from the stormy waters of reform into the relative calm of consolidation.",
+    "We have the same problem in this country, and the position of the denominational schools has a very long and stormy history.",
+    "If you face unknown dangers, stormy turbulent seas which may toss you one way or another—and you are not sure which—you do two things.",
+    "The men finally involved in the fighting had been at sea for many weeks in stormy seas living in cramped conditions.",
+    "I have attended many meetings of miners at election times which have been much more stormy than this gathering.",
+    "Flax canvas is much nicer to handle in wet stormy weather than is cotton, which is horrible, or man-made polyester, which deteriorates in bright sunlight.",
+    "The captain came to the conclusion that he had taken a wrong turn and walked into the sea on a particularly stormy night."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "storm",
+    "stormbound",
+    "stormily",
+    "storminess",
+    "stormy",
+    "story",
+    "stout",
+    "stout-hearted",
+    "stove"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699689_410e6d34a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699689_7e2b1544d6_o.png",
+      "id_image": "stormy_3217139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389492_57958b83a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389492_7f99bf5b68_o.png",
+      "id_image": "stormy_3217141"
+    }
+  ]
+}

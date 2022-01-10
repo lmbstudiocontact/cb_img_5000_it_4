@@ -1,0 +1,180 @@
+{
+  "english": "smart",
+  "phat_am": "smaːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thanh nhã, lịch sự",
+          "definition": "neat and well-dressed; fashionable",
+          "world_new": [
+            "neat",
+            "fashionable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re looking very smart today"
+            },
+            {
+              "ex_of_definition": "a smart suit.",
+              "world_new": [
+                "suit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khéo léo, tài tình",
+          "definition": "clever and quick in thought and action",
+          "world_new": [
+            "clever",
+            "quick",
+            "thought",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We need a smart boy to help in the shop",
+              "world_new": [
+                "boy",
+                "help",
+                "shop"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t trust some of those smart salesmen.",
+              "world_new": [
+                "I",
+                "trust"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhanh, mau lẹ",
+          "definition": "brisk; sharp",
+          "world_new": [
+            "sharp"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave him a smart slap on the cheek.",
+              "world_new": [
+                "slap",
+                "cheek"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đau đớn, nhức nhối",
+          "definition": "(of part of the body) to be affected by a sharp stinging feeling",
+          "world_new": [
+            "part",
+            "affected",
+            "sharp",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thick smoke made his eyes smart.",
+              "world_new": [
+                "thick",
+                "smoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đau khổ",
+          "definition": "to feel annoyed, resentful etc after being insulted etc",
+          "world_new": [
+            "feel",
+            "annoyed",
+            "resentful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is still smarting from your remarks.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đau đớn, sự nhức nhối",
+          "definition": "the stinging feeling left by a blow or the resentful feeling left by an insult",
+          "world_new": [
+            "feeling",
+            "left",
+            "blow",
+            "resentful",
+            "feeling",
+            "left",
+            "insult"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He could still feel the smart of her slap/insult.",
+              "world_new": [
+                "feel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of these, households with the largest living quarters and the smartest interior are preferred.",
+    "They will have to work with these people, and they do not want to have new staffs smarting under a sense of injustice from the start.",
+    "Smarting with disappointment, they will be prepared to spend money out of anyone's pocket when they are trying to make the best title they can make.",
+    "There have been many complaints, particularly about smarting eyes and running noses caused by sulphuric acid spray from the cooling system.",
+    "They volunteered without loss of time, but they are now smarting because of the delay—the un- necessary delay which is taking place in the payment of their gratuities.",
+    "Along with the move to the new building, the school initiated a smarter uniform to help improve the ethos of the school.",
+    "He despises bugs and someone who is smarter than him.",
+    "I may still be smarting from international women's day, which was yesterday, but it is equally important to ensure that men are able to take an equal place in society."
+  ],
+  "list_see_also": [
+    "smarten",
+    "smartly",
+    "smartness",
+    "smart bomb",
+    "smart card"
+  ],
+  "list_browse": [
+    "small-time",
+    "smallpox",
+    "smarminess",
+    "smarmy",
+    "smart",
+    "smart bomb",
+    "smart card",
+    "smarten",
+    "smartly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376447_c80e9e6017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376447_274baa4de2_o.png",
+      "id_image": "smart_2118746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376387_fb89fa073f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376387_d1a6a1f3b1_o.png",
+      "id_image": "smart_4865945"
+    }
+  ]
+}

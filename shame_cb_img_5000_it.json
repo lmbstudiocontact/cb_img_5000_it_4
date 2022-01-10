@@ -1,0 +1,171 @@
+{
+  "english": "shame",
+  "phat_am": "ʃeim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xấu hổ, sự tủi thẹn",
+          "definition": "(often with at) an unpleasant feeling caused by awareness of guilt, fault, foolishness or failure",
+          "world_new": [
+            "unpleasant",
+            "feeling",
+            "awareness",
+            "guilt",
+            "fault",
+            "foolishness",
+            "failure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was full of shame at my rudeness",
+              "world_new": [
+                "I",
+                "full",
+                "my",
+                "rudeness"
+              ]
+            },
+            {
+              "ex_of_definition": "He felt no shame at his behaviour/behavior.",
+              "world_new": [
+                "felt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nỗi nhục",
+          "definition": "dishonour/dishonor or disgrace",
+          "world_new": [
+            "disgrace"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news that he had accepted bribes brought shame on his whole family.",
+              "world_new": [
+                "news",
+                "accepted",
+                "whole",
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều ân hận",
+          "definition": "(with a) a cause of disgrace or a matter for blame",
+          "world_new": [
+            "cause",
+            "disgrace",
+            "matter",
+            "blame"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s a shame to treat a child so cruelly.",
+              "world_new": [
+                "treat",
+                "child",
+                "cruelly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều đáng tiếc",
+          "definition": "(with a) a pity",
+          "world_new": [
+            "pity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a shame that he didn’t get the job!",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho ai hổ thẹn",
+          "definition": "(often with into) to force or persuade to do something by making ashamed",
+          "world_new": [
+            "force",
+            "persuade",
+            "ashamed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was shamed into paying his share.",
+              "world_new": [
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ô nhục",
+          "definition": "to cause to have a feeling of shame",
+          "world_new": [
+            "cause",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His cowardice shamed his parents.",
+              "world_new": [
+                "cowardice"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As to naming and shaming after the event, there are 50,000 authorities.",
+    "We have not made a commitment on naming and shaming.",
+    "If we do not take that on board, understand it, and be shamed by it, we shall get nowhere.",
+    "The thing that has been most distressing has been the virtual 'naming and shaming' of vegetables and then declaring them not guilty.",
+    "To do that in pursuit of savings which, in terms of global expenditure, are puny, shames us.",
+    "If the naming and shaming through publishing the lists does not achieve that, perhaps statutory deadlines may be required.",
+    "We must determine who was responsible and these people must be named and shamed.",
+    "We are afraid of having a 'witch-hunt' when naming and shaming is carried out."
+  ],
+  "list_see_also": [
+    "shameful",
+    "shamefully",
+    "shamefulness",
+    "shameless",
+    "shamelessly",
+    "shamelessness",
+    "shamefaced",
+    "put to shame",
+    "to my/his etc shame"
+  ],
+  "list_browse": [
+    "shallows",
+    "sham",
+    "shamble",
+    "shambles",
+    "shame",
+    "shamefaced",
+    "shameful",
+    "shamefully",
+    "shamefulness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084780_bf47b6bf73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084780_a9f32ce169_o.png",
+      "id_image": "shame_708695"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "steward",
+  "phat_am": "ˈstjuəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người phục vụ, chiêu đãi viên",
+          "definition": "a passenger’s attendant on ship or aeroplane",
+          "world_new": [
+            "attendant",
+            "ship",
+            "aeroplane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an air stewardess.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người quản gia",
+          "definition": "a person who helps to arrange, and is an official at, races, entertainments etc",
+          "world_new": [
+            "person",
+            "arrange",
+            "official"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a matchday steward."
+            }
+          ]
+        },
+        {
+          "mean_english": "người quản lý bếp ăn",
+          "definition": "a person who supervises the supply of food and stores in a club, on a ship etc.",
+          "world_new": [
+            "person",
+            "supply",
+            "food",
+            "club",
+            "ship"
+          ]
+        },
+        {
+          "mean_english": "người quản lý",
+          "definition": "a person who manages an estate or farm for another person.",
+          "world_new": [
+            "person",
+            "estate",
+            "farm",
+            "person"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another very important question, to which reference has not been made this evening, is the training of shop stewards.",
+    "She said that almost nothing could be done in her hospital without the shop stewards' approval.",
+    "We have, therefore, inserted the limitation, first of all, that the number of stewards must be reasonable.",
+    "Without a well-financed farming industry, farmers' ability to be the stewards of our countryside—to look after our landscape and environment—is much diminished.",
+    "The management said that it was not prepared to meet the shop stewards to discuss a productivity agreement.",
+    "I do not think there is any question of having special stewards.",
+    "I have received strong representations, not only from shop stewards in factories, but from people working in universities.",
+    "The organisers, stewards, the police and everybody else intended that the march should be in two halves."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "steroid",
+    "stethoscope",
+    "stevedore",
+    "stew",
+    "steward",
+    "stick",
+    "stick at",
+    "stick by",
+    "stick it out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461783_b38efb2c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461783_f19c580c40_o.png",
+      "id_image": "steward_4079277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461723_60e124ddd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461723_15d4f70e70_o.png",
+      "id_image": "steward_4695774"
+    }
+  ]
+}

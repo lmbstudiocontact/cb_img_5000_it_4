@@ -1,0 +1,88 @@
+{
+  "english": "trauma",
+  "phat_am": "ˈtroːmə, ˈtraumə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chấn thương",
+          "definition": "a mental condition in which someone feels very anxious, shocked, or upset after an extremely unpleasant experience",
+          "world_new": [
+            "mental",
+            "condition",
+            "anxious",
+            "upset",
+            "extremely",
+            "unpleasant",
+            "experience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Common signs of trauma include flashbacks or frequent nightmares.",
+              "world_new": [
+                "include",
+                "frequent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vết thương",
+          "definition": "an extremely unpleasant experience that makes someone feel very anxious, shocked, or upset for a long period of time",
+          "world_new": [
+            "extremely",
+            "unpleasant",
+            "experience",
+            "feel",
+            "anxious",
+            "upset",
+            "long",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the trauma of being imprisoned/tortured."
+            }
+          ]
+        },
+        {
+          "mean_english": "chấn thương",
+          "definition": "a serious injury",
+          "world_new": [
+            "serious",
+            "injury"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "brain/neck trauma"
+            },
+            {
+              "ex_of_definition": "(also adjective) a trauma victim/unit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "trappings",
+    "trash",
+    "trashcan",
+    "trashy",
+    "trauma",
+    "travel",
+    "travel agency",
+    "travel agent",
+    "travel light"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073285_1b193f460b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073285_49fb059efd_o.png",
+      "id_image": "trauma_4897071"
+    }
+  ]
+}

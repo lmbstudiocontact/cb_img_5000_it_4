@@ -1,0 +1,76 @@
+{
+  "english": "skyline",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình dáng in lên nền trời",
+          "definition": "the outline of buildings, hills etc seen against the sky",
+          "world_new": [
+            "outline",
+            "sky"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the New York skyline"
+            },
+            {
+              "ex_of_definition": "I could see something moving on the skyline.",
+              "world_new": [
+                "I",
+                "see",
+                "moving"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Areas of outstanding beauty are spoilt by pylons crossing the skyline.",
+    "Against the skyline, in full sail, was a four-masted, full-rigged ship.",
+    "Along with the cathedral, these buildings were the most prominent and their steeples came to dominate the skyline.",
+    "Mining activities have significantly altered the landscape, the skyline is dominated by smokestacks and buildings towering over the stark area where silver and lead had been extracted.",
+    "However, these electricity pylons wreck the countryside, even if sited below the skyline.",
+    "Everywhere a new spirit is alive—a new confidence, with factories humming, new businesses starting up, busy cranes dotting the skyline.",
+    "The effect of the scheme on the skyline of the building should be scarcely noticeable.",
+    "Here, however, courts were really authorizing the expenditure of public monies for the creation and preservation of parks, rather than the beautification of the skyline."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sky-high",
+    "skyjack",
+    "skyjacker",
+    "skylight",
+    "skyline",
+    "skyrocket",
+    "skyscraper",
+    "slab",
+    "slack"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334826_4c246cbea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334826_c5faa2e41d_o.png",
+      "id_image": "skyline_1354447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334866_7c62718d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334866_e9c5715588_o.png",
+      "id_image": "skyline_270072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379832_d5f364676b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379832_76d2277565_o.png",
+      "id_image": "skyline_353361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449873_74f738a0a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449873_206156c775_o.png",
+      "id_image": "skyline_4613401"
+    }
+  ]
+}

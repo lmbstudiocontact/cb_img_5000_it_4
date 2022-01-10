@@ -1,0 +1,61 @@
+{
+  "english": "scientist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà khoa học",
+          "definition": "a person who studies one or more branches of science",
+          "world_new": [
+            "person",
+            "science"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nuclear scientist.",
+              "world_new": [
+                "nuclear"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Demarcation applies also to the debates in which scientists engage, where criticism is exercised.",
+    "Since scientists are human beings, they may let beliefs that do not satisfy the falsifiability criterion play a role in their debates.",
+    "A task of social scientists is to explain the differing outcomes in terms of economic 'fundamentals'.",
+    "The livestock element has tended to be viewed by scientists as an adjunct to crops, to which it contributes manure and draught power.",
+    "Some political scientists have demonstrated how the prospects for democratization are enhanced by wars.",
+    "Empirical reports on scientific competition show that scientists can be depicted as self-interested, strategically behaving agents.",
+    "This is the truth that the visual scientists, quoted in section 1 of the target article, are after, though they misstate the point.",
+    "One way to understand the peculiar circumstances of a national research programme is to actually hold consultation visits with the scientists on the programme."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "science",
+    "science fiction",
+    "scientific",
+    "scientifically",
+    "scientist",
+    "scintillating",
+    "scissors",
+    "scoff",
+    "scold"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444973_eaed909d61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444973_6d9dee1759_o.png",
+      "id_image": "scientist_1039040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066660_e12b224a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066660_09fae04465_o.png",
+      "id_image": "scientist_1039067"
+    }
+  ]
+}

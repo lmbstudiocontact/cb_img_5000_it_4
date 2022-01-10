@@ -1,0 +1,73 @@
+{
+  "english": "rotary",
+  "phat_am": "ˈrəutəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "quay",
+          "definition": "turning like a wheel",
+          "world_new": [
+            "wheel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rotary movement.",
+              "world_new": [
+                "movement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Each intermediate link has rotary joints at its ends connecting to the platform and a slider.",
+    "However, wet spring weather caused the number of rotary hoeings and cultivations to vary among farms in the no herbicide treatment.",
+    "Shear deformation, rotary inertia and effect of axial force are assumed to be negligible.",
+    "Structure of the peripheral domains of neurofilaments revealed by low angle rotary shadowing.",
+    "One is the element of reciprocal rotational movement within the limited angle, such as on a rotary actuator with limited travel.",
+    "Also, if there is a rotary actuator to drive a rotational degree of freedom, its reaction torque acts on the preceding rotational movability.",
+    "Chapter 4 describes tape-based storage and retrieval, summarising rotary and stationary head recording systems.",
+    "Simulation results with three-link rotary robot are presented and performances of different compensating locations are compared."
+  ],
+  "list_see_also": [
+    "rotate",
+    "rotation"
+  ],
+  "list_browse": [
+    "rostrum",
+    "rosy",
+    "rot",
+    "rota",
+    "rotary",
+    "rotate",
+    "rotation",
+    "rotor",
+    "rotten"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386942_d4bb00c54b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386942_52c11fbd51_o.png",
+      "id_image": "rotary_1686357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386927_2e787a8dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386927_b76d75ca34_o.png",
+      "id_image": "rotary_2472828"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079315_af7e84e0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079315_72cf47e384_o.png",
+      "id_image": "rotary_4646849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456738_e70eb0b176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456738_ed1e1299b3_o.png",
+      "id_image": "rotary_4646869"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "sauce",
+  "phat_am": "soːs",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước chấm, nước xốt",
+          "definition": "a usually thick liquid that is poured over other food in order to add moisture and flavour",
+          "world_new": [
+            "thick",
+            "liquid",
+            "food",
+            "order",
+            "add",
+            "moisture",
+            "flavour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tomato sauce",
+              "world_new": [
+                "tomato"
+              ]
+            },
+            {
+              "ex_of_definition": "an expert at making sauces.",
+              "world_new": [
+                "expert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What, however, is sauce for the goose is also sauce for the gander.",
+    "What is sauce for the goose is sauce for expression refers to a ship or boat sailing the gander.",
+    "I ate the sushi plain, without soy sauce or wasabi (horseradish).",
+    "What is sauce for the goose surely is sauce for the gander.",
+    "These sauces were prepared under poor hygienic conditions of handling and selling.",
+    "What is sauce for the goose is sauce for the gander!",
+    "He takes the time to score his goal and then returns to the kitchen, drains the pasta, adds some sauce, and serves it in the restaurant.",
+    "Saying 'blood' around the red sauce that is made from pandanus cobs, for example, would cause people eating this foodstuff to vomit."
+  ],
+  "list_see_also": [
+    "saucy",
+    "saucily",
+    "sauciness",
+    "saucepan"
+  ],
+  "list_browse": [
+    "saturate",
+    "saturation",
+    "Saturday",
+    "Saturn",
+    "sauce",
+    "saucepan",
+    "saucer",
+    "saucily",
+    "sauciness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070925_924365b245_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070925_6e2e0296ee_o.png",
+      "id_image": "sauce_1785248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688979_ca8f6fd083_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688979_cb0882954b_o.png",
+      "id_image": "sauce_3255731"
+    }
+  ]
+}

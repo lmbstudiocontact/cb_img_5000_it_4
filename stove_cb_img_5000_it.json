@@ -1,0 +1,65 @@
+{
+  "english": "stove",
+  "phat_am": "stəuv",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bếp lò, lò sưởi",
+          "definition": "an apparatus using coal, gas, electricity or other fuel, used for cooking, or for heating a room",
+          "world_new": [
+            "apparatus",
+            "coal",
+            "gas",
+            "electricity",
+            "fuel",
+            "cooking",
+            "heating",
+            "room"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a gas/electric (cooking) stove"
+            },
+            {
+              "ex_of_definition": "Put the saucepan on the stove.",
+              "world_new": [
+                "saucepan"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stormy",
+    "story",
+    "stout",
+    "stout-hearted",
+    "stove",
+    "stow",
+    "stow away",
+    "stowaway",
+    "straggle"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344336_a485e7597a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344336_594e107f66_o.png",
+      "id_image": "stove_3822632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459063_40569db638_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459063_8b37e57a97_o.png",
+      "id_image": "stove_5110693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344381_be8e764349_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344381_221f984c77_o.png",
+      "id_image": "stove_904613"
+    }
+  ]
+}

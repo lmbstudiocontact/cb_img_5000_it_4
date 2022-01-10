@@ -1,0 +1,109 @@
+{
+  "english": "shuffle",
+  "phat_am": "ˈʃafl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lê bước",
+          "definition": "to move (one’s feet) along the ground etc without lifting them",
+          "world_new": [
+            "move",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do stop shuffling (your feet)!",
+              "world_new": [
+                "stop"
+              ]
+            },
+            {
+              "ex_of_definition": "The old man shuffled along the street.",
+              "world_new": [
+                "old",
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trộn, xáo",
+          "definition": "to mix (playing-cards etc)",
+          "world_new": [
+            "mix"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s your turn to shuffle (the cards).",
+              "world_new": [
+                "your",
+                "turn"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xáo bài",
+          "definition": "an act of shuffling",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the cards a shuffle.",
+              "world_new": [
+                "cards"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Progressive whist is considered to be a game of chance, presumably largely because the partners are shuffled as well as the cards.",
+    "They had a colleague on each side of them supporting them as they shuffled their way to work, unable to walk of their own accord.",
+    "The modest church was packed (the tickets were free) with every agegroup - from those new to life to those on their way out - with concomitant gurgles and shuffles.",
+    "Today the figures are just shuffled out in percentages.",
+    "The contents of the package of cuts have been shuffled and the wrapping changed, but much of the destruction remains.",
+    "The pack has been shuffled so often that it is sometimes difficult to keep track of where the cards have immediately fallen.",
+    "Under these conditions, it could also be that more variability originally existed at the three distal loci but was selectively lost after it was shuffled by such recombination events.",
+    "The content of each row is maintained and the order within the row is shuffled."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shrug",
+    "shrug off",
+    "shrunken",
+    "shudder",
+    "shuffle",
+    "shun",
+    "shut",
+    "shut down",
+    "shut off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078515_44697d314f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078515_ff89174c9d_o.png",
+      "id_image": "shuffle_1809667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455933_99ddd48f55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455933_1b7e404c8f_o.png",
+      "id_image": "shuffle_1902305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341091_54fe9e0a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341091_8fb4c7d13d_o.png",
+      "id_image": "shuffle_5072395"
+    }
+  ]
+}

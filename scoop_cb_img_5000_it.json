@@ -1,0 +1,123 @@
+{
+  "english": "scoop",
+  "phat_am": "skuːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái muỗng",
+          "definition": "any of several types of spoon-like tool, used for lifting, serving etc",
+          "world_new": [
+            "tool",
+            "serving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a grain scoop",
+              "world_new": [
+                "grain"
+              ]
+            },
+            {
+              "ex_of_definition": "an ice-cream scoop."
+            }
+          ]
+        },
+        {
+          "mean_english": "một muỗng (xẻng, gàu…)",
+          "definition": "(also scoopful) the amount held in a scoop",
+          "world_new": [
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a scoop of ice-cream"
+            },
+            {
+              "ex_of_definition": "a scoopful of grain.",
+              "world_new": [
+                "grain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin sốt dẻo",
+          "definition": "a piece of news etc that one newspaper gets and prints before the others",
+          "world_new": [
+            "piece",
+            "news",
+            "newspaper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The reporter was sure that he had a scoop for his paper.",
+              "world_new": [
+                "reporter",
+                "sure",
+                "paper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xúc, múc",
+          "definition": "to move with, or as if with, a scoop",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scooped the crumbs together with his fingers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The schools in my constituency are often in dire difficulty, yet three schools are scooping up millions of pounds of taxpayers' money through the assisted places scheme.",
+    "We know that a large amount of the pool will be scooped by the very successful authors who do not need the money anyway.",
+    "Well, private enterprise has scooped the pool in regard to lotteries.",
+    "Even the strongest management would have avoided involving its paper in a strike and seeing its circulation scooped up by one of its competitors.",
+    "We see day in and day out foreign trawlers scooping up the heritage of our inshore fishermen with nets through which nothing can pass; they look like curtains.",
+    "The housewife, a most excellent person, or somebody else, takes these bottles and scoops out the stopper—and then what happens to it?",
+    "They are scooped up in our great education system and go off and do something else.",
+    "They are scooped up from the bed of the ocean to be converted not into human food, but into fish meal."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scoff",
+    "scold",
+    "scolding",
+    "scone",
+    "scoop",
+    "scoot",
+    "scooter",
+    "scope",
+    "scorch"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684339_b35c7f191a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684339_aa7edb688d_o.png",
+      "id_image": "scoop_4597359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329456_5b8b938f43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329456_1d1a4c44aa_o.png",
+      "id_image": "scoop_525805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684399_e1dc22f4d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684399_4927053b8d_o.png",
+      "id_image": "scoop_528329"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "english": "tutor",
+  "phat_am": "ˈtjuːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thầy phụ đạo",
+          "definition": "a teacher of a group of students in a college or university.",
+          "world_new": [
+            "teacher",
+            "group",
+            "college",
+            "university"
+          ]
+        },
+        {
+          "mean_english": "gia sư",
+          "definition": "a privately-employed teacher",
+          "world_new": [
+            "teacher"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His parents employed a tutor to teach him Greek.",
+              "world_new": [
+                "employed",
+                "teach"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sách hướng dẫn âm nhạc",
+          "definition": "a book which teaches a subject, especially music",
+          "world_new": [
+            "book",
+            "subject",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I bought a violin tutor.",
+              "world_new": [
+                "I",
+                "violin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dạy",
+          "definition": "to teach",
+          "world_new": [
+            "teach"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tutored the child in mathematics.",
+              "world_new": [
+                "child",
+                "mathematics"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tutors were also in charge of collecting the log files made by the software to verify usage time.",
+    "Elicitation of knowledge with and for intelligent tutoring systems.",
+    "The five pupils (in the experimental and control groups) were chosen by their tutors.",
+    "The detail is excellent and the information on colour and textiles is also invaluable to tutors and designers.",
+    "Where collaborative work is undertaken, various schemes operate to enable tutors to derive marks for individual students.",
+    "Communication with peers is important in some tutors, but can be difficult to instrument.",
+    "Automated modelling may even enable new applications, such as tutoring system design in engineering.",
+    "There are four sections: schools and tutors; language acquisition; literary experience; and linguistic insight."
+  ],
+  "list_see_also": [
+    "tutorial"
+  ],
+  "list_browse": [
+    "turtleneck",
+    "tusk",
+    "tut(-tut)",
+    "tutelage",
+    "tutor",
+    "tutorial",
+    "tutu",
+    "tuxedo",
+    "TV"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443038_4c85ba041f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443038_908a831be5_o.png",
+      "id_image": "tutor_4016173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064670_b4e919cf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064670_73e9de7e5f_o.png",
+      "id_image": "tutor_4079292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682999_a43d262268_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682999_ffbec86e0b_o.png",
+      "id_image": "tutor_4419295"
+    }
+  ]
+}

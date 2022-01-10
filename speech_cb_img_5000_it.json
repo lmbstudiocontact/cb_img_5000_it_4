@@ -1,0 +1,119 @@
+{
+  "english": "speech",
+  "phat_am": "spiːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khả năng, hành động nói",
+          "definition": "(the act of) saying words, or the ability to say words",
+          "world_new": [
+            "act",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Speech is one method of communication between people.",
+              "world_new": [
+                "method",
+                "communication",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời nói",
+          "definition": "the words said",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His speech is full of colloquialisms.",
+              "world_new": [
+                "full"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách nói , lối nói",
+          "definition": "manner or way of speaking",
+          "world_new": [
+            "manner",
+            "speaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His speech is very slow.",
+              "world_new": [
+                "slow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài diễn thuyết",
+          "definition": "a formal talk given to a meeting etc",
+          "world_new": [
+            "formal",
+            "talk",
+            "meeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "parliamentary speeches.",
+              "world_new": [
+                "parliamentary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Bands created a lively atmosphere while public speeches generated excitement: these were 'civilized' mass meetings for boycott aims under the guise of memorial service.",
+    "The funeral celebration was the occasion for remembering the dead through speeches that commented on the individual.",
+    "They argue that it is used in \"formal political speeches, in the print and broadcast media, and at all levels of the education system\".",
+    "The substance of his speeches is usually nothing said in schoolboy florid rhetoric.",
+    "Speakers utilize a distinctive style when making speeches on behalf of the chief to ground members and visitors.",
+    "Throughout his lengthy speeches, he would talk directly to individuals, whom he knew personally or recalled from prior engagements.",
+    "Workmen did not always listen in silence ; ' mutinous courses ' and ' contemptuous speeches ' expressed a more ugly mood.",
+    "Early on these speeches try to lead opinion on the substance of policy."
+  ],
+  "list_see_also": [
+    "speechless",
+    "speechlessly",
+    "speechlessness",
+    "speech bubble",
+    "speech marks"
+  ],
+  "list_browse": [
+    "spectre",
+    "spectrum",
+    "speculate",
+    "speculation",
+    "speech",
+    "speech bubble",
+    "speech marks",
+    "speechless",
+    "speechlessly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369272_b71e041547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369272_edf673ea3b_o.png",
+      "id_image": "speech_1312516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439418_e3f77d1bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439418_a5b88f2383_o.png",
+      "id_image": "speech_1902220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679574_2a9d2c4a02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679574_6fb348c22d_o.png",
+      "id_image": "speech_696395"
+    }
+  ]
+}

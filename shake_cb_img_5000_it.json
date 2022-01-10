@@ -1,0 +1,144 @@
+{
+  "english": "shake",
+  "phat_am": "ʃeik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rung, lắc",
+          "definition": "to (cause to) tremble or move with jerks",
+          "world_new": [
+            "tremble",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The explosion shook the building",
+              "world_new": [
+                "explosion",
+                "building"
+              ]
+            },
+            {
+              "ex_of_definition": "We were shaking with laughter",
+              "world_new": [
+                "shaking",
+                "laughter"
+              ]
+            },
+            {
+              "ex_of_definition": "Her voice shook as she told me the sad news.",
+              "world_new": [
+                "voice",
+                "sad",
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm sửng sốt",
+          "definition": "to shock, disturb or weaken",
+          "world_new": [
+            "shock",
+            "disturb",
+            "weaken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was shaken by the accident",
+              "world_new": [
+                "accident"
+              ]
+            },
+            {
+              "ex_of_definition": "My confidence in him has been shaken.",
+              "world_new": [
+                "confidence"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự rung",
+          "definition": "an act of shaking",
+          "world_new": [
+            "act",
+            "shaking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the bottle a shake.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cốc sữa trứng",
+          "definition": "drink made by shaking the ingredients together vigorously",
+          "world_new": [
+            "drink",
+            "shaking",
+            "vigorously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a chocolate milk-shake.",
+              "world_new": [
+                "chocolate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "shaking",
+    "shaky",
+    "shakily",
+    "shakiness",
+    "shake-up",
+    "no great shakes",
+    "shake one’s fist at",
+    "shake one’s head",
+    "shake off",
+    "shake up"
+  ],
+  "list_browse": [
+    "shady",
+    "shaft",
+    "shagginess",
+    "shaggy",
+    "shake",
+    "shake hands with (someone) / shake someone’s hand",
+    "shake off",
+    "shake one’s fist at",
+    "shake one’s head"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347766_5eb742cfd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347766_cb48a6df9f_o.png",
+      "id_image": "shake_3274282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085060_e32fb12978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085060_d927ff31be_o.png",
+      "id_image": "shake_3646023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392612_d3e5f5d2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392612_a63089c66e_o.png",
+      "id_image": "shake_4403892"
+    }
+  ]
+}

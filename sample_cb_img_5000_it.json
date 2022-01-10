@@ -1,0 +1,95 @@
+{
+  "english": "sample",
+  "phat_am": "ˈsaːmpl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vật mẫu",
+          "definition": "a part taken from something to show the quality of the whole",
+          "world_new": [
+            "part",
+            "quality",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "samples of the artist’s work",
+              "world_new": [
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a sample tube of ointment.",
+              "world_new": [
+                "tube",
+                "ointment"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lấy mẫu",
+          "definition": "to test a sample of",
+          "world_new": [
+            "test"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sampled my cake.",
+              "world_new": [
+                "my",
+                "cake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Identification was aided by comparison with positive control samples provided in the kit.",
+    "Positive samples were then re-tested with a negative control between each positive reaction for confirmation.",
+    "Alternatively, an on-site laboratory can process the samples in 24 hours.",
+    "The authors quote extensively from policies of various administrations and nongovernmental organizations as samples of language policy at national, continental, and international levels.",
+    "Each species was sampled every month when possible, but not all species could be sampled with the same regularity.",
+    "A crystal of phenylthiourea was added to samples to be used for electrophoresis to inhibit melanin formation.",
+    "The shape of the envelope applied to the samples determines the window type and the number of samples in a window is the window length.",
+    "Then 100 ml of serum samples were added at a dilution of 1 : 100."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "same",
+    "same here",
+    "same-sex marriage",
+    "sampan",
+    "sample",
+    "sanatorium",
+    "sanctification",
+    "sanctify",
+    "sanctimonious"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450633_9981b781cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450633_31c2356c79_o.png",
+      "id_image": "sample_2114555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335641_71699127c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335641_ba6cc27a4e_o.png",
+      "id_image": "sample_5446624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335616_f72fb9f233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335616_b53686ee2c_o.png",
+      "id_image": "sample_5857171"
+    }
+  ]
+}

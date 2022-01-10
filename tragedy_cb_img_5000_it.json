@@ -1,0 +1,81 @@
+{
+  "english": "tragedy",
+  "phat_am": "ˈtrӕdʒədi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bi kịch",
+          "definition": "(a) drama about unfortunate events with a sad outcome",
+          "world_new": [
+            "drama",
+            "unfortunate",
+            "sad",
+            "outcome"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Hamlet’ is one of Shakespeare’s tragedies."
+            }
+          ]
+        },
+        {
+          "mean_english": "thảm kịch",
+          "definition": "an unfortunate or sad event",
+          "world_new": [
+            "unfortunate",
+            "sad",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His early death was a great tragedy for his family.",
+              "world_new": [
+                "death",
+                "great",
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such tragedies could be avoided if warning labels were used.",
+    "Euripides often slows the dramatic action in order to give scope to his characters' passions in song, then uses those songs, in turn, to structure his tragedies.",
+    "We note, finally, that in policymaking and policy tragedies, the narrative must embed a representation of the victim or the beneficiary (or both).",
+    "One of the tragedies of injury is that many men improve sufficiently to be given light work but that no such work is available.",
+    "One of the tragedies of all wars: is that people get so loose morally, during war.",
+    "I think we shall see terrible tragedies at sea and in the air, and, it may be, extraordinary attempts at surprise attacks on this country.",
+    "Indeed, one of the great tragedies of the 20th century has been the great schism following the events of 1917.",
+    "Ntankumaa originated from tragedies, real or legendary, which tradition claims befell par ticular small towns, villages, families, or individuals."
+  ],
+  "list_see_also": [
+    "tragic"
+  ],
+  "list_browse": [
+    "traffic island",
+    "traffic jam",
+    "traffic lights",
+    "trafficker",
+    "tragedy",
+    "tragic",
+    "trail",
+    "trailer",
+    "trailer park"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340161_48e97c5c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340161_5b89e6208a_o.png",
+      "id_image": "tragedy_207050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340131_4b74ba4f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340131_df1bc5f5e0_o.png",
+      "id_image": "tragedy_4065453"
+    }
+  ]
+}

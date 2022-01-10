@@ -1,0 +1,87 @@
+{
+  "english": "satisfy",
+  "phat_am": "ˈsӕtisfai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm hài lòng",
+          "definition": "to give (a person) enough of what is wanted or needed to take away hunger, curiosity etc",
+          "world_new": [
+            "wanted",
+            "hunger",
+            "curiosity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The apple didn’t satisfy my hunger",
+              "world_new": [
+                "apple",
+                "my",
+                "hunger"
+              ]
+            },
+            {
+              "ex_of_definition": "I told him enough to satisfy his curiosity.",
+              "world_new": [
+                "I",
+                "curiosity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáp ứng, thỏa mãn",
+          "definition": "to please",
+          "world_new": [
+            "please"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is very difficult to satisfy.",
+              "world_new": [
+                "difficult"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The function's behaviour is such that, while still making use of the above approximations, the boundary conditions can be satisfied.",
+    "If it turns out that the new treatment is at least as good as the established one, then the researcher has satisfied this obligation.",
+    "Let us point out that the elegance of the last result is confronted with the difficulty of satisfying the symmetry property (2.27).",
+    "The first problem is that the inequality (4.15) is not satisfied.",
+    "The smooth structure of the branched surface allows us to show that this cone satisfies the following property.",
+    "Then the assumptions of (1) are satisfied with = 1/(2 + 2).",
+    "The book only satisfies the first of these criteria to any extent.",
+    "Therefore, v satisfies the differential equation (4.25)1 in distributional sense."
+  ],
+  "list_see_also": [
+    "satisfaction",
+    "satisfactory",
+    "satisfactorily",
+    "satisfied",
+    "satisfying"
+  ],
+  "list_browse": [
+    "satisfaction",
+    "satisfactorily",
+    "satisfactory",
+    "satisfied",
+    "satisfy",
+    "satisfying",
+    "saturate",
+    "saturation",
+    "Saturday"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333996_a729db5b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333996_ab7cbd497f_o.png",
+      "id_image": "satisfy_4795838"
+    }
+  ]
+}

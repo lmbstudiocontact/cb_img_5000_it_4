@@ -1,0 +1,84 @@
+{
+  "english": "tease",
+  "phat_am": "tiːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trêu, nô đùa",
+          "definition": "to annoy or irritate on purpose",
+          "world_new": [
+            "annoy",
+            "irritate",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s teasing the cat.",
+              "world_new": [
+                "cat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quấy rầy",
+          "definition": "to annoy or laugh at (a person) playfully",
+          "world_new": [
+            "annoy",
+            "laugh",
+            "playfully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His school-friends tease him about his size.",
+              "world_new": [
+                "size"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hay chọc ghẹo",
+          "definition": "a person who enjoys teasing others",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a tease!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "teaser",
+    "teasingly"
+  ],
+  "list_browse": [
+    "tear-stained",
+    "tearful",
+    "tearfully",
+    "tearfulness",
+    "tease",
+    "teaser",
+    "teasingly",
+    "teaspoon",
+    "teaspoonful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708019_d89a513a78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708019_25e988287c_o.png",
+      "id_image": "tease_3508736"
+    }
+  ]
+}

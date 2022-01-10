@@ -1,0 +1,66 @@
+{
+  "english": "transmitter",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy phát",
+          "definition": "an apparatus for transmitting, or a person who transmits",
+          "world_new": [
+            "apparatus",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a radio transmitter.",
+              "world_new": [
+                "radio"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The shape of the variance -mean relation suggests that in bright light transmitter release approaches zero, while in darkness transmitter release saturates the postsynaptic response.",
+    "Moreover, the transmitters have to present themselves as trustworthy agents so that their messages will be taken seriously.",
+    "This leaves the possibility of electrical synapses or a second type of transmitter.",
+    "A portion of the transmitters (factor r) returns from the synaptic cleft into the presynaptic hair cell.",
+    "In addition, they are sensitive to neuronal activity by expressing various transmitter receptors.",
+    "In effect the cone bipolar cell counts every vesicle released, thus allowing synaptic transfer to be encoded by much lower transmitter release rates.",
+    "Most of our arguments concerning vertical transmission require only transgenerational transmission, and relate to the temporal distance between the learning of transmitter and receiver.",
+    "It is known that exogenous application of a transmitter activates both synaptic and extrasynaptic receptors."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "translucency",
+    "translucent",
+    "transmission",
+    "transmit",
+    "transmitter",
+    "transparency",
+    "transparent",
+    "transparently",
+    "transpiration"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382197_bc6008cbc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382197_a0b74580d1_o.png",
+      "id_image": "transmitter_4579044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451998_305b6c5ecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451998_475720e758_o.png",
+      "id_image": "transmitter_6276054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451973_30d70fde7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451973_1c9814303f_o.png",
+      "id_image": "transmitting_2649838"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "seminar",
+  "phat_am": "(British) ˈsemiˌnaː; (American) ˈseməˌnaːr",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi chuyên đề",
+          "definition": "a class at a university or college in which a small group of students discuss a particular subject with a teacher",
+          "world_new": [
+            "class",
+            "university",
+            "college",
+            "small",
+            "group",
+            "discuss",
+            "particular",
+            "subject",
+            "teacher"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Students must attend seminars on time and will not be allowed in if they attend more than 10 minutes after the commencement of the session.",
+              "world_new": [
+                "attend",
+                "time",
+                "attend",
+                "commencement",
+                "session"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hội thảo",
+          "definition": "a meeting at which a group of people discuss a particular subject, especially for training purposes",
+          "world_new": [
+            "meeting",
+            "group",
+            "people",
+            "discuss",
+            "particular",
+            "subject",
+            "especially",
+            "training"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a business seminar.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also found that a considerable number of the participating patients had indicated that they would like to be invited to the seminars.",
+    "The seminar closes with an internationally renowned keynote speaker addressing the students, the inhabitants of the town and visiting architects.",
+    "An interesting, sometimes alarming, sometimes irritating, sometimes frustrating book - just the thing for seminar discussion texts.",
+    "One year he even posted guards at the doors of the seminar room to keep uninvited people out.",
+    "Every two years its programme of jury-selected performances and seminars is held in a different city.",
+    "This session provided valuable feedback for each group that inevitably helped with preparation for the assessed seminars.",
+    "A brief case-based seminar was developed that discussed the different medications with a focus on avoiding ones that induce delirium.",
+    "Selected topics could be worked through individually or as part of a seminar or advanced course."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "semicircular",
+    "semicolon",
+    "semiconductor",
+    "seminal",
+    "seminar",
+    "seminary",
+    "semitone",
+    "semolina",
+    "Sen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464958_8d11e7b9c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464958_2cdef5b807_o.png",
+      "id_image": "seminar_1440991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704904_4d9e8dac28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704904_53c3e286a3_o.png",
+      "id_image": "seminar_3855111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704964_38cc0f9887_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704964_e020a1e182_o.png",
+      "id_image": "seminar_418819"
+    }
+  ]
+}

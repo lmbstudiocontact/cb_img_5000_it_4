@@ -1,0 +1,78 @@
+{
+  "english": "torpedo",
+  "phat_am": "toːˈpiːdəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngư lôi",
+          "definition": "an underwater missile fired at ships",
+          "world_new": [
+            "underwater",
+            "missile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an enemy torpedo.",
+              "world_new": [
+                "enemy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh ngư lôi",
+          "definition": "to attack, damage or destroy with torpedoes",
+          "world_new": [
+            "attack",
+            "damage",
+            "destroy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship was torpedoed.",
+              "world_new": [
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "torch",
+    "torment",
+    "tormentor",
+    "tornado",
+    "torpedo",
+    "torrent",
+    "torrential",
+    "torrid",
+    "torso"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387917_5900a4dbf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387917_be4f611e99_o.png",
+      "id_image": "torpedo_1461914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387957_ea05d4b7a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387957_84b329aebf_o.png",
+      "id_image": "torpedo_238551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342911_6d0bce4af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342911_79191b5e7f_o.png",
+      "id_image": "torpedo_3191019"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "english": "trail",
+  "phat_am": "treil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo",
+          "definition": "to drag, or be dragged, along loosely",
+          "world_new": [
+            "drag",
+            "loosely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Garments were trailing from the suitcase.",
+              "world_new": [
+                "suitcase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi lang thang",
+          "definition": "to walk slowly and usually wearily",
+          "world_new": [
+            "walk",
+            "slowly",
+            "wearily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He trailed down the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lần theo dấu vết",
+          "definition": "to follow the track of",
+          "world_new": [
+            "follow",
+            "track"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The herd of reindeer was being trailed by a pack of wolves.",
+              "world_new": [
+                "herd",
+                "reindeer",
+                "pack"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu vết",
+          "definition": "a track (of an animal)",
+          "world_new": [
+            "track"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The trail was easy for the hunters to follow.",
+              "world_new": [
+                "easy",
+                "follow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường mòn",
+          "definition": "a path through a forest or other wild area",
+          "world_new": [
+            "path",
+            "forest",
+            "wild",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mountain trail.",
+              "world_new": [
+                "mountain"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vệt",
+          "definition": "a line, or series of marks, left by something as it passes",
+          "world_new": [
+            "line",
+            "series",
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a trail of blood across the floor.",
+              "world_new": [
+                "blood",
+                "across",
+                "floor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No headquarters or global view coordinates this process; rather, each cell follows simple local rules about the release and tracking of pheromone trails.",
+    "Here, spatiotemporal plasticity was high in primary trails, suggesting that these trails fulfil the same function as high-order trails of mature colonies.",
+    "Only six seedlings remained in four clumps located on feeding trails.",
+    "The inflated aerofoil consisted of an impervious sleeve supported by thin steel wedges a t the leading and trailing edges.",
+    "The motion thus started continued downstream in the form of a pair of trailing vortices.",
+    "Starting with very low-amplitude regimes near the onset of modulational instability, one has either isolated pulses or pulses coexisting with regular trails.",
+    "Then came jazz and twentieth-century classical music, with folk music trailing behind.",
+    "Subjects light adapted to a blank display for at least 1 min before they initiated a block of 30 -50 stimulus presentation trails."
+  ],
+  "list_see_also": [
+    "trailer",
+    "trailer park"
+  ],
+  "list_browse": [
+    "traffic lights",
+    "trafficker",
+    "tragedy",
+    "tragic",
+    "trail",
+    "trailer",
+    "trailer park",
+    "train",
+    "trained"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384982_26cc7aecdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384982_dbd33172f5_o.png",
+      "id_image": "trail_3684380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454948_8ff86d2bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454948_258f60efef_o.png",
+      "id_image": "trail_4559875"
+    }
+  ]
+}

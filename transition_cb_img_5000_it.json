@@ -1,0 +1,67 @@
+{
+  "english": "transition",
+  "phat_am": "trӕnˈziʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quá độ",
+          "definition": "(a) change from one place, state, subject etc to another",
+          "world_new": [
+            "change",
+            "place",
+            "state",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The transition from child to adult can be difficult.",
+              "world_new": [
+                "child",
+                "adult",
+                "difficult"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Suppose the same rule is applied in both transitions.",
+    "In other words, the connecting pieces - transitions, retransitions, etc. - are just as long as that which they connect.",
+    "Using an illustrative model, we show that transitions between grassland and woodland may result from the interplay of facilitation and competition between herbivores.",
+    "We split the exec transitions into functional and actor primitives.",
+    "All cases exhibited a series of transitions between fast run and slow bursting.",
+    "The predicted stable stage distributions present the same trends (within savanna types, and during the two yearly transitions) in comparison to the observed distributions.",
+    "When single junctional channel transitions occur, the clamp current for each cell changes the same magnitude but in opposite directions.",
+    "Characterizing the dynamics also sets the stage for welfare analysis that includes transitions."
+  ],
+  "list_see_also": [
+    "transitional"
+  ],
+  "list_browse": [
+    "transgenic",
+    "transgenically",
+    "transistor",
+    "transit",
+    "transition",
+    "transitional",
+    "transitive",
+    "translate",
+    "translation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452598_32b44cfeb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452598_742f89fb27_o.png",
+      "id_image": "transition_4282736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692999_1bfb814fc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692999_08f9691912_o.png",
+      "id_image": "transition_5184279"
+    }
+  ]
+}

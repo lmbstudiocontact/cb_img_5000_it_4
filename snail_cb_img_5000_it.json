@@ -1,0 +1,63 @@
+{
+  "english": "snail",
+  "phat_am": "sneil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con ốc sên",
+          "definition": "a kind of soft-bodied small crawling animal with a coiled shell",
+          "world_new": [
+            "kind",
+            "small",
+            "animal",
+            "shell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Snails leave a silvery trail as they move along.",
+              "world_new": [
+                "leave",
+                "silvery",
+                "trail",
+                "move"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A matched number of control snails were exposed to both parasite strains.",
+    "Infections appear to be permanent and greater prevalence in older snails might be predicted because they have been longer exposed to infection.",
+    "They collected 18 uninfected snails, 162 with single infections (5 species), 134 with double infections (11 combinations), and 65 with triple infections (5 combinations).",
+    "The treatment of the death rate of shedding snails is more complicated.",
+    "Trematodes, however, not only modify their immediate habitat (snails), they also can affect the positioning of that habitat in an ecosystem.",
+    "Perhaps miracidia colonize snails at higher rates in freshwater.",
+    "If cercarial production for both lymnaeids is explained by the low number of mature rediae which develop within these snails, another hypothesis cannot be excluded.",
+    "Each week dead snails were removed from the tank and the number of mortalities recorded."
+  ],
+  "list_see_also": [
+    "at a snail’s pace"
+  ],
+  "list_browse": [
+    "smuttiness",
+    "smutty",
+    "snack",
+    "snag",
+    "snail",
+    "snake",
+    "snake-bite",
+    "snake-charmer",
+    "snap"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330161_ebd42a42b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330161_9d37ab17a3_o.png",
+      "id_image": "snail_604190"
+    }
+  ]
+}

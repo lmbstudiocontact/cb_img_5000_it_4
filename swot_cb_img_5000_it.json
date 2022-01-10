@@ -1,0 +1,75 @@
+{
+  "english": "swot",
+  "phat_am": "swot",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "học gạo, đọc sách miệt mài",
+          "definition": "to study hard, especially by memorizing eg for an examination",
+          "world_new": [
+            "study",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s swotting for her history test.",
+              "world_new": [
+                "history",
+                "test"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người học gạo",
+          "definition": "an unkind word for a person who studies hard.",
+          "world_new": [
+            "unkind",
+            "person"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is regarded rather like \"swotting\" at school; but nevertheless it is absolutely fundamental to our full recovery.",
+    "It is very well done, and one did a lot of swotting at home and got it clear.",
+    "Secondary school teachers fight an unending struggle against classroom cultures in which anyone who works hard is stigmatised as a swot.",
+    "In some places it is used splendidly, but in others it is used merely for swotting for examinations.",
+    "Swot as a verb suggests acting like a swot, studying for one's exams.",
+    "Schoolmates labelled him a swot.",
+    "I have tried to make a kind of swot report to look at strengths and weaknesses and to see where we have got to.",
+    "I enjoy what was called swotting in my day."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sword-play",
+    "swordsman",
+    "swordtail",
+    "sworn",
+    "swot",
+    "syllabic",
+    "syllable",
+    "syllabus",
+    "symbiosis"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686409_fc8684782d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686409_28e65bcbcf_o.png",
+      "id_image": "swot_3997484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376047_ac242986e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376047_35b7c2f540_o.png",
+      "id_image": "swot_3997565"
+    }
+  ]
+}

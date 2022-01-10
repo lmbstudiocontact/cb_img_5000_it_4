@@ -1,0 +1,78 @@
+{
+  "english": "subtitle",
+  "phat_am": "ˈsabtaitl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đề phụ",
+          "definition": "a second or explanatory title to a book.",
+          "world_new": [
+            "explanatory",
+            "title",
+            "book"
+          ]
+        },
+        {
+          "mean_english": "phụ đề",
+          "definition": "on a cinema film etc, a translation of foreign speech appearing at the bottom of the screen",
+          "world_new": [
+            "cinema",
+            "film",
+            "translation",
+            "foreign",
+            "speech",
+            "bottom",
+            "screen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I found it difficult to read the subtitles.",
+              "world_new": [
+                "I",
+                "found",
+                "difficult",
+                "read"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The broadcasting authorities are not providing complete access to television for deaf viewers by providing, for example, subtitles or sign language.",
+    "There are many deaf people for whom the present regulations on the availability of subtitles are wholly inadequate.",
+    "Why should deaf people have the right to subtitling on some channels but not on others?",
+    "By any calculation, that represents a considerable increase in the overall amount of programming that will be available with subtitles.",
+    "Work is also in hand by the authorities to develop effective systems for subtitling live programmes.",
+    "However, programming and subtitling are matters for them to determine, within their public service responsibilities.",
+    "Of the 16 commercials, eight of them were provided with closed caption subtitling.",
+    "Quite rightly, she drew attention to the difficulties in producing subtitles and the very great skills required to produce them efficiently and effectively."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "substantiate",
+    "substitute",
+    "substitution",
+    "subterranean",
+    "subtitle",
+    "subtle",
+    "subtlety",
+    "subtly",
+    "subtract"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454638_daca379ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454638_44633b7b84_o.png",
+      "id_image": "subtitle_4806224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076875_c81f6540b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076875_5c03f4d40f_o.png",
+      "id_image": "subtitle_6151590"
+    }
+  ]
+}

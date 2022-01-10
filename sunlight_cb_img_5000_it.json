@@ -1,0 +1,63 @@
+{
+  "english": "sunlight",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ánh sáng mặt trời",
+          "definition": "the light of the sun",
+          "world_new": [
+            "light",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat was sitting in a patch of sunlight.",
+              "world_new": [
+                "cat",
+                "sitting",
+                "patch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These large gap locations received 80-100% sunlight during the day.",
+    "The blue sky provides about a tenth of the bright sunlight and is more or less diffused.",
+    "Since this mouse is an optical mouse, the mouse fails when sufficient sunlight leaks into the trackball.",
+    "In this case ice, is able to undergo intensive sublimation if the surface is heated enough by sunlight.",
+    "Of course the bright sunlight is then, broadly speaking, too bright and it has to be excluded to prevent buildings overheating.",
+    "Minor concessions to location and climate were developed, the verandah, for example, keeping direct sunlight from falling on external walls.",
+    "For living objects with optical concentrators, the concentration factor increases with the square of distance to compensate for the decrease in sunlight.",
+    "Sunlight passes through the steel-framed windows, making the flats even brighter."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sunflower",
+    "sunglasses",
+    "sunken",
+    "sunless",
+    "sunlight",
+    "sunlit",
+    "sunniness",
+    "sunny",
+    "sunrise"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382597_46cd247725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382597_d611fb053f_o.png",
+      "id_image": "sunlight_1347278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382572_c85289b362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382572_1125930aef_o.png",
+      "id_image": "sunlight_6041056"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "english": "tag",
+  "phat_am": "tӕɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhãn (hàng, giá)",
+          "definition": "a label",
+          "world_new": [
+            "label"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a price tag",
+              "world_new": [
+                "price"
+              ]
+            },
+            {
+              "ex_of_definition": "a name tag.",
+              "world_new": [
+                "name"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "câu nói được nhắc đi nhắc lại",
+          "definition": "a saying or quotation that is often repeated",
+          "world_new": [
+            "quotation",
+            "repeated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a well-known Latin tag.",
+              "world_new": [
+                "well-known",
+                "Latin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thứ nhỏ được gắn thêm vào",
+          "definition": "something small that is added on or attached",
+          "world_new": [
+            "small",
+            "added",
+            "attached"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a question tag such as ‘isn’t it?’",
+              "world_new": [
+                "question"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trò chơi đuổi bắt",
+          "definition": "a children’s game in which one player chases the others and tries to touch one of them",
+          "world_new": [
+            "game",
+            "player",
+            "touch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The kids are playing tag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khâu, đính",
+          "definition": "to put a tag or label on something",
+          "world_new": [
+            "label"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the clothes have been tagged.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tag-line for these books is extremely attractive, promising a focus on how 'people make music meaningful and useful in their lives'.",
+    "We built it by extracting the lexical words in our training data, and leaving only these tags.",
+    "This question of quantitative analysis of child language is addressed below, with the use of morphologically labelled (tagged) corpora.",
+    "The usual treatment of this problem is to attach tags to messages so that they become distinct from each other.",
+    "The editorial and tag material are fully or partially formed grammatical constructions of less than sentence length.",
+    "A search in the specialized literature shows that at least 40 articles about parasites as biological tags have been published since 1995.",
+    "Studies of parasites as tags for marine invertebrates have concentrated on squid.",
+    "An additional 2962 recruits were tagged in 1988, 1990 and 1996."
+  ],
+  "list_see_also": [
+    "tag along",
+    "tag on"
+  ],
+  "list_browse": [
+    "tactless",
+    "tactlessly",
+    "tactlessness",
+    "tadpole",
+    "tag",
+    "tag along",
+    "tag on",
+    "tail",
+    "tail light"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328101_c2607466aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328101_31b9321dce_o.png",
+      "id_image": "tag_122918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443118_a9637d4f4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443118_29e0743bcb_o.png",
+      "id_image": "tag_413859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064745_98915d4a25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064745_732726752e_o.png",
+      "id_image": "tag_445294"
+    }
+  ]
+}

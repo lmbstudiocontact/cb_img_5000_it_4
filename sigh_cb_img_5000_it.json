@@ -1,0 +1,98 @@
+{
+  "english": "sigh",
+  "phat_am": "sai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thở dài",
+          "definition": "to take a long, deep-sounding breath showing tiredness, sadness, longing etc",
+          "world_new": [
+            "long",
+            "breath",
+            "tiredness",
+            "sadness",
+            "longing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sighed with exasperation.",
+              "world_new": [
+                "exasperation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói cái gì với tiếng thở dài",
+          "definition": "to say, or express, with sighs",
+          "world_new": [
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I’ve still got several hours’ work to do,’ he sighed.",
+              "world_new": [
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái/sự thở dài",
+          "definition": "an act of sighing.",
+          "world_new": [
+            "act"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When it's over, he sighs, realizing that there are some things you can't control.",
+    "I know that in some quarters, the word \"consultation\" invariably produces some sighs of cynicism, but in this case, such sighs would be misplaced.",
+    "I can understand anybody who is required to discharge that duty sighing very heavily.",
+    "He sighed as a lover and obeyed as a son.",
+    "I am caught in a crossfire of sighs.",
+    "One must always have some sympathy with a man who sighs for the better days that have gone.",
+    "The wanderer is strolling quietly, unhappily, and asks, sighing, the question: where?",
+    "Later, the blind man arrives home and sighs in relief at finding the little boy safe at home."
+  ],
+  "list_see_also": [
+    "heave a sigh"
+  ],
+  "list_browse": [
+    "siege",
+    "siesta",
+    "sieve",
+    "sift",
+    "sigh",
+    "sight",
+    "sightseeing",
+    "sightseer",
+    "sign"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340056_70bc135264_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340056_5e34379d23_o.png",
+      "id_image": "sigh_2977990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384912_bb45b3a063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384912_e7e089f97a_o.png",
+      "id_image": "sigh_3911320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454868_7ce628e21c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454868_b1b00935ae_o.png",
+      "id_image": "sigh_4138789"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "english": "story",
+  "phat_am": "ˈstoːri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu chuyện",
+          "definition": "an account of an event, or series of events, real or imaginary",
+          "world_new": [
+            "account",
+            "event",
+            "series",
+            "real",
+            "imaginary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the story of the disaster",
+              "world_new": [
+                "disaster"
+              ]
+            },
+            {
+              "ex_of_definition": "the story of his life",
+              "world_new": [
+                "life"
+              ]
+            },
+            {
+              "ex_of_definition": "He went to the police with his story",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "What sort of stories do boys aged 10 like?",
+              "world_new": [
+                "sort",
+                "aged"
+              ]
+            },
+            {
+              "ex_of_definition": "adventure/murder/love stories"
+            },
+            {
+              "ex_of_definition": "a story-book"
+            },
+            {
+              "ex_of_definition": "He’s a good story-teller."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời nói dối",
+          "definition": "(used especially to children) a lie",
+          "world_new": [
+            "lie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t tell stories!",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The story of his inability to keep silent after this abjuration has been told many times.",
+    "The story, as it has been told, offers them 'a usable past' that should help them to cope with future change.",
+    "There is, however, another story to be told.",
+    "The following account, while telling something of their story, looks at how such a private 'language' can impact negatively on second-language acquisition.",
+    "However, they propose that ultimately the story schema becomes an amalgam of these two sources which either condenses or ignores many aspects of experiential knowledge.",
+    "In the present study, we presented audiotaped stories that varied in presentation speed (normal rate, storyteller rate, and slow rate) to each participant.",
+    "The main appeal of the correspondence to the modern reader is that it tells the story so well.",
+    "The students worked primarily in the multitrack window, to organise their story-line."
+  ],
+  "list_see_also": [
+    "the story goes",
+    "a tall story"
+  ],
+  "list_browse": [
+    "stormbound",
+    "stormily",
+    "storminess",
+    "stormy",
+    "story",
+    "stout",
+    "stout-hearted",
+    "stove",
+    "stow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459288_4485129be7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459288_a1d0f8bd7e_o.png",
+      "id_image": "story_1547253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081930_1c20179bf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081930_47eca1b835_o.png",
+      "id_image": "story_2433350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389457_24a2d6c155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389457_7495226272_o.png",
+      "id_image": "story_306127"
+    }
+  ]
+}

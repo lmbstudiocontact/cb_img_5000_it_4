@@ -1,0 +1,164 @@
+{
+  "english": "secure",
+  "phat_am": "siˈkjuə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "an tâm, bảo đảm",
+          "definition": "(often with againstor from) safe; free from danger, loss etc",
+          "world_new": [
+            "free",
+            "danger",
+            "loss"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is your house secure against burglary?",
+              "world_new": [
+                "your",
+                "house",
+                "burglary"
+              ]
+            },
+            {
+              "ex_of_definition": "He went on holiday, secure in the knowledge that he had done well in the exam.",
+              "world_new": [
+                "holiday",
+                "knowledge"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "an toàn",
+          "definition": "firm, fastened, or fixed",
+          "world_new": [
+            "firm",
+            "fixed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is that door secure?",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vững chắc",
+          "definition": "definite; not likely to be lost",
+          "world_new": [
+            "likely",
+            "lost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has had a secure offer of a job",
+              "world_new": [
+                "offer",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a secure job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo vệ",
+          "definition": "(with against or from (something bad)) to guarantee or make safe",
+          "world_new": [
+            "guarantee",
+            "safe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Keep your jewellery/jewelry in the bank to secure it against theft.",
+              "world_new": [
+                "your",
+                "bank",
+                "theft"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buộc chặt",
+          "definition": "to fasten or make firm",
+          "world_new": [
+            "fasten",
+            "firm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He secured the boat with a rope.",
+              "world_new": [
+                "boat",
+                "rope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Until 1980, securing a seat was simply a question of receiving the necessary number of individual votes.",
+    "The presence of an environment and an attitude supporting cost containment may be the critical factor for securing cost-effective practice behavior among physicians.",
+    "In contrast, labour secured the parliamentary seat in 1922, 1923, and 1929.",
+    "The latter posting as an aide to a colonel was secured by a personal friend.",
+    "In the second phase, after 1995, it became apparent that the regime was engaged in securing the parties' submission.",
+    "The greatest prize was that they secured food.",
+    "Given the difficulty in securing samples, there ought to be more efficient use of existing data sets.",
+    "In a sense, the head jobber was to be turned into higher grade supervisory manager and his position secured from the general consequences of rationalisation."
+  ],
+  "list_see_also": [
+    "securely",
+    "security",
+    "security risk"
+  ],
+  "list_browse": [
+    "section",
+    "sectional",
+    "sector",
+    "secular",
+    "secure",
+    "securely",
+    "security",
+    "security risk",
+    "sedan"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438473_8ae912b3e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438473_6cfc7bc2ab_o.png",
+      "id_image": "secure_3360347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438458_82d9f2b21a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438458_70ab8a8127_o.png",
+      "id_image": "secure_3979391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060165_f1a5a3ce20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060165_44aa316380_o.png",
+      "id_image": "secure_3979395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060235_fb8b3a579b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060235_7b28ab80e3_o.png",
+      "id_image": "secure_958686"
+    }
+  ]
+}

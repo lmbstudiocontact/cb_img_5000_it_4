@@ -1,0 +1,76 @@
+{
+  "english": "subscription",
+  "phat_am": "səbˈskripʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quyên góp, sự dặt mua dài hạn",
+          "definition": "the act of subscribing.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "khoản tiền quyên góp",
+          "definition": "a sum of money that is subscribed eg for receiving a magazine, for a membership of a club etc",
+          "world_new": [
+            "sum",
+            "money",
+            "magazine",
+            "membership",
+            "club"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a magazine subscription.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unlike one-time sales, subscriptions generate steady cash flow and provide a convenient benchmark by which to measure growth.",
+    "What they are really doing is selling subscriptions of magazines to housewives.",
+    "Table 1 shows how the committee distributed its subscriptions.",
+    "I do not think we can get over the problem by saying that the conscientious objector can pay his subscriptions into a charitable fund.",
+    "As a result, these systems are generally characterised by a \"flat design space\": subscriptions select out of all published notifications without distinguishing producers.",
+    "Everybody knows the greatest difficulty of any denomination is to get adequate subscriptions to-day.",
+    "Reliance on patronage helps resolve the free-rider problem because individual subscriptions become of lesser importance to the organization.",
+    "As one might suspect, aeronauts felt only a minimal need to advertise in order fill the subscriptions for these early launches."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "subordinate",
+    "subordinate clause",
+    "subscribe",
+    "subscriber",
+    "subscription",
+    "subsequent",
+    "subsequent to",
+    "subsequently",
+    "subside"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454833_69125990e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454833_4857ded94f_o.png",
+      "id_image": "subscription_2037336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384807_9e81afcd0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384807_27bf1f5766_o.png",
+      "id_image": "subscription_2615140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695119_ea009a6eee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695119_ae802a8688_o.png",
+      "id_image": "subscription_3188091"
+    }
+  ]
+}

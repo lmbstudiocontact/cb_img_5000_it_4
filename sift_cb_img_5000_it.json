@@ -1,0 +1,85 @@
+{
+  "english": "sift",
+  "phat_am": "sift",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rây, giần",
+          "definition": "to separate by passing through a sieve etc",
+          "world_new": [
+            "separate",
+            "passing",
+            "sieve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sift the flour before making the cake.",
+              "world_new": [
+                "flour",
+                "cake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xem xét, chọn lọc",
+          "definition": "to examine closely",
+          "world_new": [
+            "examine",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sifted the evidence carefully.",
+              "world_new": [
+                "evidence",
+                "carefully"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I welcome the proposals for the giving of training and for the supplying of legal assessors to help the magistrate in sifting the evidence.",
+    "Withers sifts the evidence carefully to show the dynamics of this transformation.",
+    "Nothing will put that right but a real sifting examination into our fundamental ideas of education.",
+    "Nevertheless, it may be claimed that the facts collected have been carefully sifted, the references conscientiously verified, and the opposing theories honestly presented.",
+    "I want that evidence sifted upstairs in a formal, legal manner.",
+    "Had we known about them earlier it might have been possible to have included the sifting operation in the other operations.",
+    "I should like to see the local authorities made the sifting machine of these claims.",
+    "All those appointed were experienced at sifting through complex issues and coming to reasonable conclusions based on evidence presented to them."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sidle",
+    "siege",
+    "siesta",
+    "sieve",
+    "sift",
+    "sigh",
+    "sight",
+    "sightseeing",
+    "sightseer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077550_b0df889205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077550_ab59c5b192_o.png",
+      "id_image": "sieve_1027108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340231_04653ea4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340231_ba3c9a7ef1_o.png",
+      "id_image": "sieve_3690118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455103_87085047ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455103_fa3e330b88_o.png",
+      "id_image": "sieve_5900472"
+    }
+  ]
+}

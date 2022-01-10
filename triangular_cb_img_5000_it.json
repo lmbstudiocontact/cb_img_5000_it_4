@@ -1,0 +1,79 @@
+{
+  "english": "triangular",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có hình giống tam giác",
+          "definition": "in the shape of a triangle",
+          "world_new": [
+            "shape",
+            "triangle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a triangular road-sign"
+            },
+            {
+              "ex_of_definition": "It is triangular in shape.",
+              "world_new": [
+                "shape"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, the number of irregular vertices in a net remains constant, and most of the net is a regular triangular net.",
+    "Three-state model for lysozyme folding : triangular folding mechanism with an energetically trapped intermediate.",
+    "The distal triangular segment is half the length of the median and one quarter that of the anterior.",
+    "For simplicity, we consider the shape of the membership function distributions to be triangular.",
+    "It is suggested that a triangular approach to data collection, using questionnaires, interviews and participant observation presents a fuller picture of instrument validation.",
+    "The sickle toe is rather acuminate and constitutes a triangular shape, which drops below the attachment point for the marginal hook handle.",
+    "The triangular fruit (achene) forms a single seed.",
+    "For example, calling a pillow cat suggests that the child has recognized a similarity between the pillow's triangular corners and a cat's ears."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "trial",
+    "trial and error",
+    "trial run",
+    "triangle",
+    "triangular",
+    "tribal",
+    "tribe",
+    "tribesman",
+    "tribunal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689164_e72013851c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689164_dc2c930181_o.png",
+      "id_image": "triangular_280067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689129_98d097a8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689129_22e5d058e8_o.png",
+      "id_image": "triangular_344030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071045_687df5e956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071045_241d0e291d_o.png",
+      "id_image": "triangular_6181216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071000_96b58d2b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071000_9b9f25af14_o.png",
+      "id_image": "triangular_6181306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070965_040a282370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070965_981d659722_o.png",
+      "id_image": "triangular_6181728"
+    }
+  ]
+}

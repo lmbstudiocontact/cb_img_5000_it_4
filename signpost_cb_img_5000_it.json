@@ -1,0 +1,67 @@
+{
+  "english": "signpost",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cột tín hiệu",
+          "definition": "a post with a sign on it, showing the direction and distance of places",
+          "world_new": [
+            "sign",
+            "direction",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We saw a signpost which told us we were 80 kilometres from London.",
+              "world_new": [
+                "saw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A gamelan-style section - harps, xylophones and marimba - played a key role, and a recurring theme, first heard on oboes and clarinets, supplied signposts amid the score's raucous activity.",
+    "In neighbouring constituencies, cycle tracks are not always signposted.",
+    "They compile, draw, revise and maintain 3,500 nautical charts and print, publish and issue for sale these varied and important navigational signposts—surely a formidable undertaking.",
+    "The first is with regard to the provision of signposts along our main roads.",
+    "Footpaths and bridleways on the island are probably better signposted than in most areas, and definitely feature as a principal tourist incentive.",
+    "I am aware that there is room for improvement in signposting, but steady progress is being made on both trunk and other roads.",
+    "In the majority of cases, signposting is first-class and very effective.",
+    "Principal roads are the responsibility of local highway authorities, and it is for them to ensure that new routes are signposted to the best effect."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "significance",
+    "significant",
+    "significantly",
+    "signify",
+    "signpost",
+    "Sikh",
+    "silence",
+    "silencer",
+    "silent"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076335_f99d770389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076335_9f517ec3ef_o.png",
+      "id_image": "signpost_2357464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339166_0c5cf576b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339166_cac7dbfa35_o.png",
+      "id_image": "signpost_6236578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076240_22376cb2a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076240_d35ea44e9f_o.png",
+      "id_image": "signpost_6248479"
+    }
+  ]
+}

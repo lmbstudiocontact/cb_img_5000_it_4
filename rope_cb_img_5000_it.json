@@ -1,0 +1,106 @@
+{
+  "english": "rope",
+  "phat_am": "rəup",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây chão",
+          "definition": "(a) thick cord, made by twisting together lengths of hemp, nylon etc",
+          "world_new": [
+            "thick",
+            "cord",
+            "hemp",
+            "nylon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tied it with a (piece of) rope"
+            },
+            {
+              "ex_of_definition": "a skipping rope."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buộc bằng dây chão",
+          "definition": "to tie or fasten with a rope",
+          "world_new": [
+            "tie",
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He roped the suitcase to the roof of the car.",
+              "world_new": [
+                "suitcase",
+                "roof",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt bằng dây thòng lọng",
+          "definition": "to catch with a rope; to lasso",
+          "world_new": [
+            "catch",
+            "lasso"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He roped a calf.",
+              "world_new": [
+                "calf"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All young, upcoming talent needs people expert in their fields to show them the ropes.",
+    "Neither he nor any man has-been bound with ropes and dragged along the ground.",
+    "Traps were made of square pieces of large-mesh polyethylene fabric tied by ropes to four neighbouring live trees, at about 1.5 m above ground to avoid disturbances by large mammals.",
+    "I should like to see them all roped in.",
+    "The cost of nets, buoys, ropes and all the rest of the equipment used by fishermen has gone up enormously.",
+    "During his exercise lessons, he used jump ropes along with the chest expanders and clubs and scepters for helping students strengthen their arms and hands.",
+    "My information on that relates to two parts of the industry— tubes and steel wire ropes.",
+    "Readers, roped together behind their erstwhile guides, set off with confidence that the route is well-prepared and that new topographical features will be drawn to their attention."
+  ],
+  "list_see_also": [
+    "rope-ladder",
+    "rope in",
+    "rope off"
+  ],
+  "list_browse": [
+    "root",
+    "root beer",
+    "root crop",
+    "root out",
+    "rope",
+    "rope in",
+    "rope off",
+    "rope-ladder",
+    "rosary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387312_679808dac1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387312_5ce076afbc_o.png",
+      "id_image": "rope_3531806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342301_b72b17720f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342301_8953950102_o.png",
+      "id_image": "rope_4020425"
+    }
+  ]
+}

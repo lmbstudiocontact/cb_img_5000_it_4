@@ -1,0 +1,174 @@
+{
+  "english": "trouble",
+  "phat_am": "ˈtrabl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "điều rắc rối",
+          "definition": "(something which causes) worry, difficulty, work, anxiety etc",
+          "world_new": [
+            "worry",
+            "difficulty",
+            "work",
+            "anxiety"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He never talks about his troubles"
+            },
+            {
+              "ex_of_definition": "We’ve had a lot of trouble with our children",
+              "world_new": [
+                "our"
+              ]
+            },
+            {
+              "ex_of_definition": "I had a lot of trouble finding the book you wanted.",
+              "world_new": [
+                "I",
+                "book",
+                "wanted"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bạo lực, nổi loạn",
+          "definition": "disturbances; rebellion, fighting etc",
+          "world_new": [
+            "rebellion",
+            "fighting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The incident occurred during the time of the troubles in Northern ireland.",
+              "world_new": [
+                "incident",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bệnh, ốm",
+          "definition": "illness or weakness (in a particular part of the body)",
+          "world_new": [
+            "illness",
+            "weakness",
+            "particular",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has heart trouble.",
+              "world_new": [
+                "heart"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm phiền",
+          "definition": "to cause worry, anger or sadness to",
+          "world_new": [
+            "cause",
+            "worry",
+            "anger",
+            "sadness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was troubled by the news of her sister’s illness.",
+              "world_new": [
+                "troubled",
+                "news",
+                "illness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phiền",
+          "definition": "used as part of a very polite and formal request",
+          "world_new": [
+            "part",
+            "polite",
+            "formal",
+            "request"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "May I trouble you to close the window?",
+              "world_new": [
+                "I",
+                "close",
+                "window"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cố gắng",
+          "definition": "to make any effort",
+          "world_new": [
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He didn’t even trouble to tell me what had happened.",
+              "world_new": [
+                "even",
+                "tell"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "troubled",
+    "troublesome",
+    "troublemaker"
+  ],
+  "list_browse": [
+    "tropism",
+    "troposphere",
+    "trot",
+    "trotter",
+    "trouble",
+    "troubled",
+    "troublemaker",
+    "troublesome",
+    "trough"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376972_6f974fbafa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376972_1f62175363_o.png",
+      "id_image": "trouble_1288949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447228_70b35161a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447228_11954a8d9b_o.png",
+      "id_image": "trouble_5747201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687174_293984b5e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687174_24f60df18c_o.png",
+      "id_image": "trouble_6370657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332116_230ff3b4a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332116_00174925da_o.png",
+      "id_image": "trouble_6370717"
+    }
+  ]
+}

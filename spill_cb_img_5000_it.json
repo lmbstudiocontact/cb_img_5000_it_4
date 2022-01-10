@@ -1,0 +1,66 @@
+{
+  "english": "spill",
+  "phat_am": "spil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm tràn, làm đổ",
+          "definition": "to (cause something to) fall or run out (usually accidentally)",
+          "world_new": [
+            "fall",
+            "run"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spilt milk on the floor",
+              "world_new": [
+                "milk",
+                "floor"
+              ]
+            },
+            {
+              "ex_of_definition": "Vegetables spilled out of the burst bag.",
+              "world_new": [
+                "burst",
+                "bag"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She ended up spilling paint all over the table and floor.",
+    "This difference suggests that there is some sort of difference on the mobilizing effects of oil spills and nuclear plant accidents.",
+    "Little is known about the relationship between sub-surface interflow within the spill zone and hydrologic connection with the river.",
+    "Such fires which could trigger major oil spills.",
+    "Some benefit is obtained from 'spill-air' from the air-conditioned courtrooms and offices, which escapes into the atrium from the balconies.",
+    "Many cities demolished their walls, or spilled out beyond them.",
+    "The detection of unexpected coherent echoes by incoherent scatter radars raises important questions concerning the generation mechanisms that spill over into coherent radars.",
+    "His thoughts about it naturally enough spilled over into composition."
+  ],
+  "list_see_also": [
+    "spill the beans"
+  ],
+  "list_browse": [
+    "spike",
+    "spiked",
+    "spikiness",
+    "spiky",
+    "spill",
+    "spill the beans",
+    "spin",
+    "spin doctor",
+    "spin out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398842_3ba9989460_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398842_b2fd764ceb_o.png",
+      "id_image": "spill_5091318"
+    }
+  ]
+}

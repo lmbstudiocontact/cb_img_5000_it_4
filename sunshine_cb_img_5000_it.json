@@ -1,0 +1,66 @@
+{
+  "english": "sunshine",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ánh nắng mặt trời",
+          "definition": "the light of the sun",
+          "world_new": [
+            "light",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were playing in the sunshine."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hân hoan",
+          "definition": "cheerfulness or happiness.",
+          "world_new": [
+            "cheerfulness",
+            "happiness"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are growing quickly and need all the fresh air, the sunshine, the light and the warmth of the amenities which can be provided.",
+    "How long is the sunshine going to last?",
+    "The only problem there relates to the temperature of the wine or the sunshine on the grape.",
+    "Animals are kept for long hours in burning hot sunshine.",
+    "When not actually submerged, the soils of the littoral zone are unprotected from extremes of climate, including the direct impact of sunshine and rainfall.",
+    "Seasonal variation was greatest in the temperate latitudes and correlated with hours of clear sunshine.",
+    "We are always bemoaning our climate, as though we never get sunshine and beautiful sunny days in the summer.",
+    "I wondered whether the picture he painted today had not really too much of sunshine and too little of shade."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sunny",
+    "sunrise",
+    "sunset",
+    "sunshade",
+    "sunshine",
+    "sunspot",
+    "sunstroke",
+    "suntan",
+    "super-"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452143_9e8950601e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452143_8dfc3ca7a8_o.png",
+      "id_image": "sunshine_327432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452133_c420842598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452133_e30c2f3b9d_o.png",
+      "id_image": "sunshine_3989615"
+    }
+  ]
+}

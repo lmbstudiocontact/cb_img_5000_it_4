@@ -1,0 +1,126 @@
+{
+  "english": "surface",
+  "phat_am": "ˈsəːfis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bề ngoài, bề mặt",
+          "definition": "the outside part (of anything)",
+          "world_new": [
+            "outside",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Two-thirds of the earth’s surface is covered with water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "This road has a very uneven surface.",
+              "world_new": [
+                "road",
+                "uneven"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt, mặt ngoài",
+          "definition": "the outward appearance of, or first impression made by, a person or thing",
+          "world_new": [
+            "outward",
+            "appearance",
+            "impression",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "On the surface he seems cold and unfriendly, but he’s really a kind person.",
+              "world_new": [
+                "cold",
+                "unfriendly",
+                "kind",
+                "person"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rải, trát",
+          "definition": "to put a surface on (a road etc)",
+          "world_new": [
+            "road"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road has been damaged by frost and will have to be surfaced again.",
+              "world_new": [
+                "road",
+                "damaged",
+                "frost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nổi lên mặt nước",
+          "definition": "(of a submarine, diver etc) to come to the surface.",
+          "world_new": [
+            "submarine",
+            "diver"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The soil is shallow and patchily distributed on or between these various rock surfaces.",
+    "In 2, we show a nonlinear morphological instability in epitaxial growth on rough surfaces.",
+    "We obtain a local topological and dynamical description of expansive attractors on surfaces.",
+    "The solutions of the singularity equation span three three-dimensional surfaces.",
+    "A force that exists only between charged molecules (ions) or surfaces.",
+    "Let us briefly discuss the mechanism behind these examples on surfaces.",
+    "One method that has been used to investigate the hydrophobicity of protein surfaces has been to determine the ansyl (8-anilino-l-naphthalenesulfonic acid) binding capability.",
+    "The characteristic surfaces are independent of 1 when 1 is unlimited."
+  ],
+  "list_see_also": [
+    "surface mail"
+  ],
+  "list_browse": [
+    "sure-footed",
+    "surely",
+    "sureness",
+    "surf",
+    "surface",
+    "surface mail",
+    "surfboard",
+    "surfer",
+    "surfing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072925_7c856e602d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072925_ee663e8bf0_o.png",
+      "id_image": "surface_1808780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381012_8f6da61f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381012_28ed1b3eb9_o.png",
+      "id_image": "surface_3182027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450893_46d0463952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450893_d932c335db_o.png",
+      "id_image": "surface_6257725"
+    }
+  ]
+}

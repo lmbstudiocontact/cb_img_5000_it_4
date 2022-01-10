@@ -1,0 +1,64 @@
+{
+  "english": "Scorpio",
+  "phat_am": "ˈskoːpioʊ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cung Bò Cạp",
+          "definition": "the sign of the Zodiac for someone who was born between October 24th and November 22nd",
+          "world_new": [
+            "sign",
+            "October",
+            "November"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What does the horoscope say for Scorpio?",
+              "world_new": [
+                "horoscope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "Bò Cạp",
+          "definition": "someone who has the Zodiac sign Scorpio",
+          "world_new": [
+            "sign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a Scorpio."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scorn",
+    "scornful",
+    "scornfully",
+    "scornfulness",
+    "Scorpio",
+    "scorpion",
+    "scot-free",
+    "scotch",
+    "Scotch tape"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373222_60b26e63aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373222_e53da31810_o.png",
+      "id_image": "scorpio_311581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328451_60b26e63aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328451_0e738bf4cd_o.png",
+      "id_image": "scorpio_5345594"
+    }
+  ]
+}

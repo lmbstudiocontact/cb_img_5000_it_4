@@ -1,0 +1,66 @@
+{
+  "english": "specialist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyên gia, chuyên khoa",
+          "definition": "a person who makes a very deep study of one branch of a subject or field",
+          "world_new": [
+            "person",
+            "deep",
+            "study",
+            "branch",
+            "subject",
+            "field"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dr Brown is a heart specialist.",
+              "world_new": [
+                "Dr",
+                "heart"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although traditionally managed by gastroenterologists and hepatologists, other physicians, such as internists and infectious disease specialists, have assumed a significant proportion of this patient burden.",
+    "Paracelsianism lends itself to this purpose since its practitioners were rarely narrow specialists.",
+    "Where in-class support from music specialists was received, it was generally found very helpful.",
+    "The differences in technique show that each was done by specialists who had their own particular tool methods and processes.",
+    "If we - who are specialists in listening and sound-making - are not concerned about the acoustic environment, then who will be?",
+    "The advisory committee will collect written evidence from different kinds of experts and will often invite specialists to attend and present their views in person.",
+    "To understand large modern buildings, further specialists must be drawn into the picture, along with the manner in which the construction was managed.",
+    "How far did professional pharmacists and veterinary specialists, as well as medical students, substitute for trained physicians when these were scarce or absent ?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spear",
+    "spearhead",
+    "special",
+    "special needs",
+    "specialist",
+    "speciality",
+    "specialization",
+    "specialize",
+    "specialized"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439648_11ba02d901_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439648_f59a4548ea_o.png",
+      "id_image": "specialist_2835802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061500_eedbcc5c20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061500_792929c7cc_o.png",
+      "id_image": "specialist_5029176"
+    }
+  ]
+}

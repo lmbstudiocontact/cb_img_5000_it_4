@@ -1,0 +1,69 @@
+{
+  "english": "sew",
+  "phat_am": "səu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "may, khâu",
+          "definition": "to make, stitch or attach with thread, using a needle",
+          "world_new": [
+            "stitch",
+            "attach",
+            "thread",
+            "needle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sewed the pieces together"
+            },
+            {
+              "ex_of_definition": "Have you sewn my button on yet?",
+              "world_new": [
+                "my",
+                "button",
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Alternatively, a patch can be placed by sewing the stitches exclusively in the straddling leaflet of the tricuspid valve.",
+    "She threaded the needle, then sewed the button on.",
+    "For example, consider the production of clothes, which involves many stages such as cutting and sewing.",
+    "The day began with the 'reading of the rules', and then they were set to work either reading, knitting or sewing.",
+    "These included reading, sewing, board games, and musical recitals, all activities entirely in keeping with respectable middle-class domestic life.",
+    "It can be sewn from basic geometric shapes and does not require special accessories, other than a few external poles and wires.",
+    "The women were even unable to sew hides together to make the tent-walls.",
+    "The program's research narratives and overviews are sewn together by scores of intersections and interpretations."
+  ],
+  "list_see_also": [
+    "sewer",
+    "sewing",
+    "sewing machine",
+    "sew up",
+    "sewn up"
+  ],
+  "list_browse": [
+    "severance",
+    "severe",
+    "severely",
+    "severity",
+    "sew",
+    "sew up",
+    "sewage",
+    "sewage farm",
+    "sewer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463128_c093733234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463128_de9ee3ff6a_o.png",
+      "id_image": "sew_532031"
+    }
+  ]
+}

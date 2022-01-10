@@ -1,0 +1,83 @@
+{
+  "english": "sticky",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dính, nhớp nháp",
+          "definition": "able, or likely, to stick or adhere to other surfaces",
+          "world_new": [
+            "likely",
+            "stick",
+            "adhere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mended the torn book with sticky tape",
+              "world_new": [
+                "book",
+                "tape"
+              ]
+            },
+            {
+              "ex_of_definition": "sticky sweets."
+            }
+          ]
+        },
+        {
+          "mean_english": "khó khăn, vụng về",
+          "definition": "(of a situation or person) difficult; awkward",
+          "world_new": [
+            "situation",
+            "awkward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She managed to talk her way out of a sticky situation.",
+              "world_new": [
+                "talk",
+                "situation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Consequently, excessive demand is a phenomenon on the domestic goods market, driving the sticky domestic price level p.",
+    "Even sticky slides placed less than 1 m from fresh inflorescences exhibited no sign of trapped pollen.",
+    "Also, the dates on which wild flies were first caught on sticky targets in each of the two years.",
+    "I tell students about the difference between notional and effective demand, and about sticky prices.",
+    "Because all inputs are treated as \"sticky,\" this specification implies that output is inertial, whereas consumption is not.",
+    "Under sticky prices, there exist equilibrium paths in which an asset-price bubble temporarily develops and eventually bursts.",
+    "Surface texture: 1, smooth; 2, slightly rough; 3, rough; 4, hairy; 5, sticky.",
+    "Anemophily was tested by placing 72 sticky slides in the vicinity of fresh male inflorescences."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stick-in-the-mud",
+    "sticker",
+    "stickily",
+    "stickiness",
+    "sticky",
+    "stiff",
+    "stiffen",
+    "stiffening",
+    "stiffly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701444_bed6379370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701444_04d8805c89_o.png",
+      "id_image": "sticky_1443457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346541_004ccf7b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346541_0dcc6607af_o.png",
+      "id_image": "sticky_2519446"
+    }
+  ]
+}

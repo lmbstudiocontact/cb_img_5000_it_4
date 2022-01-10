@@ -1,0 +1,182 @@
+{
+  "english": "screen",
+  "phat_am": "skriːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bình phong",
+          "definition": "a flat, movable, often folding, covered framework for preventing a person etc from being seen, for decoration, or for protection from heat, cold etc",
+          "world_new": [
+            "flat",
+            "movable",
+            "folding",
+            "framework",
+            "person",
+            "decoration",
+            "protection",
+            "heat",
+            "cold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Screens were put round the patient’s bed",
+              "world_new": [
+                "bed"
+              ]
+            },
+            {
+              "ex_of_definition": "a tapestry fire-screen.",
+              "world_new": [
+                "tapestry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màn, tấm chắn",
+          "definition": "anything that so protects etc a person etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hid behind the screen of bushes"
+            },
+            {
+              "ex_of_definition": "a smokescreen.",
+              "world_new": [
+                "smokescreen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "màn ảnh, màn hình",
+          "definition": "the surface on which films or television pictures appear",
+          "world_new": [
+            "surface",
+            "television",
+            "appear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cinema/television/radar screen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che chắn, giấu",
+          "definition": "to hide, protect or shelter",
+          "world_new": [
+            "hide",
+            "protect",
+            "shelter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tall grass screened him from view.",
+              "world_new": [
+                "tall",
+                "grass",
+                "view"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếu",
+          "definition": "to make or show a cinema film",
+          "world_new": [
+            "cinema",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film will be screened nationwide.",
+              "world_new": [
+                "film",
+                "nationwide"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiên cứu và thẩm tra lí lịch",
+          "definition": "to test for loyalty, reliability etc.",
+          "world_new": [
+            "test",
+            "loyalty",
+            "reliability"
+          ]
+        },
+        {
+          "mean_english": "thử nghiệm ai/cái gì",
+          "definition": "to test for a disease",
+          "world_new": [
+            "test",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Women should be regularly screened for cancer.",
+              "world_new": [
+                "regularly",
+                "cancer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most countries, even those with formal policies, note relatively low levels of screening for hypertension.",
+    "About 30,000 pfu from the primary library were differentially screened.",
+    "Diagnostic applications were most frequently reported (28 percent), followed by therapeutic prediction (22 percent), preventive prediction (18 percent), pharmacogenetics (16 percent), and screening (16 percent).",
+    "Considering, at last, a change in the cost of screening tests, and using the extreme value of the interval, results were not modified.",
+    "The study did not request data on screening distribution and volume.",
+    "Recommended neonatal screening includes screening for phenylketonuria, hypothyroidism, and various hemoglobinopathies.",
+    "Thirteen countries not currently evaluating screening program impact indicated that they plan to undertake assessment of one or more of these measures in the future.",
+    "In effect, this makes the costs of screening and early treatment higher than those of late treatment and its associated medical follow-up."
+  ],
+  "list_see_also": [
+    "screenplay",
+    "screensaver",
+    "the screen"
+  ],
+  "list_browse": [
+    "scrawny",
+    "scream",
+    "screech",
+    "screed",
+    "screen",
+    "screenplay",
+    "screensaver",
+    "screw",
+    "screw up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682389_0d024304db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682389_63e85373ca_o.png",
+      "id_image": "screen_2123759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327156_e5d5544869_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327156_2c2f3d226d_o.png",
+      "id_image": "screen_5223608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327291_99d8aea046_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327291_6b44a748ef_o.png",
+      "id_image": "screen_588239"
+    }
+  ]
+}

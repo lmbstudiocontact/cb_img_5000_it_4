@@ -1,0 +1,108 @@
+{
+  "english": "staff",
+  "phat_am": "staːf",
+  "list_english": [
+    {
+      "type_word": "noun or noun plural",
+      "list_definition": [
+        {
+          "mean_english": "nhân viên",
+          "definition": "a group of people employed in running a business, school etc",
+          "world_new": [
+            "group",
+            "people",
+            "employed",
+            "running",
+            "business",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The school has a large teaching staff",
+              "world_new": [
+                "school",
+                "large",
+                "teaching"
+              ]
+            },
+            {
+              "ex_of_definition": "The staff are annoyed about the changes.",
+              "world_new": [
+                "annoyed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp cán bộ nhân viên cho",
+          "definition": "to supply with staff",
+          "world_new": [
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most of our offices are staffed by volunteers.",
+              "world_new": [
+                "our"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khuông nhạc",
+          "definition": "a set of lines and spaces on which music is written or printed.",
+          "world_new": [
+            "lines",
+            "music"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Staff from residential institutions, hospitals, day-care centres and schools, and also parents should be made aware that norovirus is highly contagious.",
+    "The philosophy of these homes is characterized by a very strong emphasis on training the staff.",
+    "Staff at different units followed different policies regarding action levels for unsatisfactory results.",
+    "However, it is possible that use of relatively inexperienced staff with only brief training made the intervention less effective.",
+    "Their philosophy is one of cooperation, differentiation and maximising the potential of all members of staff and adults in the school community.",
+    "Rejuvenation of the academic staff will doubtless also entail scientific modernization and make possible new forms of research and education.",
+    "Ultimately, the staff should have a chance to debrief and review their common experience.",
+    "Fewer hospital staff seem prepared to accept long-stay patients as one of their functions."
+  ],
+  "list_see_also": [
+    "staffroom"
+  ],
+  "list_browse": [
+    "stabilize",
+    "stable",
+    "stack",
+    "stadium",
+    "staff",
+    "staffroom",
+    "stag",
+    "stag party",
+    "stage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395502_9d1574a101_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395502_3f0f8814b2_o.png",
+      "id_image": "staff_3043379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087875_e7a3494a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087875_ee4a5e8703_o.png",
+      "id_image": "staff_3461579"
+    }
+  ]
+}

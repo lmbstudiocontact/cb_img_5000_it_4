@@ -1,0 +1,104 @@
+{
+  "english": "siphon",
+  "phat_am": "ˈsaifən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ống xi-phông, ống truyền nước",
+          "definition": "a bent pipe or tube through which liquid can be drawn off from one container to another at a lower level",
+          "world_new": [
+            "bent",
+            "pipe",
+            "tube",
+            "liquid",
+            "drawn",
+            "container",
+            "lower",
+            "level"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used a siphon to get some petrol out of the car’s tank.",
+              "world_new": [
+                "petrol",
+                "tank"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chai đựng nước, xô đa",
+          "definition": "(also soda-siphon) a glass bottle with such a tube, used for soda water.",
+          "world_new": [
+            "glass",
+            "bottle",
+            "tube",
+            "soda",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hút bằng xi-phông",
+          "definition": "(with off, into etc) to draw (off) through a siphon",
+          "world_new": [
+            "draw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They siphoned the petrol into a can.",
+              "world_new": [
+                "petrol"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A fraud is being committed if money donated for charitable purposes by the public—either directly or through taxation—is siphoned off to pay for political campaigns.",
+    "We have seen special needs money siphoned off for other uses, fewer resources and larger classes.",
+    "On top of that, we have ensured that money goes straight to schools and is not siphoned off.",
+    "I observe only that this is yet one further example of detailed provisions being siphoned off into the rules, which we have yet to see.",
+    "The surcharge is simply a siphoning off of purchasing power.",
+    "Until we do that, all we shall do is to pump in money which is siphoned away because the regional economy is not basically healthy.",
+    "There is no way of siphoning it off for other purposes.",
+    "Their life blood—their taxation powers—will be less than would otherwise be the case because it will automatically be siphoned off, away from these shores."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sink in",
+    "sinner",
+    "sinus",
+    "sip",
+    "siphon",
+    "sir",
+    "siren",
+    "sirloin",
+    "sisal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382147_3c21e03504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382147_2a5435962a_o.png",
+      "id_image": "siphon_5071860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692434_fdd99d95c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692434_13da00d4b7_o.png",
+      "id_image": "siphon_5071883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337036_a746d00680_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337036_491b6408fa_o.png",
+      "id_image": "siphon_5158861"
+    }
+  ]
+}

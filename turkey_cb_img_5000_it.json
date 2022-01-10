@@ -1,0 +1,79 @@
+{
+  "english": "turkey",
+  "phat_am": "ˈtəːki",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gà tây",
+          "definition": "a kind of large farmyard bird.",
+          "world_new": [
+            "kind",
+            "large",
+            "farmyard",
+            "bird"
+          ]
+        },
+        {
+          "mean_english": "thịt gà tây",
+          "definition": "its flesh used as food, eaten especially at Christmas or (in the United States) Thanksgiving",
+          "world_new": [
+            "its",
+            "flesh",
+            "food",
+            "Christmas",
+            "Thanksgiving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had turkey for dinner.",
+              "world_new": [
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turbulence",
+    "turbulent",
+    "turbulently",
+    "turf",
+    "turkey",
+    "turmoil",
+    "turn",
+    "turn a blind eye",
+    "turn a deaf ear to"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373377_cf4067c606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373377_d3cc7d06c1_o.png",
+      "id_image": "turkey_2403459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683654_e0be9f70b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683654_123df7fa93_o.png",
+      "id_image": "turkey_3467779"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373297_5af148a68f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373297_269d55dfe7_o.png",
+      "id_image": "turkey_5294711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328501_81aa4684de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328501_f150277979_o.png",
+      "id_image": "turkey_6039410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443453_24134e1488_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443453_50c7a24d26_o.png",
+      "id_image": "turkey_6118303"
+    }
+  ]
+}

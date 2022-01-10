@@ -1,0 +1,81 @@
+{
+  "english": "starch",
+  "phat_am": "staːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tinh bột",
+          "definition": "a white food substance found especially in flour, potatoes etc",
+          "world_new": [
+            "white",
+            "food",
+            "substance",
+            "found",
+            "flour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bread contains starch."
+            }
+          ]
+        },
+        {
+          "mean_english": "hồ",
+          "definition": "a powder prepared from this, used for stiffening clothes.",
+          "world_new": [
+            "powder",
+            "prepared",
+            "stiffening",
+            "clothes"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hồ vải, làm cứng",
+          "definition": "to stiffen (clothes) with starch.",
+          "world_new": [
+            "stiffen"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Plants absorb carbon dioxide through a process known as photosynthesis which allows it to store energy from sunlight in the form of sugars and starches.",
+    "The cholesterol and pectin were incorporated into the standard diet to substitute for an equal amount of starch.",
+    "He dresses like an old-fashioned country clerkwith apron, starched collar, suspenders, sleeve garters, and a straw skimmer or a bookkeeping visor.",
+    "In pea, there are no known mutants available for starch synthase which would help to resolve this matter.",
+    "In both maize and barley, a correlation exists between the starch content of the endosperm and the level of prolamins in some of the mutants.",
+    "Starch grains were visualized by a weak solution of iodine (0.3 g iodine and 1.5 g potassium iodide in 100 ml water).",
+    "The starches differ between varieties and affect the products.",
+    "The size of the endosperm that contains essential protein, starch and other nutrients is an important criterion for crop breeding programmes."
+  ],
+  "list_see_also": [
+    "starchy",
+    "starchiness"
+  ],
+  "list_browse": [
+    "star",
+    "star sign",
+    "star turn",
+    "starboard",
+    "starch",
+    "starchiness",
+    "starchy",
+    "stardom",
+    "stare"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394152_7ebb7cd893_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394152_fb86701315_o.png",
+      "id_image": "starch_3274068"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "soup",
+  "phat_am": "suːp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xúp, canh, cháo",
+          "definition": "a liquid food made from meat, vegetables etc",
+          "world_new": [
+            "liquid",
+            "food",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She made some chicken soup.",
+              "world_new": [
+                "chicken"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng công suất bằng cách cải tiến động cơ",
+          "definition": "to improve the performance of a car or motor-cycle by making its engine more powerful etc.",
+          "world_new": [
+            "improve",
+            "performance",
+            "car",
+            "its",
+            "engine",
+            "powerful"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are endless varieties, and it is served as a side dish or cooked into soups and rice dishes.",
+    "Menma is a common topping for noodle soups, notably ramen.",
+    "When used in stews, soups and casseroles they give a rich flavor.",
+    "Offering desserts, sandwiches, soups, and breads, the family operated bakery has been in business for more than 100 years.",
+    "We have then no nucleation by the surface energy and a soup of matter.",
+    "She said that they were souped up in 1984 by the appointment of a committee which had to base its advice on an inspection.",
+    "Frico is often used as garnish for soups or stews.",
+    "Americans consume approximately 2.5 billion bowls of these three soups alone each year."
+  ],
+  "list_see_also": [
+    "in the soup"
+  ],
+  "list_browse": [
+    "soundly",
+    "soundness",
+    "soundproof",
+    "soundtrack",
+    "soup",
+    "sour",
+    "sour grapes",
+    "source",
+    "sourly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440493_721f1ec89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440493_ff3a8743a5_o.png",
+      "id_image": "soup_129358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680519_749725a4d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680519_153cf62012_o.png",
+      "id_image": "soup_184447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370287_fa9ed07b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370287_dd6d980e46_o.png",
+      "id_image": "soup_570729"
+    }
+  ]
+}

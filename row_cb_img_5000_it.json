@@ -1,0 +1,179 @@
+{
+  "english": "row",
+  "phat_am": "rəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng; dãy",
+          "definition": "a line",
+          "world_new": [
+            "line"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "two rows of houses"
+            },
+            {
+              "ex_of_definition": "They were sitting in a row",
+              "world_new": [
+                "sitting"
+              ]
+            },
+            {
+              "ex_of_definition": "They sat in the front row in the theatre.",
+              "world_new": [
+                "front",
+                "theatre"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chèo thuyền",
+          "definition": "to move (a boat) through the water using oars",
+          "world_new": [
+            "move",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rowed (the dinghy) up the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chèo thuyền chở khách",
+          "definition": "to transport by rowing",
+          "world_new": [
+            "transport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rowed them across the lake.",
+              "world_new": [
+                "across",
+                "lake"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến đi bằng thuyền",
+          "definition": "a trip in a rowing-boat",
+          "world_new": [
+            "trip",
+            "rowing-boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They went for a row on the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc cãi vã",
+          "definition": "a noisy quarrel",
+          "world_new": [
+            "noisy",
+            "quarrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They had a terrible row",
+              "world_new": [
+                "terrible"
+              ]
+            },
+            {
+              "ex_of_definition": "a family row.",
+              "world_new": [
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự huyên náo",
+          "definition": "a continuous loud noise",
+          "world_new": [
+            "continuous",
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They heard a row in the street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within minutes, seven men, several dressed in suits and ties, marched in, one by one, and stood in a row behind us.",
+    "Furthermore, while two rows of scrolls wrap around the exterior, the scrolls do not form zoomorphs.",
+    "Waning of natural immunity occurs at a per capita rate, v, represented by a horizontal left to right movement along rows.",
+    "The stimuli are arranged in rows, while the responses are arranged in columns.",
+    "Similarly, changing the relative magnitude of aggregate supply and demand elasticities in the fourth and fifth rows does not destroy the incentives for activism.",
+    "The participants were told that they would hear each sentence four times in a row, with less noise on each successive presentation.",
+    "The stimuli are arranged by rows, while the responses are given in columns.",
+    "The single spicule is 1152 to 1392 long, and 16 caudal spines are arranged in two ventral and two lateral rows, each bearing four spines."
+  ],
+  "list_see_also": [
+    "row house"
+  ],
+  "list_browse": [
+    "routine",
+    "rove",
+    "rover",
+    "roving",
+    "row",
+    "row house",
+    "rowan",
+    "rowan berry",
+    "rowdily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340606_53058f05be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340606_43bb642d28_o.png",
+      "id_image": "row_3603654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078015_21631db3e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078015_8b4311f248_o.png",
+      "id_image": "row_391242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340656_aa7245b1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340656_a0419cd7ba_o.png",
+      "id_image": "row_708627"
+    }
+  ]
+}

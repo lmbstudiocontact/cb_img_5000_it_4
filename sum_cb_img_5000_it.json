@@ -1,0 +1,94 @@
+{
+  "english": "sum",
+  "phat_am": "sam",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tổng số, tổng",
+          "definition": "the amount or total made by two or more things or numbers added together",
+          "world_new": [
+            "amount",
+            "total",
+            "added"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sum of 12, 24, 7 and 11 is 54."
+            }
+          ]
+        },
+        {
+          "mean_english": "số tiền",
+          "definition": "a quantity of money",
+          "world_new": [
+            "quantity",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It will cost an enormous sum to repair the swimming pool.",
+              "world_new": [
+                "cost",
+                "enormous",
+                "repair",
+                "swimming",
+                "pool"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bài toán số học",
+          "definition": "a problem in arithmetic",
+          "world_new": [
+            "problem",
+            "arithmetic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My children are better at sums than I am.",
+              "world_new": [
+                "better",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In sum, most of the non-facility respondents were busy and engaged in the institutional routine.",
+    "It monitors the consumption of the substations belonging to the cluster (by summing the consumption reports it receives each minute).",
+    "By the end of the 1980s, the total sum of subsidies for music had reached a new high.",
+    "The \"second-stage filter\" has a larger receptive field than the \"first-stage filters,\" and sums the nonlinearly transformed outputs of the first-stage filters.",
+    "The six to eight different maps in the interest-map sum were each salient features in themselves, such as skin-colour, motion, edges or colour saturation.",
+    "In sum, this is how non-surface-apparent opacity is addressed with sympathy.",
+    "Among these are properties which require the application of arithmetic operators such as count, sum, or min on a set of elements satisfying some conditions.",
+    "This is summed across all crops, land types, and time."
+  ],
+  "list_see_also": [
+    "sum total",
+    "sum up"
+  ],
+  "list_browse": [
+    "sultan",
+    "sultana",
+    "sultriness",
+    "sultry",
+    "sum",
+    "sum total",
+    "sum up",
+    "summarize",
+    "summary"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383127_4d1d561f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383127_8a68c030c7_o.png",
+      "id_image": "sum_2000494"
+    }
+  ]
+}

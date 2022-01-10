@@ -1,0 +1,95 @@
+{
+  "english": "section",
+  "phat_am": "ˈsekʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khu vực, bộ phận",
+          "definition": "a part or division",
+          "world_new": [
+            "part",
+            "division"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He divided the orange into sections",
+              "world_new": [
+                "orange"
+              ]
+            },
+            {
+              "ex_of_definition": "There is disagreement in one section of the community",
+              "world_new": [
+                "disagreement",
+                "community"
+              ]
+            },
+            {
+              "ex_of_definition": "the accounts section of the business.",
+              "world_new": [
+                "business"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoạn, khúc",
+          "definition": "a view of the inside of anything when, or as if, it is cut right through or across",
+          "world_new": [
+            "view",
+            "cut",
+            "right",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a section of the stem of a flower.",
+              "world_new": [
+                "stem",
+                "flower"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The last section of this presentation will be centered on two events that took place in 1910.",
+    "This relatively new area of investigation, requiring the impregnation of thin sections, stresses the importance of micro-textures, micro-structures and post-depositional changes.",
+    "Small lanes were gradually added to demarcate different sections and also to connect them as an organic whole.",
+    "The section is organised in the following way.",
+    "Particularly this latter section is informed by ' ' behind-the-scenes stories, ' ' based on copious interviews with key players in any given project.",
+    "Within the medieval section the themes become blurred because of the sheer amount of information.",
+    "Section 1 reviews the relevant literature on retirement plans and saving, education and saving, and behavioral economics.",
+    "A simulated experiment with an atom trap was planned with five sections, and then let run to generate the composition."
+  ],
+  "list_see_also": [
+    "sectional"
+  ],
+  "list_browse": [
+    "secretiveness",
+    "secretly",
+    "sect",
+    "sectarian",
+    "section",
+    "sectional",
+    "sector",
+    "secular",
+    "secure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060345_a167a9befb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060345_105b1134b1_o.png",
+      "id_image": "section_1042378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368362_908f8fbf12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368362_7b0003239f_o.png",
+      "id_image": "section_1806589"
+    }
+  ]
+}

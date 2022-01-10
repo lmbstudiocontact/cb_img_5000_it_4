@@ -1,0 +1,95 @@
+{
+  "english": "soap",
+  "phat_am": "səup",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xà bông",
+          "definition": "a mixture containing oils or fats and other substances, especially formed into small regularly-shaped pieces and used in washing",
+          "world_new": [
+            "mixture",
+            "oils",
+            "small",
+            "washing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He found a bar of soap and began to wash his hands.",
+              "world_new": [
+                "found",
+                "bar",
+                "wash"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xát xà bông",
+          "definition": "to rub with soap",
+          "world_new": [
+            "rub"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She soaped the baby all over.",
+              "world_new": [
+                "baby"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Scripts seem to have fairly frequent scenes when characters blame each other for things - especially in soap operas where close-ups are also extremely common.",
+    "Any reported use of soap was verified by screening for the presence of soap in the unit.",
+    "They were given no soap and no instructions for hand washing.",
+    "The soap-opera prose here distracts attention from the lack of any historical foundation for the story.",
+    "Is this scientific history or geological soap opera?",
+    "Cages were washed with soap and rinsed with clean water between trials to remove any residues from the previous treatment.",
+    "Which soap did the lady wash the very large shirt with early this morning?",
+    "Graded teacher-talk in the classroom, motherese, international business negotiations between nonnative speakers and scripted television soap operas would all be classified as authentic."
+  ],
+  "list_see_also": [
+    "soapy",
+    "soapiness",
+    "soap opera",
+    "soap powder"
+  ],
+  "list_browse": [
+    "soaked",
+    "soaked/wet through",
+    "soaking",
+    "soaking wet",
+    "soap",
+    "soap opera",
+    "soap powder",
+    "soapiness",
+    "soapy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064700_23d0710639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064700_6aa4d0317f_o.png",
+      "id_image": "soap_123765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372727_c0fdb9e8b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372727_11f791dec6_o.png",
+      "id_image": "soap_410426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682979_c31728ded5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682979_6e8f6ebcee_o.png",
+      "id_image": "soap_577987"
+    }
+  ]
+}

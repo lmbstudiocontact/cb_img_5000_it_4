@@ -1,0 +1,62 @@
+{
+  "english": "synthetic",
+  "phat_am": "sinˈθetik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuộc phương pháp tổng hợp",
+          "definition": "(a substance) produced artificially by a chemical process",
+          "world_new": [
+            "artificially",
+            "chemical",
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "nylon and other synthetic materials / synthetics.",
+              "world_new": [
+                "nylon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "syntax",
+    "synthesis",
+    "synthesize",
+    "synthesizer",
+    "synthetic",
+    "syringe",
+    "syrup",
+    "syrupy",
+    "system"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330101_7ccdbef8e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330101_5f526b98c6_o.png",
+      "id_image": "synthetic_1466540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685044_4225a0df2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685044_0aabfe0ce7_o.png",
+      "id_image": "synthetic_1742038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684994_3c4e3d354a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684994_17f17804f2_o.png",
+      "id_image": "synthetic_5376466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374692_6c9afd70e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374692_56769ce226_o.png",
+      "id_image": "synthetic_5830331"
+    }
+  ]
+}

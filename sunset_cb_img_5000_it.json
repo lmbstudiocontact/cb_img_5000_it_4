@@ -1,0 +1,62 @@
+{
+  "english": "sunset",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lúc hoàng hôn",
+          "definition": "the setting of the sun, or the time of this",
+          "world_new": [
+            "sun",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the red glow of the sunset.",
+              "world_new": [
+                "red",
+                "glow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The recordings span morning, afternoon and night schedules, including the rainforest's busiest times of dawn and sunset.",
+    "A familiar example is an observation of an object under a sunrise or sunset.",
+    "Visitors can enjoy the breath-taking sunsets and spectacular scenery by boat, foot or horseback.",
+    "Users could request holograms, sunrises and sunsets, or floating lasers as the mood strikes.",
+    "The radar was operated every night from sunset through to sunrise except during heavy rains that made observations impossible and unnecessary.",
+    "Changing the concentration of aerosols in the atmosphere can dramatically affect the appearance of sunsets.",
+    "All indirect measurements were only taken during uniformly overcast sky conditions or after sunset (mostly after 1700 h).",
+    "The delicately constructed atmosphere of cold and snow, of early sunsets and chill lingering in the corners, establishes the tone..."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sunlit",
+    "sunniness",
+    "sunny",
+    "sunrise",
+    "sunset",
+    "sunshade",
+    "sunshine",
+    "sunspot",
+    "sunstroke"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074445_f115e7bde7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074445_0c830f88d6_o.png",
+      "id_image": "sunset_286615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337346_732981afb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337346_9173e665e0_o.png",
+      "id_image": "sunset_5136154"
+    }
+  ]
+}

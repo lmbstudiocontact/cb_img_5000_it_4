@@ -1,0 +1,110 @@
+{
+  "english": "sensitive",
+  "phat_am": "ˈsensitiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhạy cảm",
+          "definition": "(usually with to) strongly or easily affected (by something)",
+          "world_new": [
+            "strongly",
+            "easily",
+            "affected"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sensitive skin",
+              "world_new": [
+                "skin"
+              ]
+            },
+            {
+              "ex_of_definition": "sensitive to light.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dễ bị ảnh hưởng bởi cái gì",
+          "definition": "(usually with aboutor to) easily hurt or offended",
+          "world_new": [
+            "easily",
+            "hurt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is very sensitive to criticism.",
+              "world_new": [
+                "criticism"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có sự thông cảm",
+          "definition": "having or showing artistic good taste",
+          "world_new": [
+            "artistic",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sensitive writer",
+              "world_new": [
+                "writer"
+              ]
+            },
+            {
+              "ex_of_definition": "a sensitive performance.",
+              "world_new": [
+                "performance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Symbolic appeals, like the applications of rules, ought to be sensitive to special circumstances.",
+    "There is, in fact, research evidence that error detection, developmental sequences, and negotiation of meaning may all be sensitive to social context.",
+    "The spatial receptive-field structure of these selection units suggests that they may be sensitive to disparity contrast.",
+    "More acutely sensitive records of political discussion, financial transactions and decision-making remained enclosed in books in chests.",
+    "In the developing countries infant mortality still remains a sensitive indicator of socioeconomic standards.",
+    "Comparison with our earlier work reveals that these results are not sensitive to stellar properties as determined variously by stellar models and observations.",
+    "It seems therefore that the epidemiology of rubella is more sensitive to differences in mixing patterns than mumps and measles.",
+    "This observation means that smaller farms are more sensitive to changes in water prices, in that their relative change of surplus is larger."
+  ],
+  "list_see_also": [
+    "sensitively",
+    "sensitiveness",
+    "sensitivity"
+  ],
+  "list_browse": [
+    "sensibilities",
+    "sensibility",
+    "sensible",
+    "sensibly",
+    "sensitive",
+    "sensitively",
+    "sensitiveness",
+    "sensitivity",
+    "sensor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087355_c65d9ff2c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087355_e8b69a9593_o.png",
+      "id_image": "sensitive_6001177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350066_a2dd11449b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350066_5a59e100e3_o.png",
+      "id_image": "sensitive_6003068"
+    }
+  ]
+}

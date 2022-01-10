@@ -1,0 +1,87 @@
+{
+  "english": "satisfaction",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thỏa mãn",
+          "definition": "the act of satisfying or state of being satisfied",
+          "world_new": [
+            "act",
+            "satisfying",
+            "state",
+            "satisfied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the satisfaction of desires."
+            }
+          ]
+        },
+        {
+          "mean_english": "đem lại sự hài lòng",
+          "definition": "pleasure or contentment",
+          "world_new": [
+            "pleasure",
+            "contentment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your success gives me great satisfaction.",
+              "world_new": [
+                "success",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The reader should always add satisfaction with to all zero and first-order variables in order to get a more appropriate label.",
+    "There was a moderate reduction in the difference when postbereavement health variables and satisfaction were entered into the model.",
+    "For the older generation, perceived or self-rated health was the variable that contributed most significantly to higher life satisfaction, followed by perceived standard of living.",
+    "It is a condition that does not lead to contentment and an even satisfaction, but to an ever extending desire for the choice fruits tasted.",
+    "Hundreds of articles focused on patient quality of life, health status, or satisfaction with care.",
+    "Factors related to patients' satisfaction with their medical care.",
+    "But perhaps they experience a certain perverse sense of satisfaction, a distorted sort of pleasure.",
+    "Confinement satisfaction is defined to mean that every the expression being evaluated must be visible from the enclosing method's class."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "satire",
+    "satirical",
+    "satirist",
+    "satirize",
+    "satisfaction",
+    "satisfactorily",
+    "satisfactory",
+    "satisfied",
+    "satisfy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334241_a8053106d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334241_b533ed3f01_o.png",
+      "id_image": "satisfaction_1055433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334201_47cf1c93fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334201_dbd1bb0fda_o.png",
+      "id_image": "satisfaction_1686928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379057_56e81aa846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379057_82bea42ee0_o.png",
+      "id_image": "satisfaction_2617880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071145_09f8c914ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071145_eed2578ae0_o.png",
+      "id_image": "satisfaction_6064881"
+    }
+  ]
+}

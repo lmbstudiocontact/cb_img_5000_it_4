@@ -1,0 +1,176 @@
+{
+  "english": "stage",
+  "phat_am": "steidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sân khấu",
+          "definition": "a raised platform especially for performing or acting on, eg in a theatre/theater",
+          "world_new": [
+            "platform",
+            "acting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actors had already assembled on the stage ready for the curtain to go up.",
+              "world_new": [
+                "ready",
+                "curtain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đưa lên sân khấu",
+          "definition": "to prepare and produce (a play etc) in a theatre/theater etc",
+          "world_new": [
+            "prepare",
+            "produce",
+            "play"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This play was first staged in 1928.",
+              "world_new": [
+                "play"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắp xếp, tổ chức",
+          "definition": "to organize (an event etc)",
+          "world_new": [
+            "organize",
+            "event"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The protesters are planning to stage a demonstration.",
+              "world_new": [
+                "planning",
+                "demonstration"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời kì, giai đoạn",
+          "definition": "a period or step in the development of something",
+          "world_new": [
+            "period",
+            "step",
+            "development"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plan is in its early stages",
+              "world_new": [
+                "plan",
+                "its"
+              ]
+            },
+            {
+              "ex_of_definition": "At this stage, we don’t know how many survivors there are.",
+              "world_new": [
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chặng đường , quãng",
+          "definition": "part of a journey",
+          "world_new": [
+            "part",
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The first stage of our journey will be the flight to Singapore.",
+              "world_new": [
+                "our",
+                "journey",
+                "flight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe buýt, xe ngựa tuyến",
+          "definition": "a section of a bus route.",
+          "world_new": [
+            "section",
+            "bus",
+            "route"
+          ]
+        },
+        {
+          "mean_english": "động cơ riêng",
+          "definition": "a section of a rocket.",
+          "world_new": [
+            "section",
+            "rocket"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The period affects all young people and involves a series of stages over a number of years, which are influenced by social and economic status.",
+    "The procedure of the proposed system design contains input data preparation and neural network training stages.",
+    "In the current early stages of multi-agent design these two approaches are being developed simultaneously.",
+    "Two stages of this homogenization process are under consideration.",
+    "A portion of these phenomena can undoubtedly be accounted for in terms of the temporal response of the first stages of the visual system.",
+    "On the other hand, as encephalographic registrations of sleep stages were not made in this study, such a conclusion can only be tentative.",
+    "I would recommend allowing one laboratory per open reading frame in the initial stages.",
+    "Men here, in various stages of undress, were pulling on outer clothing and armour."
+  ],
+  "list_see_also": [
+    "staging",
+    "stage direction",
+    "stage fright",
+    "stagehand",
+    "stage manager"
+  ],
+  "list_browse": [
+    "staff",
+    "staffroom",
+    "stag",
+    "stag party",
+    "stage",
+    "stage direction",
+    "stage fright",
+    "stage manager",
+    "stagecoach"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350561_4ef78d1a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350561_1163b8b177_o.png",
+      "id_image": "stage_2548915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087740_0ac0e100de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087740_b7c396df88_o.png",
+      "id_image": "stage_2649810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087700_e05f92c3cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087700_97681ed83f_o.png",
+      "id_image": "stage_4472546"
+    }
+  ]
+}

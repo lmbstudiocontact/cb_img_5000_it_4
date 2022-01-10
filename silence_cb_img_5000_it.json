@@ -1,0 +1,132 @@
+{
+  "english": "silence",
+  "phat_am": "ˈsailəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự im lặng",
+          "definition": "(a period of) absence of sound or of speech",
+          "world_new": [
+            "period",
+            "absence",
+            "sound",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A sudden silence followed his remark.",
+              "world_new": [
+                "sudden",
+                "remark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự im hơi lặng tiếng",
+          "definition": "failure to mention, tell something etc",
+          "world_new": [
+            "failure",
+            "mention",
+            "tell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your silence on this subject is disturbing.",
+              "world_new": [
+                "subject",
+                "disturbing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho ai nín lặng",
+          "definition": "to cause to be silent",
+          "world_new": [
+            "cause",
+            "silent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The arrival of the teacher silenced the class.",
+              "world_new": [
+                "arrival",
+                "teacher",
+                "class"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "im lặng",
+          "definition": "be silent!",
+          "world_new": [
+            "silent"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The few voices that might suggest otherwise either failed to become viable, or were silenced.",
+    "In other words, what the historian chooses to tell inevitably sanctions some voices while silencing others.",
+    "However, as might be expected with a book constructed on this scale, it contains silences and imbalances.",
+    "The silences within their text are also telling.",
+    "In the process, the authors may have silenced many different people to whom they intended to give a voice.",
+    "If a character temporarily \"has\" a voice, it will soon be blurred, switched, or silenced.",
+    "The voice telling the story also breaks: 'undone', silenced in its own act of retelling the truth.",
+    "What is the trauma that is silenced here?"
+  ],
+  "list_see_also": [
+    "silencer",
+    "silent",
+    "silently",
+    "in silence"
+  ],
+  "list_browse": [
+    "significantly",
+    "signify",
+    "signpost",
+    "Sikh",
+    "silence",
+    "silencer",
+    "silent",
+    "silently",
+    "silhouette"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453893_27af60f42f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453893_e577fa6104_o.png",
+      "id_image": "silence_1201895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075950_8f8b8f2a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075950_0060d9d231_o.png",
+      "id_image": "silence_1450731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453848_76f1dca1c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453848_b058d94e16_o.png",
+      "id_image": "silence_1464062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076070_74075e2450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076070_b35384b874_o.png",
+      "id_image": "silence_631751"
+    }
+  ]
+}

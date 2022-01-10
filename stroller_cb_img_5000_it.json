@@ -1,0 +1,79 @@
+{
+  "english": "stroller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đi dạo",
+          "definition": "someone who is walking in a slow relaxed manner",
+          "world_new": [
+            "slow",
+            "relaxed",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sat and watched the evening strollers on the seafront.",
+              "world_new": [
+                "evening",
+                "seafront"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe đẩy",
+          "definition": "a small folding chair on wheels that you use to push along a small child; buggy British , pushchair British",
+          "world_new": [
+            "small",
+            "folding",
+            "chair",
+            "push",
+            "small"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The trail is designed for bicycles, longboards, walkers, wheelchairs, strollers and in-line skaters.",
+    "When readable at all, as non-descript strollers or generic workers, they seem endowed with few marks of belonging or identity.",
+    "It can face forward or towards the person pushing the stroller.",
+    "A stroller can also be used indoors for transportation of the infant.",
+    "Children participate from as early as parents can get them into costume; sometime even strollers are decorated.",
+    "In the characteristic clip joint a flamboyantly attired siren lures the midnight stroller in, ostensibly to quench his thirst, but very frequently with promises of more seductive pleasures.",
+    "Baby joggers and strollers are welcome on the walking course, however, pets are not permitted.",
+    "All of this was done by hand and usually within the sight of boardwalk strollers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stripy",
+    "strive",
+    "stroke",
+    "stroll",
+    "stroller",
+    "strong",
+    "strong drink",
+    "strong language",
+    "strong point"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386992_619bb8f650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386992_3739c2a98e_o.png",
+      "id_image": "stroller_394434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386952_f36d88050e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386952_f53c585171_o.png",
+      "id_image": "stroller_5020259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386937_92f310d846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386937_2a34ea1059_o.png",
+      "id_image": "stroller_5101272"
+    }
+  ]
+}

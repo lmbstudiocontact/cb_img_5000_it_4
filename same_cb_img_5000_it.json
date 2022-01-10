@@ -1,0 +1,138 @@
+{
+  "english": "same",
+  "phat_am": "seim",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "giống như",
+          "definition": "alike; very similar",
+          "world_new": [
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The houses in this road are all the same",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "You have the same eyes as your brother (has).",
+              "world_new": [
+                "your",
+                "brother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "như nhau",
+          "definition": "not different",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My friend and I are the same age",
+              "world_new": [
+                "friend",
+                "I",
+                "age"
+              ]
+            },
+            {
+              "ex_of_definition": "He went to the same school as me.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không thay đổi",
+          "definition": "unchanged",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My opinion is the same as it always was.",
+              "world_new": [
+                "opinion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "vẫn cái đó",
+          "definition": "(usually with the) the same thing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sat down and we all did the same."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vẫn như thế",
+          "definition": "(usually with the) in the same way",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t feel the same about you as I did.",
+              "world_new": [
+                "I",
+                "feel",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Much the same can be said about (b).",
+    "Many other animalcula of the same class and of other classes display the same characteristic.",
+    "They remain in the same place for one year.",
+    "But they had - at the same time - to be war y that mathematics was not \"so close\" to applications as to produce unwanted philosophical conflict.",
+    "The cooling paradigm also permitted rapid reversal and repeated demonstration of deficits in the same testing session.",
+    "The argument is the same for (3) and (4).",
+    "The same procedure that led to (17)permits us to integrate this equation.",
+    "This group received the same input as the interactors."
+  ],
+  "list_see_also": [
+    "all/just the same",
+    "at the same time",
+    "be all the same to",
+    "same here",
+    "same-sex marriage"
+  ],
+  "list_browse": [
+    "salvage",
+    "salvation",
+    "salve",
+    "salver",
+    "same",
+    "same here",
+    "same-sex marriage",
+    "sampan",
+    "sample"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335701_a23b37f33e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335701_a4a3999b83_o.png",
+      "id_image": "same_2248099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690894_b5dfe867ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690894_2903b2e73e_o.png",
+      "id_image": "same_4045022"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "sympathy",
+  "phat_am": "ˈsimpəði",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đồng cảm, sự thương cảm",
+          "definition": "a feeling of pity or sorrow for a person in trouble",
+          "world_new": [
+            "feeling",
+            "pity",
+            "sorrow",
+            "person",
+            "trouble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When her husband died, she received many letters of sympathy.",
+              "world_new": [
+                "husband"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đồng cảm, sự đồng tình",
+          "definition": "the state or feeling of being in agreement with, or of being able to understand, the attitude or feelings of another person",
+          "world_new": [
+            "state",
+            "feeling",
+            "agreement",
+            "understand",
+            "attitude",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have no sympathy with such a stupid attitude",
+              "world_new": [
+                "I",
+                "stupid",
+                "attitude"
+              ]
+            },
+            {
+              "ex_of_definition": "Are you in sympathy with the strikers?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Activists with pro-labour sympathies assumed advisory roles in key ministries.",
+    "Many marriages are saved by the activities and sympathies of the magistrates dealing with those matrimonial cases.",
+    "Such sympathies are often in direct contrast to the academic (and middle-class) scholar.",
+    "However, my own sympathies in issues of this kind tend towards the liberal end of the spectrum.",
+    "I quite agree that in a case of that kind our sympathies become very readily involved.",
+    "If a man is always going to be labelled with an alien name, then and then only can he be expected to maintain alien sympathies.",
+    "I speak as an \"oldster,\" a grandfather and a man of advanced years, and my sympathies lie with the elderly in that sense.",
+    "He said he thought he would have their sympathies on this point."
+  ],
+  "list_see_also": [
+    "sympathetic",
+    "sympathetically",
+    "sympathize"
+  ],
+  "list_browse": [
+    "symmetry",
+    "sympathetic",
+    "sympathetically",
+    "sympathize",
+    "sympathy",
+    "symphonic",
+    "symphony",
+    "symptom",
+    "symptomatic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445693_c8f7023b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445693_c7a91aaffa_o.png",
+      "id_image": "sympathy_3220616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685829_0f37e97a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685829_6ba78e5620_o.png",
+      "id_image": "sympathy_708687"
+    }
+  ]
+}

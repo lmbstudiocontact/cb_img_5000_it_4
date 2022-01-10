@@ -1,0 +1,80 @@
+{
+  "english": "sin",
+  "phat_am": "sin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tội lỗi",
+          "definition": "wickedness, or a wicked act, especially one that breaks a religious law",
+          "world_new": [
+            "wickedness",
+            "wicked",
+            "act",
+            "religious",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is a sin to envy the possessions of other people",
+              "world_new": [
+                "envy",
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "Lying and cheating are both sins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phạm tội",
+          "definition": "to do wrong; to commit a sin, especially in the religious sense",
+          "world_new": [
+            "commit",
+            "religious",
+            "sense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Forgive me, Father, for I have sinned.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sinner",
+    "sinful",
+    "sinfully",
+    "sinfulness"
+  ],
+  "list_browse": [
+    "simulation",
+    "simulator",
+    "simultaneous",
+    "simultaneously",
+    "sin",
+    "since",
+    "sincere",
+    "sincerely",
+    "sincerity"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383062_4c5eb59799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383062_ff65b1eaed_o.png",
+      "id_image": "sin_4727683"
+    }
+  ]
+}

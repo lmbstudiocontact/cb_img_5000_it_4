@@ -1,0 +1,175 @@
+{
+  "english": "splash",
+  "phat_am": "splӕʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "té, vẩy, làm bắn nước",
+          "definition": "to make wet with drops of liquid, mud etc, especially suddenly and accidentally",
+          "world_new": [
+            "wet",
+            "liquid",
+            "mud",
+            "suddenly",
+            "accidentally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A passing car splashed my coat (with water).",
+              "world_new": [
+                "passing",
+                "car",
+                "my",
+                "coat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn lên, văng ra",
+          "definition": "to (cause to) fly about in drops",
+          "world_new": [
+            "fly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Water splashed everywhere.",
+              "world_new": [
+                "everywhere"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vầy nước",
+          "definition": "to fall or move with splashes",
+          "world_new": [
+            "fall",
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were splashing in the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chấm loáng thoáng",
+          "definition": "to display etc in a place, manner etc that will be noticed",
+          "world_new": [
+            "display",
+            "place",
+            "manner",
+            "noticed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Posters advertising the concert were splashed all over the wall.",
+              "world_new": [
+                "advertising",
+                "concert",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự bắn tóe",
+          "definition": "a scattering of drops of liquid or the noise made by this",
+          "world_new": [
+            "scattering",
+            "liquid",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell in with a loud splash.",
+              "world_new": [
+                "fell",
+                "loud"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vết bùn, đốm bẩn",
+          "definition": "a mark made by splashing",
+          "world_new": [
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a splash of mud on her dress.",
+              "world_new": [
+                "mud",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mảng màu sáng, vết đốm",
+          "definition": "a bright patch",
+          "world_new": [
+            "bright",
+            "patch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a splash of colour/color."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Who hasn't seen images of gang-related violence splashed all over the evening news?",
+    "Five years ago, that would not have been the case—the story would have been splashed across the headlines.",
+    "Then, under a crash of electronic screeches, blood splashed onto the inside of the glass door; and one of the boys ran terrified into view.",
+    "I suppose this battle started when the first person jumped on a horse and a passing pedestrian got splashed.",
+    "I regret that those comments have been splashed around widely in media in this country.",
+    "A woman in my area splashed vinegar in her eye while making a salad dressing for a dinner party and called an ambulance.",
+    "Footsteps, engines, birds, animals and splashing rain are but a few categories of natural sound sources that each have their own set of behavioural and synthesis modelling complexities.",
+    "Lamps positioned below the transparent tanks illuminate patterns on the surface of the water as it ripples and splashes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spite",
+    "spiteful",
+    "spitefully",
+    "spitefulness",
+    "splash",
+    "spleen",
+    "splendid",
+    "splendidly",
+    "splendidness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468228_404c817bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468228_8f1eb64b4c_o.png",
+      "id_image": "splash_3917951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468253_3b189f098e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468253_2d32f348a5_o.png",
+      "id_image": "splash_453316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708134_82e465223d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708134_945614480c_o.png",
+      "id_image": "splash_4534952"
+    }
+  ]
+}

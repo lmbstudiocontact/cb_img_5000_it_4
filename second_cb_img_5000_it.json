@@ -1,0 +1,221 @@
+{
+  "english": "second",
+  "phat_am": "ˈsekənd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thứ hai",
+          "definition": "next after, or following, the first in time, place etc",
+          "world_new": [
+            "following",
+            "time",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "February is the second month of the year",
+              "world_new": [
+                "February",
+                "month",
+                "year"
+              ]
+            },
+            {
+              "ex_of_definition": "She finished the race in second place.",
+              "world_new": [
+                "finished",
+                "race",
+                "place"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thêm, phụ",
+          "definition": "additional or extra",
+          "world_new": [
+            "additional",
+            "extra"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a second house in the country.",
+              "world_new": [
+                "house",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thứ yếu",
+          "definition": "lesser in importance, quality etc",
+          "world_new": [
+            "lesser",
+            "importance",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a member of the school’s second swimming team.",
+              "world_new": [
+                "member",
+                "swimming",
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vị trí thứ hai",
+          "definition": "next after the first",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He came second in the race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người, cái thứ hai",
+          "definition": "a second person, thing etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re the second to arrive.",
+              "world_new": [
+                "arrive"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người giúp đỡ cho một võ sĩ",
+          "definition": "a person who supports and helps a person who is fighting in a boxing match etc.",
+          "world_new": [
+            "person",
+            "person",
+            "fighting",
+            "boxing",
+            "match"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tán thành",
+          "definition": "to agree with (something said by a previous speaker), especially to do so formally",
+          "world_new": [
+            "agree",
+            "previous",
+            "formally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He proposed the motion and I seconded it.",
+              "world_new": [
+                "motion",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giây",
+          "definition": "the sixtieth part of a minute",
+          "world_new": [
+            "sixtieth",
+            "part",
+            "minute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran the race in three minutes and forty-two seconds.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một lát",
+          "definition": "a short time",
+          "world_new": [
+            "short",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll be there in a second."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "secondary",
+    "seconder",
+    "secondly",
+    "secondary colours",
+    "secondary school",
+    "second-best",
+    "second-class",
+    "second-hand",
+    "second lieutenant",
+    "second-rate",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "seaworthiness",
+    "seaworthy",
+    "secluded",
+    "seclusion",
+    "second",
+    "second cousin",
+    "second lieutenant",
+    "second sight",
+    "second thoughts"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060690_d3dc4f219c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060690_33cfcc904d_o.png",
+      "id_image": "second_1021085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368662_96184ccdf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368662_09f31eb57f_o.png",
+      "id_image": "second_6214130"
+    }
+  ]
+}

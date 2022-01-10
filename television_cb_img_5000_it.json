@@ -1,0 +1,72 @@
+{
+  "english": "television",
+  "phat_am": "ˈteliviʒən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự truyền hình",
+          "definition": "the sending of pictures from a distance, and the reproduction of them on a screen",
+          "world_new": [
+            "distance",
+            "reproduction",
+            "screen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We saw it on television.",
+              "world_new": [
+                "saw"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vô tuyến",
+          "definition": "(also television set) an apparatus with a screen for receiving these pictures",
+          "world_new": [
+            "apparatus",
+            "screen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He switched off the television."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, the television scenario in which the actors are performing champions a trendy expressive style.",
+    "Thus, a focus on television is important for understanding music within the dynamics of family life since the 1950s.",
+    "It can thus easily be used in television programmes or films, and so has the capability to be sold twice over.",
+    "It would seem to require that the study of music on television entails more than merely importing the methods of film studies.",
+    "This means that the programme producers are in the same relationship to the television market as the musicians who are the subjects of their programmes.",
+    "But why is such television of political concern and formal innovation and dramatic entertainment the exception?",
+    "The experience of watching a television broadcast is far less involving.",
+    "The local music press, music television, and the live music scene are at their most extensive and visible."
+  ],
+  "list_see_also": [
+    "televise"
+  ],
+  "list_browse": [
+    "telescope",
+    "telescopic",
+    "teletext",
+    "televise",
+    "television",
+    "tell",
+    "tell (someone’s) fortune",
+    "tell apart",
+    "tell off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397577_048b8432c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397577_dd443c2104_o.png",
+      "id_image": "television_170972"
+    }
+  ]
+}

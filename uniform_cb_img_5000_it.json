@@ -1,0 +1,98 @@
+{
+  "english": "uniform",
+  "phat_am": "ˈjuːnifoːm",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không thay đổi về hình thức và tính cách",
+          "definition": "the same always or everywhere; not changing or varying",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sky was a uniform grey.",
+              "world_new": [
+                "sky",
+                "grey"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồng phục",
+          "definition": "(a set of) clothes worn by eg soldiers, children at a particular school etc",
+          "world_new": [
+            "clothes",
+            "worn",
+            "particular",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Full uniform must be worn",
+              "world_new": [
+                "worn"
+              ]
+            },
+            {
+              "ex_of_definition": "The new uniforms will arrive tomorrow.",
+              "world_new": [
+                "arrive",
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Professionalism, the subjugation of the individual to the group, and hierarchy were expressed through standardized, rank-specific uniforms.",
+    "Perhaps the clothing industry had not identified the demand, and it took several years for them to include uniforms in their clothing lines.",
+    "Thus, the physical uniforms were matched by a choreographic plan that stressed homogeneity rather than fostering difference.",
+    "One reflection of the poor level of support is that several of the soldiers interviewed for this research had bought their uniforms with their own money.",
+    "I am afraid that there are no surpluses of suitable uniforms at the moment.",
+    "We wear combat uniforms ; we wear t-shirts ; all kinds of dressing.",
+    "The adoption of uniforms has brought before us a true realization of the pleasure of seeing and being dressed appropriately.",
+    "In the very early days the effort at being authentic, with uniforms and performance and all, was absolutely minimal - it was always, for the musicians, the music first and foremost."
+  ],
+  "list_see_also": [
+    "uniformed",
+    "uniformity",
+    "uniformly",
+    "uniform motion"
+  ],
+  "list_browse": [
+    "unicorn",
+    "unidentified",
+    "unidentified flying object",
+    "unification",
+    "uniform",
+    "uniform motion",
+    "uniformed",
+    "uniformity",
+    "uniformly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397967_6a4249bd9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397967_d6a8733539_o.png",
+      "id_image": "uniform_1505372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397937_572b65e515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397937_6a916edb40_o.png",
+      "id_image": "uniform_1552316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467743_dc8b353798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467743_59b1b3a192_o.png",
+      "id_image": "uniform_2809752"
+    }
+  ]
+}

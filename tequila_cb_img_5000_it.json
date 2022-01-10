@@ -1,0 +1,83 @@
+{
+  "english": "tequila",
+  "phat_am": "tiˈkiːlə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu tequila",
+          "definition": "a strong alcoholic drink made in Mexico",
+          "world_new": [
+            "strong",
+            "alcoholic",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of tequila.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một ly rượu tequila",
+          "definition": "a glass of tequila",
+          "world_new": [
+            "glass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think I’ll have another tequila.",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The course focuses on the history and importance of tequila, federal governmental regulations surrounding tequila production, quality control, and the commercialization of tequila worldwide.",
+    "The title line of the chorus translates to, after several tequilas, the clouds go away but the sun doesn't come back.",
+    "Some of the flavors are uncommon, such as rose petal, pulque, mole, spearmint, lettuce, shrimp and tequila.",
+    "Cuervo was the first distiller to bottle tequila, at a time when other distillers were still using barrels.",
+    "Herradura brand tequilas are still made with agave hearts roasted in clay ovens and fermented with wild yeast.",
+    "Because only so many distilleries are used, multiple brands of tequila come from the same location.",
+    "Once the plant matures, it is harvested like agave plants when mezcal or tequila are to be made.",
+    "Like tequila, mezcal is made with the cooked hearts of a species of the maguey or agave plant but the flavor is very different."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tepid",
+    "tepidity",
+    "tepidly",
+    "tepidness",
+    "tequila",
+    "tercentenary",
+    "term",
+    "terminal",
+    "terminally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706624_c5b38dd13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706624_cc10cee1db_o.png",
+      "id_image": "tequila_2431799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089335_485dcb34b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089335_7c760d8d05_o.png",
+      "id_image": "tequila_5216809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466608_07fc20625f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466608_701c1d1da9_o.png",
+      "id_image": "tequila_5426204"
+    }
+  ]
+}

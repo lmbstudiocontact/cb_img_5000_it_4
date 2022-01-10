@@ -1,0 +1,198 @@
+{
+  "english": "spot",
+  "phat_am": "spot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết nhơ, vết đen",
+          "definition": "a small mark or stain (made by mud, paint etc)",
+          "world_new": [
+            "small",
+            "mark",
+            "stain",
+            "mud",
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was trying to remove a spot of grease from her skirt.",
+              "world_new": [
+                "trying",
+                "remove",
+                "grease",
+                "skirt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đốm, dấu , vết",
+          "definition": "a small, round mark of a different colour/color from its background",
+          "world_new": [
+            "small",
+            "mark",
+            "its",
+            "background"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His tie was blue with white spots.",
+              "world_new": [
+                "tie",
+                "blue",
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đốm",
+          "definition": "a pimple or red mark on the skin caused by an illness etc",
+          "world_new": [
+            "pimple",
+            "red",
+            "mark",
+            "skin",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had measles and was covered in spots.",
+              "world_new": [
+                "measles"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi chốn",
+          "definition": "a place or small area, especially the exact place (where something happened etc)",
+          "world_new": [
+            "place",
+            "small",
+            "area",
+            "exact",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a large number of detectives gathered at the spot where the body had been found.",
+              "world_new": [
+                "large",
+                "number",
+                "body",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút, một ít",
+          "definition": "a small amount",
+          "world_new": [
+            "small",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I borrow a spot of sugar?",
+              "world_new": [
+                "I",
+                "borrow",
+                "sugar"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhận ra",
+          "definition": "to catch sight of",
+          "world_new": [
+            "catch",
+            "sight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spotted him eventually at the very back of the crowd.",
+              "world_new": [
+                "spotted",
+                "eventually",
+                "crowd"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phát hiện",
+          "definition": "to recognize or pick out",
+          "world_new": [
+            "recognize",
+            "pick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "No-one watching the play was able to spot the murderer.",
+              "world_new": [
+                "play",
+                "murderer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When observations were made at the surface of activated oocytes, numerous tiny spots were seen to be evenly distributed over most of surface area.",
+    "For these pest groups, climatic conditions and geographical distribution of pests (downy mildews, corn borers, etc.) restrict the importance to some hot spots.",
+    "During interpretation of ' 'that' ', its time stamp value is used to determine the location of the spot that was generated when the word was uttered.",
+    "The orientations of the braids connecting the spot to the natural structures will also vary randomly, thus lowering intermittency outside the spot.",
+    "The measured focal spot radius was 13 mm.",
+    "The center spot was presented to the receptive center.",
+    "The interaction conditions are significantly changing with the laser focus spot position.",
+    "Oocytes matured off axis developed a maturation spot more eccentric than that in oocytes matured in an upright position."
+  ],
+  "list_see_also": [
+    "spotless",
+    "spotlessly",
+    "spotlessness",
+    "spotted",
+    "spotty",
+    "spottiness",
+    "spot check",
+    "spotlight",
+    "in a spot",
+    "on the spot",
+    ""
+  ],
+  "list_browse": [
+    "sports jacket",
+    "sportsman",
+    "sportswear",
+    "sporty",
+    "spot",
+    "spot check",
+    "spot on",
+    "spotless",
+    "spotlessly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467353_d1f7390aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467353_4d75f6b410_o.png",
+      "id_image": "spot_316540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352646_8fab5ed541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352646_3640dee0f1_o.png",
+      "id_image": "spot_518982"
+    }
+  ]
+}

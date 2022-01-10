@@ -1,0 +1,65 @@
+{
+  "english": "subsidy",
+  "phat_am": "ˈsabsidi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền trợ cấp",
+          "definition": "(a sum of) money paid by a government etc to an industry etc that needs help, or to farmers etc to keep the price of their products low",
+          "world_new": [
+            "sum",
+            "money",
+            "government",
+            "industry",
+            "help",
+            "keep",
+            "price",
+            "their",
+            "low"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "farming subsidies.",
+              "world_new": [
+                "farming"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This latter measure includes adjustments for earmarked government subsidies and other real financial investment activities on the part of households.",
+    "The politically popular fertilizer subsidies are generally disappointing and should be replaced by market-smart grants or by institutional reforms.",
+    "However, retaliation against implicit environmental subsidies is not permitted under these rules.",
+    "Moreover, some solutions involved redistributive elements, either because they were not fiscally neutral or because they introduced subsidies for renewable energy sources.",
+    "It deprives them of their qualifications for the benefits and subsidies connected with the urban 'identity'.",
+    "In addition, the 'wealth effect' of transfers counteracts the 'freeing-up effect', which implies that per unit of subsidy fewer hectares of tropical forest are protected.",
+    "The negative incremental net gain indicates the minimum external support (subsidy) that may be needed to make the new technologies economically attractive to farmers.",
+    "The sharp decline in cereal production following the elimination of the fertilizer subsidy was due to the high intensity of fertilizer use on these crops."
+  ],
+  "list_see_also": [
+    "subsidize"
+  ],
+  "list_browse": [
+    "subside",
+    "subsidence",
+    "subsidiary",
+    "subsidize",
+    "subsidy",
+    "subsoil",
+    "subsonic",
+    "substance",
+    "substandard"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695064_d10567f2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695064_f4c95d2fcf_o.png",
+      "id_image": "subsidy_5605905"
+    }
+  ]
+}

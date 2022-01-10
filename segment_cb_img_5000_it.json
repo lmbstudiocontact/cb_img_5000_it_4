@@ -1,0 +1,74 @@
+{
+  "english": "segment",
+  "phat_am": "ˈseɡmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "múi, đoạn",
+          "definition": "a part or section",
+          "world_new": [
+            "part",
+            "section"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He divided the orange into segments.",
+              "world_new": [
+                "orange"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình cầu",
+          "definition": "a part of eg a circle cut off by a straight line.",
+          "world_new": [
+            "part",
+            "circle",
+            "cut",
+            "straight",
+            "line"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Open spiracles occur on the prothorax and first eight abdominal segments.",
+    "Moreover, experts agree that vowels before voiced segments are longer than before voiceless segments.",
+    "Cuticular prominences occur on all the body segments except the prothorax, their disposition being as in the 2nd instar larva.",
+    "The union of all the separating orbit segments is a collection of periodic orbits of the combinatorial semi-flow considered.",
+    "There are several short episodes and segments occurring which reduce the average lengths.",
+    "He argued that when segments are contrastive, they contain greater representational (featural) structure than when they are not.",
+    "Games aimed at promoting phonological awareness prevail, such as segmenting words into syllables, counting syllables, and rhyming.",
+    "Unbeknown to the participants, each trial during the training sessions was divided into three segments."
+  ],
+  "list_see_also": [
+    "segmented"
+  ],
+  "list_browse": [
+    "seep",
+    "seer",
+    "seesaw",
+    "seething",
+    "segment",
+    "segmented",
+    "segregate",
+    "segregation",
+    "seismic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323036_eca1ea0e7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323036_48e62ecca8_o.png",
+      "id_image": "segment_4577216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323021_78f9f2190b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323021_e4d2a03a7b_o.png",
+      "id_image": "segment_5967661"
+    }
+  ]
+}

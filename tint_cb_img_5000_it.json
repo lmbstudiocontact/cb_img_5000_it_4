@@ -1,0 +1,92 @@
+{
+  "english": "tint",
+  "phat_am": "tint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trạng thái, màu sắc khác nhau",
+          "definition": "a variety, or shade, of a colour/color",
+          "world_new": [
+            "variety",
+            "shade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A tint of red crept up on her cheeks.",
+              "world_new": [
+                "red"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có màu nhẹ",
+          "definition": "to colour/color slightly",
+          "world_new": [
+            "slightly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had her hair tinted red.",
+              "world_new": [
+                "hair",
+                "red"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The flesh is whitish (sometimes with rosy tints), has no distinctive odor, and an acidic taste.",
+    "The wainscoting of dark wood is surmounted with pomegranate hangings, and the ceiling is effectively decorated in plain and harmonious tints.",
+    "His works are pencil sketches tinted with watercolour, gouache and sepia.",
+    "What is more, there will be additional charges for prisms and tints even when these are prescribed by the practitioner as a result of his examination of the patient.",
+    "The dominant herb or spice present in the spice-blend paste tints the three different color kroeung.",
+    "The object was covered in a tin-glaze tinted with a small amount of colouring oxide, with decoration over it in white tin-glaze.",
+    "We can be tinted out of markets as well as priced out of them.",
+    "In the typical red morph, their coats are generally bright reddish-rusty with yellowish tints."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tinkle",
+    "tinned",
+    "tinsel",
+    "tinselly",
+    "tint",
+    "tiny",
+    "tip",
+    "tip off",
+    "tip over"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084300_94d6b2b6d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084300_60b88424a2_o.png",
+      "id_image": "tint_1941236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391817_4b2617691e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391817_a86e8f84b1_o.png",
+      "id_image": "tint_3844786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701829_6d27de85fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701829_4316573d03_o.png",
+      "id_image": "tint_438672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391867_b4ed85f168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391867_6766068527_o.png",
+      "id_image": "tint_438673"
+    }
+  ]
+}

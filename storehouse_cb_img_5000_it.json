@@ -1,0 +1,67 @@
+{
+  "english": "storehouse",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buồng kho",
+          "definition": "a place or room where goods etc are stored",
+          "world_new": [
+            "place",
+            "room",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a storeroom behind the shop.",
+              "world_new": [
+                "shop"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the other hand, they have some positive features, they are environmental storehouses, repositories of historical and cultural traditions, and all of that must be conserved.",
+    "They could have increased their supply enormously if they could only set up the machinery which they have now lying idle in their storehouses—machinery which takes months to turn out.",
+    "The detached military post included a variety of barracks, quarters, storehouses etc.",
+    "We want to build up collections outside these vast storehouses in the middle of towns, which are incredibly difficult to house.",
+    "They are rich storehouses of memories and reveries.",
+    "Other sorts of storehouses such as outbuildings (\"naya\") and sheds (\"koya\") were used to store more mundane items.",
+    "Within the stockade were wood framed one story buildings including the barracks, storehouses, officers quarters, mess hall, kitchen and bakery.",
+    "Positional warfare played a wide variety of roles: fortresses controlled bridgeheads and passes, guarded supply routes, and served as storehouses and magazines."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stopwatch",
+    "storage",
+    "store",
+    "store up",
+    "storehouse",
+    "storekeeper",
+    "storey",
+    "-storeyed",
+    "stork"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389907_75c42b519f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389907_bdda115cdd_o.png",
+      "id_image": "storehouse_351871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344936_6780388daf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344936_b3e6bdd5d0_o.png",
+      "id_image": "storehouse_384012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459703_9e3904a87f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459703_eaf0fc0240_o.png",
+      "id_image": "storehouse_5439106"
+    }
+  ]
+}

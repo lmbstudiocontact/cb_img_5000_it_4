@@ -1,0 +1,73 @@
+{
+  "english": "spruce",
+  "phat_am": "spruːs",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bảnh bao",
+          "definition": "neat and smart",
+          "world_new": [
+            "neat",
+            "smart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re looking very spruce today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây vân sam",
+          "definition": "a tree with leaves like needles that grows in northern regions.",
+          "world_new": [
+            "tree",
+            "northern"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Assessing spatial andtemporal variations in surface soil moisture in fire-disturbed black spruce forests using spaceborne synthetic aperture radar imagery: implications for post-fire tree recruitment.",
+    "In time red pines and spruces may become dominant.",
+    "There are some groves of pine and spruce trees on the sea side of the road here.",
+    "A water course spread over two hectares is being spruced up.",
+    "There is also the planting of trees and the painting and sprucing up of public buildings, buildings of special interest, terraces and other joint schemes.",
+    "The renovation included sprucing up the musical fountain using a digitised system and repairs of dysfunctional fountains.",
+    "Wood-inhabiting fungi and substratum decline in selectively logged boreal spruce forests.",
+    "The spruces will arrive at maturity for felling in 60–70 years."
+  ],
+  "list_see_also": [
+    "spruce up"
+  ],
+  "list_browse": [
+    "sprinter",
+    "sprite",
+    "sprout",
+    "sprout up",
+    "spruce",
+    "spruce up",
+    "sprung",
+    "spry",
+    "spryly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352151_cb9e62646f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352151_722ef7a1c0_o.png",
+      "id_image": "spruce_4292805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466618_a765b31eda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466618_d0c9b02dbf_o.png",
+      "id_image": "spruce_6236538"
+    }
+  ]
+}

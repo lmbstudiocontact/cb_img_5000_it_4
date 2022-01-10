@@ -1,0 +1,90 @@
+{
+  "english": "swipe",
+  "phat_am": "swaip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh mạnh và liều",
+          "definition": "to hit hard",
+          "world_new": [
+            "hit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She swiped the tennis ball over the net",
+              "world_new": [
+                "tennis",
+                "ball",
+                "net"
+              ]
+            },
+            {
+              "ex_of_definition": "He swiped at the wasp, but didn’t hit it.",
+              "world_new": [
+                "wasp",
+                "hit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đánh mạnh và liều",
+          "definition": "a hard hit",
+          "world_new": [
+            "hit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She took a swipe at the ball with her bat.",
+              "world_new": [
+                "ball",
+                "bat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To strafe, the player swipes left or right on the screen using two fingers.",
+    "The team must purchase any two items; the card is swiped into a card reader for each purchase.",
+    "The game is controlled using virtual buttons on-screen; a virtual control stick is used for movement, while aiming is achieved by swiping on the touchscreen.",
+    "In some elevators, certain floors are inaccessible unless one swipes a security card or enters a passcode (or both).",
+    "Passengers enter the subway by swiping farecards to unlock the turnstiles.",
+    "The gondola was protected, but most of the logs and charts were swiped by souvenir hunters.",
+    "All unused block meal swipes and dining credits are forfeited at the end of each semester.",
+    "The new on-screen buttons can be hidden by swiping them to the side of the screen."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "swing",
+    "swing bridge",
+    "swing door",
+    "swinging",
+    "swipe",
+    "swirl",
+    "swish",
+    "switch",
+    "switch on/off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686979_6d6e291256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686979_47cc84a25e_o.png",
+      "id_image": "swipe_2121059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376757_0966d90fbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376757_915d9cc802_o.png",
+      "id_image": "swipe_219658"
+    }
+  ]
+}

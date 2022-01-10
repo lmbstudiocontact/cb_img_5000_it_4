@@ -1,0 +1,61 @@
+{
+  "english": "testament",
+  "phat_am": "ˈtestəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "di chúc",
+          "definition": "a written statement especially of what one wants to be done with one’s personal property after one dies",
+          "world_new": [
+            "statement",
+            "personal",
+            "property"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is his last will and testament."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His work is a testament to the value of detailed research on a community far removed from the stock-in-trade of most historians.",
+    "Elderly people gave their testaments and the trust gave a written report afterwards of the answers.",
+    "The seemingly unending cycles of war and peace, negotiations and stalemates, are a testament to the deep-seated and long-held feelings about the region.",
+    "Second, it examines the impact that the composition of testaments had on the indigenous members of the colonial societies.",
+    "During the later 1990s, the practice of making legal agreements (testaments) by family firms increased.",
+    "Therefore, rather than totting up the numbers of testaments, an attempt was made to study replacement rates based on the sample wills.",
+    "A disproportionate percentage of indigenous testaments represent the established nobility and the well-off, as might be expected.",
+    "Her analysis of the popularity of particular saints as it emerges in invocations in the testaments, as well as in the selection of names for newborns, is original and interesting."
+  ],
+  "list_see_also": [
+    "Old Testament"
+  ],
+  "list_browse": [
+    "test",
+    "test match",
+    "test pilot",
+    "test-tube",
+    "testament",
+    "testicle",
+    "testify",
+    "testimonial",
+    "testimony"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351616_30f71dd26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351616_d4d90832e2_o.png",
+      "id_image": "testament_1450753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396167_79f31a42d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396167_55f59d28ea_o.png",
+      "id_image": "testament_6000808"
+    }
+  ]
+}

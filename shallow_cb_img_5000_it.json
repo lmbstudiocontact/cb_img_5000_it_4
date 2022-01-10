@@ -1,0 +1,73 @@
+{
+  "english": "shallow",
+  "phat_am": "ˈʃӕləu",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nông, cạn",
+          "definition": "not deep",
+          "world_new": [
+            "deep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "shallow water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "a shallow pit.",
+              "world_new": [
+                "pit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nông cạn , hời hợt",
+          "definition": "not able to think seriously or feel deeply",
+          "world_new": [
+            "think",
+            "seriously",
+            "feel",
+            "deeply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rather shallow personality.",
+              "world_new": [
+                "rather",
+                "personality"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "shallowness",
+    "shallows"
+  ],
+  "list_browse": [
+    "shaking",
+    "shaky",
+    "shale",
+    "shall",
+    "shallow",
+    "shallowness",
+    "shallows",
+    "sham",
+    "shamble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392422_d5dc7f4c58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392422_24ee753da5_o.png",
+      "id_image": "shallow_4745395"
+    }
+  ]
+}

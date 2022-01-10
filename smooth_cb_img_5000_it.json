@@ -1,0 +1,167 @@
+{
+  "english": "smooth",
+  "phat_am": "smuːð",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhẵn, trơn, mượt",
+          "definition": "having an even surface; not rough",
+          "world_new": [
+            "even",
+            "rough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her skin is as smooth as satin.",
+              "world_new": [
+                "skin",
+                "satin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mịn, mượt",
+          "definition": "without lumps",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mix the ingredients to a smooth paste.",
+              "world_new": [
+                "paste"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bay thẳng",
+          "definition": "(of movement) without breaks, stops or jolts",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Did you have a smooth flight from New York?",
+              "world_new": [
+                "flight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "êm thấm, suôn sẻ",
+          "definition": "without problems or difficulties",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a smooth journey",
+              "world_new": [
+                "journey"
+              ]
+            },
+            {
+              "ex_of_definition": "His progress towards promotion was smooth and rapid.",
+              "world_new": [
+                "progress",
+                "promotion",
+                "rapid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngọt xớt, dẻo mồm",
+          "definition": "(too) agreeable and pleasant in manner etc",
+          "world_new": [
+            "agreeable",
+            "pleasant",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t trust those smooth salesmen.",
+              "world_new": [
+                "I",
+                "trust"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho nhẵn, làm phẳng",
+          "definition": "(often with down, out etc) to make (something) smooth or flat",
+          "world_new": [
+            "flat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tried to smooth the creases out."
+            }
+          ]
+        },
+        {
+          "mean_english": "lau, chùi nhẹ nhàng",
+          "definition": "(with intoor over) to rub (a liquid substance etc) gently over (a surface)",
+          "world_new": [
+            "rub",
+            "liquid",
+            "substance",
+            "gently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Smooth the moisturizing cream into/over your face and neck.",
+              "world_new": [
+                "cream",
+                "your",
+                "face",
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In essence, fitted or \"smoothed\" curves compensate for the random variation inherent in samples, using sample values to project expected population values.",
+    "The remaining examples are of secondary reduction and finishing, representing the shaping, smoothing, or decoration of artifacts.",
+    "The reason for the difficulties lies in the proper construction of smoothing operators.",
+    "When this happens, we have systematically checked that these distortions are smoothed out when a higher resolution (512 x 512) is employed.",
+    "However, using such incentives implies that consumption smoothing will not be achieved when the outcome of the investment decision is uncertain.",
+    "No smoothing effect is observed in this case.",
+    "Initial analysis suggests that heuristics for smoothing can be extracted.",
+    "Such smoothing would greatly reduce any statistical fluctuations in the magnetic-field measurements."
+  ],
+  "list_see_also": [
+    "smoothen",
+    "smoothie",
+    "smoothly",
+    "smoothness"
+  ],
+  "list_browse": [
+    "smokescreen",
+    "smokiness",
+    "smoking",
+    "smoky",
+    "smooth",
+    "smoothen",
+    "smoothie",
+    "smoothly",
+    "smoothness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067465_a2e5b9b2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067465_c5d03fafc4_o.png",
+      "id_image": "smooth_1151200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685689_8c9b34aa45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685689_2ab61a3bb2_o.png",
+      "id_image": "smooth_2844499"
+    }
+  ]
+}

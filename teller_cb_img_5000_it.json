@@ -1,0 +1,72 @@
+{
+  "english": "teller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người thu ngân",
+          "definition": "a person who receives or pays out money over the counter at a bank.",
+          "world_new": [
+            "person",
+            "money",
+            "counter",
+            "bank"
+          ]
+        },
+        {
+          "mean_english": "người kể chuyện",
+          "definition": "a person who tells (stories)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a story-teller."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We were defeated on the last occasion, when we totalled, including tellers, only four or five.",
+    "From story inception to completion, unique and shared knowledge may be utilized as a resource by both tellers and recipients in jointly shaping the course that a story-in-progress takes.",
+    "With a very good background and an understanding of the requirements; would we be allowed to act as tellers?",
+    "Tellers can go back time after time, but very often they will not find a tenant.",
+    "The number of writing assistants or analogous grades (card tellers and female clerical assistants) was about 1,800.",
+    "I believe that we must still disagree about the question of who should pay the tellers.",
+    "The sitting was suspended at 11.15 a.m. to allow the tellers to count the votes and was resumed at 12.20 p.m.",
+    "With these devices the recipients support the tellers, and there is no further prompting from the recipients."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tell on",
+    "tell tales",
+    "tell the time",
+    "tell the truth",
+    "teller",
+    "telling",
+    "tellingly",
+    "telltale",
+    "telly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467403_71fe8981eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467403_29ddded60a_o.png",
+      "id_image": "teller_2834818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397502_607ff23d55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397502_54220d1a04_o.png",
+      "id_image": "teller_2834881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467348_00416a6bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467348_f14586a784_o.png",
+      "id_image": "teller_6185300"
+    }
+  ]
+}

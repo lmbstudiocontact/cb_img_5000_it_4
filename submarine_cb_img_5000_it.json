@@ -1,0 +1,85 @@
+{
+  "english": "submarine",
+  "phat_am": "sabməˈriːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tàu ngầm",
+          "definition": "(abbreviation sub) a ship that can travel under the surface of the sea",
+          "world_new": [
+            "ship",
+            "travel",
+            "surface",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nuclear submarine.",
+              "world_new": [
+                "nuclear"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dưới mặt biển",
+          "definition": "existing, or intended for use etc, under the surface of the sea",
+          "world_new": [
+            "existing",
+            "surface",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "submarine vegetation.",
+              "world_new": [
+                "vegetation"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thirdly, there is the possibility of underwater attack by a frogman or submarines.",
+    "Principles and prospects for application in utilization of atomic submarines.",
+    "We would rather do peace work—repayment work—in the dockyards than build submarines, and that is what we want.",
+    "Various options for the disposal of decommissioned nuclear submarines remain under consideration.",
+    "Not only have they the numbers, but technically their submarines are greatly advanced.",
+    "They are, however, given a positive opportunity to volunteer for service in submarines.",
+    "Many of us are worried about the capacity to build submarines.",
+    "Above all, we should have a balanced fleet, not a fleet of all submarines or a fleet of all surface vessels."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sublimation",
+    "sublime",
+    "sublimely",
+    "sublimity",
+    "submarine",
+    "submerge",
+    "submerged",
+    "submergence",
+    "submersible"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340366_0d2466952b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340366_8d6dc0b7b9_o.png",
+      "id_image": "submarine_6032458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340331_72d79bcbf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340331_a20cf89410_o.png",
+      "id_image": "submarine_6387622"
+    }
+  ]
+}

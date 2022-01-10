@@ -1,0 +1,66 @@
+{
+  "english": "teach",
+  "phat_am": "tiːtʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dạy, dạy bảo",
+          "definition": "to give knowledge, skill or wisdom to a person; to instruct or train (a person)",
+          "world_new": [
+            "knowledge",
+            "skill",
+            "wisdom",
+            "instruct",
+            "train"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She teaches English / the piano",
+              "world_new": [
+                "English",
+                "piano"
+              ]
+            },
+            {
+              "ex_of_definition": "Experience has taught him nothing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The third group was taught both pronunciation and meaning, providing the full set of lexical constituents.",
+    "They make music independently of being shown or taught how to do so.",
+    "We have applied the same idea to teaching music by arguing for body movement as a physical metaphor between musical activities and conceptual thinking.",
+    "The unit-based ethicist may fulfill a variety of functions through his participation in the working or teaching rounds of the unit.",
+    "From 1961 onwards archaeology was taught as a so-called further education course, which followed studies in another discipline lasting four to five years.",
+    "He attributed the very modest results to the wide range of subjects taught and the near-total lack of encouragement to potential students (local authority employees).",
+    "Tutors teaching specific classes or incorporating special needs students in their regular classes require good support, and regular training is offered to them.",
+    "Research, or indeed the content of teaching for that matter, must not be controlled by those who are ignorant."
+  ],
+  "list_see_also": [
+    "teacher",
+    "teaching"
+  ],
+  "list_browse": [
+    "tea party",
+    "tea set",
+    "tea towel",
+    "teabag",
+    "teach",
+    "teach one’s grandmother to suck eggs",
+    "teacher",
+    "teaching",
+    "teacup"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708364_022048ca6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708364_8470f66bab_o.png",
+      "id_image": "teach_2991626"
+    }
+  ]
+}

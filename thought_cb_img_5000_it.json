@@ -1,0 +1,108 @@
+{
+  "english": "thought",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ý nghĩ",
+          "definition": "something that one thinks; an idea",
+          "world_new": [
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a sudden thought.",
+              "world_new": [
+                "I",
+                "sudden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự suy nghĩ, cân nhắc",
+          "definition": "the act of thinking; consideration",
+          "world_new": [
+            "act",
+            "consideration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After a great deal of thought, we decided to emigrate to America.",
+              "world_new": [
+                "great",
+                "deal",
+                "emigrate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý tưởng",
+          "definition": "general opinion",
+          "world_new": [
+            "general",
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "scientific thought.",
+              "world_new": [
+                "scientific"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Shouldn't all players who play on a team sport be thought of as team players?",
+    "If they thought both meanings were synonymous, then they were told to choose the meaning that would be the most likely used for the sentence.",
+    "What if past thought were not always surpassed thought?",
+    "However, there is a sharp distinction between the mechanisms posited by repression and the processes thought to underlie ordinary forgetting.",
+    "There are and always will be \"schools of thought\" that favor one or more interpretive themes over competitors.",
+    "Indeed, representations in the brain are not thought by visual neuroscientists to be point-by-point picture-like representations.",
+    "Luminance gradients are usually thought to provide cues about the interactions of light and surfaces that model the volume of the resulting object.",
+    "Traditionally, lexical contexts and sentential contexts were thought to play very different roles in word recognition, each applying at a separate stage."
+  ],
+  "list_see_also": [
+    "thoughtful",
+    "thoughtfully",
+    "thoughtfulness",
+    "thoughtless",
+    "thoughtlessly",
+    "thoughtlessness",
+    "thought bubble"
+  ],
+  "list_browse": [
+    "thoroughly",
+    "thoroughness",
+    "thou",
+    "though",
+    "thought",
+    "thought bubble",
+    "-thought-out",
+    "thoughtful",
+    "thoughtfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086590_5fa83b0bb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086590_ef3ff23d09_o.png",
+      "id_image": "thought_2733543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394077_2d08cfd3a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394077_852a335fc7_o.png",
+      "id_image": "thought_4427500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394057_92d6923edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394057_b00dd7aa37_o.png",
+      "id_image": "thought_6000798"
+    }
+  ]
+}

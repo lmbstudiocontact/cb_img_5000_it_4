@@ -1,0 +1,67 @@
+{
+  "english": "sandstorm",
+  "phat_am": "ˈsӕnstoːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bão cát",
+          "definition": "a storm of wind, carrying with it clouds of sand",
+          "world_new": [
+            "storm",
+            "wind",
+            "sand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were caught in a sandstorm in the desert.",
+              "world_new": [
+                "desert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They are subjected to sandstorms, flies and mosquitoes.",
+    "The battle then solidified into a stalemate which lasted until dusk, when a sandstorm obscured the battlefield.",
+    "The semiarid steppe landscape was drained by intermittent streams and was sometimes affected by dust and sandstorms, and moisture was seasonal.",
+    "In order to protect the residents from sandstorms and dust, the yards were surrounded on all sides by walls to become courtyards.",
+    "The battle solidified into a stalemate until dusk, when a sandstorm obscured the battlefield.",
+    "There was a sandstorm and light rain.",
+    "Later in the day, winds increased to gale force and a sandstorm reduced visibility to 400 m.",
+    "Reporters on the ground blamed a sandstorm and low visibility from the air for the lack of air-strikes the previous day."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sandcastle",
+    "sandpaper",
+    "sandshoes",
+    "sandstone",
+    "sandstorm",
+    "sandwich",
+    "sandy",
+    "sane",
+    "sanely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380012_6957d24f46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380012_01f10528dd_o.png",
+      "id_image": "sandstorm_2188025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071925_8b560342a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071925_0231ece20e_o.png",
+      "id_image": "sandstorm_2533891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334906_3a7e2b80b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334906_0e38c2c8db_o.png",
+      "id_image": "sandstorm_6183331"
+    }
+  ]
+}

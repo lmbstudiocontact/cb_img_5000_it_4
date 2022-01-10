@@ -1,0 +1,90 @@
+{
+  "english": "shelf",
+  "phat_am": "ʃelf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giá",
+          "definition": "a board for laying things on",
+          "world_new": [
+            "board"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are shelves on the kitchen walls",
+              "world_new": [
+                "kitchen"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m thinking of putting up a set of shelves in he study.",
+              "world_new": [
+                "study"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt, thềm",
+          "definition": "a rock surface shaped like a shelf, especially on a mountain or under water.",
+          "world_new": [
+            "rock",
+            "surface",
+            "shaped",
+            "mountain",
+            "water"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book 'the old lady' found has been lost, replaced upon the shelves.",
+    "In a flurry of activity, the woman and man behind the counter both grab at least twenty records from the shelves.",
+    "Close-up of steel shelves to support curtain of 27.",
+    "On the shelves are to be found the various components of the mechanism, incorporating the advantageous qualities of all systems.",
+    "Last night the books fell off the shelves.",
+    "A few men decorated their rooms and built shelves, book-cases and coffee-tables from discarded wood.",
+    "All nets were 12 x 2.5 m, with four shelves.",
+    "In the position of the future hard palate, two outgrowths occur from the maxillary swellings, known as the palatine shelves."
+  ],
+  "list_see_also": [
+    "shelve",
+    "on the shelf"
+  ],
+  "list_browse": [
+    "sheet",
+    "sheet-lightning",
+    "sheik",
+    "sheikdom",
+    "shelf",
+    "shell",
+    "shell out",
+    "shellfish",
+    "shelter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460433_2940246551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460433_aafb35f877_o.png",
+      "id_image": "shelf_123359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460403_557de9fd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460403_edaa95474a_o.png",
+      "id_image": "shelf_1691574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083040_dd40e42fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083040_2c6759f549_o.png",
+      "id_image": "shelf_5684002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083005_57e388cd28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083005_24e9c8188c_o.png",
+      "id_image": "shelf_5684090"
+    }
+  ]
+}

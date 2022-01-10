@@ -1,0 +1,79 @@
+{
+  "english": "sake",
+  "phat_am": "seik",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "vì ai/ cái gì",
+          "definition": "in order to benefit",
+          "world_new": [
+            "order",
+            "benefit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bought a house in the country for the sake of his wife’s health.",
+              "world_new": [
+                "house",
+                "country",
+                "health"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vì lợi ích của ai/ cái gì",
+          "definition": "because of a desire for",
+          "world_new": [
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "For the sake of peace, he said he agreed with her.",
+              "world_new": [
+                "peace",
+                "agreed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Through social practices, citizens or social agents adhere to these foundational principles for the sake of social recognition and reward, thereby ensuring their reproduction.",
+    "We describe here the latter approach, but, for the sake of simplicity, only the case of normal logic programs.",
+    "The attentiveness of the nurse and the nourishment she prepares is for the sake of a sick person, a patient.",
+    "Parents prefer to have high productivity children for its own sake, as expressed by y(hh)xy(hl)>0.",
+    "Surely, early generative phonology in the 1970s provided evidence for preferring deletion to insertion rules for the sake of generality.",
+    "These are just two simple and natural variants that we choose for the sake of examples.",
+    "For the sake of simplicity, we assume 100% compliance with screening in these estimates-lower compliance rates would lower costs pro rata.",
+    "There are interesting tensions between the chapters, which the editors have wisely avoided editing out for the sake of consistency of viewpoint."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sailor",
+    "saint",
+    "saintliness",
+    "saintly",
+    "sake",
+    "salad",
+    "salad cream",
+    "salad dressing",
+    "salamander"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074130_478c621d77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074130_8345e4c6fd_o.png",
+      "id_image": "sake_2700273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692394_7927c0cfd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692394_c8231ff4ed_o.png",
+      "id_image": "sake_2721385"
+    }
+  ]
+}

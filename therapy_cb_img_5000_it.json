@@ -1,0 +1,81 @@
+{
+  "english": "therapy",
+  "phat_am": "ˈθerəpi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phép chữa bệnh",
+          "definition": "the (methods of) treatment of disease, disorders of the body etc",
+          "world_new": [
+            "treatment",
+            "disease",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "speech therapy",
+              "world_new": [
+                "speech"
+              ]
+            },
+            {
+              "ex_of_definition": "physiotherapy.",
+              "world_new": [
+                "physiotherapy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No studies were available discussing patient perspectives on withdrawal of other life-sustaining therapies.",
+    "The therapeutic options for early and late postoperative thrombosis are operative removal or thrombolytic therapy.",
+    "In the patient groups receiving active drug therapy (velnacrine maleate), an improvement was observed in their cognitive functioning relative to the placebo group.",
+    "The ability to direct therapy to specific molecular targets on cancer cells provides several advantages over standard chemotherapy, including higher specificity and reduced systemic toxicity.",
+    "However, neuroleptic therapy is frequently accompanied by serious, sometimes permanent, side effects.",
+    "Monitoring diabetes control is essential from diagnosis as the information received provides valuable feedback as to the effectiveness of therapies.",
+    "A basic requirement in studies of the benefits of a psychological treatment is information on the conduct of the therapy itself.",
+    "Treatment solutions are typically constructed with combinations of complementary therapies, or combinations of complementary therapies and orthodox health services."
+  ],
+  "list_see_also": [
+    "therapist",
+    "therapeutic"
+  ],
+  "list_browse": [
+    "theorize",
+    "theory",
+    "therapeutic",
+    "therapist",
+    "therapy",
+    "there",
+    "there is nothing to it",
+    "there’s no love lost between them",
+    "there’s no saying/knowing etc"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350141_ab73e00892_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350141_519cb199ef_o.png",
+      "id_image": "therapy_1653088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350106_c1a4b7fa29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350106_874f4cf921_o.png",
+      "id_image": "therapy_2770935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394852_ee7562f285_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394852_f4e89fefd6_o.png",
+      "id_image": "therapy_4310361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704614_0ee32e365c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704614_c06534a3d3_o.png",
+      "id_image": "therapy_5984067"
+    }
+  ]
+}

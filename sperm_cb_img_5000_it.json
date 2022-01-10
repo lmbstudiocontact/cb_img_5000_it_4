@@ -1,0 +1,59 @@
+{
+  "english": "sperm",
+  "phat_am": "spːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất dịch chứa tinh trùng",
+          "definition": "the fluid in a male animal etc that fertilizes the female egg",
+          "world_new": [
+            "fluid",
+            "male",
+            "animal",
+            "female",
+            "egg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a low sperm count.",
+              "world_new": [
+                "low",
+                "count"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tinh dịch",
+          "definition": "one of the fertilizing cells in this fluid.",
+          "world_new": [
+            "fluid"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "spermatozoon"
+  ],
+  "list_browse": [
+    "spelling",
+    "spend",
+    "spendthrift",
+    "spent",
+    "sperm",
+    "spermatozoon",
+    "sphere",
+    "spherical",
+    "spice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679349_8dae8f17e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679349_9b54b6f396_o.png",
+      "id_image": "sperm_2688335"
+    }
+  ]
+}

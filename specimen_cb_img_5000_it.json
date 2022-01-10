@@ -1,0 +1,64 @@
+{
+  "english": "specimen",
+  "phat_am": "ˈspesimin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mẫu, mẫu vật",
+          "definition": "something used as a sample (of a group or kind of something, especially an object to be studied or to be put in a collection)",
+          "world_new": [
+            "sample",
+            "group",
+            "kind",
+            "object"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We looked at specimens of different types of rock under the microscope.",
+              "world_new": [
+                "rock",
+                "microscope"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Complete specimens are generally 2-3 cm long.",
+    "Through the \"trading zone\" that had been just opened he \"reaped a splendid harvest\" of more than 300 specimens in less than six hours.",
+    "Complete specimens are usually in the range 3-8 cm.",
+    "The three specimens described above are assigned to the same species.",
+    "Thereafter, the trainee should take the opportunity regularly to review specimens under expert guidance.",
+    "I see no ground for assuming that they are different specimens because parties differ in the result about them.",
+    "Real specimens too can be available so that the size of an organ, or the appearance of tissue can be appreciated.",
+    "Environmental/food samples and stool specimens of food handlers were taken from the observed facilities."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "specific",
+    "specifically",
+    "specifics",
+    "specify",
+    "specimen",
+    "speck",
+    "speckle",
+    "speckled",
+    "specs"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679684_46751dd13c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679684_1df313286d_o.png",
+      "id_image": "specimen_3335633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439533_bd6984f954_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439533_08dc880319_o.png",
+      "id_image": "specimen_4118508"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "trainer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "huấn luyện viên",
+          "definition": "a person who prepares people or animals for sport, a race etc",
+          "world_new": [
+            "person",
+            "people",
+            "sport",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a personal trainer.",
+              "world_new": [
+                "personal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy bay tập",
+          "definition": "an aircraft used for training pilots.",
+          "world_new": [
+            "aircraft",
+            "training"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second language researchers and trainers have met with some success in teaching language learners the skill of inferring meaning from context while reading, using a variety of teaching methods.",
+    "There is no centrally held data on the numbers of cycle trainers.",
+    "A major theme was the need for collaboration with colleagues at their own and other schools, with school authorities, inspectors, teacher trainers, and researchers (5 of the 7 teachers).",
+    "The training programme was positively evaluated by the recipients, the trainers and the researcher who observed it.",
+    "He is dodging the issue of the role of the trainers and educators.",
+    "Quibbles over style aside, it is clearly a valuable addition to the literature currently available to carers and trainers alike.",
+    "Thirdly, the number of trainers is decreasing and, fourthly, we can see from the figures that attendances at racecourses are static or even declining.",
+    "In other words, it will certify trainers and programmes, which has hitherto not been carried out."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "trailer park",
+    "train",
+    "trained",
+    "trainee",
+    "trainer",
+    "training",
+    "trait",
+    "traitor",
+    "tram"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454613_86c14201c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454613_8f41c24a29_o.png",
+      "id_image": "trainer_1226258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339621_ed34c74b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339621_cc123e2bbc_o.png",
+      "id_image": "trainer_3476302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694829_b7f20b7821_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694829_b6642dabf3_o.png",
+      "id_image": "trainer_6036814"
+    }
+  ]
+}

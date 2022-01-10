@@ -1,0 +1,60 @@
+{
+  "english": "shack",
+  "phat_am": "ʃӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lán, lều",
+          "definition": "a roughly-built hut",
+          "world_new": [
+            "hut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wooden shack.",
+              "world_new": [
+                "wooden"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is true that the houses are mere movable wooden shacks, but nevertheless much pressure is placed on the tenants by the landlords.",
+    "They are housed in two-roomed shacks so that parents and four or five children may be sleeping together in the bedroom.",
+    "Shack is the period after the harvest when there was a right to graze the newly harvested ground.",
+    "I have called them houses, but really they were just shacks.",
+    "I have seen a person very sick with tuberculosis sharing a shack with young children, without ventilation or any amenity.",
+    "If one wants a cup of tea one goes to an old shack covered with a tin roof and stands on cinders.",
+    "Many of these plots are small and ill-shaped; they have on them little shacks and the roads are only cart tracks.",
+    "The company started from a tiny wooden shack 50 or 60 years ago."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "Sgt",
+    "shabbily",
+    "shabbiness",
+    "shabby",
+    "shack",
+    "shack up",
+    "shackle",
+    "shackles",
+    "shade"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702699_38b547f9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702699_8280697bd2_o.png",
+      "id_image": "shack_509823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462803_0343281126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462803_7ec02f8850_o.png",
+      "id_image": "shack_5256919"
+    }
+  ]
+}

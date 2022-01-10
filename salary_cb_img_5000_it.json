@@ -1,0 +1,69 @@
+{
+  "english": "salary",
+  "phat_am": "ˈsӕləri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiền lương",
+          "definition": "a fixed, regular usually monthly payment for work",
+          "world_new": [
+            "fixed",
+            "regular",
+            "monthly",
+            "payment",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Secretarial salaries in London are quite high.",
+              "world_new": [
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Fee-for-service payments and salary payments represent two ends of a spectrum.",
+    "In cases in which an individual has more actual years of salary history than the specified service years, we truncated the known salary history.",
+    "We also find wage-earning profiles to underestimate salary growth for higher-paid employees.",
+    "The limited available evidence suggests that, while there is a positive correlation between inflation and salaries, neither is well hedged by equities.",
+    "For the sample, 87 % had 19 or more years of salary history.",
+    "Normally the employer contributes 1% of salaries to fund the minimum guaranteed benefit.",
+    "Indeed, its implementation has meant that salaries for therapy radiographers and medical dosimetrists have fallen across all grades of staff nationally.",
+    "One is that internal contracts may be cheaper if employees are willing to take lower salaries in return for tenure of employment."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "salad cream",
+    "salad dressing",
+    "salamander",
+    "salami",
+    "salary",
+    "sale",
+    "sale of work",
+    "saleroom",
+    "sales assistant"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451663_a5119864a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451663_df523f4772_o.png",
+      "id_image": "salary_4310786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381887_807c666418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381887_5f5ff16da1_o.png",
+      "id_image": "salary_537223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381832_cdbc7b0abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381832_02cde5fc25_o.png",
+      "id_image": "salary_868890"
+    }
+  ]
+}

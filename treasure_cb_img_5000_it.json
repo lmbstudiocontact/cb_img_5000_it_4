@@ -1,0 +1,142 @@
+{
+  "english": "treasure",
+  "phat_am": "ˈtreʒə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tài sản, châu báu",
+          "definition": "a store of money, gold, jewels etc",
+          "world_new": [
+            "store",
+            "money",
+            "gold"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The miser kept a secret hoard of treasure",
+              "world_new": [
+                "miser",
+                "secret",
+                "hoard"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a treasure chest.",
+              "world_new": [
+                "chest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "của quý",
+          "definition": "something very valuable",
+          "world_new": [
+            "valuable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our babysitter is a real treasure!",
+              "world_new": [
+                "babysitter",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quý trọng",
+          "definition": "to value; to think of as very valuable",
+          "world_new": [
+            "think",
+            "valuable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I treasure the hours I spend in the country.",
+              "world_new": [
+                "I",
+                "I",
+                "spend",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trân trọng",
+          "definition": "to keep (something) carefully because one values it",
+          "world_new": [
+            "keep",
+            "carefully",
+            "values"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I treasure the book you gave me.",
+              "world_new": [
+                "I",
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I have heard it put attractively in this way, that we should divide our treasures into two types.",
+    "All treasures have to be protected against burglars.",
+    "No precise estimate of the value of these treasures can be given.",
+    "The arts and related subject and national treasures should not, in my view, be concentrated entirely in the capital.",
+    "Their rights of access are denied to them, yet we are talking of national treasures which the public have effectively funded.",
+    "Who will want to look at a house denuded of all its treasures and, eventually, of its original owners?",
+    "He also drew to our attention the matter of national treasures.",
+    "The destruction of these cultural treasures has nothing to do with security and self-defence."
+  ],
+  "list_see_also": [
+    "treasured",
+    "treasurer",
+    "treasure hunt"
+  ],
+  "list_browse": [
+    "tread",
+    "tread water",
+    "treadmill",
+    "treason",
+    "treasure",
+    "treasure hunt",
+    "treasured",
+    "treasurer",
+    "treat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072445_f7df7c0559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072445_8d1cc49ea9_o.png",
+      "id_image": "treasure_1862659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335536_a85756ed01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335536_7c2a254487_o.png",
+      "id_image": "treasure_2642175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690714_ef13b6209d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690714_c5f2bdbc01_o.png",
+      "id_image": "treasure_2653402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380562_cf8d0f4beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380562_77f8ec08ac_o.png",
+      "id_image": "treasure_6263986"
+    }
+  ]
+}

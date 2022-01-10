@@ -1,0 +1,113 @@
+{
+  "english": "ship",
+  "phat_am": "ʃip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tàu thủy",
+          "definition": "a large boat",
+          "world_new": [
+            "large",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship sank and all the passengers and crew were drowned.",
+              "world_new": [
+                "crew"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tàu vũ trụ; máy bay",
+          "definition": "any of certain types of transport that fly",
+          "world_new": [
+            "certain",
+            "transport",
+            "fly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spaceship.",
+              "world_new": [
+                "spaceship"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chuyên chở, vân chuyển bằng đường biển",
+          "definition": "to send or transport by ship",
+          "world_new": [
+            "send",
+            "transport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The books were shipped to Australia."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The investigation highlighted difficulties with surveillance of respiratory illness on cruise ships.",
+    "She is making the assumption that ships named after a particular port are trading from or for that port.",
+    "The two ships had a very successful season in 1938 and the state guarantee was not required.",
+    "The plan is unusual in that it contains an appendix of 19 page-long advertisements for local businesses, including retailers, shipping lines and engineering firms.",
+    "If we can do this, we can do anything we want with regard to goods that are to be shipped in interstate commerce.",
+    "They saw no sign of life on the berg nor on its ice-rafted ships, which appeared to have been abandoned.",
+    "Because this excessive capacity has rapidly depleted fish stocks, profitability has plunged, reducing the value of ships on the market.",
+    "Such a war involves _ an immense amount of material and transport ships."
+  ],
+  "list_see_also": [
+    "shipment",
+    "shipper",
+    "shipping",
+    "ship-broker",
+    "shipbuilder",
+    "shipbuilding",
+    "shipowner",
+    "shipshape",
+    "shipwreck",
+    "shipyard",
+    ""
+  ],
+  "list_browse": [
+    "shingles",
+    "shininess",
+    "shining",
+    "shiny",
+    "ship",
+    "ship water",
+    "ship-broker",
+    "shipbuilder",
+    "shipbuilding"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389627_d6dacbe6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389627_1564c29241_o.png",
+      "id_image": "ship_168275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699769_9b92c3b502_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699769_2b7dbbe6a1_o.png",
+      "id_image": "ship_240655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699719_cccde70d8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699719_e094d621fe_o.png",
+      "id_image": "ship_538259"
+    }
+  ]
+}

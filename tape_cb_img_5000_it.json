@@ -1,0 +1,166 @@
+{
+  "english": "tape",
+  "phat_am": "teip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây, dải băng",
+          "definition": "(a piece of) a narrow strip or band of cloth used for tying etc",
+          "world_new": [
+            "piece",
+            "narrow",
+            "strip",
+            "band",
+            "cloth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "bundles of letters tied with tape."
+            }
+          ]
+        },
+        {
+          "mean_english": "đoạn dây; đoạn băng",
+          "definition": "a piece of this or something similar, eg a string, stretched above the finishing line on a race track",
+          "world_new": [
+            "piece",
+            "similar",
+            "string",
+            "line",
+            "race",
+            "track"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two runners reached the tape together."
+            }
+          ]
+        },
+        {
+          "mean_english": "băng ghi âm",
+          "definition": "a narrow strip of paper, plastic, metal etc used for sticking materials together, recording sounds etc",
+          "world_new": [
+            "narrow",
+            "strip",
+            "paper",
+            "plastic",
+            "metal",
+            "recording"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "adhesive tape",
+              "world_new": [
+                "adhesive"
+              ]
+            },
+            {
+              "ex_of_definition": "insulating tape"
+            },
+            {
+              "ex_of_definition": "I recorded the concert on tape.",
+              "world_new": [
+                "I",
+                "concert"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thước dây",
+          "definition": "a tape-measure."
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gắn băng",
+          "definition": "to fasten or seal with tape",
+          "world_new": [
+            "fasten",
+            "seal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She taped up the cardboard box.",
+              "world_new": [
+                "cardboard",
+                "box"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghi âm",
+          "definition": "to record (the sound of something) on tape",
+          "world_new": [
+            "record",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He taped the concert.",
+              "world_new": [
+                "concert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As examples, they were likelier to pause, look perplexed, replay the tape, and verbally express their puzzlement.",
+    "The transcripts of the tapes were edited and retyped to form the main material of the investigation.",
+    "I believe that music for instrument(s) and tape will remain a viable means of musical expression well into the future.",
+    "This intensification of notions of authenticity means that bootlegging and tape trading may not pose the threat to the official industry that is often assumed.",
+    "News of artists' arrests and confiscation of their material served only to popularise their name and created a higher demand for their tapes.",
+    "After clarification of any unfamiliar words, the students read the sentences onto tape.",
+    "I decided not to leave my tape recorder home.",
+    "The tape recorders, in essence, become contributing members of a performing ensemble."
+  ],
+  "list_see_also": [
+    "tape measure",
+    "tape recorder",
+    "tape record",
+    "tape recording",
+    "tapeworm"
+  ],
+  "list_browse": [
+    "tantrum",
+    "tap",
+    "tap dancer",
+    "tap dancing",
+    "tape",
+    "tape measure",
+    "tape record",
+    "tape recorder",
+    "tape recording"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441733_aed57a65f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441733_5ae183de2d_o.png",
+      "id_image": "tape_1974730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326731_82ef427f3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326731_0e44633e99_o.png",
+      "id_image": "tape_2438466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326706_b95616aa53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326706_09828d5e0b_o.png",
+      "id_image": "tape_4284216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681729_4d20ef030c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681729_9da30c40a6_o.png",
+      "id_image": "tape_5827572"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "english": "smoke",
+  "phat_am": "sməuk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khói",
+          "definition": "the cloudlike gases and particles of soot given off by something which is burning",
+          "world_new": [
+            "soot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Smoke was coming out of the chimney",
+              "world_new": [
+                "chimney"
+              ]
+            },
+            {
+              "ex_of_definition": "He puffed cigarette smoke into my face.",
+              "world_new": [
+                "puffed",
+                "cigarette",
+                "my",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự hút thuốc lá",
+          "definition": "an act of smoking (a cigarette etc)",
+          "world_new": [
+            "act",
+            "smoking",
+            "cigarette"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I came outside for a smoke.",
+              "world_new": [
+                "I",
+                "outside"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hút thuốc",
+          "definition": "to draw in and puff out the smoke from (a cigarette etc)",
+          "world_new": [
+            "draw",
+            "puff",
+            "cigarette"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t smoke, but he smokes cigars.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỏa khói",
+          "definition": "to give off smoke."
+        },
+        {
+          "mean_english": "hun khói",
+          "definition": "to dry, cure, preserve (ham, fish etc) by hanging it in smoke.",
+          "world_new": [
+            "dry",
+            "cure",
+            "preserve",
+            "fish",
+            "hanging"
+          ]
+        },
+        {
+          "mean_english": "ám khói",
+          "world_new": []
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the final data analysis the variable for smoking was dichotomized (1 l currently smokes more than 10 cigarettes\\day, 0 l others).",
+    "Between 1988 and 1994, smoking prevalence among 11- to 15-year-olds increased from 8% to 12%.",
+    "Two patients and two comparison subjects were cigarette smokers ; they refrained from smoking during the course of the test.",
+    "They might be eating, talking, whistling, humming, smoking during the most dramatic scenes.",
+    "We examined the possible effects of smoking on color vision: specifically, whether smokers perceive a different pattern of suprathreshold color dissimilarities from nonsmokers.",
+    "If smoking is to be permitted, it must be constantly supervised and smoking materials kept secure under the control of the care provider.",
+    "Most of the responses concentrated on their concern about family members who smoked and their fear of the consequences.",
+    "The genetics of smoking persistence in men and women : a multicultural study."
+  ],
+  "list_see_also": [
+    "smoked",
+    "smokeless",
+    "smoker",
+    "smoking",
+    "smoky",
+    "smoke detector",
+    "smokescreen",
+    "go up in smoke"
+  ],
+  "list_browse": [
+    "smith",
+    "smithy",
+    "smock",
+    "smog",
+    "smoke",
+    "smoke detector",
+    "smoked",
+    "smokeless",
+    "smoker"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445973_c40a5df446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445973_3f71118f5e_o.png",
+      "id_image": "smoke_1679102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375652_b73d94659f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375652_4be5b615dd_o.png",
+      "id_image": "smoke_2451374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445898_83fb03647e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445898_3d7f70d1b6_o.png",
+      "id_image": "smoke_2544490"
+    }
+  ]
+}

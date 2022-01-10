@@ -1,0 +1,72 @@
+{
+  "english": "tomb",
+  "phat_am": "tuːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nấm mồ",
+          "definition": "a hole or vault in the ground in which a dead body is put; a grave",
+          "world_new": [
+            "hole",
+            "vault",
+            "ground",
+            "dead",
+            "body",
+            "grave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was buried in the family tomb.",
+              "world_new": [
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Indeed, the tomb complexes were originally built as burial places for the family members of high officials.",
+    "However, the numerous shafts and chambers of the tomb complexes were extensively used for later burials.",
+    "Some years ago a farmer working his field stumbled on the entrance of a shaft tomb.",
+    "The eldest son will take in both good things and bad - everything including the family tomb.",
+    "He then managed to recover the offerings from this tomb intact.",
+    "The shaft tomb discovered in the structure at the southern end of the plaza could strengthen this hypothesis.",
+    "Many contributors link the use of shaft tombs to lineages or similar social groups.",
+    "These tombs seem to represent different possibilities of interment for different lineages in a rank society."
+  ],
+  "list_see_also": [
+    "tombstone"
+  ],
+  "list_browse": [
+    "toleration",
+    "toll",
+    "tom-tom",
+    "tomato",
+    "tomb",
+    "tomboy",
+    "tombstone",
+    "tomcat",
+    "tomorrow"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389592_f5b9e7f597_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389592_0edb0987e7_o.png",
+      "id_image": "tomb_2213658"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344646_21f064de2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344646_a775d3f55e_o.png",
+      "id_image": "tomb_5345586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082160_fe8c7e3d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082160_ff08cd6664_o.png",
+      "id_image": "tomb_858276"
+    }
+  ]
+}

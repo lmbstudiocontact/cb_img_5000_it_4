@@ -1,0 +1,98 @@
+{
+  "english": "trolley",
+  "phat_am": "ˈtroli",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe đẩy",
+          "definition": "a type of small cart for carrying things etc",
+          "world_new": [
+            "type",
+            "small",
+            "cart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shopping trolley",
+              "world_new": [
+                "shopping"
+              ]
+            },
+            {
+              "ex_of_definition": "She quickly filled the trolley with groceries.",
+              "world_new": [
+                "quickly",
+                "filled",
+                "groceries"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe đẩy hàng",
+          "definition": "(also tea-trolley, ( American) teacart) a small cart, usually consisting of two or three trays fixed on a frame, used for serving tea, food etc",
+          "world_new": [
+            "small",
+            "cart",
+            "fixed",
+            "frame",
+            "serving",
+            "tea",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She brought the tea in on a trolley.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Hence, there is a noncausal relation between the trolley turning away and the five being saved.",
+    "The extra push would change the impact on the one so that both person and trolley remain stationary.",
+    "If the one were not on the right-hand track, the trolley would rejoin the main track and hit the five from the front.",
+    "I suggested that there may be moral problems with turning the trolley only in the first case.",
+    "It apparently can matter whether the lesser evil is directly or indirectly caused, by, for example, turning the trolley.",
+    "It also creates a new problem: that of the trolley's looping around and hitting the five from behind.",
+    "Here the accidental trolley driver is on the scene and has exclusive control over where the trolley goes and what the consequences will be.",
+    "But if a required crane displacement is large enough, the trolley moves with the maximal possible velocity the most part of the movement duration."
+  ],
+  "list_see_also": [
+    "trolley-bus"
+  ],
+  "list_browse": [
+    "trivial",
+    "triviality",
+    "trivially",
+    "troll",
+    "trolley",
+    "trolley-bus",
+    "trombone",
+    "trombonist",
+    "troop"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069390_eb848bf796_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069390_f3dfd487c7_o.png",
+      "id_image": "trolley_1949551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377472_0654b2f752_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377472_bd62f71e97_o.png",
+      "id_image": "trolley_423002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069440_04e254360c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069440_e8fbbbeaaf_o.png",
+      "id_image": "trolley_465956"
+    }
+  ]
+}

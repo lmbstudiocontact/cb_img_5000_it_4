@@ -1,0 +1,78 @@
+{
+  "english": "tournament",
+  "phat_am": "ˈtuənəmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giải đấu",
+          "definition": "a competition in which many players compete in many separate games",
+          "world_new": [
+            "competition",
+            "compete",
+            "separate",
+            "games"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m playing in the tennis tournament.",
+              "world_new": [
+                "tennis"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Because tournament selection is used as the selection operator, the normalization term can be an arbitrary positive number.",
+    "A set of rules of agents born at time t is generated using reproduction (tournament selection), crossover, mutation, and election.",
+    "Note that this is e1/2 more than the average for a random tournament which is not necessarily regular.",
+    "A wide variety of methods have been proposed for ranking generalized tournaments.",
+    "The genetic algorithm selection tournament was conducted anew, followed by another application of the crossover and mutation operators on the winners.",
+    "This results in reversing directions of arcs in the previously defined tournament.",
+    "The argument is slightly more involved than ours, but the bound on the minimum feedback arc set in the bipartite tournament is much stronger.",
+    "For certain tournaments, standard methods of solving parametrized nonlinear systems are successful, but other tournaments demand a subtler approach."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tour guide",
+    "tourism",
+    "tourist",
+    "tourist guide",
+    "tournament",
+    "tourniquet",
+    "tout",
+    "tow",
+    "towards"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342166_2297216f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342166_823c29b5e4_o.png",
+      "id_image": "tournament_2464910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079505_0164fe5e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079505_4295ce36cb_o.png",
+      "id_image": "tournament_3475996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342106_770a28eced_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342106_5ed0a9d98f_o.png",
+      "id_image": "tournament_3708078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342061_8dd653ac24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342061_cc28bcf4b2_o.png",
+      "id_image": "tournament_5322274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456848_243eeddd2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456848_a1e1514c02_o.png",
+      "id_image": "tournament_5492479"
+    }
+  ]
+}

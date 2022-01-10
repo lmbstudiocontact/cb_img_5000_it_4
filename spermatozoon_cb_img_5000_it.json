@@ -1,0 +1,65 @@
+{
+  "english": "spermatozoon",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tinh trùng",
+          "definition": "a sperm",
+          "world_new": [
+            "sperm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A spermatozoon must undergo a series of physiological changes before it can hope to fertilize an egg.",
+              "world_new": [
+                "undergo",
+                "series",
+                "physiological",
+                "hope",
+                "fertilize",
+                "egg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When insemination began 10 min after cell fusion spermatozoa penetrated 62.5% of hybrids.",
+    "The status of the acrosomes of bound spermatozoa was also examined under the high power of a phase-contrast microscope.",
+    "Staining procedure to detect viability and the true acrosome reaction in spermatozoa of various species.",
+    "Unprotected freezing of human spermatozoa exerts a detrimental effect on their oocyte activating capacity and chromosome integrity.",
+    "The dishes were kept in the incubator for about 30-45 min until spermatozoa were added for fertilisation.",
+    "Let po be the probability per unit time of an unfertilized ovum being fertilized by spermatozoa from a given insemination.",
+    "Eggs were put separately into droplets (0.5 xl) of fertilisation medium under paraffin oil and 10-20 capacitated spermatozoa were added.",
+    "Production of term offspring by in vitro fertilization using old mouse spermatozoa."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spend",
+    "spendthrift",
+    "spent",
+    "sperm",
+    "spermatozoon",
+    "sphere",
+    "spherical",
+    "spice",
+    "spiced"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679329_c6fddff457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679329_416a0a82bf_o.png",
+      "id_image": "spermatozoon_507179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369017_4f203347e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369017_d7afd5f386_o.png",
+      "id_image": "spermatozoon_5448483"
+    }
+  ]
+}

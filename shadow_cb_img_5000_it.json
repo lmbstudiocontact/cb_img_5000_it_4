@@ -1,0 +1,168 @@
+{
+  "english": "shadow",
+  "phat_am": "ˈʃӕdəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng râm",
+          "definition": "(a patch of) shade on the ground etc caused by an object blocking the light",
+          "world_new": [
+            "patch",
+            "shade",
+            "ground",
+            "object",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are in the shadow of that building.",
+              "world_new": [
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bóng tối",
+          "definition": "(in plural with the) darkness or partial darkness caused by lack of (direct) light",
+          "world_new": [
+            "darkness",
+            "partial",
+            "darkness",
+            "lack",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was afraid that wild animals were lurking in the shadows at the corner of his bedroom.",
+              "world_new": [
+                "child",
+                "afraid",
+                "wild",
+                "corner",
+                "bedroom"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu vết, gợn",
+          "definition": "a dark patch or area",
+          "world_new": [
+            "dark",
+            "patch",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You look tired – there are shadows under your eyes.",
+              "world_new": [
+                "look",
+                "tired",
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chút",
+          "definition": "a very slight amount",
+          "world_new": [
+            "slight",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s not a shadow of doubt that he stole the money.",
+              "world_new": [
+                "doubt",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che bóng",
+          "definition": "to hide or darken with shadow",
+          "world_new": [
+            "hide",
+            "darken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A broad hat shadowed her face.",
+              "world_new": [
+                "broad",
+                "hat",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo dõi",
+          "definition": "to follow closely, especially as a detective, spy etc",
+          "world_new": [
+            "follow",
+            "closely",
+            "detective",
+            "spy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We shadowed him for a week.",
+              "world_new": [
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The 'high credibility' of the play's subtitle is the great shadow in the central character's mind.",
+    "Further revolutions cast a shadow back over 1789 : a critical vision developed after the failure of 1848, and a pathological vision formed after 1871.",
+    "Shadow prices are assumed to reflect the relative economic cost of environmental products to a household.",
+    "Here, first-best shadow prices are determined in order to accommodate the market's shortcomings.",
+    "Similar to recreation trips, fuelwood collection trips can be modeled as functions of travel costs (shadow prices) and resource quality (forest condition).",
+    "Shortly after, they were to begin to retreat into the shadows.",
+    "The city itself was not large by contemporary standards, but it cast a distinctly urban shadow over its surroundings.",
+    "Estimates will vary depending upon what shadow prices are used."
+  ],
+  "list_see_also": [
+    "shadowy",
+    "shadowiness",
+    "worn to a shadow"
+  ],
+  "list_browse": [
+    "shaded",
+    "shades",
+    "shadiness",
+    "shading",
+    "shadow",
+    "shadowiness",
+    "shadowy",
+    "shady",
+    "shaft"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462708_233448e0e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462708_476ba87239_o.png",
+      "id_image": "shadow_4132746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702559_0e5585029a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702559_64ec78bfb8_o.png",
+      "id_image": "shadow_4402889"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "spreadsheet",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chương trình bảng tính",
+          "definition": "a software program that allows data or figures to be entered and manipulated in a chart consisting of rows and columns. Spreadsheets are often used for carrying out financial calculations",
+          "world_new": [
+            "software",
+            "program",
+            "data",
+            "chart",
+            "financial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The software suite includes a spreadsheet.",
+              "world_new": [
+                "software",
+                "suite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảng tính",
+          "definition": "a chart produced using spreadsheet software on a computer",
+          "world_new": [
+            "chart",
+            "software",
+            "computer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The spreadsheet shows the monthly revenue and expenses for a new business.",
+              "world_new": [
+                "monthly",
+                "revenue",
+                "expenses",
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Observe from the above examples that the spreadsheet metaphor was used to create the rules without the user having to specify any expression with variables.",
+    "When creating a spreadsheet, business rules end up being encoded in spreadsheet formulas.",
+    "To add relational information to a spreadsheet, we need to add a lifting formula that expresses how the table information corresponds to logic assertions.",
+    "In this early model a spreadsheet is therefore a collection of cells, each of which contains either a value or a formula.",
+    "A 1% falsenegative rate is entered into the spreadsheet for this example to show the impact on the producer's and consumer's risks.",
+    "Another problem with spreadsheets is their limitations in terms of the expressive power of their programming paradigm.",
+    "This is clearly an error-prone property of such spreadsheet applications.",
+    "Another interesting aspect of the design is that the spreadsheet incorporates symbolic reduction and normalisation of symbolic expressions (including equations)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sprawling",
+    "spray",
+    "spread",
+    "spread out",
+    "spreadsheet",
+    "sprig",
+    "spring",
+    "spring cleaning",
+    "spring onion"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089725_97476330c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089725_8b64746b4e_o.png",
+      "id_image": "spreadsheet_3919650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707044_3298a4348e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707044_9dbc3a6246_o.png",
+      "id_image": "spreadsheet_3919704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089650_254c815444_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089650_18fa86dcbd_o.png",
+      "id_image": "spreadsheet_4828968"
+    }
+  ]
+}

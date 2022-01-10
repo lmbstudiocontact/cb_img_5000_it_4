@@ -1,0 +1,53 @@
+{
+  "english": "sword",
+  "phat_am": "soːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gươm, kiếm, đao",
+          "definition": "a weapon with a long blade that is sharp on one or both edges",
+          "world_new": [
+            "weapon",
+            "long",
+            "blade",
+            "sharp"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drew his sword (from its sheath) and killed the man.",
+              "world_new": [
+                "its"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sword-play",
+    "swordsman",
+    "swordtail",
+    "cross swords"
+  ],
+  "list_browse": [
+    "swollen-headed",
+    "swoon",
+    "swoop",
+    "swop",
+    "sword",
+    "sword-play",
+    "swordsman",
+    "swordtail",
+    "sworn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686539_7b91bdb4f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686539_3297b1ecba_o.png",
+      "id_image": "sword_942409"
+    }
+  ]
+}

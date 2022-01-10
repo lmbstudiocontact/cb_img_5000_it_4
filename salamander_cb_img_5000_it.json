@@ -1,0 +1,67 @@
+{
+  "english": "salamander",
+  "phat_am": "(British) ˈsæləˌmændə; (American) ˈsæləˌmændər",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con kỳ giông",
+          "definition": "an animal with a lizard-like appearance, having short legs and a long tail, that lives both on land and in water",
+          "world_new": [
+            "animal",
+            "appearance",
+            "short",
+            "long",
+            "tail",
+            "land",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Salamanders and newts are in the amphibian family.",
+              "world_new": [
+                "amphibian",
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One salamander was severely affected with associated tissue changes, including accumulations of melanomacrophages.",
+    "Responses of ganglion cells to contrast steps in the light-adapted retina of the tiger salamander.",
+    "Passive electrical cable proper ties and synaptic excitation of tiger salamander retinal ganglion cells.",
+    "Taken together, we thought that it was important to investigate the number and spatial arrangement of major cell populations in the salamander retina.",
+    "The basis for this sustained current in tiger salamander retinal ganglion cells is unknown; perhaps it reflects a biphasic inactivation behavior of one channel type.",
+    "The spatial distribution of excitatory and inhibitory inputs to ganglion cell dendrites in the tiger salamander retina.",
+    "Cone photoreceptors respond to their own glutamate release in the tiger salamander.",
+    "These recordings are of special interest since they are apparently the first to be reported for the land-phase tiger salamander."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sake",
+    "salad",
+    "salad cream",
+    "salad dressing",
+    "salamander",
+    "salami",
+    "salary",
+    "sale",
+    "sale of work"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336916_7ebdbd8dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336916_9048263788_o.png",
+      "id_image": "salamander_2683205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451798_0bb19c0979_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451798_3d23438205_o.png",
+      "id_image": "salamander_371950"
+    }
+  ]
+}

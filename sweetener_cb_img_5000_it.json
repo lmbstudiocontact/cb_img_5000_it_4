@@ -1,0 +1,63 @@
+{
+  "english": "sweetener",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viên ngọt, chất làm ngọt",
+          "definition": "something that sweetens, eg a substance used for sweetening food",
+          "world_new": [
+            "substance",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Saccharin is an artificial sweetener, often used instead of sugar.",
+              "world_new": [
+                "artificial",
+                "instead",
+                "sugar"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The independent expert committees took account of all proposed uses of aspartame during the review of sweeteners in food.",
+    "I think that shows that in this debate at least, sweeteners can be a '' as well!",
+    "As for the new orders announced today, have not those major defence equipment orders and sweeteners already been announced—some of them many times?",
+    "Major progress was made on a proposed sweeteners directive.",
+    "Sweeteners of that kind would not work in this place.",
+    "The proposal added a further two sweeteners to the positive list of permitted sweeteners.",
+    "The restructuring arrangements will be financed through the deduction of a specific amount from all the quotas applicable to sweeteners.",
+    "Why bother with all the horrendous headaches of administrative costs, the register, the low collection levels, the sweeteners and the transitional relief schemes themselves?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sweet-smelling",
+    "sweet-tempered",
+    "sweetcorn",
+    "sweeten",
+    "sweetener",
+    "sweetheart",
+    "sweetly",
+    "sweetness",
+    "swell"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377772_4b33bd311d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377772_6a041f0c85_o.png",
+      "id_image": "sweetener_4142969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069730_4ebb7df1e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069730_4c770398ee_o.png",
+      "id_image": "sweetener_4142999"
+    }
+  ]
+}

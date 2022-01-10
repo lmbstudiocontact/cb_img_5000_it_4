@@ -1,0 +1,89 @@
+{
+  "english": "theatre",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà hát",
+          "definition": "a place where plays, operas etc are publicly performed.",
+          "world_new": [
+            "place",
+            "publicly"
+          ]
+        },
+        {
+          "mean_english": "sân khấu, vở kịch",
+          "definition": "plays in general; any theatre/theater",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you going to the theatre tonight?",
+              "world_new": [
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phòng mổ",
+          "definition": "(also operating-theatre) ( British) a room in a hospital where surgical operations are performed",
+          "world_new": [
+            "room",
+            "hospital",
+            "surgical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take the patient to the theatre",
+              "world_new": [
+                "patient"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a theatre nurse.",
+              "world_new": [
+                "nurse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "theatrical",
+    "theatrically",
+    "theatricality",
+    "theatricals",
+    "the theatre"
+  ],
+  "list_browse": [
+    "the wilds",
+    "the worse for wear",
+    "the worst of it is (that)",
+    "the young",
+    "theatre",
+    "theatrical",
+    "theatricality",
+    "theatrically",
+    "theatricals"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705104_2dd74f8e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705104_5f67bba76e_o.png",
+      "id_image": "theatre_1754073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705084_e639116242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705084_053dda1232_o.png",
+      "id_image": "theatre_1838433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087795_2fcec6e13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087795_420f1ca585_o.png",
+      "id_image": "theatre_647651"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "english": "tattoo",
+  "phat_am": "təˈtuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xăm mình",
+          "definition": "to make coloured/colored patterns or pictures on part of a person’s body by pricking the skin and putting in dyes",
+          "world_new": [
+            "part",
+            "body",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The design was tattooed on his arm.",
+              "world_new": [
+                "design",
+                "tattooed",
+                "arm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình xăm trên da",
+          "definition": "a design tattooed on the skin",
+          "world_new": [
+            "design",
+            "tattooed",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His arms were covered with tattoos.",
+              "world_new": [
+                "arms"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other individuals who have the equipment and do a fair amount of tattoos do not see themselves as professional tattooists because they have another source of income.",
+    "The isocentre position is now tattooed at the clinical significance of the results a threshold of verification, as opposed to localisation, to 5 mm was chosen.",
+    "The recruitment process involved active search for patients with tattoos at the study sites (hospital, outpatient clinic and blood bank), and then a choice of controls from the same sites.",
+    "Do you offer an alternative to tattoos?",
+    "One possible to differentiate between random and systematic improvement would be the use of lateral tattoos as error.",
+    "However, her arguments of various gender issues such as female tattoos accept the same one-directional description of the women as the colonial ethnographer.",
+    "One of the few people outside of his family who did was an old woman with blurred tattoos on her hands, a neighbour.",
+    "Is informed consent for tattoos obtained prior to the planning session?"
+  ],
+  "list_see_also": [
+    "tattooed"
+  ],
+  "list_browse": [
+    "-tasting",
+    "tasty",
+    "tattered",
+    "tatters",
+    "tattoo",
+    "tattooed",
+    "tatty",
+    "taunt",
+    "taunting"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091490_c9ab98c8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091490_a040bba661_o.png",
+      "id_image": "tattoo_1685860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468873_a9d02ee22f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468873_7778d796bb_o.png",
+      "id_image": "tattoo_2142824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468843_7bc0194888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468843_6afe416187_o.png",
+      "id_image": "tattoo_4539425"
+    }
+  ]
+}

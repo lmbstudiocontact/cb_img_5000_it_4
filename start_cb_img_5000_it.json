@@ -1,0 +1,311 @@
+{
+  "english": "start",
+  "phat_am": "staː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khởi hành",
+          "definition": "to leave or begin a journey",
+          "world_new": [
+            "leave",
+            "begin",
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We shall have to start at 5.30 a.m. in order to get to the boat in time.",
+              "world_new": [
+                "m",
+                "order",
+                "boat",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu công việc",
+          "definition": "to begin",
+          "world_new": [
+            "begin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He starts working at six o’clock every morning",
+              "world_new": [
+                "o’clock",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "She started to cry",
+              "world_new": [
+                "cry"
+              ]
+            },
+            {
+              "ex_of_definition": "She starts her new job next week",
+              "world_new": [
+                "job",
+                "week"
+              ]
+            },
+            {
+              "ex_of_definition": "Haven’t you started (on) your meal yet?",
+              "world_new": [
+                "your",
+                "meal",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "What time does the play start?",
+              "world_new": [
+                "time",
+                "play"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khởi động",
+          "definition": "to (cause an engine etc to) begin to work",
+          "world_new": [
+            "engine",
+            "begin",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t start the car",
+              "world_new": [
+                "I",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "The car won’t start",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "The clock stopped but I started it again.",
+              "world_new": [
+                "clock",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu làm",
+          "definition": "to cause something to begin or begin happening etc",
+          "world_new": [
+            "cause",
+            "begin",
+            "begin",
+            "happening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of the students decided to start a college magazine.",
+              "world_new": [
+                "college",
+                "magazine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lúc bắt đầu",
+          "definition": "the beginning of an activity, journey, race etc",
+          "world_new": [
+            "beginning",
+            "activity",
+            "journey",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I told him at the start that his idea would not succeed",
+              "world_new": [
+                "I",
+                "idea",
+                "succeed"
+              ]
+            },
+            {
+              "ex_of_definition": "The runners lined up at the start",
+              "world_new": [
+                "lined"
+              ]
+            },
+            {
+              "ex_of_definition": "He stayed in the lead after a good start",
+              "world_new": [
+                "lead"
+              ]
+            },
+            {
+              "ex_of_definition": "I shall have to make a start on that work.",
+              "world_new": [
+                "I",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lợi thế xuất phát trước trong một cuộc đua",
+          "definition": "in a race etc, the advantage of beginning before or further forward than others, or the amount of time, distance etc gained through this",
+          "world_new": [
+            "race",
+            "advantage",
+            "beginning",
+            "further",
+            "forward",
+            "amount",
+            "time",
+            "distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The youngest child in the race got a start of five metres",
+              "world_new": [
+                "child",
+                "race"
+              ]
+            },
+            {
+              "ex_of_definition": "The driver of the stolen car already had twenty minutes’ start before the police began the pursuit.",
+              "world_new": [
+                "driver",
+                "car",
+                "police",
+                "pursuit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giật mình, nhảy lên đột ngột",
+          "definition": "to jump or jerk suddenly because of fright, surprise etc",
+          "world_new": [
+            "jump",
+            "jerk",
+            "suddenly",
+            "fright",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sudden noise made me start.",
+              "world_new": [
+                "sudden",
+                "noise"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự giật nảy người",
+          "definition": "a sudden movement of the body",
+          "world_new": [
+            "sudden",
+            "movement",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave a start of surprise.",
+              "world_new": [
+                "surprise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giật mình",
+          "definition": "a shock",
+          "world_new": [
+            "shock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What a start the news gave me!",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Subsequent step sizes approximately halved the difference between the prior two reversals or starting points.",
+    "I intend my remarks as suggestions for expanding the argument - and perhaps the research - beyond the promising start made here.",
+    "A study has also been carried out comparing the influence of different starting bladder volumes.",
+    "Unlike pharmaceutical products, new interventional procedures may start to disseminate with little published evidence (1).",
+    "If the rehearsal hadn't started up again, perhaps he might have added others.",
+    "The model suggests that rebels start off as ordinary robbers.",
+    "Participants took a break between the two conditions and then completed the other modality, starting again with six new training items.",
+    "Only then need the lawyer start to think about the nature of any kind of defence strategy."
+  ],
+  "list_see_also": [
+    "starter",
+    "starting point",
+    "for a start",
+    "get off to a good/bad start",
+    "start off",
+    "start out",
+    "start up",
+    "to start with"
+  ],
+  "list_browse": [
+    "starlight",
+    "starling",
+    "starlit",
+    "starry",
+    "start",
+    "start from scratch",
+    "start off",
+    "start out",
+    "start up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703914_84b22578d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703914_d9b553e1de_o.png",
+      "id_image": "start_1445124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349211_5bed6a40f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349211_4297a3d21d_o.png",
+      "id_image": "start_4606991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393967_82ef44affb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393967_f4332804ba_o.png",
+      "id_image": "start_5200702"
+    }
+  ]
+}

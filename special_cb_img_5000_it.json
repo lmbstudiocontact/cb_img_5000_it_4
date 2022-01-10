@@ -1,0 +1,115 @@
+{
+  "english": "special",
+  "phat_am": "ˈspeʃəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đặc biệt, riêng biệt",
+          "definition": "out of the ordinary; unusual or exceptional",
+          "world_new": [
+            "unusual",
+            "exceptional"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a special occasion",
+              "world_new": [
+                "occasion"
+              ]
+            },
+            {
+              "ex_of_definition": "a special friend.",
+              "world_new": [
+                "friend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "riêng, dành riêng",
+          "definition": "appointed, arranged, designed etc for a particular purpose",
+          "world_new": [
+            "appointed",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a special messenger",
+              "world_new": [
+                "messenger"
+              ]
+            },
+            {
+              "ex_of_definition": "a special tool for drilling holes.",
+              "world_new": [
+                "tool"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến xe lửa đặc biệt",
+          "definition": "something which is special",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a special (= a special train) due through here at 5.20.",
+              "world_new": [
+                "due"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I met and listened to specials about the proposals in the working party report.",
+    "Surely most duties for specials are likely to commence after six o'clock at night.",
+    "I hope that my remarks have been encouraging to the specials.",
+    "We have lost a large number of specials.",
+    "After an experience like that, each new day you are granted has a special meaning.",
+    "Many young people, both men and women, are coming forward to serve as specials.",
+    "Specials are volunteers who work when they can and could never replace full-time regular officers.",
+    "More specials would be a positive contribution to law enforcement."
+  ],
+  "list_see_also": [
+    "specialist",
+    "speciality",
+    "specialize",
+    "specialization",
+    "specialized",
+    "specially",
+    "special needs"
+  ],
+  "list_browse": [
+    "speaker",
+    "speaking",
+    "spear",
+    "spearhead",
+    "special",
+    "special needs",
+    "specialist",
+    "speciality",
+    "specialization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369502_68469fdfe5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369502_b0710a46f7_o.png",
+      "id_image": "special_2302764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061525_7e7bfc013b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061525_e420bd5c01_o.png",
+      "id_image": "special_3125061"
+    }
+  ]
+}

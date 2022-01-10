@@ -1,0 +1,62 @@
+{
+  "english": "starvation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đói, chết đói",
+          "definition": "a starving state",
+          "world_new": [
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They died of starvation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These findings indicate that starvation may temporarily decrease an individual's relative openness to new experiences.",
+    "Deaths from famine, starvation and malnutrition are fewer than ever before.",
+    "On this continent it appears that there are consistent increases in starvation resistance towards the tropics but opposing patterns for desiccation resistance.",
+    "One daughter was born successfully after maternal starvation, but in this case the grand-daughter failed to establish.",
+    "That would lead to massive deaths from starvation and cold (the severity of both depending slightly on timing).",
+    "Starvation was used during the 1960s and 1970s as a treatment for severe obesity.",
+    "Parental nutrition might influence offspring energy reserves and aptitude to undergo periods of starvation at the end of diapause.",
+    "The presumption is, of course, that the fly, deprived of its means of subsistence, died of starvation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "start/set",
+    "starter",
+    "starting point",
+    "startle",
+    "starvation",
+    "starve",
+    "state",
+    "state of matter",
+    "stateliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703824_bb05c5d82f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703824_88b0370d20_o.png",
+      "id_image": "starvation_3382504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086320_06e3315dc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086320_c085d61816_o.png",
+      "id_image": "starvation_5256113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703774_d26b6e9c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703774_147cdb3da6_o.png",
+      "id_image": "starvation_5256709"
+    }
+  ]
+}

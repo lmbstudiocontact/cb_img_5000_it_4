@@ -1,0 +1,149 @@
+{
+  "english": "terminal",
+  "phat_am": "ˈtəːminəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ga đón khách",
+          "definition": "a building containing the arrival and departure areas for passengers at an airport or one in the centre/center of a city or town where passengers can buy tickets for air travel etc and can be transported by bus etc to an airport",
+          "world_new": [
+            "building",
+            "arrival",
+            "departure",
+            "airport",
+            "city",
+            "town",
+            "buy",
+            "air",
+            "travel",
+            "bus",
+            "airport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an air terminal.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ga cuối",
+          "definition": "a usually large station at either end of a railway/railroad line, or one for long-distance buses",
+          "world_new": [
+            "large",
+            "station",
+            "line",
+            "long-distance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus terminal.",
+              "world_new": [
+                "bus"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cực",
+          "definition": "in an electric circuit, a point of connection to a battery etc",
+          "world_new": [
+            "electric",
+            "circuit",
+            "point",
+            "connection",
+            "battery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the positive/negative terminal."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết bị đầu cuối",
+          "definition": "a device linked to a computer by which the computer can be operated.",
+          "world_new": [
+            "device",
+            "computer",
+            "computer"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bệnh nhân giai đoạn cuối",
+          "definition": "(of an illness etc) in the final stage before death",
+          "world_new": [
+            "illness",
+            "final",
+            "stage",
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This ward is for patients with terminal cancer.",
+              "world_new": [
+                "ward",
+                "cancer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both systems would require a critical mass of terminals to be effective.",
+    "The lab had twenty computer terminals separated by partitions which limited subjects' ability to see each other.",
+    "734 terminals of the end ganglion cells to similarly seek their site of maximal correlated activity with their other neighbors.",
+    "Large terminals that take par t in glomeruli also occasionally were seen.",
+    "A minimum of 100 terminals was measured from each of four ferrets in the control and treatment conditions.",
+    "At their synaptic sites, photoreceptor terminals contain ribbons apposed to apparently normal postsynaptic triads.",
+    "A similar mechanism occurs during development of the neuromuscular junction in which synapses onto a par ticular muscle from incorrect motor nerve terminals are eliminated.",
+    "The labelling in our tissue samples was too dense to reveal the configuration of the terminals in this brain region."
+  ],
+  "list_see_also": [
+    "terminally"
+  ],
+  "list_browse": [
+    "tepidness",
+    "tequila",
+    "tercentenary",
+    "term",
+    "terminal",
+    "terminally",
+    "terminate",
+    "termination",
+    "terminological"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089240_4d174aa193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089240_b28b5ca3e8_o.png",
+      "id_image": "terminal_1546645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706479_61d15a2ccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706479_38a7e6e124_o.png",
+      "id_image": "terminal_2540838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089180_f0872e2ab3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089180_970a19dcb8_o.png",
+      "id_image": "terminal_4248495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089145_0a530c1356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089145_9d9b600062_o.png",
+      "id_image": "terminal_6395227"
+    }
+  ]
+}

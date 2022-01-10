@@ -1,0 +1,62 @@
+{
+  "english": "sad",
+  "phat_am": "sӕd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "buồn rầu",
+          "definition": "unhappy or causing unhappiness",
+          "world_new": [
+            "unhappy",
+            "unhappiness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s sad because her son is ill",
+              "world_new": [
+                "son",
+                "ill"
+              ]
+            },
+            {
+              "ex_of_definition": "a sad face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sadness",
+    "sadden",
+    "sadly"
+  ],
+  "list_browse": [
+    "sacrilege",
+    "sacrilegious",
+    "sacrilegiously",
+    "sacrilegiousness",
+    "sad",
+    "sadden",
+    "saddle",
+    "sadly",
+    "sadness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693139_7e052024e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693139_42d905b77f_o.png",
+      "id_image": "sad_1128885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382877_790f765923_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382877_83884b3c74_o.png",
+      "id_image": "sad_599625"
+    }
+  ]
+}

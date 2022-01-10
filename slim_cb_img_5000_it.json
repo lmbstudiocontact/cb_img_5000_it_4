@@ -1,0 +1,114 @@
+{
+  "english": "slim",
+  "phat_am": "slim",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mảnh khảnh, thon thả",
+          "definition": "not thick or fat; thin",
+          "world_new": [
+            "thick",
+            "thin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a slim, graceful figure",
+              "world_new": [
+                "graceful",
+                "figure"
+              ]
+            },
+            {
+              "ex_of_definition": "Taking exercise is one way of keeping slim.",
+              "world_new": [
+                "exercise",
+                "keeping"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sơ sài, nghèo nàn",
+          "definition": "not good; slight",
+          "world_new": [
+            "slight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s still a slim chance that we’ll find the child alive.",
+              "world_new": [
+                "chance",
+                "find",
+                "child",
+                "alive"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho người thon nhỏ",
+          "definition": "to use means (such as eating less) in order to become slimmer",
+          "world_new": [
+            "means",
+            "order",
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I mustn’t eat cakes – I’m trying to slim.",
+              "world_new": [
+                "I",
+                "eat",
+                "trying"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am in the process of slimming down membership by about one-third, and the chairman has reorganised the committee structure.",
+    "I do so mainly as a director of slimming.",
+    "Such drugs are made popular for all kinds of things, from slimming to making people sleep better or feel more energetic.",
+    "Perhaps he might think about having a debate on the 40,000 civil servants who form part of the slimming down operation.",
+    "We must have slimmed down and effective police authorities to which there will be proper local accountability.",
+    "We accept that the present system of testing needs refinement and slimming down.",
+    "What about the way in which they have increased production and slimmed down their industry to suit the prevailing circumstances?",
+    "I heard her say this on television recently; industry is being slimmed down; it is being made leaner."
+  ],
+  "list_see_also": [
+    "slimming",
+    "slimness"
+  ],
+  "list_browse": [
+    "slightest",
+    "slighting",
+    "slightingly",
+    "slightly",
+    "slim",
+    "slime",
+    "sliminess",
+    "slimming",
+    "slimness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377952_f3bfa39452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377952_621da4c1c7_o.png",
+      "id_image": "slim_412588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069880_a8db629296_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069880_87f679eb0d_o.png",
+      "id_image": "slim_6381877"
+    }
+  ]
+}

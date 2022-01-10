@@ -1,0 +1,62 @@
+{
+  "english": "ulcer",
+  "phat_am": "ˈalsə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chố loét",
+          "definition": "a kind of sore that does not heal easily, on the skin or inside the body",
+          "world_new": [
+            "kind",
+            "sore",
+            "heal",
+            "easily",
+            "skin",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mouth/stomach ulcer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The localized cutaneous form is the most frequent, characterized by the presence of skin ulcers.",
+    "In a longer perspective, many people are affected by leg swelling, varicose veins, and slowly healing leg ulcers (conditions not addressed in this report).",
+    "Several strategies are available for the prevention and treatment of pressure ulcers.",
+    "Little quantitative work, however, has been done in the area of preventing pressure ulcers through patient and caregiver education following discharge.",
+    "Therapy for pressure ulcers is generally empiric, based on anecdotal experience, or borrowed from the treatment of patients with acute wounds.",
+    "Osteomyelitis is often difficult to distinguish from a simple ulcer, and radiology is rarely of additional assistance.",
+    "While the general principles of pressure ulcers management seems to be wellestablished, controversy exists over specific areas of prevention and treatment.",
+    "In patients who did not undergo surgery, biopsies were obtained from nasal or palatine ulcers or the affected sinus."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "UFO",
+    "ugh!",
+    "ugliness",
+    "ugly",
+    "ulcer",
+    "ulna",
+    "ultimate",
+    "ultimately",
+    "ultimatum"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091760_4f1cd80184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091760_fddfdb09df_o.png",
+      "id_image": "ulcer_3411848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469133_fd833dfc57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469133_b50557e206_o.png",
+      "id_image": "ulcer_6146267"
+    }
+  ]
+}

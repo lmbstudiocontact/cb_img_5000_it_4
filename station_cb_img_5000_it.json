@@ -1,0 +1,166 @@
+{
+  "english": "station",
+  "phat_am": "ˈsteiʃən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà ga",
+          "definition": "a place with a ticket office, waiting rooms etc, where trains, buses or coaches stop to allow passengers to get on or off",
+          "world_new": [
+            "place",
+            "ticket",
+            "office",
+            "rooms",
+            "stop",
+            "allow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bus station",
+              "world_new": [
+                "bus"
+              ]
+            },
+            {
+              "ex_of_definition": "She arrived at the station in good time for her train.",
+              "world_new": [
+                "time",
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trạm, điểm, đồn, đài",
+          "definition": "a local headquarters or centre of work of some kind",
+          "world_new": [
+            "local",
+            "headquarters",
+            "centre",
+            "work",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How many fire-engines are kept at the fire station?",
+              "world_new": [
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "a radio station",
+              "world_new": [
+                "radio"
+              ]
+            },
+            {
+              "ex_of_definition": "Where is the police station?",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "military/naval stations."
+            }
+          ]
+        },
+        {
+          "mean_english": "địa vị, chức",
+          "definition": "a post or position (eg of a guard or other person on duty)",
+          "world_new": [
+            "position",
+            "guard",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The watchman remained at his station all night.",
+              "world_new": [
+                "watchman",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt vào vị trí",
+          "definition": "to put (a person, oneself, troops etc in a place or position to perform some duty)",
+          "world_new": [
+            "person",
+            "troops",
+            "place",
+            "position",
+            "perform"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stationed himself at the corner of the road to keep watch",
+              "world_new": [
+                "corner",
+                "road",
+                "keep",
+                "watch"
+              ]
+            },
+            {
+              "ex_of_definition": "The regiment is stationed abroad.",
+              "world_new": [
+                "regiment",
+                "abroad"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In their model, they assumed that processing requirements are the same in both stations, so actual processing times depend on the servers' speeds.",
+    "Transects were 75 stations in length, and traps were set for 10 consecutive nights.",
+    "The 1924 immigration laws gave rise to prolonged investigation of incoming foreign students at immigration stations.",
+    "Their criticism of the media usually focused on his conservative papers and explicitly excluded the left-leaning weeklies and television and radio stations.",
+    "However, colonies 2, 3 and 4 still were present at the remaining four monitoring stations nearby.",
+    "In 1980-81 the major media were the fifteen daily papers, twelve or so political weeklies, twenty-five radio stations and twenty television stations.",
+    "They never complained that their music wasn't on certain radio stations because they understood the scope of their work.",
+    "Such plants can also be commissioned and modified prior to shipping, further alleviating demands on the limited staff available on-site at research stations."
+  ],
+  "list_see_also": [
+    "stationary",
+    "station wagon"
+  ],
+  "list_browse": [
+    "statesmanlike",
+    "statesmanship",
+    "static",
+    "static (electricity)",
+    "station",
+    "station wagon",
+    "stationary",
+    "stationer",
+    "stationery"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348821_17923c5239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348821_494ce2d45c_o.png",
+      "id_image": "station_1023364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086100_cb1d1ca605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086100_4fd042097e_o.png",
+      "id_image": "station_3540110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703499_8613773b98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703499_d2324a4029_o.png",
+      "id_image": "station_4426573"
+    }
+  ]
+}

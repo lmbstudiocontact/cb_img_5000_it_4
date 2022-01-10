@@ -1,0 +1,80 @@
+{
+  "english": "shipment",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng gửi",
+          "definition": "a load of goods sent by sea",
+          "world_new": [
+            "load",
+            "goods",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shipment of wine from Portugal.",
+              "world_new": [
+                "wine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "việc gửi hàng bằng đường biển",
+          "definition": "the sending of goods by sea.",
+          "world_new": [
+            "goods",
+            "sea"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "No details of these proposed shipments are available.",
+    "However, it would seem in the case of individual shipments for which we have reliable data that silver was more important than gold.",
+    "We have received complaints on some recent shipments which are now being investigated, but over the past two years these eggs have proved satisfactory.",
+    "I see that there is the sum of £1,200,000 for sea freights to meet an increase in shipments.",
+    "Only about half the expected shipments have so far arrived.",
+    "In the same period there were larger falls in shipments to a few other markets, but our total exports increased by more than£1 million.",
+    "On the first, it is, of course, the almost total inability to control private arms shipments which has caused the difficulty all along.",
+    "Shipments of waste can only be refused if the waste cannot be recovered in the importing country."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ship water",
+    "ship-broker",
+    "shipbuilder",
+    "shipbuilding",
+    "shipment",
+    "shipowner",
+    "shipper",
+    "shipping",
+    "shipshape"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459403_fd93543136_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459403_cc2234f22a_o.png",
+      "id_image": "shipment_2463867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389522_9b83ff053e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389522_32883fe8d2_o.png",
+      "id_image": "shipment_2947568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459363_b3ca122a8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459363_1051fcbaa3_o.png",
+      "id_image": "shipment_4003661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344536_dc0ac8ba52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344536_aa06f042ee_o.png",
+      "id_image": "shipment_4829638"
+    }
+  ]
+}

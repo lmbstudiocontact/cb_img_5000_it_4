@@ -1,0 +1,72 @@
+{
+  "english": "ultrasound",
+  "phat_am": "altresaund",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sóng siêu âm",
+          "definition": "ultrasonic sound, used especially in scanners, that can show what is inside a person’s body",
+          "world_new": [
+            "ultrasonic",
+            "sound",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ll have to see what the ultrasound reveals.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The timing of the postnatal ultrasound can in-uence the detection of pathology.",
+    "Many studies have addressed the usefulness of ultrasound in the prediction of the large-for-gestational age infant, especially its accuracy in the estimation of fetal weight.",
+    "No oxidation or ultrasound treatments were applied since these techniques could have damaged the dinoflagellate cysts or caused selective loss of species.",
+    "Ultrasounds are used to measure fetus growth, heartbeats, movement, and the identification of physically identifiable abnormalities.",
+    "In many of these experimental studies the pulse lengths were considerably longer than those used for diagnostic ultrasound.",
+    "Less invasive imaging methods such as x-rays or ultrasounds do not work because the vocal cords are surrounded by cartilage which distort image quality.",
+    "A cranial ultrasound investigation was performed at the first visit and, in children with confirmed congenital toxoplasmosis, computerized tomography of the brain was also performed.",
+    "Acceleration of tibial tracture healing by non-invasive, low intensity pulsed ultrasound."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ultimately",
+    "ultimatum",
+    "ultra-",
+    "ultrasonic",
+    "ultrasound",
+    "ultraviolet",
+    "umbilical cord",
+    "umbra",
+    "umbrella"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708944_f91c5d2e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708944_b1425e3c44_o.png",
+      "id_image": "ultrasound_2395216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469073_3c9046b43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469073_95b2550eaa_o.png",
+      "id_image": "ultrasound_2444509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399182_939515d376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399182_652416ac2b_o.png",
+      "id_image": "ultrasound_4246687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354321_f0c8a9ca91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354321_4b276bf1ed_o.png",
+      "id_image": "ultrasound_4305195"
+    }
+  ]
+}

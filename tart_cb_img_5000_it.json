@@ -1,0 +1,90 @@
+{
+  "english": "tart",
+  "phat_am": "taːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cay, chát, chua",
+          "definition": "sharp or sour in taste",
+          "world_new": [
+            "sharp",
+            "sour",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These apples taste rather tart.",
+              "world_new": [
+                "taste",
+                "rather"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh tạc",
+          "definition": "a pie containing eg fruit or jam",
+          "world_new": [
+            "pie",
+            "fruit",
+            "jam"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an apple tart.",
+              "world_new": [
+                "apple"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gái điếm",
+          "definition": "a prostitute.",
+          "world_new": [
+            "prostitute"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "tartly",
+    "tartness"
+  ],
+  "list_browse": [
+    "tarnish",
+    "tarnished",
+    "tarpaulin",
+    "tarry",
+    "tart",
+    "tartan",
+    "tartar",
+    "tartly",
+    "tartness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091815_eceb13b7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091815_8bcb70d893_o.png",
+      "id_image": "tart_1686736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354446_b72e9e321e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354446_166427f67e_o.png",
+      "id_image": "tart_1999903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709004_eb4300f545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709004_f5a9d6172e_o.png",
+      "id_image": "tart_2258350"
+    }
+  ]
+}

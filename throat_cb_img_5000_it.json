@@ -1,0 +1,86 @@
+{
+  "english": "throat",
+  "phat_am": "θrəut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cổ họng, hầu",
+          "definition": "the back part of the mouth connecting the openings of the stomach, lungs and nose",
+          "world_new": [
+            "part",
+            "mouth",
+            "stomach",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She has a sore throat.",
+              "world_new": [
+                "sore"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cổ",
+          "definition": "the front part of the neck",
+          "world_new": [
+            "front",
+            "part",
+            "neck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wore a silver brooch at her throat.",
+              "world_new": [
+                "silver",
+                "brooch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He was humble minded and never forced his opinions down other people's throats.",
+    "He said that you must avoid the impression of thrusting religion down the throats of the pupils.",
+    "Surely, if we do that, we are saying we prefer to cut our throats rather than survive.",
+    "Depending on populations surveyed, the climate and the season, the germ can be recovered from 5% to 50% of the throats of schoolchildren examined.",
+    "If we do not, we shall cut each other's throats.",
+    "Instead, it has added instability and set people at each other's throats.",
+    "We did not vote for national health service trusts, but they were forced down our throats.",
+    "Politicians love grabbing each other's throats!"
+  ],
+  "list_see_also": [
+    "-throated",
+    "throaty",
+    "throatily",
+    "throatiness"
+  ],
+  "list_browse": [
+    "thrilling",
+    "thrive",
+    "thriving",
+    "thro’",
+    "throat",
+    "-throated",
+    "throatily",
+    "throatiness",
+    "throaty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463708_2f9bc13ef1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463708_e1b3808f2c_o.png",
+      "id_image": "throat_2418003"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463698_04815edbf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463698_7e2cc8d751_o.png",
+      "id_image": "throat_5570677"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "english": "tap",
+  "phat_am": "tӕp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái gõ nhẹ",
+          "definition": "a quick touch or light knock or blow",
+          "world_new": [
+            "quick",
+            "touch",
+            "light",
+            "knock",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I heard a tap at the door.",
+              "world_new": [
+                "I",
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gõ",
+          "definition": "(often with at, on or with) to give a light knock (on or with something)",
+          "world_new": [
+            "light",
+            "knock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tapped at/on the window.",
+              "world_new": [
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vòi, khóa nước",
+          "definition": "any of several types of device (usually with a handle and valve that can be shut or opened) for controlling the flow of liquid or gas from a pipe, barrel etc ; faucet( American)",
+          "world_new": [
+            "device",
+            "handle",
+            "valve",
+            "shut",
+            "flow",
+            "liquid",
+            "gas",
+            "pipe",
+            "barrel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Turn the tap off/on!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khai thác",
+          "definition": "to start using (a source, supply etc)",
+          "world_new": [
+            "start",
+            "source",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The country has many natural resources that have not yet been tapped.",
+              "world_new": [
+                "country",
+                "natural",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gắn thiết bị nghe trộm",
+          "definition": "to attach a device to (someone’s telephone wires) in order to be able to listen to his telephone conversations",
+          "world_new": [
+            "attach",
+            "device",
+            "telephone",
+            "order",
+            "listen",
+            "telephone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My phone was being tapped.",
+              "world_new": [
+                "phone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Within the groups of metered tap and non-tap households, however, our data are likely to be largely representative.",
+    "A number of studies have suggested that lexical decision and naming tap different aspects of post-lexical processing.",
+    "Alternatively it could be that this factor taps into some other, structural, dimension of the local area.",
+    "Thus, vocabulary knowledge and the skills tapped by the ability to recognize written words were associated with naming ability.",
+    "The hind legs rubbed or tapped repeatedly on the ventral surface of the female's abdomen.",
+    "Whenever a town succeeded in tapping a larger supply of water, its drainage became a more acute problem.",
+    "We, like many users of the task, would not want to claim that it taps directly into necessary stages of speech processing.",
+    "This test taps children's ability to recall appropriate words in context and provides information pertaining to receptive and expressive vocabulary."
+  ],
+  "list_see_also": [
+    "tap dancing",
+    "tap dancer"
+  ],
+  "list_browse": [
+    "tantalize",
+    "tantalizing",
+    "tantamount",
+    "tantrum",
+    "tap",
+    "tap dancer",
+    "tap dancing",
+    "tape",
+    "tape measure"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063680_9b311955ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063680_40a1e2a460_o.png",
+      "id_image": "tap_169798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371477_eeda535cf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371477_bbc3a67fa8_o.png",
+      "id_image": "tap_219664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441788_1e1f1e690e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441788_49eb360d6d_o.png",
+      "id_image": "tap_246537"
+    }
+  ]
+}

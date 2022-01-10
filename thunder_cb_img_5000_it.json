@@ -1,0 +1,118 @@
+{
+  "english": "thunder",
+  "phat_am": "ˈθandə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sấm, tiếng sấm, tiếng sét",
+          "definition": "the deep rumbling sound heard in the sky after a flash of lightning",
+          "world_new": [
+            "deep",
+            "sound",
+            "sky",
+            "flash",
+            "lightning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a clap/peal of thunder"
+            },
+            {
+              "ex_of_definition": "a thunderstorm."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng vó ngựa",
+          "definition": "a loud rumbling",
+          "world_new": [
+            "loud"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the thunder of horses’ hooves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nổi sấm",
+          "definition": "to sound, rumble etc",
+          "world_new": [
+            "sound",
+            "rumble"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It thundered all night.",
+              "world_new": [
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gây ra tiếng động vang to",
+          "definition": "to make a noise like thunder",
+          "world_new": [
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tanks thundered over the bridge.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, people living in completely residential areas could be faced, for an unspecified time, with thundering lorries passing their front doors.",
+    "One woman pushing a pram had to dive into a hedge when a lorry came thundering round the corner.",
+    "People have had to be patient and grit their teeth as heavy lorries have thundered past on roads which were never designed for them.",
+    "If they are, that will be a thundering disgrace.",
+    "Day in, day out a vast amount of commuter traffic also thunders through, as well as heavy goods vehicles and dangerous overweight juggernauts.",
+    "The thunder and lightning storm is a real one coming across from the mainland.",
+    "We would restore life to many of our villages by getting rid of the traffic which thunders through them.",
+    "Let us be honest: when a conflict comes, the families will be a thundering nuisance immediately behind the front line."
+  ],
+  "list_see_also": [
+    "thundering",
+    "thunderous",
+    "thunderously",
+    "thundery",
+    "thunderbolt"
+  ],
+  "list_browse": [
+    "thumbprint",
+    "thumbs-up",
+    "thumbtack",
+    "thump",
+    "thunder",
+    "thunderbolt",
+    "thundering",
+    "thunderous",
+    "thunderously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463408_51c5aacc47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463408_cc950bdd00_o.png",
+      "id_image": "thunder_1146804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463433_6cd0805856_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463433_7a92563412_o.png",
+      "id_image": "thunder_391523"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "sleet",
+  "phat_am": "sliːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn mưa tuyết, mưa đá",
+          "definition": "rain mixed with snow or hail",
+          "world_new": [
+            "rain",
+            "mixed",
+            "snow",
+            "hail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That isn’t snow – it’s just sleet.",
+              "world_new": [
+                "snow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mưa tuyết, mưa đá",
+          "definition": "to hail or snow, with a mixture of rain",
+          "world_new": [
+            "hail",
+            "snow",
+            "mixture",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It seems to be sleeting outside.",
+              "world_new": [
+                "outside"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Drifting snow, sleet and biting winds paralysed movement and communications on the ground while cloud ceiling and visibility fell to nil and grounded the airforce.",
+    "Hail, sleet and snow are rare, though will sometimes be experienced during particularly cold winters.",
+    "L149, a ballast motor car, replaced the sleet locomotives in 1979.",
+    "During the transition into and out of winter, various mixed forms of precipitation can occur, such as sleet, ice, and freezing rain.",
+    "Warm fronts, sleet, and freezing rain are practically non-existent here.",
+    "The main forms of precipitation include drizzle, rain, sleet, snow, graupel and hail.",
+    "As temperatures hovered around freezing on the southern edge of the storm track, light snow accompanied freezing rain and sleet.",
+    "As the air's temperature dropped, the rain changed to sleet, and then to snow."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sleepless",
+    "sleepwalk",
+    "sleepwalker",
+    "sleepy",
+    "sleet",
+    "sleeve",
+    "-sleeved",
+    "sleeveless",
+    "sleigh"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378697_d1064872d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378697_75efcd77bb_o.png",
+      "id_image": "sleet_2581087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333746_57522077e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333746_ba3989f61e_o.png",
+      "id_image": "sleet_3750467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688809_88023d6fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688809_5e7211eb34_o.png",
+      "id_image": "sleet_3755313"
+    }
+  ]
+}

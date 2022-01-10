@@ -1,0 +1,134 @@
+{
+  "english": "room",
+  "phat_am": "ruːm (in compounds rum",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng",
+          "definition": "one part of a house or building, usually used for a particular purpose",
+          "world_new": [
+            "part",
+            "house",
+            "building",
+            "particular",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This house has six rooms",
+              "world_new": [
+                "house",
+                "rooms"
+              ]
+            },
+            {
+              "ex_of_definition": "a bedroom",
+              "world_new": [
+                "bedroom"
+              ]
+            },
+            {
+              "ex_of_definition": "a dining-room."
+            }
+          ]
+        },
+        {
+          "mean_english": "nơi chỗ",
+          "definition": "the space or area in which a person, thing etc is or could be put etc",
+          "world_new": [
+            "space",
+            "area",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bed takes up a lot of room",
+              "world_new": [
+                "bed"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s no room for you in our car",
+              "world_new": [
+                "our",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll move the bookcase to make room for the television.",
+              "world_new": [
+                "move",
+                "bookcase",
+                "television"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cần thiết",
+          "definition": "a need or possibility (for something)",
+          "world_new": [
+            "possibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is room for improvement in his work.",
+              "world_new": [
+                "improvement",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Tenants could retreat to the privacy of their own rooms, but even here they were often expected to share, especially if they were related.",
+    "One might venture that the new science either responded to or was influenced by trends in opera houses and concert rooms.",
+    "The members are expected simply to listen to what is discussed in committee rooms and to follow their party's direction.",
+    "In a period when population growth came up against regulatory limits on new building, the partition of existing houses into smaller rooms was commonplace.",
+    "Such houses are highly subdivided, with kitchens, dining rooms, several bedrooms, and other elements common to the large modern house.",
+    "Genial rehearsal rooms may be pleasant to be in, but they rarely spark significant work in my experience.",
+    "The program took place in specially designed work-out rooms located at the hospital and was carried out in the mornings.",
+    "According to the representatives of the town council the different rooms are described and measured in bays, from north to south."
+  ],
+  "list_see_also": [
+    "-roomed",
+    "roomful",
+    "rooms",
+    "roomy",
+    "room-mate",
+    "room service"
+  ],
+  "list_browse": [
+    "roof top",
+    "roofing",
+    "rook",
+    "rookie",
+    "room",
+    "room service",
+    "room-mate",
+    "-roomed",
+    "roomful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457428_9e7dfc5a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457428_148573896d_o.png",
+      "id_image": "room_1624941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342541_155e173408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342541_f7e2d65736_o.png",
+      "id_image": "room_4792184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387687_63bbc7490f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387687_ac25f21576_o.png",
+      "id_image": "room_578008"
+    }
+  ]
+}

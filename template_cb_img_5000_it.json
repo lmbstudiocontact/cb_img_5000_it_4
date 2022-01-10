@@ -1,0 +1,99 @@
+{
+  "english": "template",
+  "phat_am": "ˈtemplit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái đục",
+          "definition": "a thin sheet made from a hard material that is used as a pattern for cutting other materials in the same shape",
+          "world_new": [
+            "thin",
+            "sheet",
+            "material",
+            "pattern",
+            "cutting",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He used a metal template to cut out the circle.",
+              "world_new": [
+                "metal",
+                "cut",
+                "circle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khuôn mẫu",
+          "definition": "something that is used as a model for producing another similar thing",
+          "world_new": [
+            "model",
+            "similar"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film was the template for many Westerns that came after it.",
+              "world_new": [
+                "film"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "file mẫu",
+          "definition": "a computer document which is used as a model for creating similar documents because it contains all the basic features required.",
+          "world_new": [
+            "computer",
+            "document",
+            "model",
+            "similar",
+            "basic"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The main window provides a folder of such templates for different query types.",
+    "Although these templates were of no further use to the stonecutters, the vestry had shown great diligence in preserving them.",
+    "First, the human resources to assemble such a set of test templates were simply not available.",
+    "Additionally, we find that phosphodiester bonds formed by the modified templates are predominantly 3h-5h linked.",
+    "Classes provide templates for the creation of objects.",
+    "First, specific templates of this kind are necessary anyway for some groups of nouns which require stem changes.",
+    "We vary the corpus size and the number of templates individually in order to thoroughly test and analyze the impact of each variation.",
+    "Relative differences in the strength of syntactic templates cannot only explain differences between monolingual and bilingual children, but also differences among bilingual children."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tempest",
+    "tempestuous",
+    "tempestuously",
+    "tempestuousness",
+    "template",
+    "temple",
+    "tempo",
+    "temporarily",
+    "temporariness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397317_f64311c51d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397317_9913518aaf_o.png",
+      "id_image": "template_1147088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467148_fc07803151_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467148_e6966d4287_o.png",
+      "id_image": "template_2905989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089805_14d89e6dd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089805_7bf199aed9_o.png",
+      "id_image": "template_6384502"
+    }
+  ]
+}

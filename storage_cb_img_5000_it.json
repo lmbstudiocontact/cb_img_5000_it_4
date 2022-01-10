@@ -1,0 +1,75 @@
+{
+  "english": "storage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xếp vào kho",
+          "definition": "the act of storing or state of being stored",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’ve put our furniture into storage at a warehouse",
+              "world_new": [
+                "our",
+                "furniture",
+                "warehouse"
+              ]
+            },
+            {
+              "ex_of_definition": "The meat will have to be kept in cold storage (= stored under refrigeration).",
+              "world_new": [
+                "meat",
+                "cold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The assumptions which are required because of the two scale effects become less crucial as computer speed and storage capacity increase.",
+    "I know in these days of questions of profiteering and food supply there may be some who wish that municipalities should provide cold storages.",
+    "Farmers were asked to rate (as good, fair or bad) storage behaviour in terms of keeping quality and tolerance to insect pests.",
+    "Controlled atmosphere and fumigation of grain storages.",
+    "Can the phonological storage framework handle these data?",
+    "The store is not structured as a stack because storage can be allocated at any time during action performance.",
+    "The examination of rehearsal as a recall strategy - in particular, a storage strategy - has produced a large literature.",
+    "The first rule avoids cluttering up the key with identifiers that account for only a small fraction of the total storage allocated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stoppage",
+    "stopper",
+    "stopping",
+    "stopwatch",
+    "storage",
+    "store",
+    "store up",
+    "storehouse",
+    "storekeeper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345126_6856a1ddac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345126_1229d61593_o.png",
+      "id_image": "storage_3944799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459923_ac4df13b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459923_5143425dd2_o.png",
+      "id_image": "storage_4899533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390017_24f8c59171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390017_1b8e5606f8_o.png",
+      "id_image": "storage_4944329"
+    }
+  ]
+}

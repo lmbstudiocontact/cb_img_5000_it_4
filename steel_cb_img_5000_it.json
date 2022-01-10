@@ -1,0 +1,106 @@
+{
+  "english": "steel",
+  "phat_am": "stiːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thép",
+          "definition": "(of) a very hard alloy of iron and carbon, used for making tools etc",
+          "world_new": [
+            "alloy",
+            "iron",
+            "carbon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tools of the finest steel"
+            },
+            {
+              "ex_of_definition": "steel knives/chisels"
+            },
+            {
+              "ex_of_definition": "He had a grip of steel (= a very strong grip).",
+              "world_new": [
+                "grip",
+                "strong"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tôi luyện",
+          "definition": "to harden and strengthen (oneself, one’s nerves etc) in preparation for doing, or resisting, something",
+          "world_new": [
+            "harden",
+            "strengthen",
+            "nerves",
+            "preparation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He steeled himself to meet the attack / to tell his wife the truth.",
+              "world_new": [
+                "meet",
+                "attack",
+                "tell",
+                "wife",
+                "truth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We have already taken some action in respect of special steels.",
+    "I am interested only in the special steels sector for the engineering industry.",
+    "There, are already widespread shortages of certain steels.",
+    "I assume he was referring more particularly to the alloy steels, the special steels, where a recession has been shown.",
+    "The regime does not apply to special steels.",
+    "To fabricate these special steels to the very high degree of accuracy required calls for training and experience.",
+    "Substantial investment is continuing to take place in both the public and private sectors of the special steels industry.",
+    "There is a deeper, richer, more enduring compassion, the compassion which steels a man to do his duty."
+  ],
+  "list_see_also": [
+    "steely",
+    "steeliness",
+    "steel wool",
+    "steelworks"
+  ],
+  "list_browse": [
+    "steamboat",
+    "steamer",
+    "steamy",
+    "steed",
+    "steel",
+    "steel wool",
+    "steeliness",
+    "steelworks",
+    "steely"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347731_9d462ea3a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347731_85557df2a6_o.png",
+      "id_image": "steel_4647611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392607_663d09a2f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392607_be40214eb7_o.png",
+      "id_image": "steel_5672093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347666_8c5bcba153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347666_47c6fed81d_o.png",
+      "id_image": "steel_5672175"
+    }
+  ]
+}

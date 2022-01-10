@@ -1,0 +1,78 @@
+{
+  "english": "skeleton",
+  "phat_am": "ˈskelitn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ xương",
+          "definition": "the bony framework of an animal or person",
+          "world_new": [
+            "bony",
+            "framework",
+            "animal",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The archaeologists dug up the skeleton of a dinosaur.",
+              "world_new": [
+                "dinosaur"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khung, sườn",
+          "definition": "any framework or outline",
+          "world_new": [
+            "framework",
+            "outline"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the steel skeleton of a building.",
+              "world_new": [
+                "steel",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Figure 1 depicts the skeletons we present in this paper, and their dependences.",
+    "There are seven communication skeletons which describe families of data motion within vectors.",
+    "The rules can be viewed as acting on skeletons to 'order' them (what we call normal skeletons should be seen as completely 'ordered' structures).",
+    "To ensure the affinity of cost expressions, conditionals are constrained to be mask skeletons whose condition characterizes a convex polytope.",
+    "In practice, there are strong constraints upon which types of functions can be used as skeletons.",
+    "I repor t strontium isotope ratios obtained from the teeth of four of these skeletons.",
+    "To this extent we have advanced the concept of algorithmic skeletons into a practical and usable tool.",
+    "I believe that they belong to the same two skeletons, from which only a few teeth were expor ted for study, for whatever reason."
+  ],
+  "list_see_also": [
+    "skeletal",
+    "skeleton key"
+  ],
+  "list_browse": [
+    "skateboard",
+    "skater",
+    "skating rink",
+    "skeletal",
+    "skeleton",
+    "skeleton key",
+    "sketch",
+    "sketchbook",
+    "sketchily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381047_1190e14d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381047_b8462187ca_o.png",
+      "id_image": "skeleton_421619"
+    }
+  ]
+}

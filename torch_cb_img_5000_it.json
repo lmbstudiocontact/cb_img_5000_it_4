@@ -1,0 +1,81 @@
+{
+  "english": "torch",
+  "phat_am": "toːtʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đèn pin",
+          "definition": "a small portable light worked by an electric battery; flashlight( American)",
+          "world_new": [
+            "small",
+            "portable",
+            "light",
+            "electric"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shone his torch into her face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngọn đuốc",
+          "definition": "a piece of wood etc set on fire and carried as a light",
+          "world_new": [
+            "piece",
+            "wood",
+            "fire",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Olympic torch.",
+              "world_new": [
+                "Olympic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another is music, bands, torches and the like.",
+    "If they use the larger torches, they will find that the batteries have a longer life.",
+    "The great fear for those in the dwelling-house is that the people walking about at night with torches might set fire to that building.",
+    "Vegetation left in their wake was torched.",
+    "As there is a shortage of fuel it would be completely and utterly wrong to remove the prohibition on torches.",
+    "In dimly lit environments, torches or the use of darkvision are required to achieve full visibility.",
+    "The torches of freedom and democracy are blown upon nowadays from many parts of the world.",
+    "Specifically, he noted the references to the four directions in the same order in both almanacs and the pictures of offerings, serpents, and torches."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "topper",
+    "topping",
+    "topple",
+    "topsy-turvy",
+    "torch",
+    "torment",
+    "tormentor",
+    "tornado",
+    "torpedo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698469_c249b40382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698469_6fc4797b7f_o.png",
+      "id_image": "torch_5613782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388132_e6c0fc7735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388132_d30f18e010_o.png",
+      "id_image": "torch_6193968"
+    }
+  ]
+}

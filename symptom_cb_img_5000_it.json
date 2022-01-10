@@ -1,0 +1,65 @@
+{
+  "english": "symptom",
+  "phat_am": "ˈsimptəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "triệu chứng, dấu hiệu tồn tại của cái gì",
+          "definition": "something that a person suffers from that indicates a particular disease",
+          "world_new": [
+            "person",
+            "particular",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "abdominal pain is a symptom of appendicitis.",
+              "world_new": [
+                "abdominal",
+                "pain"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, despite the narrow time gap between assessments, it is possible that there was fluctuation in depressive symptoms between assessments.",
+    "Relation of prefrontal cortex dysfunction to working memory and symptoms in schizophrenia.",
+    "All children showed evidence of at least six of the nine inattention symptoms, and at least six of the nine hyperactivity-impulsivity symptoms.",
+    "Early vegetative symptoms, however, may also contribute to the high rates of depression seen later in the course of immune activation.",
+    "The subjects' self-reports of bipolar prodromal symptoms and how they coped with bipolar prodromal symptoms were written down verbatim for inter-rater reliability.",
+    "However, compared with mania prodromal symptoms, the list of depression prodromal symptoms was longer and more diverse.",
+    "However, there is no statistical remedy for failure to recall episodes or symptoms.",
+    "We used principal-factor analysis (starting with squared multiple correlations as the prior communality estimates) to extract the principal factors from the 17 premenstrual symptoms."
+  ],
+  "list_see_also": [
+    "symptomatic"
+  ],
+  "list_browse": [
+    "sympathize",
+    "sympathy",
+    "symphonic",
+    "symphony",
+    "symptom",
+    "symptomatic",
+    "synagogue",
+    "synapse",
+    "synaptic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685699_98cefb0a3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685699_e38a8d41c6_o.png",
+      "id_image": "symptom_5559834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067470_ef9ae84494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067470_0cedf7c15e_o.png",
+      "id_image": "symptom_670875"
+    }
+  ]
+}

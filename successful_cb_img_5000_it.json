@@ -1,0 +1,86 @@
+{
+  "english": "successful",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thành công",
+          "definition": "(opposite unsuccessful) having success",
+          "world_new": [
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Were you successful in finding a new house?",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "The successful applicant for this job will be required to start work next month",
+              "world_new": [
+                "applicant",
+                "job",
+                "start",
+                "work",
+                "month"
+              ]
+            },
+            {
+              "ex_of_definition": "a successful career.",
+              "world_new": [
+                "career"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These suggestions correspond with the problems communicated by the physicians and are, thus, likely to be more successful.",
+    "The pilot was ultimately successful in that we identified a large number of research and policy gaps and suggestions for clinical guidelines.",
+    "Both models suggest that innovation is rarely a successful strategy for parties out of power.",
+    "Theories with a narrow domain are always subject to revision based on successful scientific practice.",
+    "The rise of labour militancy was perhaps the most important trend towards successful utilisation of non-violent action.",
+    "The nearer that this model is approached, the more successful a purely quantitative approach will be, as in drug trials.",
+    "Another is that competition, even if successful in reducing tariffs, will marginally affect the households bills.",
+    "In this study, the searches for life expectancy data were particularly successful in terms of offering a relatively high precision."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "subvert",
+    "subway",
+    "succeed",
+    "success",
+    "successful",
+    "successfully",
+    "succession",
+    "successive",
+    "successively"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454293_de941148aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454293_987f43260a_o.png",
+      "id_image": "successful_2111149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076515_a40f408e5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076515_8f510d8540_o.png",
+      "id_image": "successful_4295888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384247_d64377a31c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384247_ac6e8be3b6_o.png",
+      "id_image": "successful_5521193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384232_43583d5a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384232_18073011ed_o.png",
+      "id_image": "successful_5521283"
+    }
+  ]
+}

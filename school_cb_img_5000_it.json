@@ -1,0 +1,204 @@
+{
+  "english": "school",
+  "phat_am": "skuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trường học",
+          "definition": "a place for teaching especially children",
+          "world_new": [
+            "place",
+            "teaching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She goes to the school"
+            },
+            {
+              "ex_of_definition": "He’s not at university – he’s still at school",
+              "world_new": [
+                "university"
+              ]
+            },
+            {
+              "ex_of_definition": "American He’s still in school."
+            }
+          ]
+        },
+        {
+          "mean_english": "học sinh của một trường",
+          "definition": "the pupils of a school",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The behaviour of this school in public is sometimes not very good.",
+              "world_new": [
+                "behaviour",
+                "public"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trường dạy nghề",
+          "definition": "a series of meetings or a place for instruction etc",
+          "world_new": [
+            "series",
+            "place",
+            "instruction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She runs a sewing school",
+              "world_new": [
+                "sewing"
+              ]
+            },
+            {
+              "ex_of_definition": "a driving school.",
+              "world_new": [
+                "driving"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoa (trong một trường đại học)",
+          "definition": "a department of a university or college dealing with a particular subject",
+          "world_new": [
+            "department",
+            "university",
+            "college",
+            "dealing",
+            "particular",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the School of Mathematics."
+            }
+          ]
+        },
+        {
+          "mean_english": "trường đại học, cao đẳng",
+          "definition": "a university or college.",
+          "world_new": [
+            "university",
+            "college"
+          ]
+        },
+        {
+          "mean_english": "trường phái",
+          "definition": "a group of people with the same ideas etc",
+          "world_new": [
+            "group",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are two schools of thought about the treatment of this disease.",
+              "world_new": [
+                "thought",
+                "treatment",
+                "disease"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rèn luyện, đào tạo",
+          "definition": "to train through practice",
+          "world_new": [
+            "train",
+            "practice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must school ourselves to be patient.",
+              "world_new": [
+                "patient"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn cá",
+          "definition": "a group of certain kinds of fish, whales or other water animals swimming about",
+          "world_new": [
+            "group",
+            "certain",
+            "fish",
+            "water",
+            "swimming"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a school of porpoises."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Individual school results have been returned to the teachers concerned for their own use.",
+    "This provides a framework (via a set of tasks) for school-based information-gathering prior to teaching practice.",
+    "One problem is certainly motivation: the language is taught at school in a way that does not encourage active use or involvement.",
+    "A group of 29 control children, selected from the same school population as the dyslexics, took part in the experiment.",
+    "In the school situation, pupils were interested in the learning experiences of other groups and wanted to do the same musical activities.",
+    "Both schools used a \"mixed\" method of teaching reading with a whole language bias.",
+    "Most cases of mycoplasma outbreaks occurred in schools (22), among family members (13), and military recruits (10).",
+    "What should be taught and learnt at school?"
+  ],
+  "list_see_also": [
+    "schoolbag",
+    "schoolboy",
+    "schoolchild",
+    "school day",
+    "schooldays",
+    "schoolfellow",
+    "school-leaver",
+    "schoolmaster",
+    "schoolmate",
+    "schoolteacher"
+  ],
+  "list_browse": [
+    "scholar",
+    "scholarliness",
+    "scholarly",
+    "scholarship",
+    "school",
+    "school day",
+    "school-leaver",
+    "schoolbag",
+    "schoolboy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445298_421eda6f6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445298_8bc75b1448_o.png",
+      "id_image": "school_1010715"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445338_877270b811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445338_8ec784c245_o.png",
+      "id_image": "school_203234"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067175_3fe9a41dd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067175_22e0e5872f_o.png",
+      "id_image": "school_2532684"
+    }
+  ]
+}

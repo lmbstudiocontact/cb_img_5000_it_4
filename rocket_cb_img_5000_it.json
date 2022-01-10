@@ -1,0 +1,84 @@
+{
+  "english": "rocket",
+  "phat_am": "ˈrokit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "pháo hoa; pháo sáng",
+          "definition": "a tube containing materials which, when set on fire, give off a jet of gas which drives the tube forward, usually up into the air, used eg as a firework, for signalling, or for launching a spacecraft.",
+          "world_new": [
+            "tube",
+            "fire",
+            "jet",
+            "gas",
+            "tube",
+            "forward",
+            "air",
+            "firework",
+            "spacecraft"
+          ]
+        },
+        {
+          "mean_english": "tên lửa",
+          "definition": "a spacecraft launched in this way",
+          "world_new": [
+            "spacecraft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Americans have sent a rocket to Mars.",
+              "world_new": [
+                "Mars"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tăng vùn vụt",
+          "definition": "to rise or increase very quickly",
+          "world_new": [
+            "rise",
+            "increase",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Bread prices have rocketed."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rock’n’roll",
+    "rock-bottom",
+    "rocker",
+    "rockery",
+    "rocket",
+    "rockiness",
+    "rocking chair",
+    "rocking horse",
+    "rocky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344051_ba08843259_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344051_5fbdf9f404_o.png",
+      "id_image": "rocket_166379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344036_65055ba810_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344036_7bdb605436_o.png",
+      "id_image": "rocket_203221"
+    }
+  ]
+}

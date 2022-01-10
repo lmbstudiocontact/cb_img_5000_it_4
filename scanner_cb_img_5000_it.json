@@ -1,0 +1,80 @@
+{
+  "english": "scanner",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "máy nội soi cắt lớp",
+          "definition": "a machine etc that scans",
+          "world_new": [
+            "machine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Scanners are machines that show the contents of your luggage on a screen",
+              "world_new": [
+                "contents",
+                "your",
+                "luggage",
+                "screen"
+              ]
+            },
+            {
+              "ex_of_definition": "an ultrasound scanner",
+              "world_new": [
+                "ultrasound"
+              ]
+            },
+            {
+              "ex_of_definition": "an optical scanner.",
+              "world_new": [
+                "optical"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The scanner resolution was set to 300 dpi.",
+    "These very small oscillatory movements always occur in exposed bubbles or gas bodies, even when the output of a scanner is small.",
+    "Determining colour gamuts of digital cameras and scanners.",
+    "The child was then taken to a third laboratory containing a thermography scanner.",
+    "Surveys of acoustic output enable comparisons between modes and scanners to be made easily.",
+    "The aperture size of helical scanners range from 68-72cm.",
+    "Portable ultrasound scanner versus serology in screening for hydatid cysts in a nomadic population.",
+    "The technique also carries the disadvantages of requiring sedation and transport to the scanner, although imaging is often done to delineate the cardiovascular anatomy anyway."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scandal",
+    "scandalize",
+    "scandalous",
+    "scandalously",
+    "scanner",
+    "scant",
+    "scantily",
+    "scantiness",
+    "scanty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377142_616f1f1510_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377142_f21f1eb6f1_o.png",
+      "id_image": "scanner_1558891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377107_235a2f82d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377107_7dfd4255ee_o.png",
+      "id_image": "scanner_1675688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332401_b3708b229f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332401_c919de54be_o.png",
+      "id_image": "scanner_969363"
+    }
+  ]
+}

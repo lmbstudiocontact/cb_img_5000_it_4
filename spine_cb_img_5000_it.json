@@ -1,0 +1,97 @@
+{
+  "english": "spine",
+  "phat_am": "spain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xương sống",
+          "definition": "the line of linked bones running down the back of humans and many animals; backbone",
+          "world_new": [
+            "line",
+            "running"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She damaged her spine when she fell.",
+              "world_new": [
+                "damaged",
+                "fell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gáy sách",
+          "definition": "something like a backbone in shape or function",
+          "world_new": [
+            "backbone",
+            "shape",
+            "function"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the spine of a book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gai, ngạnh",
+          "definition": "a thin, stiff, pointed part growing on an animal or a plant.",
+          "world_new": [
+            "thin",
+            "stiff",
+            "pointed",
+            "part",
+            "animal",
+            "plant"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Distinctive thicker dark bands of greater electron density also occurred, but were distinguishable only at the apex of longitudinally sectioned spines (fig. 4).",
+    "The instrument produces an amazing variety of intricacies from the plucked and scraped spines with definite, but unpredictable pitch, and each timbre subtly varied.",
+    "Dendritic spines constitute the post-synaptic compartment of most excitatory synapses in mammalian brain.",
+    "Prosopon on borders and spines consists of dense concentration of relatively fine tubercles; small number of larger tubercles scattered on pleural ridges and major spines.",
+    "Following these, there are nine pairs of thin and slender ribs, of which the six posteriormost attach on the haemal arches and spines.",
+    "The spines are 0-012 mm. in length and lie closely adpressed to the body.",
+    "The arm spines form a fan on the proximal arm segments.",
+    "The proximal arm spines approach midradially but do not form a single fan."
+  ],
+  "list_see_also": [
+    "spinal",
+    "spineless",
+    "spiny",
+    "spinal column",
+    "spinal cord"
+  ],
+  "list_browse": [
+    "spinal column",
+    "spinal cord",
+    "spindle",
+    "spindly",
+    "spine",
+    "spineless",
+    "spinner",
+    "spinster",
+    "spiny"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708459_71f99ce09f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708459_41ba676dfb_o.png",
+      "id_image": "spine_2864366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708444_a9f8cbe01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708444_5f57ef1399_o.png",
+      "id_image": "spine_4892388"
+    }
+  ]
+}

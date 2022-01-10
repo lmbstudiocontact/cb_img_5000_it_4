@@ -1,0 +1,65 @@
+{
+  "english": "spatula",
+  "phat_am": "ˈspӕtjulə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bàn xẻng, dao bay",
+          "definition": "a kind of tool with a broad blunt blade",
+          "world_new": [
+            "kind",
+            "tool",
+            "broad",
+            "blunt",
+            "blade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Spread the icing on the cake with a spatula.",
+              "world_new": [
+                "icing",
+                "cake"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A rubber spatula was used to clean the inside walls of the blending machine and the residual soil was added to the container.",
+    "Tenango is noted for the making of wooden utensils such as spoons and spatulas.",
+    "The scraping is done with a spatula, cervical brush or swab.",
+    "The upper band of particles in the pellet was removed with a spatula and the process was repeated five times.",
+    "She was seated at the corner of a table on which there was lying a washed shiny spatula.",
+    "The rough-haired spatula-shaped leaves are generally under a centimeter long but may be slightly longer.",
+    "There are spatula-shaped lower leaves a few centimeters long and a few leaves higher on the plant.",
+    "Note the different macroscopic characteristics of biofilms (20 cm spatula is shown for scale)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sparsely",
+    "sparseness",
+    "spasm",
+    "spastic",
+    "spatula",
+    "spawn",
+    "speak",
+    "speak for itself/themselves",
+    "speak one’s mind"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061740_2792f3d3ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061740_17c8130ebb_o.png",
+      "id_image": "spatula_1725739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369637_d7a620b8ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369637_303daf228d_o.png",
+      "id_image": "spatula_1785194"
+    }
+  ]
+}

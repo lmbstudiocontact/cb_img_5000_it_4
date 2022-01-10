@@ -1,0 +1,86 @@
+{
+  "english": "trophy",
+  "phat_am": "ˈtrəufi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cúp",
+          "definition": "a prize for winning in a sport etc",
+          "world_new": [
+            "prize",
+            "winning",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won a silver trophy for shooting.",
+              "world_new": [
+                "silver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiến lợi phẩm",
+          "definition": "something which is kept in memory of a victory, success etc",
+          "world_new": [
+            "memory",
+            "victory",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had kept the enemy sword as a trophy of war.",
+              "world_new": [
+                "enemy",
+                "sword",
+                "war"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many players prefer to display their rings as trophies as opposed to wearing them.",
+    "They have cabinets full of trophies which they have won representing their country.",
+    "Let people in, not these trophies.",
+    "If they are made of tin, medals are exempt, but trophies or medals for sports organisations—for swimming, and so on—made of silver or other precious metal are to be taxed.",
+    "What about trophies of war that were acquired back in the late 1940s and 1950s?",
+    "Why should people be allowed to keep trophies of war that have been left to them in a will, whereas other people will not be allowed to do so?",
+    "Now that she has gathered the trophies, she has lost interest in the practicality of this country, and her government in this country, giving a lead.",
+    "They gave very valuable trophies, which were awarded to the cadets, and they undertook many other interesting sponsorships."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "troop",
+    "trooper",
+    "troops",
+    "trophic",
+    "trophy",
+    "tropic",
+    "tropical",
+    "tropically",
+    "tropics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069155_ca6d900246_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069155_59cf5dd9ea_o.png",
+      "id_image": "trophy_344652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687334_238afb1528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687334_e233867234_o.png",
+      "id_image": "trophy_344671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332341_fe90e0c220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332341_5e2ef78dbf_o.png",
+      "id_image": "trophy_344689"
+    }
+  ]
+}

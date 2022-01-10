@@ -1,0 +1,85 @@
+{
+  "english": "snake",
+  "phat_am": "sneik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con rắn",
+          "definition": "any of a group of legless reptiles with long bodies that move along on the ground with a twisting movement, many of which have a poisonous bite",
+          "world_new": [
+            "group",
+            "long",
+            "move",
+            "ground",
+            "movement",
+            "poisonous",
+            "bite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was bitten by a snake and nearly died.",
+              "world_new": [
+                "nearly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trườn như rắn, uốn khúc",
+          "definition": "to move like a snake",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He snaked his way through the narrow tunnel.",
+              "world_new": [
+                "narrow",
+                "tunnel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "snake-bite",
+    "snake-charmer"
+  ],
+  "list_browse": [
+    "smutty",
+    "snack",
+    "snag",
+    "snail",
+    "snake",
+    "snake-bite",
+    "snake-charmer",
+    "snap",
+    "snap one’s fingers"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685184_4773693d90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685184_14757709cc_o.png",
+      "id_image": "snake_194951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374782_707300f3d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374782_7945850a56_o.png",
+      "id_image": "snake_464949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445078_baed0bd4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445078_ac5cf7a9bf_o.png",
+      "id_image": "snake_882892"
+    }
+  ]
+}

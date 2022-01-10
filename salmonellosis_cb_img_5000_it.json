@@ -1,0 +1,48 @@
+{
+  "english": "salmonellosis",
+  "phat_am": "ˌsælməneˈlousis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngộ độc thực phẩm do salmonella",
+          "definition": "food poisoning caused by eating food contaminated with salmonella bacteria; salmonella",
+          "world_new": [
+            "food",
+            "poisoning",
+            "food",
+            "salmonella"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Salmonellosis is one of the most common foodborne diseases.",
+              "world_new": [
+                "common"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sally",
+    "sally forth",
+    "salmon",
+    "salmonella",
+    "salmonellosis",
+    "salon",
+    "saloon",
+    "salsa",
+    "salt"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691579_d1269cbb51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691579_44a1cf0da9_o.png",
+      "id_image": "salmonellosis_3411476"
+    }
+  ]
+}

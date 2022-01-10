@@ -1,0 +1,72 @@
+{
+  "english": "transcript",
+  "phat_am": "ˈtranskript",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản sao",
+          "definition": "a written or printed copy of a discussion, a speech etc",
+          "world_new": [
+            "copy",
+            "discussion",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve read the transcript of the tape/interview.",
+              "world_new": [
+                "read"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lý lịch học tập",
+          "definition": "an official school report with a list of a student’s grades in the subjects studied.",
+          "world_new": [
+            "official",
+            "school",
+            "report",
+            "list"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To ensure reliability, 10 % of the adjective utterances from a random sample of transcripts were coded independently by a fourth coder.",
+    "Characterization of the transcript and putative promoter sequences identified a novel upstream uncoding exon and two alternative transcripts encoding an identical open reading frame.",
+    "We hypothesize that natural quantitative variation in the gene transcript level is partially explained by the transcript level variation of upstream splicing factors.",
+    "The transcript was extensively revised by the composer and edited by the present writer to produce the current version.",
+    "Each transcript was read in detail, and significant phrases or statements that pertained to the experience were extracted.",
+    "One of the reasons for the full publication of the transcripts of the various programmes was precisely this non-national nature of television coverage.",
+    "In addition, the two younger children with the shortest transcripts (5 and 6 pages each) had cognitive deficits, which made communication difficult.",
+    "This forms the basis for the prediction-strength value, according to which the transcripts are then ranked."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transact",
+    "transaction",
+    "transatlantic",
+    "transcontinental",
+    "transcript",
+    "transfer",
+    "transferable",
+    "transform",
+    "transformation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693989_35a3407e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693989_346e2143f5_o.png",
+      "id_image": "transcript_2022423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075885_afd0a574f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075885_1a8bb9bd4a_o.png",
+      "id_image": "transcript_3883065"
+    }
+  ]
+}

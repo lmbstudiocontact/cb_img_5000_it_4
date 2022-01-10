@@ -1,0 +1,165 @@
+{
+  "english": "survey",
+  "phat_am": "səˈvei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quan sát, nhìn chung",
+          "definition": "to look at, or view, in a general way",
+          "world_new": [
+            "look",
+            "view",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He surveyed his neat garden with satisfaction.",
+              "world_new": [
+                "neat",
+                "garden",
+                "satisfaction"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiên cứu, xem xét",
+          "definition": "to examine carefully or in detail",
+          "world_new": [
+            "examine",
+            "carefully",
+            "detail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She surveyed the map.",
+              "world_new": [
+                "map"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lập bản đồ",
+          "definition": "to measure, and estimate the position, shape etc of (a piece of land etc)",
+          "world_new": [
+            "measure",
+            "estimate",
+            "position",
+            "shape",
+            "piece",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have started to survey the piece of land that the new motorway will pass through.",
+              "world_new": [
+                "piece",
+                "land",
+                "motorway",
+                "pass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xem xét, kiểm tra",
+          "definition": "to make a formal or official inspection of (a house etc that is being offered for sale).",
+          "world_new": [
+            "formal",
+            "official",
+            "inspection",
+            "house"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự khảo sát",
+          "definition": "a look or examination; a report",
+          "world_new": [
+            "look",
+            "report"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After a brief survey of the damage he telephoned the police",
+              "world_new": [
+                "brief",
+                "damage",
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "He has written a survey of crime in big cities.",
+              "world_new": [
+                "crime",
+                "big"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đo đạc địa hình",
+          "definition": "a careful measurement of land etc.",
+          "world_new": [
+            "careful",
+            "measurement",
+            "land"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is a large professional group in primary care and was not adequately represented in the questionnaire survey.",
+    "Such examples from the linguistic literature could be multiplied, but a survey of different types of incoherence may only increase the confusion.",
+    "He surveys the sacred meals against a carefully assembled background of ordinary meal-taking and the general philosophy of food in each region.",
+    "The next group of variables in the regression concerns the financial situation of the surveyed households.",
+    "Given the qualitative nature of the survey, the results were interpreted and put in relation to existing estimates in the literature.",
+    "Eighty-three of the 91 (91%) surveyed oncologists returned the questionnaire.",
+    "Consequently, elderly participants were not recruited as the survey content would have been irrelevant.",
+    "The volume thus acts as both a useful survey of the current state of knowledge and a valuable pointer to future research."
+  ],
+  "list_see_also": [
+    "surveyor"
+  ],
+  "list_browse": [
+    "surrogate mother",
+    "surround",
+    "surrounding",
+    "surroundings",
+    "survey",
+    "surveyor",
+    "survival",
+    "survive",
+    "surviving"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335231_53620467f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335231_bf624b21b9_o.png",
+      "id_image": "survey_2620224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072135_48eb25206b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072135_e570f3cc48_o.png",
+      "id_image": "survey_4634985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072100_08177d7f33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072100_d191b0e50b_o.png",
+      "id_image": "survey_6064895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335146_8931194255_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335146_7b75476d6d_o.png",
+      "id_image": "survey_6165180"
+    }
+  ]
+}

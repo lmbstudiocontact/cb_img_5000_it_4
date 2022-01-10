@@ -1,0 +1,118 @@
+{
+  "english": "technical",
+  "phat_am": "ˈteknikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kỹ thuật",
+          "definition": "having, or relating to, a particular science or skill, especially of a mechanical or industrial kind",
+          "world_new": [
+            "particular",
+            "science",
+            "skill",
+            "mechanical",
+            "industrial",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a technical college",
+              "world_new": [
+                "college"
+              ]
+            },
+            {
+              "ex_of_definition": "technical skill",
+              "world_new": [
+                "skill"
+              ]
+            },
+            {
+              "ex_of_definition": "technical drawing.",
+              "world_new": [
+                "drawing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên quan đến khoa học hoặc nghệ thuật",
+          "definition": "(having many terms) relating to a particular art or science",
+          "world_new": [
+            "particular",
+            "art",
+            "science"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Myopia’ is a technical term for ‘short-sightedness’.",
+              "world_new": [
+                "term"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo quy tắc",
+          "definition": "according to strict laws or rules",
+          "world_new": [
+            "strict"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a technical defeat.",
+              "world_new": [
+                "defeat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The editors have striven to give the floor to competing points of view without losing technical focus.",
+    "There may then be both conceptual distinctions and technical organizations that set correction apar t from repair.",
+    "Regardless of facility size, very few rural or rural referral facilities provided such technical services as renal dialysis or pulmonary artery catheterization.",
+    "In the discussion which follows, we will use the phrase ' depends on ' in a technical sense.",
+    "When a draft law arrives, it is considered by the appropriate technical commissions.",
+    "A great deal of technical information is disseminated, but the tone of the book remains relaxed.",
+    "A mention of graphology in its everyday sense (394) cross-refers inexplicably to where a different, technical sense of the word is introduced (257).",
+    "Beyond the time used to discuss technical issues, these meetings included time for members to build personal relationships and contacts."
+  ],
+  "list_see_also": [
+    "technicality",
+    "technically",
+    "technician"
+  ],
+  "list_browse": [
+    "teaspoon",
+    "teaspoonful",
+    "teat",
+    "teatime",
+    "technical",
+    "technicality",
+    "technically",
+    "technician",
+    "technique"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353256_e4a4d7439a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353256_487566e67b_o.png",
+      "id_image": "technical_2303895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468023_92064cfb76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468023_c461f6752b_o.png",
+      "id_image": "technical_2544316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398162_25fc607233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398162_4ca0ef3f39_o.png",
+      "id_image": "technical_5848120"
+    }
+  ]
+}

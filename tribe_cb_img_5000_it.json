@@ -1,0 +1,80 @@
+{
+  "english": "tribe",
+  "phat_am": "traib",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ lạc",
+          "definition": "a race of people, or a family, who are all descended from the same ancestor",
+          "world_new": [
+            "race",
+            "people",
+            "family",
+            "ancestor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tribe of North American Indians.",
+              "world_new": [
+                "American"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bộ lạc",
+          "definition": "a group of families, especially of a primitive or wandering people, ruled by a chief",
+          "world_new": [
+            "group",
+            "primitive",
+            "people",
+            "ruled",
+            "chief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the desert tribes of Africa.",
+              "world_new": [
+                "desert"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tribes, however, were remote from this process.",
+    "Do we not also sense that a way must be found to transcend the antagonism between these rival tribes?",
+    "Most dramatic was the effect on nomadic tribes hitherto subjected to only the loosest control by the central authorities.",
+    "Thus, under the so-called land reform, all the members of such tribes were expropriated.",
+    "Second, it tries to show the complex relationship between individual identification and collective identification, especially the formation of criminal tribes.",
+    "They continued to command respect and influence among their tribes and played an important political role at the national level.",
+    "They could be confident of support from indirect rulers, now dedicated to the preservation of ' tribes ' held together by the authority of senior men.",
+    "The country is essentially suitable for farming and cattle-rearing, and all four tribes carry on both these industries, though in varying degrees."
+  ],
+  "list_see_also": [
+    "tribal",
+    "tribesman"
+  ],
+  "list_browse": [
+    "trial run",
+    "triangle",
+    "triangular",
+    "tribal",
+    "tribe",
+    "tribesman",
+    "tribunal",
+    "tributary",
+    "tribute"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688844_1307348ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688844_5c2ee07c86_o.png",
+      "id_image": "tribe_3787994"
+    }
+  ]
+}

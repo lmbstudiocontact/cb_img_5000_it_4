@@ -1,0 +1,55 @@
+{
+  "english": "thermal",
+  "phat_am": "əθəːməl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhiệt, nóng",
+          "definition": "of heat",
+          "world_new": [
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "thermal springs (= natural springs of warm or hot water)",
+              "world_new": [
+                "natural",
+                "warm",
+                "hot"
+              ]
+            },
+            {
+              "ex_of_definition": "thermal units."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "there’s no saying/knowing etc",
+    "there’s no telling",
+    "thereabouts",
+    "therefore",
+    "thermal",
+    "thermometer",
+    "Thermos (flask)",
+    "thermostat",
+    "thermostatic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087265_93663b0524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087265_d8cce9ed7a_o.png",
+      "id_image": "thermal_1486243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087240_348bd651a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087240_110570f383_o.png",
+      "id_image": "thermal_2332894"
+    }
+  ]
+}

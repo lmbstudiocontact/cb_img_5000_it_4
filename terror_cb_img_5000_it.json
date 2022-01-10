@@ -1,0 +1,95 @@
+{
+  "english": "terror",
+  "phat_am": "ˈterə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nỗi sợ hãi",
+          "definition": "very great fear",
+          "world_new": [
+            "great",
+            "fear"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She screamed with/in terror"
+            },
+            {
+              "ex_of_definition": "She has a terror of spiders."
+            }
+          ]
+        },
+        {
+          "mean_english": "điều gây sợ hãi",
+          "definition": "something which makes one very afraid",
+          "world_new": [
+            "afraid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The terrors of war.",
+              "world_new": [
+                "war"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kẻ hay quấy rối",
+          "definition": "a troublesome person, especially a child",
+          "world_new": [
+            "troublesome",
+            "person",
+            "child"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That child is a real terror!",
+              "world_new": [
+                "child",
+                "real"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I was fighting my own terrors in public, but others wanted to do it more gently.",
+    "The musical phrase accompanying this outburst was a veritable harmonic and melodic bogey to mid-century ears, though time has now robbed it of its terrors.",
+    "Popular speculations about science and its terrors have often been dismissed as based on journalistic ignorance of science, sensationalism, or willful misinterpretation for the sake of making news.",
+    "Personally, all the terrors he holds out have no terrors for me.",
+    "Most modern-day evangelicals are little more likely to affirm such doctrines as a limited atonement, and neither group is entirely comfortable with how he preached the terrors that awaited sinners.",
+    "The endless depths of the forest traditionally harboured outlaws and other terrors.",
+    "There are no terrors for us with grant-maintained schools.",
+    "The law had no terrors to the righteous man."
+  ],
+  "list_see_also": [
+    "terrorism",
+    "terrorist",
+    "terrorize",
+    "terrorization",
+    "terror-stricken"
+  ],
+  "list_browse": [
+    "terrifying",
+    "territorial",
+    "territorial waters",
+    "territory",
+    "terror",
+    "terror-stricken",
+    "terrorism",
+    "terrorist",
+    "terrorization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396427_7df9d3bf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396427_f7223ecbe3_o.png",
+      "id_image": "terror_708634"
+    }
+  ]
+}

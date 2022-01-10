@@ -1,0 +1,66 @@
+{
+  "english": "technician",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyên gia, kỹ thuật viên",
+          "definition": "a person who has been trained to do something which involves some skill, eg with a piece of machinery",
+          "world_new": [
+            "person",
+            "trained",
+            "skill",
+            "piece",
+            "machinery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of our technicians will repair the machine.",
+              "world_new": [
+                "our",
+                "repair",
+                "machine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, though foremen and technicians exercise some control over their colleagues, they are in turn subject to control by managers.",
+    "The authors thank all the technicians and management at all the research stations at which the trials were done.",
+    "The professor frowned at the technicians of the physicist who were wearing glasses.",
+    "Bioengineers, computer experts, software technicians, web programmers, insurance providers, physicians, and nurses are some of the participating actors.",
+    "The slides were quantitatively examined by 1 of 4 experienced technicians.",
+    "Why was the navy the only force that opted to train its highly qualified engineers and technicians in civil universities ?",
+    "There is a lesson here for development technicians with their notoriously short memories and one-size-fits-all programmes.",
+    "We were working in black and white, which is essentially dramatic, and we were working with in-house technicians."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "teatime",
+    "technical",
+    "technicality",
+    "technically",
+    "technician",
+    "technique",
+    "technological",
+    "technologist",
+    "technology"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090605_27db3fe64f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090605_53a45cebd1_o.png",
+      "id_image": "technician_6036812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090580_fba72c3a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090580_58f90a9b70_o.png",
+      "id_image": "technician_6342684"
+    }
+  ]
+}

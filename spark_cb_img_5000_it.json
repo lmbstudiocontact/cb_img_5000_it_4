@@ -1,0 +1,127 @@
+{
+  "english": "spark",
+  "phat_am": "spaːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tia lửa, tia sáng",
+          "definition": "a tiny red-hot piece thrown off by something burning, or when two very hard (eg metal) surfaces are struck together",
+          "world_new": [
+            "tiny",
+            "red-hot",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sparks were being thrown into the air from the burning building.",
+              "world_new": [
+                "air",
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tia lóe, chấm sáng lóe",
+          "definition": "an electric current jumping across a gap",
+          "world_new": [
+            "electric",
+            "current",
+            "across",
+            "gap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spark from a faulty light-socket.",
+              "world_new": [
+                "faulty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu hiệu",
+          "definition": "a trace (eg of life, humour/humor)",
+          "world_new": [
+            "trace",
+            "life"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spark of enthusiasm.",
+              "world_new": [
+                "enthusiasm"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phát ra tia lửa",
+          "definition": "to give off sparks."
+        },
+        {
+          "mean_english": "khuấy động",
+          "definition": "(often with off) to start (a row, disagreement etc)",
+          "world_new": [
+            "start",
+            "row",
+            "disagreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their action sparked off a major row.",
+              "world_new": [
+                "action",
+                "major",
+                "row"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If the sparks occur after k levels, processor 0 must process k nodes, and the threads are divided between 2k queues.",
+    "There is yet a third version of the argument that periphrasis could be sparked off by language contact.",
+    "Can you describe what sparked your interest to begin writing about this particular issue?",
+    "The emphasis on heterogeneity sparked debates about longevity and set the stage for the current interest in frailty as individual risk.",
+    "I made limited use of this citation survey - to raise a question about what sparked so much professional debate after 1988.",
+    "In principle, we may suppose that at one extreme the allegorical meaning is merely top-dressing, an occasional implication sparked by a detail.",
+    "Both were sparked by the threat of investigation into financial and human rights crimes committed by the previous regime.",
+    "Generally speaking, truly substantive historiographical debates are either sparked by pathbreaking works of scholarship or by broader political disputes."
+  ],
+  "list_see_also": [
+    "spark plug"
+  ],
+  "list_browse": [
+    "spare part",
+    "spare rib",
+    "sparing",
+    "sparingly",
+    "spark",
+    "spark plug",
+    "sparkle",
+    "sparkling",
+    "sparring-partner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680084_fb7a019135_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680084_ac98bca2d6_o.png",
+      "id_image": "spark_1870916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369757_b97e1d5675_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369757_423990f833_o.png",
+      "id_image": "spark_290139"
+    }
+  ]
+}

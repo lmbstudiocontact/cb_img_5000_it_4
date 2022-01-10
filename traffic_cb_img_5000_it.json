@@ -1,0 +1,112 @@
+{
+  "english": "traffic",
+  "phat_am": "ˈtrӕfik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phương tiện",
+          "definition": "vehicles, aircraft, ships etc moving about",
+          "world_new": [
+            "aircraft",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a lot of traffic on the roads / on the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "họat động buôn lậu",
+          "definition": "trade, especially illegal or dishonest",
+          "world_new": [
+            "trade",
+            "illegal",
+            "dishonest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the traffic in illegal drugs.",
+              "world_new": [
+                "illegal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buôn lậu",
+          "definition": "to deal or trade in, especially illegally or dishonestly",
+          "world_new": [
+            "deal",
+            "trade",
+            "illegally",
+            "dishonestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were trafficking in smuggled goods.",
+              "world_new": [
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "trafficker",
+    "traffic circle",
+    "traffic island",
+    "traffic jam",
+    "traffic lights"
+  ],
+  "list_browse": [
+    "tradesman",
+    "tradition",
+    "traditional",
+    "traditionally",
+    "traffic",
+    "traffic circle",
+    "traffic island",
+    "traffic jam",
+    "traffic lights"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695624_227667966c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695624_8c1a2b1b96_o.png",
+      "id_image": "traffic_1178841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385217_28cd0063ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385217_c67e5d394a_o.png",
+      "id_image": "traffic_1373173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077500_eea01f256e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077500_2d8d96dda4_o.png",
+      "id_image": "traffic_1558411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077465_c5507a10b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077465_21f22be026_o.png",
+      "id_image": "traffic_2598079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077430_c3b783f270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077430_8cbdfb9906_o.png",
+      "id_image": "traffic_2720861"
+    }
+  ]
+}

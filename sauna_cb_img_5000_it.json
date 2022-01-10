@@ -1,0 +1,71 @@
+{
+  "english": "sauna",
+  "phat_am": "ˈsoːnə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tắm hơi",
+          "definition": "(a building or room equipped for) a Finnish form of steam bath",
+          "world_new": [
+            "building",
+            "room",
+            "form",
+            "steam",
+            "bath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have a sauna in their house",
+              "world_new": [
+                "their",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "They had a refreshing sauna.",
+              "world_new": [
+                "refreshing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It depends on the use of the room (a sauna or a sleeping room).",
+    "A shop, a stable, a workers' hall, a sauna, a woodshed, etc. were transported to the area or built on the spot.",
+    "We are also spending £100,000 on launderettes, bowling alleys, sauna baths and squash courts, some of which have already been completed.",
+    "Visiting the whirlpool area, taking a shower or using the whirlpool or the sauna were the activities most associated with a high risk for infection.",
+    "My constituent claims that the cost to users of the sauna baths has risen by one-third—from 60p to 80p.",
+    "The sauna programme is carried out under the general supervision of a medical doctor, who examines all participants before they start.",
+    "Drinking occasions were described by identifying places where the respondents had used alcohol, such as after sauna, at home, at a party, when visiting friends.",
+    "First, it is too luxurious and has too many sauna baths and squash courts."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "saucer",
+    "saucily",
+    "sauciness",
+    "saucy",
+    "sauna",
+    "saunter",
+    "sausage",
+    "sausage-roll",
+    "sauté"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448858_853ba3ef89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448858_18e9e2e35c_o.png",
+      "id_image": "sauna_3273099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070765_ab7f8b3dea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070765_0b31784487_o.png",
+      "id_image": "sauna_5569528"
+    }
+  ]
+}

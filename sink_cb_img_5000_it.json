@@ -1,0 +1,184 @@
+{
+  "english": "sink",
+  "phat_am": "siŋk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chìm",
+          "definition": "to (cause to) go down below the surface of water etc",
+          "world_new": [
+            "surface",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The torpedo sank the battleship immediately",
+              "world_new": [
+                "torpedo",
+                "battleship",
+                "immediately"
+              ]
+            },
+            {
+              "ex_of_definition": "The ship sank in deep water.",
+              "world_new": [
+                "ship",
+                "deep",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lặn xuống dưới chân trời",
+          "definition": "to go down or become lower (slowly)",
+          "world_new": [
+            "become",
+            "lower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sun sank slowly behind the hills",
+              "world_new": [
+                "sun",
+                "slowly"
+              ]
+            },
+            {
+              "ex_of_definition": "Her voice sank to a whisper.",
+              "world_new": [
+                "voice",
+                "whisper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuyên vào, ngập sâu vào",
+          "definition": "to (cause to) go deeply (into something)",
+          "world_new": [
+            "deeply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ink sank into the paper",
+              "world_new": [
+                "ink",
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "He sank his teeth into an apple.",
+              "world_new": [
+                "apple"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuống thấp, lắng xuống",
+          "definition": "(of one’s spirits etc) to become depressed or less hopeful",
+          "world_new": [
+            "spirits",
+            "become",
+            "depressed",
+            "hopeful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My heart sinks when I think of the difficulties ahead.",
+              "world_new": [
+                "heart",
+                "I",
+                "think",
+                "ahead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đầu tư",
+          "definition": "to invest (money)",
+          "world_new": [
+            "invest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sank all his savings in the business.",
+              "world_new": [
+                "savings",
+                "business"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bồn rửa bát, chậu rửa bát",
+          "definition": "a kind of basin with a drain and a water supply connected to it",
+          "world_new": [
+            "kind",
+            "basin",
+            "drain",
+            "water",
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He washed the dishes in the sink."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A consequence of water current is that dispersal between pairs of sinks occurs downstream.",
+    "A projection is applied whenever an inward directed wave-front occurs as the immediate super-term of a sink term.",
+    "The small cemented courtyard was sunk into the ground as a basin to avoid rainwater penetrating the inner chamber.",
+    "In these localities, eggs which sink to the bottom are likely to survive for successful transmission to potential intermediate hosts, such as benthic copepods.",
+    "Stationary nongyrotropy may be maintained by sources and sinks in velocity space.",
+    "As a most basic example, a single, qualitative trait (sinking versus floating in water) was assessed.",
+    "Stationary nongyrotropies are maintained in an open velocity space by sources and sinks, whereas rotating ones are normally source- and loss-free.",
+    "This inclusion is in fact simple because the source/sink terms enter with opposite signs in the equations for ions and neutrals."
+  ],
+  "list_see_also": [
+    "sunken",
+    "be sunk",
+    "sink in"
+  ],
+  "list_browse": [
+    "singles",
+    "singly",
+    "singular",
+    "sinister",
+    "sink",
+    "sink in",
+    "sinner",
+    "sinus",
+    "sip"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452268_83d03e83c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452268_e99bf750c9_o.png",
+      "id_image": "sink_194427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692714_798df41e0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692714_49d004b591_o.png",
+      "id_image": "sink_231929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382382_5e68981f35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382382_99e4fc9e7c_o.png",
+      "id_image": "sink_780818"
+    }
+  ]
+}

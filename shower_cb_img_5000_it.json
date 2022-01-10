@@ -1,0 +1,148 @@
+{
+  "english": "shower",
+  "phat_am": "ˈʃauə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trận mưa rào",
+          "definition": "a short fall (of rain)",
+          "world_new": [
+            "short",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I got caught in a shower on my way here.",
+              "world_new": [
+                "I",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số lượng các vật rơi",
+          "definition": "anything resembling such a fall of rain",
+          "world_new": [
+            "fall",
+            "rain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a shower of sparks"
+            },
+            {
+              "ex_of_definition": "a shower of bullets."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tắm dưới vòi hoa sen",
+          "definition": "a bath in which water is sprayed down on the bather from above",
+          "world_new": [
+            "bath",
+            "water",
+            "bather"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m just going to have/take a shower."
+            }
+          ]
+        },
+        {
+          "mean_english": "vòi hoa sen",
+          "definition": "the equipment used for such a bath",
+          "world_new": [
+            "equipment",
+            "bath"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re having a shower fitted in the bathroom.",
+              "world_new": [
+                "bathroom"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rơi như mưa",
+          "definition": "to pour down in large quantities (on)",
+          "world_new": [
+            "pour",
+            "large"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They showered confetti on the bride.",
+              "world_new": [
+                "confetti",
+                "bride"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tắm vòi hoa sen",
+          "definition": "to bathe in a shower",
+          "world_new": [
+            "bathe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He showered and dressed.",
+              "world_new": [
+                "dressed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The proportion of sheep treated in communal spray showers also increased from 0.01 in 1997 to 0.14 in 2005.",
+    "These devices were inexpensive and simple, and were mostly prescribed to enable walking and taking a bath or shower.",
+    "Rain showers are often very localized and unpredictable.",
+    "Primary cosmic-ray particles, which interact with the atmosphere, generate secondary energetic particles, creating a so-called cosmic-ray shower.",
+    "No permanent streams traverse the area, although numerous barrancas carry runoff from seasonal showers.",
+    "The organizers had to secure basic things, such as decent clothing and access to showers, even before attempting to start the workshops.",
+    "A significant risk was associated with taking showers.",
+    "This could probably be because the shower caused a decrease in leaf temperature and increases in air humidity and leaf water potential."
+  ],
+  "list_see_also": [
+    "showery",
+    "showerproof"
+  ],
+  "list_browse": [
+    "show up",
+    "show-jumping",
+    "showcase",
+    "showdown",
+    "shower",
+    "showerproof",
+    "showery",
+    "showground",
+    "showiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697294_0574fa4918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697294_b99c19ee12_o.png",
+      "id_image": "shower_167937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456898_65b93afa73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456898_170e70f38f_o.png",
+      "id_image": "shower_817753"
+    }
+  ]
+}

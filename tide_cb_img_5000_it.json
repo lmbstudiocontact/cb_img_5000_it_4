@@ -1,0 +1,70 @@
+{
+  "english": "tide",
+  "phat_am": "taid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thủy triều",
+          "definition": "the regular, twice-a-day ebbing and flowing movement of the sea",
+          "world_new": [
+            "regular",
+            "movement",
+            "sea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s high/low tide"
+            },
+            {
+              "ex_of_definition": "The tide is coming in / going out."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The average open-seat candidate is already competitive, so national tides are less important.",
+    "Regional population histories probably reflect tides of political for tune in considerable detail.",
+    "Table 6 summarizes the effects of partisan tides in the races between 1972 and 1994.",
+    "A dynamical picture of the oceanic tides.",
+    "Patterns from wind, tides, waves, seasonal transformation, melting ice, snow, etc. are common musical resources for my chamber music.",
+    "If the lifeguard does communicate information about the tides, then there will be perfect agreement.",
+    "However, the interaction between tides and spending for these districts is also statistically significant, meaning that higher-spending challengers do get more from their efforts when national politics are favourable.",
+    "Figure 3 reports the estimated yearly partisan tides."
+  ],
+  "list_see_also": [
+    "tidal",
+    "tidal wave"
+  ],
+  "list_browse": [
+    "tickle",
+    "ticklish",
+    "tidal",
+    "tidal wave",
+    "tide",
+    "tidily",
+    "tidiness",
+    "tidings",
+    "tidy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347996_c22a2e0586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347996_778bbf1eb8_o.png",
+      "id_image": "tide_1207570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702684_28b730abf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702684_d5d9ae112e_o.png",
+      "id_image": "tide_2628772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462773_e38c4bf4b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462773_0a108bcec4_o.png",
+      "id_image": "tide_5903488"
+    }
+  ]
+}

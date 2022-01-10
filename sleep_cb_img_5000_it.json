@@ -1,0 +1,119 @@
+{
+  "english": "sleep",
+  "phat_am": "sliːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngủ",
+          "definition": "to rest with the eyes closed and in a state of natural unconsciousness",
+          "world_new": [
+            "rest",
+            "state",
+            "natural",
+            "unconsciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Goodnight – sleep well!"
+            },
+            {
+              "ex_of_definition": "I can’t sleep – my mind is too active.",
+              "world_new": [
+                "I",
+                "my",
+                "mind",
+                "active"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giấc, sự ngủ",
+          "definition": "(a) rest in a state of natural unconsciousness",
+          "world_new": [
+            "rest",
+            "state",
+            "natural",
+            "unconsciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is bad for you to have too little sleep, since it makes you tired",
+              "world_new": [
+                "bad",
+                "tired"
+              ]
+            },
+            {
+              "ex_of_definition": "I had only four hours’ sleep last night.",
+              "world_new": [
+                "I",
+                "night"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Among other sleep disorders, four patients noticed difficulties in falling asleep in each group, and one patient had excessive daytime sleepiness in the modafinil group.",
+    "Treatment can be a single or repeated sleep deprivation, total (all night) or partial (second half of the night).",
+    "She reported being very afraid and not wanting to sleep with her husband, but having no place to run away.",
+    "Answering this question will help provide us with an understanding of what produces both the similarities and differences in sleep mentation across sleep stages.",
+    "Effects of catecholamine depletion on alertness and mood in rested and sleep deprived normal volunteers.",
+    "The positive affect, eating, and sleep domains were entirely eliminated because of failing at least one of these tests.",
+    "Objects and persons become named and explained during the sleep-to-waking transition.",
+    "Fortunately festivals are enormously exhausting affairs, so all we did in the room was to hit the bed and sleep."
+  ],
+  "list_see_also": [
+    "sleeper",
+    "sleepless",
+    "sleepy",
+    "sleepily",
+    "sleepiness",
+    "sleeping bag",
+    "sleeping pill",
+    "sleepwalk",
+    "sleepwalker",
+    "put to sleep",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "sledgehammer",
+    "sleek",
+    "sleekly",
+    "sleekness",
+    "sleep",
+    "sleep like a log/top",
+    "sleep like a top",
+    "sleep off",
+    "sleep on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378912_dc7331dfc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378912_b1b26f4770_o.png",
+      "id_image": "sleep_1552312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071035_8b9563227d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071035_9dde1d8741_o.png",
+      "id_image": "sleep_2843712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689154_a38528a202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689154_2430be910c_o.png",
+      "id_image": "sleep_392786"
+    }
+  ]
+}

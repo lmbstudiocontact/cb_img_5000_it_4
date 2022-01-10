@@ -1,0 +1,221 @@
+{
+  "english": "trust",
+  "phat_am": "trast",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tin tưởng",
+          "definition": "to have confidence or faith; to believe",
+          "world_new": [
+            "confidence",
+            "believe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She trusted (in) him."
+            }
+          ]
+        },
+        {
+          "mean_english": "giao phó cho ai",
+          "definition": "to give (something to someone), believing that it will be used well and responsibly",
+          "world_new": [
+            "responsibly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t trust him with my car",
+              "world_new": [
+                "I",
+                "my",
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "I can’t trust my car to him.",
+              "world_new": [
+                "I",
+                "my",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mong muốn, hy vọng",
+          "definition": "to hope or be confident (that)",
+          "world_new": [
+            "hope",
+            "confident"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I trust (that) you had / will have a good journey.",
+              "world_new": [
+                "I",
+                "journey"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "niềm tin",
+          "definition": "belief or confidence in the power, reality, truth, goodness etc of a person or thing",
+          "world_new": [
+            "belief",
+            "confidence",
+            "power",
+            "reality",
+            "truth",
+            "goodness",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The firm has a great deal of trust in your ability",
+              "world_new": [
+                "firm",
+                "great",
+                "deal",
+                "your",
+                "ability"
+              ]
+            },
+            {
+              "ex_of_definition": "trust in God.",
+              "world_new": [
+                "God"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trông nom, trách nhiệm",
+          "definition": "charge or care; responsibility",
+          "world_new": [
+            "charge",
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was placed in my trust.",
+              "world_new": [
+                "child",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sứ mệnh",
+          "definition": "a task etc given to a person by someone who believes that they will do it, look after it etc well",
+          "world_new": [
+            "task",
+            "person",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He holds a position of trust in the firm.",
+              "world_new": [
+                "position",
+                "firm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ an toàn cho ai",
+          "definition": "arrangement(s) by which something (eg money) is given to a person to use in a particular way, or to keep until a particular time",
+          "world_new": [
+            "person",
+            "particular",
+            "keep",
+            "particular",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The money was to be held in trust for his children",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a trust fund",
+              "world_new": [
+                "fund"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhóm công ty cùng làm ăn",
+          "definition": "a group of business firms working together",
+          "world_new": [
+            "group",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The companies formed a trust."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The renewed fighting has shattered years of negotiations, but more importantly, robbed its citizens of trusting the other side and of the peace process.",
+    "When ranked according to performance on key variables 118 trusts scored three or less.",
+    "Educational meetings were held by all trusts, although they varied in nature and extent and the planning of training was at an early stage.",
+    "There are three kinds of values around during reduction: trusted, distrusted and untagged.",
+    "Right-wing cabinets, trusting the capacity of private agents to supply the levels of savings and investment optimal to sustain growth, pushed through sizeable privatization packages.",
+    "In total, 13 (35%) of the later trusts said that their health authorities had set the agenda, compared with five (19%) of the early trusts.",
+    "A qualitative study of the introduction of nurse practitioners trusted the judgement of nurse practitioners and signed prescriptions without assessing a patient (unless requested to).",
+    "In addition, it is possible to interactively declare further functions to be trusted during debugging."
+  ],
+  "list_see_also": [
+    "trustee",
+    "trustworthy",
+    "trustworthiness",
+    "trusty",
+    "trustily",
+    "trustiness"
+  ],
+  "list_browse": [
+    "trundle",
+    "trunk",
+    "trunks",
+    "truss",
+    "trust",
+    "trustee",
+    "trustily",
+    "trustiness",
+    "trustworthiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686024_4507f63361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686024_afcc4a6d3a_o.png",
+      "id_image": "trust_1622629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375662_688869184c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375662_c27e189949_o.png",
+      "id_image": "trust_2191224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375597_91f67dfa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375597_2c3acce27a_o.png",
+      "id_image": "trust_3317740"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "english": "shear",
+  "phat_am": "ʃiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt lông cừu",
+          "definition": "to clip or cut wool from (a sheep)",
+          "world_new": [
+            "clip",
+            "cut",
+            "wool"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These sheep need shearing.",
+              "world_new": [
+                "sheep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xén, cắt",
+          "definition": "(past tense shorn) (often with off) to cut (hair) off",
+          "world_new": [
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All her curls have been shorn off."
+            }
+          ]
+        },
+        {
+          "mean_english": "cắt, chặt",
+          "definition": "(past tense shorn) (especially with of) to cut hair from (someone)",
+          "world_new": [
+            "cut",
+            "hair"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been shorn (of all his curls)."
+            }
+          ]
+        },
+        {
+          "mean_english": "làm méo mó, làm đứt gãy",
+          "definition": "to cut or (cause to) break",
+          "world_new": [
+            "cut",
+            "break"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A piece of the steel girder sheared off.",
+              "world_new": [
+                "piece",
+                "steel",
+                "girder"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "While some of the gabbros are locally strongly sheared, the structural setting of this sequence is uncertain due to the scattered nature of the nunataks.",
+    "Lithologies include sheared, ser pentinized harzburgite, layered and isotropic gabbro and altered basalt.",
+    "The methods described here can also be applied to systems of parabolic equations involving strongly sheared advections such as those encountered in applications [5].",
+    "We opened the orchid pseudobulbs with pruning shears.",
+    "Relationship between horizontal displacement of the conical feeler and shearing force.",
+    "The electromagnetic coil is located beyond the outer edge of the shearing disk in the brake.",
+    "Cerebral atrophy increases the vulnerability of bridging veins to shearing forces and so the elderly are more susceptible.",
+    "The eclogite sheets and pods are generally sheared and retrogressed to amphibolites at the margins of such bodies."
+  ],
+  "list_see_also": [
+    "shears"
+  ],
+  "list_browse": [
+    "shavings",
+    "shawl",
+    "she",
+    "sheaf",
+    "shear",
+    "shears",
+    "sheath",
+    "sheathe",
+    "shed"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083590_db899148f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083590_8036c249f0_o.png",
+      "id_image": "shear_1571478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460878_b6cede0f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460878_277b701b57_o.png",
+      "id_image": "shear_2844480"
+    }
+  ]
+}

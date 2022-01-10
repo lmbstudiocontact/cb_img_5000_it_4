@@ -1,0 +1,100 @@
+{
+  "english": "sleepy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "buồn ngủ",
+          "definition": "inclined to sleep; drowsy",
+          "world_new": [
+            "drowsy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I feel very sleepy after that long walk.",
+              "world_new": [
+                "I",
+                "feel",
+                "long",
+                "walk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngái ngủ",
+          "definition": "not (seeming to be) alert",
+          "world_new": [
+            "alert"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She always has a sleepy expression on her face.",
+              "world_new": [
+                "expression",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "im lìm",
+          "definition": "(of places etc) very quiet; lacking entertainment and excitement",
+          "world_new": [
+            "entertainment",
+            "excitement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sleepy town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I think you require further words, and with a little trouble, if we were not quite so sleepy, we might, even on the present occasion, find suitable words.",
+    "However, it is not a sleepy backwater, as has been suggested.",
+    "The vice-chancellors of higher education institutions exist in sleepy hollows and do not interact with local communities.",
+    "Certain sleepy lines will have a considerable increase in their traffic.",
+    "The test is based on the idea that the sleepier people are, the faster they will fall asleep.",
+    "They are not small, sleepy hamlets, but sizeable villages that could be seen as small country towns.",
+    "The arguments that such takeovers shake up sleepy management do not hold water.",
+    "I hope that we shall end up on a peaceful and sleepy note."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sleeping pill",
+    "sleepless",
+    "sleepwalk",
+    "sleepwalker",
+    "sleepy",
+    "sleet",
+    "sleeve",
+    "-sleeved",
+    "sleeveless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448908_849a0d1501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448908_4d9e181529_o.png",
+      "id_image": "sleepy_1553281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378737_8870f80322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378737_487aacdd93_o.png",
+      "id_image": "sleepy_1747710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333816_3f68f25cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333816_2bf8c12b66_o.png",
+      "id_image": "sleepy_4860802"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "solar",
+  "phat_am": "ˈsəulə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc mặt trời",
+          "definition": "having to do with, powered by, or influenced by, the Sun",
+          "world_new": [
+            "powered"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the solar year",
+              "world_new": [
+                "year"
+              ]
+            },
+            {
+              "ex_of_definition": "a solar heating system.",
+              "world_new": [
+                "heating",
+                "system"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Atmospheric loss processes have played a major role in the evolution and habitability of the terrestrial planet atmospheres in our solar system.",
+    "In the solar coronal context, it is also suspected that similar isolated structures could result from the reconfiguration of magnetic arches.",
+    "The solar system, for all its sublimity, did not make a good example because it was too complicated for young children to understand properly.",
+    "Furthermore, there would be no overflow, thereby avoiding the staining of solar cells.",
+    "But the great body of solar lines give, on the face of the returns, great difficulty in the relativity view.",
+    "It is designed for the bonding operation of cover-glasses and space solar cells using adhesives.",
+    "Power is limited but renewable at a rate that depends on which direction the solar panels are facing.",
+    "Thus, in a non-vacuum condition the cover-glass will contact the surface of solar cell at one edge at first."
+  ],
+  "list_see_also": [
+    "solar energy",
+    "solar flare",
+    "solar panel",
+    "solar power",
+    "solar-powered",
+    "solar system",
+    "solar wind"
+  ],
+  "list_browse": [
+    "sogginess",
+    "soggy",
+    "soil",
+    "soil erosion",
+    "solar",
+    "solar energy",
+    "solar flare",
+    "solar panel",
+    "solar power"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063710_449cef8aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063710_3a6d1d5a10_o.png",
+      "id_image": "solar_438753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326681_3c4ceded55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326681_5641d3bf42_o.png",
+      "id_image": "solar_4657812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441753_270e4f20ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441753_31a3e37b5d_o.png",
+      "id_image": "solar_804562"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "english": "send",
+  "phat_am": "send",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gửi; phái",
+          "definition": "to cause or order to go or be taken",
+          "world_new": [
+            "cause",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher sent the disobedient boy to the headmaster",
+              "world_new": [
+                "teacher",
+                "disobedient",
+                "boy",
+                "headmaster"
+              ]
+            },
+            {
+              "ex_of_definition": "She sent me this book.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn ra",
+          "definition": "to move rapidly or with force",
+          "world_new": [
+            "move",
+            "rapidly",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sent the ball right into the goal.",
+              "world_new": [
+                "ball",
+                "right",
+                "goal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đẩy tới",
+          "definition": "to cause to go into a certain, usually bad, state",
+          "world_new": [
+            "cause",
+            "certain",
+            "bad",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news sent them into a panic.",
+              "world_new": [
+                "news",
+                "panic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They were recruited either by a research nurse when they attended the clinic or by a letter sent to their home from their rheumatologist.",
+    "Monks were sent, mass celebrated, a votive prayer offered and the postulant enclosed.",
+    "The wife is already asleep in the armchair, and the children have been sent out for a nice long walk.",
+    "Both new groups were then sent appointments at three months.",
+    "These articles, which include engravings of individual phonographs, appear to be based upon press releases sent from the parent companies.",
+    "In addition, it continuously monitors the heat consumption and sends each minute a report to the redistribution agent of the cluster it belongs to.",
+    "In recent years, neighbouring countries have begun to anticipate refugee flows and send troops to shore up border security.",
+    "The referring cardiologist may attend the meeting in person, have another cardiologist make the presentation, or send the information by telephone, facsimile, or letter."
+  ],
+  "list_see_also": [
+    "sender",
+    "send away for",
+    "send down",
+    "send for",
+    "send in",
+    "send off",
+    "send off for",
+    "send out",
+    "send (someone) packing / send (someone) about his business"
+  ],
+  "list_browse": [
+    "semolina",
+    "Sen",
+    "senate",
+    "senator",
+    "send",
+    "send (someone) packing / send (someone) about his business",
+    "send (someone/something) flying",
+    "send away for",
+    "send down"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350241_a17b9cd11e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350241_7832227d11_o.png",
+      "id_image": "send_1674944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394987_f3484e8832_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394987_c254d9cce4_o.png",
+      "id_image": "send_3893142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087425_e2fbdf04d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087425_98c1ed7f97_o.png",
+      "id_image": "send_4313102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350256_f15c2558ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350256_2031b62793_o.png",
+      "id_image": "send_928908"
+    }
+  ]
+}

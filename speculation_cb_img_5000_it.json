@@ -1,0 +1,73 @@
+{
+  "english": "speculation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự suy đoán",
+          "definition": "a guess",
+          "world_new": [
+            "guess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your speculations were all quite close to the truth.",
+              "world_new": [
+                "quite",
+                "close",
+                "truth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đầu cơ",
+          "definition": "the act of speculating",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was great speculation as to what was happening.",
+              "world_new": [
+                "great",
+                "happening"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If these speculations are true, then both single word and sentence-level tasks would likely be sensitive to the degree of damage within the semantic network.",
+    "The ethereal nature of speculations about what scholars had in mind disassociates them from the political economy in which their thought was enmeshed.",
+    "In the absence of more detailed information, further inquiries into these speculations cannot be carried out.",
+    "Therefore, as made clear in the target article, we see no reason to entertain speculations to the effect that they are.",
+    "All errors, misinterpretations, and speculations should be placed at the door of the author.",
+    "Section 5 contains some speculations and open problems, and in particular we discuss some duality between symplectic homology and shapes.",
+    "Because the study did not include measurement of maternal sleep, such speculations could not be tested.",
+    "Analyses of the process of therapy with adolescent clients, for example, can begin to address these and related developmentally informed speculations."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spectator",
+    "spectre",
+    "spectrum",
+    "speculate",
+    "speculation",
+    "speech",
+    "speech bubble",
+    "speech marks",
+    "speechless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679614_6367e6f3b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679614_a96049f3f2_o.png",
+      "id_image": "speculation_5116030"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "english": "slide",
+  "phat_am": "slaid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trượt, chuyển động nhẹ nhàng",
+          "definition": "to (cause to) move or pass along smoothly",
+          "world_new": [
+            "move",
+            "pass",
+            "smoothly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He slid the drawer open",
+              "world_new": [
+                "drawer",
+                "open"
+              ]
+            },
+            {
+              "ex_of_definition": "Children must not slide in the school corridors.",
+              "world_new": [
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lướt qua, đi lướt",
+          "definition": "to move quietly or secretly",
+          "world_new": [
+            "move",
+            "quietly",
+            "secretly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I slid hurriedly past the window",
+              "world_new": [
+                "I",
+                "hurriedly",
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "He slid the book quickly out of sight under his pillow.",
+              "world_new": [
+                "book",
+                "quickly",
+                "sight",
+                "pillow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trượt",
+          "definition": "an act of sliding.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "ván trượt",
+          "definition": "a slippery track, or apparatus with a smooth sloping surface, on which people or things can slide",
+          "world_new": [
+            "slippery",
+            "track",
+            "apparatus",
+            "smooth",
+            "sloping",
+            "surface",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were taking turns on the slide in the playground.",
+              "world_new": [
+                "playground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản kính dương (ở đèn chiếu)",
+          "definition": "a small transparent photograph for projecting on to a screen etc",
+          "world_new": [
+            "small",
+            "transparent",
+            "photograph",
+            "screen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lecture was illustrated with slides.",
+              "world_new": [
+                "lecture",
+                "illustrated"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản kính mang vật (ở kính hiển vi)",
+          "definition": "a glass plate on which objects are placed to be examined under a microscope.",
+          "world_new": [
+            "glass",
+            "plate",
+            "microscope"
+          ]
+        },
+        {
+          "mean_english": "cái trâm",
+          "definition": "(also hair-slide) a (decorative) hinged fastening for the hair.",
+          "world_new": [
+            "fastening",
+            "hair"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although the slides were cleaned weekly with isopropanol (70%), microorganisms could be detected on the surfaces shortly after the cleaning procedure.",
+    "A sliding contact in the form of a metal needle touches the membrane in the center.",
+    "The west wall of the living room, under the balcony, is fully glazed with top hung sliding doors leading to a generous porch with planters.",
+    "A car slid off the road and a package fell from the car into the lake.",
+    "Since topological conjugacies of tilings are more general than sliding block codes, topological invariants of subshifts are not automatically topological invariants of tilings.",
+    "In order to obtain the system's dynamics behavior inside the attractive region called sliding path,4 we will proceed step by step.",
+    "The constraints on the reaction force (no take-off, no sliding) give also some limits on the initial velocity (or angular momentum).",
+    "The maximum distance between the passive joints on the moving platform and the ones on the actuated linear slides can be obtained."
+  ],
+  "list_see_also": [
+    "slide rule",
+    "sliding door"
+  ],
+  "list_browse": [
+    "slicer",
+    "slick",
+    "slickly",
+    "slickness",
+    "slide",
+    "slide rule",
+    "sliding door",
+    "slight",
+    "slightest"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070005_9e6b4a86fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070005_23e6695e0e_o.png",
+      "id_image": "slide_4001221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688229_606249d848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688229_cd30935726_o.png",
+      "id_image": "slide_950737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448258_3a6f61d4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448258_bbe672bd9c_o.png",
+      "id_image": "slide_950754"
+    }
+  ]
+}

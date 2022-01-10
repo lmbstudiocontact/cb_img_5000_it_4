@@ -1,0 +1,86 @@
+{
+  "english": "shutter",
+  "phat_am": "ˈʃatə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cánh cửa chớp",
+          "definition": "one of usually two usually wooden covers over a window",
+          "world_new": [
+            "wooden",
+            "window"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He closed the shutters."
+            }
+          ]
+        },
+        {
+          "mean_english": "lá chắn sáng",
+          "definition": "the moving cover over the lens of a camera, which opens when a photograph is taken",
+          "world_new": [
+            "moving",
+            "cover",
+            "lens",
+            "camera",
+            "photograph"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the shutter opens, light is allowed into the camera and reacts with the film.",
+              "world_new": [
+                "light",
+                "camera",
+                "film"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The two special cameras viewed the working section through the glass side wall of the flume with shutters open during the passage of the particle.",
+    "The 600,000 machine-made sand-faced bricks used for the facing also acted as shuttering to the concrete backing.",
+    "There is a safety guard for sliding windows and shutters.",
+    "We now know that the report is completely negative, and that the shutters will be pulled down on all the hand tinplate mills by 1959.",
+    "In all urban schemes, carpenters are needed for making the shuttering for the concrete.",
+    "Are we to say that no dust will ever escape when those shutters are raised or lowered?",
+    "Sadly, the shutters came down all too quickly.",
+    "He was getting his voice in early because, so to speak, the shutters were about to go down."
+  ],
+  "list_see_also": [
+    "shuttered"
+  ],
+  "list_browse": [
+    "shut",
+    "shut down",
+    "shut off",
+    "shut up",
+    "shutter",
+    "shuttered",
+    "shuttle",
+    "shuttlecock",
+    "shy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340936_972d36aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340936_d53f952765_o.png",
+      "id_image": "shutter_1366108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078205_79f3b87281_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078205_20aed9b896_o.png",
+      "id_image": "shutter_2985539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696114_c7247158c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696114_2908421610_o.png",
+      "id_image": "shutter_3255615"
+    }
+  ]
+}

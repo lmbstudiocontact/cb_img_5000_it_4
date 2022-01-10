@@ -1,0 +1,97 @@
+{
+  "english": "sock",
+  "phat_am": "sok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng lót giày",
+          "definition": "a (usually wool, cotton or nylon) covering for the foot and ankle, sometimes reaching to the knee, worn inside a shoe, boot etc",
+          "world_new": [
+            "wool",
+            "cotton",
+            "covering",
+            "foot",
+            "ankle",
+            "knee",
+            "worn",
+            "shoe",
+            "boot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I need a new pair of socks.",
+              "world_new": [
+                "I",
+                "pair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đấm, thụi",
+          "definition": "to strike someone hard with the fist",
+          "world_new": [
+            "strike",
+            "fist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He socked the burglar (on the jaw).",
+              "world_new": [
+                "burglar"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đấm, cái thụi",
+          "definition": "a strong blow with the fist",
+          "world_new": [
+            "strong",
+            "blow",
+            "fist"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave me a sock on the jaw.",
+              "world_new": [
+                "jaw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sociological",
+    "sociologically",
+    "sociologist",
+    "sociology",
+    "sock",
+    "socket",
+    "soda",
+    "soda water",
+    "sodium"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064145_456939e76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064145_f06b122073_o.png",
+      "id_image": "sock_412005"
+    }
+  ]
+}

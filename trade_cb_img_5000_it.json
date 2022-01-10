@@ -1,0 +1,133 @@
+{
+  "english": "trade",
+  "phat_am": "treid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thương mại, sự buôn bán",
+          "definition": "the buying and selling of goods",
+          "world_new": [
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Japan does a lot of trade with Britain."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghề nghiệp",
+          "definition": "(a) business, occupation, or job",
+          "world_new": [
+            "business",
+            "occupation",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s in the jewellery trade.",
+              "world_new": [
+                "jewellery"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kinh doanh",
+          "definition": "(often with inor with) to buy and sell",
+          "world_new": [
+            "buy",
+            "sell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They made a lot of money by trading",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "They trade in fruit and vegetables.",
+              "world_new": [
+                "fruit"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trao đổi",
+          "definition": "to exchange",
+          "world_new": [
+            "exchange"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I traded my watch for a bicycle.",
+              "world_new": [
+                "I",
+                "my",
+                "watch",
+                "bicycle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A popular explanation holds that large green jurisdictions have been forcing their trading partners to trade or ratchet up their regulation.",
+    "Expected utility theory provides the theoretical basis for preferring the standard gamble over the time trade-off as a criterion measure of utility.",
+    "Unlike criminal matters and the policing of trades and markets, religious courts had no executive powers in matters of family law.",
+    "This suggests that it is important for environmental purposes to model the response of technical change to trade.",
+    "Among the proposals experimentally evaluated in this paper, this one shows the worst trade-off between cost and precision.",
+    "Ultimately, the effort to write a history of trades showed few results.",
+    "The relatively large role of the composition effect and the trade-based interactions suggests that countries do not follow a deterministic income- pollution path.",
+    "As a femme sole trader, a married woman was able to trade in her own name."
+  ],
+  "list_see_also": [
+    "trader",
+    "trademark",
+    "tradesman",
+    "trade union",
+    "trade unionist",
+    "trade unionism",
+    "trade wind",
+    "trade in"
+  ],
+  "list_browse": [
+    "tracker dog",
+    "tracksuit",
+    "tract",
+    "tractor",
+    "trade",
+    "trade in",
+    "trade union",
+    "trade unionism",
+    "trade unionist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078120_abd17e341b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078120_5a6b1f62a0_o.png",
+      "id_image": "trade_1987423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340756_7952a344c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340756_c8ce180d1d_o.png",
+      "id_image": "trade_2289570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455593_c3f833d08a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455593_bff2e9d5a5_o.png",
+      "id_image": "trade_6203363"
+    }
+  ]
+}

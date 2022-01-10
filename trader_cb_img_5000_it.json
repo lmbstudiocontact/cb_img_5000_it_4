@@ -1,0 +1,60 @@
+{
+  "english": "trader",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thương gia",
+          "definition": "a person who trades",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a market trader",
+              "world_new": [
+                "market"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Companies stifled adventuring traders, suppressed free trade, precluded training mariners, brought superfluous commodities into the realm, and caused inflation.",
+    "On one hand, as more informed traders take speculative positions, more information is incorporated into the prices.",
+    "Agents holding money are referred to as money traders or buyers, whereas those with production opportunities are referred to as commodity traders or sellers.",
+    "As women became more numerous and ' professional' as traders, they also became more organised.",
+    "The colonial state's policy on small traders was contradictory.",
+    "Such solutions are said to be with a bubble, given that traders' expectations necessarily matter.",
+    "Households are of two types, traders and nontraders.",
+    "The traders functioned in the context of economic risk and at times political adversity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "trade unionism",
+    "trade unionist",
+    "trade wind",
+    "trademark",
+    "trader",
+    "tradesman",
+    "tradition",
+    "traditional",
+    "traditionally"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455498_92635b8d7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455498_2eb6094ccd_o.png",
+      "id_image": "trader_3554005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077895_6717bf8f9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077895_9f2370cba4_o.png",
+      "id_image": "trader_4695247"
+    }
+  ]
+}

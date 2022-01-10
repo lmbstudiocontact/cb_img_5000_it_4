@@ -1,0 +1,204 @@
+{
+  "english": "support",
+  "phat_am": "səˈpoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chịu, chống, đỡ",
+          "definition": "to bear the weight of, or hold upright, in place etc",
+          "world_new": [
+            "bear",
+            "weight",
+            "hold",
+            "upright",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That chair won’t support him / his weight",
+              "world_new": [
+                "chair",
+                "weight"
+              ]
+            },
+            {
+              "ex_of_definition": "He limped home, supported by a friend on either side of him.",
+              "world_new": [
+                "home",
+                "friend",
+                "side"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "truyền sức mạnh, khuyến khích",
+          "definition": "to give help, or approval to",
+          "world_new": [
+            "help",
+            "approval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has always supported our cause",
+              "world_new": [
+                "our",
+                "cause"
+              ]
+            },
+            {
+              "ex_of_definition": "His family supported him in his decision.",
+              "world_new": [
+                "family",
+                "decision"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xác minh, xác nhận",
+          "definition": "to provide evidence for the truth of",
+          "world_new": [
+            "provide",
+            "evidence",
+            "truth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "New discoveries have been made that support his theory",
+              "world_new": [
+                "theory"
+              ]
+            },
+            {
+              "ex_of_definition": "The second witness supported the statement of the first one.",
+              "world_new": [
+                "witness",
+                "statement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chu cấp",
+          "definition": "to supply with the means of living",
+          "world_new": [
+            "supply",
+            "means",
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has a wife and four children to support.",
+              "world_new": [
+                "wife"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chống đỡ, sự được chống đỡ",
+          "definition": "the act of supporting or state of being supported",
+          "world_new": [
+            "act",
+            "supporting",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That type of shoe doesn’t give the foot much support",
+              "world_new": [
+                "type",
+                "shoe",
+                "foot"
+              ]
+            },
+            {
+              "ex_of_definition": "The plan was cancelled because of lack of support",
+              "world_new": [
+                "plan",
+                "lack"
+              ]
+            },
+            {
+              "ex_of_definition": "Her job is the family’s only means of support",
+              "world_new": [
+                "job",
+                "means"
+              ]
+            },
+            {
+              "ex_of_definition": "I would like to say a word or two in support of his proposal.",
+              "world_new": [
+                "I",
+                "proposal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật chống, cột chống",
+          "definition": "something that supports",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One of the supports of the bridge collapsed.",
+              "world_new": [
+                "bridge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Agency 5 has not diversified its products, supports scientific publications, and has a balanced portfolio.",
+    "His central support also recovered, aided by the party's need to have some provincial governments fit for display.",
+    "The introduction of policies to support organic farming are simply used as a case in point.",
+    "These obvious gender differences in societal roles may potentially translate into gender differences in the sources of social support.",
+    "The book is lavishly illustrated with photographs of items from the exhibit (always in full color) and other supporting material (in black and white).",
+    "The straightforward thing to say, in both cases, is that removing the life support caused the patient's death.",
+    "But the idea of an ageless self is also supported by developmental psychological theories, where the development after adolescence is seldom considered.",
+    "The symbolic evaluator implements a purely functional language which supports symbolic values."
+  ],
+  "list_see_also": [
+    "supporter",
+    "supporting",
+    "supportive"
+  ],
+  "list_browse": [
+    "supplicant",
+    "supplication",
+    "supplier",
+    "supply",
+    "support",
+    "supporter",
+    "supporting",
+    "supportive",
+    "suppose"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381387_ac2c6bdfb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381387_645634cdc3_o.png",
+      "id_image": "support_307954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691679_38738b5d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691679_d79ba905d2_o.png",
+      "id_image": "support_706209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073270_b0eeba90a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073270_f36a89d9fa_o.png",
+      "id_image": "support_943648"
+    }
+  ]
+}

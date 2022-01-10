@@ -1,0 +1,62 @@
+{
+  "english": "saxophone",
+  "phat_am": "ˈsaksəfəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kèn xắc-xô",
+          "definition": "a type of musical instrument with a curved metal tube, played by blowing",
+          "world_new": [
+            "type",
+            "musical",
+            "instrument",
+            "curved",
+            "metal",
+            "tube"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tenor saxophone.",
+              "world_new": [
+                "tenor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Work on a new piece for live instrument (saxophone) and computer, which illustrates some applications of the library, is under way.",
+    "But this minor third changes pitches - it is very transparent music - so that motive of the saxophone was very important for me.",
+    "For all practical purposes, a saxophone key is either open or closed.",
+    "There are no lyrics; rather the singer uses neo-syllables2 to complement lyrical sounds on the saxophone.",
+    "Additionally, certain keys continuously control modulation of the saxophone audio signal.",
+    "Figure 7 shows the electric saxophone with all three microphones inside the bell.",
+    "A new group of compositions, entitled (2001/2002), explore the saxophone as an electric feedback instrument.",
+    "An example is the vocalised saxophone style in which vocal sounds interact directly with vibrations in the saxophone."
+  ],
+  "list_see_also": [
+    "saxophonist"
+  ],
+  "list_browse": [
+    "savoury",
+    "saw",
+    "sawdust",
+    "sawmill",
+    "saxophone",
+    "saxophonist",
+    "say",
+    "say the word",
+    "saying"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688124_c3346397a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688124_113285357a_o.png",
+      "id_image": "saxophone_1011072"
+    }
+  ]
+}

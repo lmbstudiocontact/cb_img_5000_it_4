@@ -1,0 +1,80 @@
+{
+  "english": "scenery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ dùng trang trí sân khấu",
+          "definition": "the painted background for a play etc on a stage",
+          "world_new": [
+            "background",
+            "play",
+            "stage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The scenery looked rather shabby.",
+              "world_new": [
+                "rather",
+                "shabby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phong cảnh",
+          "definition": "the general appearance of a landscape etc",
+          "world_new": [
+            "general",
+            "appearance",
+            "landscape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "beautiful scenery.",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My works either reflect me, or they're sceneries.",
+    "However, for our purposes it will be important to use the original metric, otherwise the notion of the scenery process will lose its meaning.",
+    "Be the play comedy or tragedy, in verse or prose, be the scenery elaborate or minimalist, the stage was unchanged.",
+    "Ironically, the neglect has preserved for us undamaged an authentic monument of a late baroque theatre, with all its technical equipment, stagecraft, scenery, and costume.",
+    "Each chapter scans over a certain aspect, as she creates the sceneries and emotions to match.",
+    "The correct alignment of surtitles and scenery must have taken a great deal of careful adjustment.",
+    "They now served as scenery, and the rise of photography, with its ethnographic devotion to salvaging mementos of a lost frontier, would not save them.",
+    "Many natural sceneries are there to visit and it will be worth spending some time here."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scattering",
+    "scavenge",
+    "scavenger",
+    "scene",
+    "scenery",
+    "scenic",
+    "scent",
+    "scented",
+    "sceptic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686549_ee7f866c32_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686549_94ff3719d1_o.png",
+      "id_image": "scenery_3873789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331506_c37a3189b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331506_600d447abf_o.png",
+      "id_image": "scenery_4215271"
+    }
+  ]
+}

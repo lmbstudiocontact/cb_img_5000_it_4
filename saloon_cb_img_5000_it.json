@@ -1,0 +1,101 @@
+{
+  "english": "saloon",
+  "phat_am": "səˈluːn",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng khách lớn",
+          "definition": "a large public room on a ship",
+          "world_new": [
+            "large",
+            "public",
+            "room",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the dining saloon."
+            }
+          ]
+        },
+        {
+          "mean_english": "ca-bin dành cho người lái và hành khách",
+          "definition": "(American sedan) a motor car with enclosed seating space for driver and at least three passengers",
+          "world_new": [
+            "motor",
+            "car",
+            "seating",
+            "space",
+            "driver"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a family saloon.",
+              "world_new": [
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quán rượu",
+          "definition": "a place where alcoholic drinks are sold",
+          "world_new": [
+            "place",
+            "alcoholic"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police searched in all the saloons for the thief.",
+              "world_new": [
+                "police",
+                "thief"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The installation included three 70-foot-long luxury railway cars, complete with saloons, dining rooms, and bedrooms.",
+    "Hotels, saloons, a general store, a barber and a post office soon followed.",
+    "Still, it was 85mmin 1 longer and 10mmin 1 wider than the previous model; while the saloon's length was shortened.",
+    "The miners had other grievances; for example, high payments for room and board in company lodging, and check cashing fees at company saloons.",
+    "Flour and saw mills and multiple saloons were also in operation at this time.",
+    "The whole array of different saloons that are on offer means that it does not follow that only one model is appropriate.",
+    "Many saloons on the border of dry areas incorporated the phrase last chance into their name.",
+    "Had the diesel powered version entered production the 402 would have been one of the very first diesel saloons available commercially."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "salmon",
+    "salmonella",
+    "salmonellosis",
+    "salon",
+    "saloon",
+    "salsa",
+    "salt",
+    "salted",
+    "saltiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691329_3ec5588529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691329_e89ac8eb86_o.png",
+      "id_image": "saloon_1353835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450953_66c5705d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450953_a07b576ef3_o.png",
+      "id_image": "saloon_2396819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381082_bc5dba0965_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381082_27805f73d3_o.png",
+      "id_image": "saloon_683819"
+    }
+  ]
+}

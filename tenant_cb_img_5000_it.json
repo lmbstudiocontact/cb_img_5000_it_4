@@ -1,0 +1,74 @@
+{
+  "english": "tenant",
+  "phat_am": "ˈtenənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người thuê, người mướn",
+          "definition": "a person who pays rent to another for the use of a house, building, land etc",
+          "world_new": [
+            "person",
+            "rent",
+            "house",
+            "building",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That man is a tenant of the estate",
+              "world_new": [
+                "estate"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) tenant farmers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many of these improvements were carried out on the home farm, but encouragement to innovate on tenant farms can also be seen.",
+    "In 1747, the system of land tenure by which a tenant could be summoned for military service, known as hereditary ward-holding, was abolished.",
+    "Again, we have a straight conflict between lords and tenants over the customary rights of each.",
+    "For the larger tenant, continued occupancy was secure under the lease system and, as such, they had less cause to mobilise concepts of hereditary right.",
+    "The number of tenants with 1 acre remains static (perhaps through data problems).",
+    "The substantial and middling tenants at this time would have held on long leases, typically of 11 or 19 years.",
+    "The difference in wealth between landlord and tenant might be so large as to allow the former to impose whatever contract he wants.",
+    "A national census of the tenants of the institutions for continuing care and assisted living programs 1990."
+  ],
+  "list_see_also": [
+    "tenanted"
+  ],
+  "list_browse": [
+    "ten-year-old",
+    "tenacious",
+    "tenaciously",
+    "tenacity",
+    "tenant",
+    "tenanted",
+    "tend",
+    "tendency",
+    "tender"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467023_9cd21c8142_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467023_59543209ba_o.png",
+      "id_image": "tenant_1018651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467013_9d6ed312e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467013_046a97ed12_o.png",
+      "id_image": "tenant_2558089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706984_5acdb08306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706984_370a55584a_o.png",
+      "id_image": "tenant_2590618"
+    }
+  ]
+}

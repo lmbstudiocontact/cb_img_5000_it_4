@@ -1,0 +1,178 @@
+{
+  "english": "state",
+  "phat_am": "steit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tình trạng, trạng thái",
+          "definition": "the condition in which a thing or person is",
+          "world_new": [
+            "condition",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the bad state of the roads",
+              "world_new": [
+                "bad"
+              ]
+            },
+            {
+              "ex_of_definition": "The room was in an untidy state",
+              "world_new": [
+                "room",
+                "untidy"
+              ]
+            },
+            {
+              "ex_of_definition": "He inquired about her state of health",
+              "world_new": [
+                "health"
+              ]
+            },
+            {
+              "ex_of_definition": "What a state you’re in!"
+            },
+            {
+              "ex_of_definition": "He was not in a fit state to take the class.",
+              "world_new": [
+                "fit",
+                "class"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhà nước, quốc gia",
+          "definition": "a country considered as a political community, or, as in the United States, one division of a federation",
+          "world_new": [
+            "country",
+            "political",
+            "community",
+            "division",
+            "federation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Prime Minister visits the Queen once a week to discuss affairs of state",
+              "world_new": [
+                "once",
+                "week",
+                "discuss"
+              ]
+            },
+            {
+              "ex_of_definition": "The care of the sick and elderly is considered partly the responsibility of the state",
+              "world_new": [
+                "care",
+                "sick",
+                "elderly",
+                "partly",
+                "responsibility"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) The railways are under state control",
+              "world_new": [
+                "control"
+              ]
+            },
+            {
+              "ex_of_definition": "state-controlled / owned industries."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghi lễ trọng thể",
+          "definition": "ceremonial dignity and splendour/splendor",
+          "world_new": [
+            "ceremonial",
+            "dignity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Queen, wearing her robes of state, drove in a horse-drawn coach to Westminster",
+              "world_new": [
+                "wearing",
+                "coach"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) state occasions/banquets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phát biểu, tuyên bố",
+          "definition": "to say or announce clearly, carefully and definitely",
+          "world_new": [
+            "announce",
+            "clearly",
+            "carefully",
+            "definitely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have not yet stated your intentions.",
+              "world_new": [
+                "yet",
+                "your"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All other symmetric and perturbative states will continue to be represented by (2.6) and (2.7) with no source term.",
+    "The restriction of fingerprint collection to people already suspected of a crime reinforced the tendency to rely upon punishment rather than effective state investigation.",
+    "When such inhibition is a reaction to the injury by a mental protective state, he recommends combining the medical treatment with psychological therapy.",
+    "The process converges to a unique absorbing state in which all players cooperate.",
+    "The state, defined as the governing apparatus, cannot be physically ubiquitous by showing its physical presence in every sphere of the society.",
+    "Finally, at the new steady state, investment ceases, capital, and, hence, output are reduced.",
+    "State-promoted historical writing for journals or special publications tended slavishly to follow official policy.",
+    "Singing seemed to influence their psychological well-being and mental states significantly."
+  ],
+  "list_see_also": [
+    "stately",
+    "stateliness",
+    "stately home",
+    "statesman",
+    "statesmanlike",
+    "statesmanship",
+    "get into a state",
+    "lie in state",
+    "state of matter"
+  ],
+  "list_browse": [
+    "starting point",
+    "startle",
+    "starvation",
+    "starve",
+    "state",
+    "state of matter",
+    "stateliness",
+    "stately",
+    "stately home"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086265_73610470e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086265_6274c27b26_o.png",
+      "id_image": "state_1354751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703719_1876708a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703719_2c1822ce02_o.png",
+      "id_image": "state_1605303"
+    }
+  ]
+}

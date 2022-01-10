@@ -1,0 +1,101 @@
+{
+  "english": "theory",
+  "phat_am": "ˈθiəri",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lý thuyết",
+          "definition": "an idea or explanation which has not yet been proved to be correct",
+          "world_new": [
+            "idea",
+            "explanation",
+            "yet",
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are many theories about the origin of life",
+              "world_new": [
+                "origin",
+                "life"
+              ]
+            },
+            {
+              "ex_of_definition": "In theory, I agree with you, but it would not work in practice.",
+              "world_new": [
+                "I",
+                "agree",
+                "work",
+                "practice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lý luận, nguyên lý",
+          "definition": "the main principles and ideas in an art, science etc as opposed to the practice of actually doing it",
+          "world_new": [
+            "main",
+            "principles",
+            "art",
+            "science",
+            "practice",
+            "actually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A musician has to study both the theory and practice of music.",
+              "world_new": [
+                "musician",
+                "study",
+                "practice",
+                "music"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Science advances by replacing old theories with new ones that make better predictions.",
+    "From being purely historical and documentary, they are now turning towards an interest in theory.",
+    "But it would prove impossible to deduce a physical theory from such purely formal theorems.",
+    "Particular importance is attached to the gap between the theory and practice of law, and how the divergence could be reduced.",
+    "In this commentary we raise two issues that we think are directly related to the theory's treatment of mental representations as emulations.",
+    "Ethnographic theories are situated inbetween qualitative categories and narrative satisfaction.",
+    "Distributed representations of structure : a theory of analogical access and mapping.",
+    "The psychological theory is based on the philosophical premises."
+  ],
+  "list_see_also": [
+    "theoretical",
+    "theoretically",
+    "theorize",
+    "theorist"
+  ],
+  "list_browse": [
+    "theoretical",
+    "theoretically",
+    "theorist",
+    "theorize",
+    "theory",
+    "therapeutic",
+    "therapist",
+    "therapy",
+    "there"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704814_d8598d9629_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704814_1ef6a80c3b_o.png",
+      "id_image": "theory_1900281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395082_b4914a29c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395082_5957db947c_o.png",
+      "id_image": "theory_647856"
+    }
+  ]
+}

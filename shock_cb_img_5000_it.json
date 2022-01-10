@@ -1,0 +1,173 @@
+{
+  "english": "shock",
+  "phat_am": "ʃok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú sốc",
+          "definition": "a severe emotional disturbance",
+          "world_new": [
+            "severe",
+            "emotional",
+            "disturbance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news gave us all a shock.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự bị điện giật",
+          "definition": "(often electric shock) the effect on the body of an electric current",
+          "world_new": [
+            "effect",
+            "body",
+            "electric",
+            "current"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got a slight shock when he touched the live wire.",
+              "world_new": [
+                "slight",
+                "live",
+                "wire"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú va chạm",
+          "definition": "a sudden blow coming with great force",
+          "world_new": [
+            "sudden",
+            "blow",
+            "great",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the shock of an earthquake.",
+              "world_new": [
+                "earthquake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng cực kì yếu đuối",
+          "definition": "a medical condition caused by a severe mental or physical shock",
+          "world_new": [
+            "medical",
+            "condition",
+            "severe",
+            "mental",
+            "physical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was suffering from shock after the crash.",
+              "world_new": [
+                "suffering",
+                "crash"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm đau buồn",
+          "definition": "to give a shock to; to upset or horrify",
+          "world_new": [
+            "upset",
+            "horrify"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everyone was shocked by his death",
+              "world_new": [
+                "death"
+              ]
+            },
+            {
+              "ex_of_definition": "The amount of violence shown on television shocks me.",
+              "world_new": [
+                "amount",
+                "violence",
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mớ tóc bù xù",
+          "definition": "a bushy mass (of hair) on a person’s head.",
+          "world_new": [
+            "bushy",
+            "mass",
+            "head"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "First, we hypothesize that these shocks have induced residential resorting, which should increase the allocative efficiency with which local public goods are consumed.",
+    "All of these results are brought about by including the upstream and downstream turbulent wave energies in the shock balance structure.",
+    "Since a and are complex, the problem consists of eight ordinary differential equations subject to eight shock and two boundary conditions in the equilibrium zone.",
+    "It is essential to ensure that the planar shock wave front propagate in a steady state condition through the reference and the test material.",
+    "In particular, we shall argue that time-independent intermediate shocks can exist in the real world, but are exceptional.",
+    "This correction is valid as long as the thickness to be traversed is not so long as to dissipate the shock wave.",
+    "Volatility of real output in the model with the variance of the technology shock approximately set to zero is computed.",
+    "The shock transit time for a given target thickness was determined from the peak of the laser signal."
+  ],
+  "list_see_also": [
+    "shocker",
+    "shocking",
+    "shockingly",
+    "shock absorber"
+  ],
+  "list_browse": [
+    "shit",
+    "shiver",
+    "shivery",
+    "shoal",
+    "shock",
+    "shock absorber",
+    "shocker",
+    "shocking",
+    "shockingly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081400_f006238171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081400_52786809fe_o.png",
+      "id_image": "shock_1612470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699154_48aa621560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699154_b9828f423b_o.png",
+      "id_image": "shock_5020482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699124_c47b362cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699124_8d0742257b_o.png",
+      "id_image": "shock_5020953"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "runway",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường băng",
+          "definition": "a wide path from which aircraft take off and on which they land",
+          "world_new": [
+            "wide",
+            "path",
+            "aircraft",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane landed on the runway.",
+              "world_new": [
+                "plane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The aircraft continue to go down the runways into the air.",
+    "They did not mean that an airport with two runways would be wanted then.",
+    "We ought to have had an assurance that the runways would be built and the houses demolished.",
+    "In order to accomplish this, two runways must be provided.",
+    "The runways were in existence at the end of the war.",
+    "Whatever else may be unclear, there is no doubt at all as to who is responsible for the runways, taxi-ways and airfield lighting.",
+    "As the ammunition which is there is stored on runways and other hard standings it does not affect the area available for farming.",
+    "However, without more runways, many of their proposals will remain undeliverable."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "runner",
+    "runner-up",
+    "running",
+    "runny",
+    "runway",
+    "rupee",
+    "rupture",
+    "rural",
+    "ruse"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383627_dd329ceb64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383627_47ac108ef7_o.png",
+      "id_image": "runway_1652888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075775_cc37a7960d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075775_13d61875cb_o.png",
+      "id_image": "runway_5896862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693904_af0deef3c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693904_9f7e3e4027_o.png",
+      "id_image": "runway_825958"
+    }
+  ]
+}

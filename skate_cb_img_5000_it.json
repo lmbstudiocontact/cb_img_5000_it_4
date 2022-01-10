@@ -1,0 +1,141 @@
+{
+  "english": "skate",
+  "phat_am": "skeit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giầy trượt băng",
+          "definition": "a boot with a steel blade fixed to it for moving on ice etc",
+          "world_new": [
+            "boot",
+            "steel",
+            "blade",
+            "fixed",
+            "moving",
+            "ice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can move very fast across the ice on skates.",
+              "world_new": [
+                "I",
+                "move",
+                "fast",
+                "across",
+                "ice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "patanh",
+          "definition": "a roller-skate.",
+          "world_new": [
+            "roller-skate"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi patanh",
+          "definition": "to move on skates",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She skates beautifully.",
+              "world_new": [
+                "beautifully"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trượt patanh",
+          "definition": "to move over, along etc by skating.",
+          "world_new": [
+            "move"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cá đuối",
+          "definition": "a kind of large, flat fish.",
+          "world_new": [
+            "kind",
+            "large",
+            "flat",
+            "fish"
+          ]
+        },
+        {
+          "mean_english": "thịt cá đuối",
+          "definition": "its flesh, used as food.",
+          "world_new": [
+            "its",
+            "flesh",
+            "food"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He found the ice so thin that he immediately skated to safety on firm ground.",
+    "Would he have left the contract builders to build cinemas, skating rinks, restaurants and hotels, or would he have had an overall control?",
+    "My description has only skated over the surface of the problem.",
+    "No wonder the document skates over that subject.",
+    "He is skating over the problem and trying to create alarm when help is available.",
+    "He had lost both legs and what remained of his thighs was strapped to a rough wooden board mounted on roller skates.",
+    "He skated over it when he told us the subsidy would be somewhere about £4,500,000.",
+    "I thought he skated over it rather lightly."
+  ],
+  "list_see_also": [
+    "skater",
+    "skateboard",
+    "skating rink"
+  ],
+  "list_browse": [
+    "sixty-year-old",
+    "size",
+    "size up",
+    "sizeable",
+    "skate",
+    "skateboard",
+    "skater",
+    "skating rink",
+    "skeletal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073240_1d78511500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073240_72bbe44291_o.png",
+      "id_image": "skate_1044359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451193_e29d3d5f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451193_2d19453b4b_o.png",
+      "id_image": "skate_3751132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691589_7ab766b15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691589_33a1f50f28_o.png",
+      "id_image": "skate_3900032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381337_f515490d34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381337_99c7f25cee_o.png",
+      "id_image": "skate_984285"
+    }
+  ]
+}

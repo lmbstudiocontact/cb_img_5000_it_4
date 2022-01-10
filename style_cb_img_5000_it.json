@@ -1,0 +1,183 @@
+{
+  "english": "style",
+  "phat_am": "stail",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vn phong, phong cách, loại",
+          "definition": "a manner or way of doing something, eg writing, speaking, painting, building etc",
+          "world_new": [
+            "manner",
+            "speaking",
+            "painting",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "different styles of architecture",
+              "world_new": [
+                "architecture"
+              ]
+            },
+            {
+              "ex_of_definition": "What kind of style are you going to have your hair cut in?",
+              "world_new": [
+                "kind",
+                "your",
+                "hair",
+                "cut"
+              ]
+            },
+            {
+              "ex_of_definition": "a new hairstyle.",
+              "world_new": [
+                "hairstyle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời trang",
+          "definition": "a fashion in clothes etc",
+          "world_new": [
+            "fashion",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the latest Paris styles"
+            },
+            {
+              "ex_of_definition": "I don’t like the new style of shoe.",
+              "world_new": [
+                "I",
+                "shoe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nét đặc trưng",
+          "definition": "elegance in dress, behaviour/behavior etc",
+          "world_new": [
+            "elegance",
+            "dress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She certainly has style.",
+              "world_new": [
+                "certainly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòi nhụy",
+          "definition": "a long narrow part of a flower that carries the stigma",
+          "world_new": [
+            "long",
+            "narrow",
+            "part",
+            "flower",
+            "stigma"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The style leads down to the ovary that contains the ovules.",
+              "world_new": [
+                "ovary"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo mẫu, tạo dáng",
+          "definition": "to arrange (hair) in a certain way",
+          "world_new": [
+            "arrange",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m going to have my hair cut and styled.",
+              "world_new": [
+                "my",
+                "hair",
+                "cut"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiết kế theo một phong cách nào đó",
+          "definition": "to design in a certain style",
+          "world_new": [
+            "design",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These chairs/clothes are styled for comfort.",
+              "world_new": [
+                "comfort"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two different calculation styles were used for the following reasons.",
+    "Textlinguistic variation is also considered, with special emphasis on discourse organization and intonation styles.",
+    "Even as it made the precise identity of styles unclear, the fuzzy use of terms increased their symbolic potency.",
+    "Often they may be either local or international rather than nationally different styles.",
+    "Our concept of thinking dispositions as variable intentional-level styles of epistemic and behavioral regulation is explained, as is its relation to the rationality debate.",
+    "We can point to many examples of styles in the sciences and elsewhere that are too widespread to appeal only to local explanations.",
+    "In arts and fashion people recognize styles when they see them, and people often agree on what is stylish or what is not.",
+    "All of this leads to a paradoxical conclusion about national styles in science."
+  ],
+  "list_see_also": [
+    "stylish",
+    "stylishly",
+    "stylishness",
+    "stylist",
+    "in style"
+  ],
+  "list_browse": [
+    "sturgeon",
+    "stutter",
+    "stutterer",
+    "sty",
+    "style",
+    "stylish",
+    "stylishly",
+    "stylishness",
+    "stylist"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385712_f351d54344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385712_9db6d689b8_o.png",
+      "id_image": "style_2844521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078090_64efca9740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078090_050ba38a2c_o.png",
+      "id_image": "style_4515876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340741_d428b016b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340741_4bd4ab2224_o.png",
+      "id_image": "style_4515932"
+    }
+  ]
+}

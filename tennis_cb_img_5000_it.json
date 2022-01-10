@@ -1,0 +1,70 @@
+{
+  "english": "tennis",
+  "phat_am": "ˈtenis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quần vợt",
+          "definition": "(also lawn tennis) a game for two or four players who use rackets to hit a ball to each other over a net stretched across a tennis-court",
+          "world_new": [
+            "game",
+            "hit",
+            "ball",
+            "net",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s play (a game of) tennis",
+              "world_new": [
+                "play",
+                "game"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a tennis match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A balletic section which portrays two young women playing tennis is the most memorable music in the work.",
+    "The coherence measure identified the closest context as being retrieved from a text that describes tennis winning strategies.",
+    "The one-life husband is aware of being the tennis player and of having been the young child.",
+    "The tennis player whose leg was broken couldn't play in the tournament. 19.",
+    "For often here, rather like a bad doubles pair at tennis, the ' partners ' appear to have little mutual understanding or dialogue.",
+    "After a few points, the teams switch sides, and the scoring is very much like that in tennis.",
+    "Bilingual homophones such as tennis and proper nouns which are used in all the languages of the speakers may have this function.",
+    "The young office employees' idea of playing sports is to surf or to play tennis."
+  ],
+  "list_see_also": [
+    "tennis court",
+    "tennis racket",
+    "tennis shoe"
+  ],
+  "list_browse": [
+    "tender-heartedness",
+    "tenderly",
+    "tenderness",
+    "tendon",
+    "tennis",
+    "tennis court",
+    "tennis racket",
+    "tennis shoe",
+    "tenor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397047_4d6afe6566_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397047_97f867fca6_o.png",
+      "id_image": "tennis_4545108"
+    }
+  ]
+}

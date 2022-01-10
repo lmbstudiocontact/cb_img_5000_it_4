@@ -1,0 +1,70 @@
+{
+  "english": "tourism",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "du lịch",
+          "definition": "the industry dealing with tourists ie hotels, catering etc",
+          "world_new": [
+            "industry",
+            "dealing",
+            "catering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tourism is an important part of our economy.",
+              "world_new": [
+                "important",
+                "part",
+                "our",
+                "economy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, tourism goes beyond the usual questions of political economy.",
+    "Further, it illustrates the extent to which value of biodiversity conservation in a geographical area is reflected in the market for tourism.",
+    "The second is indirect supply, which involves preservation and cultivation of the landscape which acts as a backdrop or tourism resource.",
+    "In the transport sub-sector, tourism is responsible for 90 per cent of the spending.",
+    "Large independent expeditions, for example, may at times operate in a mode similar to adventure tourism but are distinguished from the latter by different motives.",
+    "These foundations established airline companies, construction and rubber processing businesses, hotels, and were involved in tourism and fisheries.",
+    "The same trends caused the emergence of ' something like organized tourism ' within the colonies after 1763.",
+    "Instead, they suggest that nature-based tourism experiences should be thought of as extraordinary experiences and not as an environmental education tool that promulgates conservation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "toughness",
+    "toupee",
+    "tour",
+    "tour guide",
+    "tourism",
+    "tourist",
+    "tourist guide",
+    "tournament",
+    "tourniquet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697579_7727a87e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697579_7006c7db17_o.png",
+      "id_image": "tourism_3942076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079740_8dc46c07e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079740_1b94a23113_o.png",
+      "id_image": "tourism_5783719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697494_9e4b8f6d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697494_5a8b902f62_o.png",
+      "id_image": "tourism_5965689"
+    }
+  ]
+}

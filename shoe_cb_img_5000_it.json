@@ -1,0 +1,90 @@
+{
+  "english": "shoe",
+  "phat_am": "ʃuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giày",
+          "definition": "an outer covering for the foot",
+          "world_new": [
+            "outer",
+            "covering",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a new pair of shoes.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sắt bịt móng",
+          "definition": "(also horseshoe) a curved piece of iron nailed to the hoof of a horse.",
+          "world_new": [
+            "curved",
+            "piece",
+            "iron",
+            "hoof",
+            "horse"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi giày, đóng móng ngựa",
+          "definition": "to put a shoe or shoes on (a horse etc).",
+          "world_new": [
+            "horse"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This requires that both the producers and the government which are the main stakeholders in shoe production should work together.",
+    "A wide-fitting, flat shoe is a much better option.",
+    "Similarly, one comparative disadvantage of local shoe production is the use of manual methods and obsolete technologies.",
+    "Mending and cleaning of clothes and shoes 16.",
+    "The cameraman follows them inside, pausing briefly over a pile of shoes (10-15 pair) at the door.",
+    "These usually exhibited manufactured goods, both local and imported, such as ready-made clothes, shoes, hats, crystal, leather goods or artistic crafts like photographs and pottery.",
+    "Second, firms have learned that they must continuously change the design of their shoes in order to match the needs and demands of the market.",
+    "They were possibly introduced via shoes and equipment."
+  ],
+  "list_see_also": [
+    "shod",
+    "shoelace",
+    "shoemaker",
+    "on a shoestring"
+  ],
+  "list_browse": [
+    "shod",
+    "shoddily",
+    "shoddiness",
+    "shoddy",
+    "shoe",
+    "shoelace",
+    "shoemaker",
+    "shoo",
+    "shoot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458518_7a8e77fa02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458518_bc4e4a7c72_o.png",
+      "id_image": "shoe_221867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388657_f8048d7d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388657_8e783dd00e_o.png",
+      "id_image": "shoe_239228"
+    }
+  ]
+}

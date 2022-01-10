@@ -1,0 +1,67 @@
+{
+  "english": "toothpaste",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kem đánh răng",
+          "definition": "a kind of paste used to clean the teeth",
+          "world_new": [
+            "kind",
+            "paste",
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tube of toothpaste.",
+              "world_new": [
+                "tube"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A fascinating reason for that is that children use fluoride toothpaste and do not spit it out.",
+    "Toothpaste falls within a broad category of items including cosmetics.",
+    "They were for toothpaste, drinking chocolate, margarine, motor spirit, tyres and beef extract—nothing that lends itself too much to exaggeration.",
+    "There are other ways of obtaining for our young people the benefit of fluoride's value— toothpaste, tablets, and so on.",
+    "Correct use of fluoride toothpastes does not significantly increase systematic exposure to fluoride.",
+    "This is not simply a matter of buying bread and milk and toothpaste and getting repairs carried out to a car.",
+    "Rather, as with other natural events, such as sunrise, hurricanes, birth, and death, the event occurs when the conditions are right (bedtime, bathroom, toothbrush, toothpaste, and so on).",
+    "The site was, literally, a tip, made up of squashed toothpaste tubes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tooth and nail",
+    "toothache",
+    "toothbrush",
+    "toothless",
+    "toothpaste",
+    "toothpick",
+    "toothy",
+    "top",
+    "top hat"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458443_21170976fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458443_d779f5d8b8_o.png",
+      "id_image": "toothpaste_1152720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081070_bced2c75b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081070_9a061d4593_o.png",
+      "id_image": "toothpaste_1903024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698944_ac5f9009a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698944_8d47de367e_o.png",
+      "id_image": "toothpaste_223999"
+    }
+  ]
+}

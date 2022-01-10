@@ -1,0 +1,73 @@
+{
+  "english": "thermometer",
+  "phat_am": "θəˈmomitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhiệt kế",
+          "definition": "an instrument (usually a thin, glass tube with eg mercury in it) used for measuring temperature, especially body temperature",
+          "world_new": [
+            "instrument",
+            "thin",
+            "glass",
+            "tube",
+            "mercury",
+            "temperature",
+            "body",
+            "temperature"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The nurse took his temperature with a thermometer.",
+              "world_new": [
+                "nurse",
+                "temperature"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All of this elite maneuvering is neatly tracked by our thermometers.",
+    "Since quartz is absent in the assemblage, the edenite-richterite thermometer was used on the formula.",
+    "Laboratory grade thermometers were employed to measure the bulk fluid temperature.",
+    "After the video, children handled medical instruments at practice stations and used a stethoscope, thermometer, and removable cast.",
+    "Three thermometers were attached, at different levels, to each of two posts, which were set up facing due east in different habitats.",
+    "The relative humidity was calculated from the readings of dry and wet bulb thermometers.",
+    "For example, consider again the thermometer example in figures 12 and 13.",
+    "Such sensors include thermometers, light sensors, and generally do not embed enough computing resources for fully managing context."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "there’s no telling",
+    "thereabouts",
+    "therefore",
+    "thermal",
+    "thermometer",
+    "Thermos (flask)",
+    "thermostat",
+    "thermostatic",
+    "thermostatically"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349966_1d52df5244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349966_ea236fddff_o.png",
+      "id_image": "thermometer_393005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349921_33f56194ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349921_d9c5864a1e_o.png",
+      "id_image": "thermometer_421849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394707_71b8fa489a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394707_9ef69251c2_o.png",
+      "id_image": "thermometer_421850"
+    }
+  ]
+}

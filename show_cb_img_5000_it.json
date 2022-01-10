@@ -1,0 +1,336 @@
+{
+  "english": "show",
+  "phat_am": "ʃəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho xem",
+          "definition": "to allow or cause to be seen",
+          "world_new": [
+            "allow",
+            "cause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Show me your new dress",
+              "world_new": [
+                "your",
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "Please show your membership card when you come to the club",
+              "world_new": [
+                "your",
+                "membership",
+                "card",
+                "club"
+              ]
+            },
+            {
+              "ex_of_definition": "His work is showing signs of improvement.",
+              "world_new": [
+                "work",
+                "improvement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lộ ra",
+          "definition": "to be able to be seen",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tear in your dress hardly shows",
+              "world_new": [
+                "tear",
+                "your",
+                "dress",
+                "hardly"
+              ]
+            },
+            {
+              "ex_of_definition": "a faint light showing through the curtains.",
+              "world_new": [
+                "faint",
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cho thấy",
+          "definition": "to offer or display, or to be offered or displayed, for the public to look at",
+          "world_new": [
+            "offer",
+            "display",
+            "public",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which picture is showing at the cinema?",
+              "world_new": [
+                "picture",
+                "cinema"
+              ]
+            },
+            {
+              "ex_of_definition": "They are showing a new film",
+              "world_new": [
+                "film"
+              ]
+            },
+            {
+              "ex_of_definition": "His paintings are being shown at the art gallery.",
+              "world_new": [
+                "art",
+                "gallery"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ bảo",
+          "definition": "to point out or point to",
+          "world_new": [
+            "point",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He showed me the road to take",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "Show me the man you saw yesterday.",
+              "world_new": [
+                "saw",
+                "yesterday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫn, dắt",
+          "definition": "(often with (a)round) to guide or conduct",
+          "world_new": [
+            "guide",
+            "conduct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please show this lady to the door",
+              "world_new": [
+                "lady",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "They showed him (a)round (the factory)."
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ bảo, dạy",
+          "definition": "to demonstrate to",
+          "world_new": [
+            "demonstrate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you show me how to do it?"
+            },
+            {
+              "ex_of_definition": "He showed me a clever trick.",
+              "world_new": [
+                "clever",
+                "trick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỏ ra, tỏ rõ",
+          "definition": "to prove",
+          "world_new": [
+            "prove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That just shows / goes to show how stupid he is.",
+              "world_new": [
+                "stupid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỏ ra, thể hiện",
+          "definition": "to give or offer (someone) kindness etc",
+          "world_new": [
+            "offer",
+            "kindness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He showed him no mercy.",
+              "world_new": [
+                "mercy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cuộc triển lãm",
+          "definition": "an entertainment, public exhibition, performance etc",
+          "world_new": [
+            "entertainment",
+            "public",
+            "exhibition",
+            "performance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a horse-show"
+            },
+            {
+              "ex_of_definition": "a flower show",
+              "world_new": [
+                "flower"
+              ]
+            },
+            {
+              "ex_of_definition": "the new show at the theatre",
+              "world_new": [
+                "theatre"
+              ]
+            },
+            {
+              "ex_of_definition": "a TV show.",
+              "world_new": [
+                "TV"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trưng bày",
+          "definition": "a display or act of showing",
+          "world_new": [
+            "display",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a show of strength.",
+              "world_new": [
+                "strength"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình thức bề ngoài",
+          "definition": "an act of pretending to be, do etc (something)",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a show of working, but he wasn’t really concentrating."
+            }
+          ]
+        },
+        {
+          "mean_english": "vẻ bề ngoài, ấn tượng",
+          "definition": "appearance, impression",
+          "world_new": [
+            "appearance",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They just did it for show, in order to make themselves seem more important than they are.",
+              "world_new": [
+                "order",
+                "seem",
+                "important"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nỗ lực, thử sức",
+          "definition": "an effort or attempt",
+          "world_new": [
+            "effort",
+            "attempt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put up a good show in the chess competition.",
+              "world_new": [
+                "chess",
+                "competition"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "showy",
+    "showiness",
+    "show business",
+    "showcase",
+    "showdown",
+    "showground",
+    "show-jumping",
+    "showman",
+    "showroom",
+    "give the show away",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "shout",
+    "shove",
+    "shovel",
+    "shovelful",
+    "show",
+    "show business",
+    "show off",
+    "show one’s paces",
+    "show oneself in one’s true colours"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697484_8eedd095ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697484_a483d6435a_o.png",
+      "id_image": "show_1082656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387262_86926ff27a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387262_f395ea4b4b_o.png",
+      "id_image": "show_1624393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457058_1c9626fc5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457058_88f977cf63_o.png",
+      "id_image": "show_4647083"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "semicircle",
+  "phat_am": "ˈsemisəːkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình bán nguyệt",
+          "definition": "a half circle",
+          "world_new": [
+            "half",
+            "circle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The chairs were arranged in a semicircle round the speaker.",
+              "world_new": [
+                "speaker"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Alin, two men, and a woman stood on chairs at the centre of the semicircle.",
+    "The class sat in a semicircle with teachers and helpers playing acoustic instruments familiar to them from the class cupboard.",
+    "One young man stepped from the semicircle and motioned towards the one with the camera.",
+    "He looked at the semicircle, including the four people on chairs.",
+    "Closing the straight line contour with an infinite semicircle to the right, it can be seen that integration along the semicircle is equivalent to that on the original contour.",
+    "The \"ashes\" of the first and the black cloud of the second are marked by identical black spirals and semicircles and by star markings.",
+    "Figure 3 shows an example of a polygonal object whose local freedom angles are shown using dark semicircles.",
+    "This is achieved by means of a metal sheet inserted between the two semicircles just in the vertical connecting parts."
+  ],
+  "list_see_also": [
+    "semicircular"
+  ],
+  "list_browse": [
+    "semi-finalist",
+    "semi-precious",
+    "semi-quaver",
+    "semibreve",
+    "semicircle",
+    "semicircular",
+    "semicolon",
+    "semiconductor",
+    "seminal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465073_528b20ab85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465073_ff69868358_o.png",
+      "id_image": "semicircle_2249494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705109_84aa07813f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705109_214822e4aa_o.png",
+      "id_image": "semicircle_381253"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "english": "shield",
+  "phat_am": "ʃiːld",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái mộc, cái khiên",
+          "definition": "a broad piece of metal, wood etc carried as a protection against weapons",
+          "world_new": [
+            "broad",
+            "piece",
+            "metal",
+            "wood",
+            "protection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police were issued with riot shields.",
+              "world_new": [
+                "police",
+                "riot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người che chở, vật che chở",
+          "definition": "something or someone that protects",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A thick steel plate acted as a heat shield.",
+              "world_new": [
+                "thick",
+                "steel",
+                "plate",
+                "heat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần thưởng về chiến tích có hình cái khiên",
+          "definition": "a trophy shaped like a shield won in a sporting competition etc",
+          "world_new": [
+            "trophy",
+            "shaped",
+            "sporting",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My son has won the archery shield.",
+              "world_new": [
+                "son",
+                "archery"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bảo vệ, che chở",
+          "definition": "to protect",
+          "world_new": [
+            "protect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The goggles shielded the motorcyclist’s eyes from dust.",
+              "world_new": [
+                "goggles",
+                "dust"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chắn, che, che đậy",
+          "definition": "to prevent from being seen clearly",
+          "world_new": [
+            "prevent",
+            "clearly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That group of trees shields the house from the road.",
+              "world_new": [
+                "group",
+                "house",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shelve",
+    "shepherd",
+    "sheriff",
+    "sherry",
+    "shield",
+    "shift",
+    "shiftily",
+    "shiftiness",
+    "shiftless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459863_bd893de4c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459863_94f3362ed3_o.png",
+      "id_image": "shield_486972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389997_f091ea73ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389997_6539eda20f_o.png",
+      "id_image": "shield_649082"
+    }
+  ]
+}

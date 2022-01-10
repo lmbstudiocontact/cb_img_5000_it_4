@@ -1,0 +1,69 @@
+{
+  "english": "tornado",
+  "phat_am": "toːˈneidəu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bão táp",
+          "definition": "a violent whirlwind that can cause great damage",
+          "world_new": [
+            "violent",
+            "whirlwind",
+            "cause",
+            "great",
+            "damage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The village was destroyed by a tornado.",
+              "world_new": [
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Likewise, it is suggested that the risk of prion transmission via bone substitutes is lower than the risk of death related to lightening or tornados.",
+    "Among the undergraduates, tornadoes or strong winds (ranked 45th; scored by 15% of sample) and earthquakes (48th; 12%) are rarely dreamed about.",
+    "Equation (44)could serve as a starting point for the study of tornadoes.",
+    "We tend to be a little complacent about natural disasters because we are mercifully spared the appalling horrors of volcano, flood, hurricane and tornado.",
+    "They are still far more likely to die in other disasters such as tornadoes, hurricanes, and earthquakes.",
+    "Who would have thought that there would be a tornado a few weeks ago?",
+    "We must not assume that tornadoes will not hit this country.",
+    "Atmospheric forces give rise to temporary stabilities like tornadoes and hurricanes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "topsy-turvy",
+    "torch",
+    "torment",
+    "tormentor",
+    "tornado",
+    "torpedo",
+    "torrent",
+    "torrential",
+    "torrid"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388037_062e37d161_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388037_a40598a6ff_o.png",
+      "id_image": "tornado_2204426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698289_39e26c4c15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698289_e16ebec900_o.png",
+      "id_image": "tornado_2910097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080490_942087cda4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080490_fdfdb108f4_o.png",
+      "id_image": "tornado_5493308"
+    }
+  ]
+}

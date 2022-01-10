@@ -1,0 +1,77 @@
+{
+  "english": "shin",
+  "phat_am": "ʃin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xương ống chân",
+          "definition": "the front part of the leg below the knee",
+          "world_new": [
+            "front",
+            "part",
+            "leg",
+            "knee"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He kicked him on the shins."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "leo, trèo",
+          "definition": "(usually with up) to climb by alternate movements of both arms and both legs",
+          "world_new": [
+            "climb",
+            "alternate",
+            "arms"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shinned up the tree.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The third group was also new, and was in fact actually called shin chukanso (the newly emerged middle class).",
+    "Thorax : dorsum shining black, with white pubescence, black on sides ; pleura and lower parts duller, blackish brown.",
+    "The most common type of skin manifestation, erythema nodosum, presents as raised, tender red nodules usually appearing on the shins.",
+    "The author's enthusiasm for the subject shines through on page after page: it is hard not to feel his excitement as one reads what he has written.",
+    "A very distinct species, easily recognised by the sub-metallic violet colour of the abdomen, femora and tibiae, and the shining whitish area on the front of the thorax.",
+    "I suppose, therefore, that there will be the usual number of bruised shins going home tonight.",
+    "He was sent to the sidelines following the race due to sore shins.",
+    "All else is a legal hit, including feet, shins, legs and arms."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shiftlessness",
+    "shifty",
+    "shilling",
+    "shimmer",
+    "shin",
+    "shine",
+    "shingle",
+    "shingles",
+    "shininess"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699904_0effdb8f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699904_02a2acd1c4_o.png",
+      "id_image": "shin_5726980"
+    }
+  ]
+}

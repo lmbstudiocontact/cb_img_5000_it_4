@@ -1,0 +1,141 @@
+{
+  "english": "small",
+  "phat_am": "smoːl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nhỏ, bé, chật",
+          "definition": "little in size, degree, importance etc; not large or great",
+          "world_new": [
+            "size",
+            "degree",
+            "importance",
+            "large",
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was accompanied by a small boy of about six",
+              "world_new": [
+                "boy"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s only a small amount of sugar left",
+              "world_new": [
+                "amount",
+                "sugar",
+                "left"
+              ]
+            },
+            {
+              "ex_of_definition": "She cut the meat up small for the baby.",
+              "world_new": [
+                "cut",
+                "meat",
+                "baby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhỏ",
+          "definition": "not doing something on a large scale",
+          "world_new": [
+            "large",
+            "scale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a small businessman.",
+              "world_new": [
+                "businessman"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhỏ, không nhiều",
+          "definition": "little; not much",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have small reason to be satisfied with yourself.",
+              "world_new": [
+                "reason",
+                "satisfied"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chữ nhỏ, chữ thường",
+          "definition": "(of the letters of the alphabet) not capital",
+          "world_new": [
+            "capital"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The teacher showed the children how to write a capital G and a small g.",
+              "world_new": [
+                "teacher",
+                "capital",
+                "G",
+                "g"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A small test flash was first used to center the stimulus over the receptive field by manually moving it to elicit a maximum response.",
+    "In general, a random orientation can not be shown to balance each of a large number of small cocircuits.",
+    "These are now seen to be only a small element of a complex system driven by concerns other than the purely cognitive.",
+    "The numbers illustrate that nationally there have been two strong parties and other very small ones.",
+    "The connection weights are initialized to small random values.",
+    "The stage was cramped; the audience capacity was small; and the new theatre represented a severe financial liability to a very shaky opera company.",
+    "It is preserved as an impression, with a small amount of organic material remaining.",
+    "These blocks will be returned after extraction of small diameter cores of tissue for the production of tissue micro-arrays."
+  ],
+  "list_see_also": [
+    "small ads",
+    "small arms",
+    "small change",
+    "small hours",
+    "smallpox",
+    "small screen",
+    "small-time",
+    "feel/look small"
+  ],
+  "list_browse": [
+    "sly",
+    "slyly",
+    "slyness",
+    "smack",
+    "small",
+    "small ads",
+    "small arms",
+    "small beer",
+    "small change"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376607_c3fe561376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376607_8c41636c52_o.png",
+      "id_image": "small_2210698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686824_f0f90a16e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686824_8a529f7ed9_o.png",
+      "id_image": "small_2210703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446803_1bdf6c57b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446803_bbc568cb65_o.png",
+      "id_image": "small_2844495"
+    }
+  ]
+}

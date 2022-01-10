@@ -1,0 +1,47 @@
+{
+  "english": "teen",
+  "phat_am": "tiːn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tuổi teen",
+          "definition": "relating to teenagers",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a teen idol.",
+              "world_new": [
+                "idol"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tediously",
+    "tediousness",
+    "tedium",
+    "teem",
+    "teen",
+    "teenage",
+    "teenager",
+    "teens",
+    "teeny"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397977_e7bdcdbfee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397977_b5317256c1_o.png",
+      "id_image": "teen_6274142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467773_d865d6490a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467773_2b1ce0b862_o.png",
+      "id_image": "teen_6274163"
+    }
+  ]
+}

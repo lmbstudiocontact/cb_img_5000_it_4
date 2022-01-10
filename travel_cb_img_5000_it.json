@@ -1,0 +1,147 @@
+{
+  "english": "travel",
+  "phat_am": "ˈtrӕvl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi lại",
+          "definition": "to go from place to place; to journey",
+          "world_new": [
+            "place",
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I travelled to Scotland by train",
+              "world_new": [
+                "I",
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "He has to travel a long way to school.",
+              "world_new": [
+                "long",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển động",
+          "definition": "to move",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Light travels in a straight line.",
+              "world_new": [
+                "travels",
+                "straight",
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi thăm",
+          "definition": "to visit places, especially foreign countries",
+          "world_new": [
+            "visit",
+            "foreign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has travelled a great deal.",
+              "world_new": [
+                "great",
+                "deal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đi lại, di chuyển",
+          "definition": "the act of travelling",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "air travel",
+              "world_new": [
+                "air"
+              ]
+            },
+            {
+              "ex_of_definition": "Travel to and from work can be very tiring.",
+              "world_new": [
+                "work",
+                "tiring"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overall, however, this is a stimulating and scholarly book that deserves to be known widely by readers researching the history of northern travels.",
+    "In this scheme, the charged particles are trapped by the magnetic field and travels in the direction of the field.",
+    "In particular, an analysis of the derived nonlinear equation will demonstrate the existence of nonlinear travelling waves and oscillating standing waves.",
+    "Along with the harsh conditions in the southern and western circuits, the distance justices traveled in those circuits could itself be grueling.",
+    "Second, the time meteoroids have been travelling in space exposed to cosmic rays is relatively short, typically millions of years.",
+    "The audience travelled by ferry between various wharves where most of the performances took place.",
+    "Other contributors concentrate on imports, transfers and the travels of reformers.",
+    "The validation of the steering controller was conducted on both the steering simulator in the laboratory and on the tractor traveling in the field."
+  ],
+  "list_see_also": [
+    "traveller",
+    "travelogue",
+    "travels",
+    "travel agency",
+    "travel agent",
+    "traveller’s cheque"
+  ],
+  "list_browse": [
+    "trash",
+    "trashcan",
+    "trashy",
+    "trauma",
+    "travel",
+    "travel agency",
+    "travel agent",
+    "travel light",
+    "traveller"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073155_8417a20bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073155_c8904ae79b_o.png",
+      "id_image": "travel_1911866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336231_b7dd3e0469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336231_310ca2520a_o.png",
+      "id_image": "travel_2832064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451218_9cefb8c953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451218_5e597e88d0_o.png",
+      "id_image": "travel_661687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381257_c34971bc5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381257_62e558dbd4_o.png",
+      "id_image": "travel_907346"
+    }
+  ]
+}

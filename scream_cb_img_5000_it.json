@@ -1,0 +1,122 @@
+{
+  "english": "scream",
+  "phat_am": "skriːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gào thét",
+          "definition": "to cry or shout in a loud shrill voice because of fear or pain or with laughter; to make a shrill noise",
+          "world_new": [
+            "cry",
+            "shout",
+            "loud",
+            "shrill",
+            "voice",
+            "fear",
+            "pain",
+            "shrill",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was screaming in agony",
+              "world_new": [
+                "agony"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Look out!’ she screamed"
+            },
+            {
+              "ex_of_definition": "We screamed with laughter.",
+              "world_new": [
+                "laughter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng hét",
+          "definition": "a loud, shrill cry or noise",
+          "world_new": [
+            "loud",
+            "shrill",
+            "cry",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She let out a scream of terror.",
+              "world_new": [
+                "let",
+                "terror"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyện tức cười",
+          "definition": "a cause of laughter",
+          "world_new": [
+            "cause",
+            "laughter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s an absolute scream.",
+              "world_new": [
+                "absolute"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He really hit the roof and screamed in anger and told her to take off that apparel and never let him see it again.",
+    "Plain common sense screams out that those low parapets are not safe.",
+    "Groaning and screaming throughout the sessions, he was neither willing nor able to verbalize the terror that seized him.",
+    "I screamed and called for help and chased the perpetrators as far as the park.",
+    "As they ran around, these large mobile puppets, worn by one or two puppeteer operators, parted the crowds of delighted, screaming, scrambling children and accompanying adults.",
+    "Certainly the hare screams; a hare cries like a baby; and to hear it is one of the most harrowing experiences one can have.",
+    "You're not aware that you're uptight or, you know, like screaming or whatever it might be.",
+    "People are not to be dragged screaming into the polling booth and told to put a cross here or there."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scratchy",
+    "scrawl",
+    "scrawniness",
+    "scrawny",
+    "scream",
+    "screech",
+    "screed",
+    "screen",
+    "screenplay"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372217_302f8c3e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372217_90aa5d5019_o.png",
+      "id_image": "scream_1123954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064195_cf124662c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064195_6a022139d7_o.png",
+      "id_image": "scream_4138884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327571_6378159b64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327571_b826b8059b_o.png",
+      "id_image": "scream_606874"
+    }
+  ]
+}

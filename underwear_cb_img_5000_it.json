@@ -1,0 +1,54 @@
+{
+  "english": "underwear",
+  "phat_am": "ˈandəweə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "quần áo lót trong",
+          "definition": "clothes worn under the outer clothes",
+          "world_new": [
+            "clothes",
+            "worn",
+            "outer",
+            "clothes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She washed her skirt, blouse and underwear.",
+              "world_new": [
+                "skirt",
+                "blouse"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "undertake",
+    "undertaker",
+    "undertaking",
+    "underwater",
+    "underwear",
+    "underworld",
+    "undesirable",
+    "undivided",
+    "undo"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468263_3daebf1295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468263_b9f9d42abd_o.png",
+      "id_image": "underwear_1059050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468248_0a0355a0da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468248_babf555661_o.png",
+      "id_image": "underwear_1151717"
+    }
+  ]
+}

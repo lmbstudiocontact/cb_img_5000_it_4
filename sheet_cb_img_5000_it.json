@@ -1,0 +1,85 @@
+{
+  "english": "sheet",
+  "phat_am": "ʃiːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khăn trải gường",
+          "definition": "a broad piece of cloth eg for a bed",
+          "world_new": [
+            "broad",
+            "piece",
+            "cloth",
+            "bed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She put clean sheets on all the beds.",
+              "world_new": [
+                "clean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lá, tấm",
+          "definition": "a large, thin, usually flat, piece",
+          "world_new": [
+            "large",
+            "thin",
+            "flat",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sheet of paper/glass."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The maps are in individual sheets and are useful for stratigraphic information but, unfortunately, are devoid of faults.",
+    "At these sheets magnetic energy is transformed into heat and kinetic energy by means of reconnection.",
+    "Ripple migration structures and cross-bedding are common in the sandstone sheets, as is flat-bedding with lineation.",
+    "Often they use physical props from around the house or yard, such as old lesson books or pretend chalkboards made from sheets of galvanized metal.",
+    "The observed flow was described as a series of intermittent plunging sheets and columns.",
+    "A coding manual was prepared for the questions and the responses of the questionnaires were transferred into coding sheets.",
+    "The fibrillar appearance of this layer may reflect the helicoidal arrangement of sheets of chitin microfibrils.",
+    "The average number of completed logs per pharmacy was two (a range of 1-5 log sheets)."
+  ],
+  "list_see_also": [
+    "sheet-lightning"
+  ],
+  "list_browse": [
+    "sheepdog",
+    "sheepish",
+    "sheepishly",
+    "sheer",
+    "sheet",
+    "sheet-lightning",
+    "sheik",
+    "sheikdom",
+    "shelf"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083345_ba82b4ecc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083345_6cdff3d21c_o.png",
+      "id_image": "sheet_4780313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390822_dea9e754b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390822_e8f0026329_o.png",
+      "id_image": "sheet_6342027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460568_c61cf3d7f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460568_45a838a560_o.png",
+      "id_image": "sheet_6396262"
+    }
+  ]
+}

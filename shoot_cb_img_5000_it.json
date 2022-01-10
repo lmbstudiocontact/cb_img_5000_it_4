@@ -1,0 +1,225 @@
+{
+  "english": "shoot",
+  "phat_am": "ʃuːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắn",
+          "definition": "(often with at) to send or fire (bullets, arrows etc) from a gun, bow etc",
+          "world_new": [
+            "send",
+            "fire",
+            "gun",
+            "bow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The enemy were shooting at us",
+              "world_new": [
+                "enemy"
+              ]
+            },
+            {
+              "ex_of_definition": "He shot an arrow through the air.",
+              "world_new": [
+                "shot",
+                "arrow",
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn, săn bắn",
+          "definition": "to hit or kill with a bullet, arrow etc",
+          "world_new": [
+            "hit",
+            "kill",
+            "bullet",
+            "arrow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went out to shoot pigeons"
+            },
+            {
+              "ex_of_definition": "He was sentenced to be shot at dawn.",
+              "world_new": [
+                "shot",
+                "dawn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ném, phóng",
+          "definition": "to direct swiftly and suddenly",
+          "world_new": [
+            "direct",
+            "swiftly",
+            "suddenly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shot them an angry glance.",
+              "world_new": [
+                "shot",
+                "angry",
+                "glance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vọt qua, chạy qua",
+          "definition": "to move swiftly",
+          "world_new": [
+            "move",
+            "swiftly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shot out of the room",
+              "world_new": [
+                "shot",
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "The pain shot up his leg",
+              "world_new": [
+                "pain",
+                "shot",
+                "leg"
+              ]
+            },
+            {
+              "ex_of_definition": "The force of the explosion shot him across the room.",
+              "world_new": [
+                "force",
+                "explosion",
+                "shot",
+                "across",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chụp ảnh, quay phim",
+          "definition": "to take (usually moving) photographs (for a film)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That film was shot in Spain",
+              "world_new": [
+                "film",
+                "shot"
+              ]
+            },
+            {
+              "ex_of_definition": "We will start shooting next week.",
+              "world_new": [
+                "start",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sút, đá",
+          "definition": "to kick or hit at a goal in order to try to score",
+          "world_new": [
+            "kick",
+            "hit",
+            "goal",
+            "order",
+            "try",
+            "score"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shot from just outside the penalty box.",
+              "world_new": [
+                "shot",
+                "outside",
+                "penalty",
+                "box"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn hạ",
+          "definition": "to kill (game birds etc) for sport.",
+          "world_new": [
+            "kill",
+            "sport"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cành non, chồi cây",
+          "definition": "a new growth on a plant",
+          "world_new": [
+            "growth",
+            "plant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The deer were eating the young shoots on the trees.",
+              "world_new": [
+                "deer",
+                "young"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "shoot system",
+    "shoot down",
+    "shoot rapids",
+    "shoot up"
+  ],
+  "list_browse": [
+    "shoe",
+    "shoelace",
+    "shoemaker",
+    "shoo",
+    "shoot",
+    "shoot down",
+    "shoot rapids",
+    "shoot system",
+    "shoot up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343426_13bb0a8c1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343426_a31050fe83_o.png",
+      "id_image": "shoots_6041496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343621_8fc338a423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343621_558e6d48b1_o.png",
+      "id_image": "shoot_2121075"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081045_192d28bac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081045_5570225a6f_o.png",
+      "id_image": "shoot_305503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458303_72db8bc174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458303_496cd9443b_o.png",
+      "id_image": "shoot_4357009"
+    }
+  ]
+}

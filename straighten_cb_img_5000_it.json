@@ -1,0 +1,73 @@
+{
+  "english": "straighten",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho thẳng",
+          "definition": "to make or become straight",
+          "world_new": [
+            "become",
+            "straight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He straightened his tie",
+              "world_new": [
+                "tie"
+              ]
+            },
+            {
+              "ex_of_definition": "The road curved and then straightened.",
+              "world_new": [
+                "road",
+                "curved"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The matter needs straightening out, and it is about time that something was done to put them on a par.",
+    "They are playing about straightening a corner, but this is a shocking road from the point of view of alignment and narrowness.",
+    "Is he further aware that there is occasionally a delay in the straightening out of the needs between the two granting authorities.",
+    "I should like to know how effectively these things have been straightened out.",
+    "I know of no policy of widening and straightening all by-roads.",
+    "I think we had better get it straightened out; it is to our mutual advantage to do so.",
+    "Are we to assume that the whole world has got to be straightened out before we abolish conscription in this country?",
+    "Meanwhile, he spared no effeort in straightening up the administrative and militiary affairs in the area."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "straight away",
+    "straight off",
+    "straight talking",
+    "(straight) from the horse’s mouth",
+    "straighten",
+    "straighten out",
+    "straighten up",
+    "straightforward",
+    "straightforwardly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081555_d52f5a5bdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081555_1870d573db_o.png",
+      "id_image": "straighten_1658252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389122_68a8f3f19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389122_b1c4d37ef0_o.png",
+      "id_image": "straighten_410430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389042_9c00271710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389042_274749ee5c_o.png",
+      "id_image": "straighten_4215440"
+    }
+  ]
+}

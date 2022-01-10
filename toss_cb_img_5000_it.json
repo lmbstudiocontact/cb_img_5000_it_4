@@ -1,0 +1,140 @@
+{
+  "english": "toss",
+  "phat_am": "tos",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tung",
+          "definition": "to throw into or through the air",
+          "world_new": [
+            "throw",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tossed the ball up into the air.",
+              "world_new": [
+                "ball",
+                "air"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trằn trọc",
+          "definition": "(often with about) to throw oneself restlessly from side to side",
+          "world_new": [
+            "throw",
+            "restlessly",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She tossed about all night, unable to sleep.",
+              "world_new": [
+                "night",
+                "unable",
+                "sleep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chao đảo",
+          "definition": "(of a ship) to be thrown about",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat tossed wildly in the rough sea.",
+              "world_new": [
+                "boat",
+                "wildly",
+                "rough",
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tung đồng xu để đi đến phán xét",
+          "definition": "to throw (a coin) into the air and decide a matter according to (a correct guess about) which side falls uppermost",
+          "world_new": [
+            "throw",
+            "air",
+            "decide",
+            "matter",
+            "correct",
+            "guess",
+            "side",
+            "falls",
+            "uppermost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They tossed a coin to decide which of them should go first.",
+              "world_new": [
+                "coin",
+                "decide"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tung",
+          "definition": "an act of tossing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The matter would be decided by the toss of a coin.",
+              "world_new": [
+                "matter",
+                "coin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the second movement, melody is fragmented and the effect almost pointillistic as ideas are tossed between solo instruments in chamber-music fashion.",
+    "It turns out that he should start suspecting something is wrong after 8 heads are tossed in a row, because 0.99r0.58<0.01r0.5.",
+    "This means that if there is only one candidate, then no coin tosses are needed.",
+    "Even if we save the lives of either side by tossing a coin, it is still unfair to people who are not saved.",
+    "The main figure is a naked young woman, arms raised, head tossed back, who reveals her teeth within a barely open mouth.",
+    "An example of such an action with an unpredictable outcome is the toss of a coin.",
+    "The two women began tossing verse phrases back and forth giving the composer the idea of using a 'call-and-response' technique for much of the work.",
+    "They might well toss a coin to decide which trail they hike together."
+  ],
+  "list_see_also": [
+    "toss up",
+    "win/lose the toss"
+  ],
+  "list_browse": [
+    "torso",
+    "tortoise",
+    "torture",
+    "Tory",
+    "toss",
+    "toss up",
+    "tot",
+    "total",
+    "total up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080215_94dbe6de8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080215_d9d086599d_o.png",
+      "id_image": "toss_5488509"
+    }
+  ]
+}

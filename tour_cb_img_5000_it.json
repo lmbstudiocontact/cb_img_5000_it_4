@@ -1,0 +1,132 @@
+{
+  "english": "tour",
+  "phat_am": "tuə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuyến đi",
+          "definition": "a journey to several places and back",
+          "world_new": [
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They went on a tour of Italy."
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyến đi thăm",
+          "definition": "a visit around a particular place",
+          "world_new": [
+            "visit",
+            "particular",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took us on a tour of the house and gardens.",
+              "world_new": [
+                "house",
+                "gardens"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyến công tác",
+          "definition": "an official period of time of work usually abroad",
+          "world_new": [
+            "official",
+            "period",
+            "time",
+            "work",
+            "abroad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He did a tour of duty in Fiji.",
+              "world_new": [
+                "duty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi thăm",
+          "definition": "to go on a tour (around)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their intention is to tour Europe by motorbike.",
+              "world_new": [
+                "intention",
+                "motorbike"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "And, before the railroad, travel was difficult enough to preclude any sort of concert circuit of touring virtuosos, even had the demand been there.",
+    "He habitually addressed her as 'my dear' and she writes how she waited eagerly for his return when he went on tours.",
+    "Entrance fees, packaged tours, and the presence of secondary forest had negative effects on a tourist's utility.",
+    "Provided with an itinerary of the route, a local listener can easily follow the tour, and others can imagine similar scenes.",
+    "The jobbers toured the neighbourhoods and tried to gather the needed extra hands.",
+    "The three of us made a tour of futures exchanges and other risk management companies to try to get markets for real estate risk started.",
+    "Then groups of young people played instruments informally, chatted, exchanged, toured the school, played basketball and generally and genuinely interacted.",
+    "One can, however, be more systematic about the individual tour in which a new customer has just been inserted."
+  ],
+  "list_see_also": [
+    "tourism",
+    "tourist",
+    "tour guide",
+    "tourist guide"
+  ],
+  "list_browse": [
+    "tough luck",
+    "toughen",
+    "toughness",
+    "toupee",
+    "tour",
+    "tour guide",
+    "tourism",
+    "tourist",
+    "tourist guide"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387462_d79336ceb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387462_38bfbe7529_o.png",
+      "id_image": "tour_1373090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457223_8fe8080dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457223_f2bc0c3548_o.png",
+      "id_image": "tour_2569874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697774_fda660cbf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697774_cdd98802a9_o.png",
+      "id_image": "tour_293848"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387387_54fffe2a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387387_b14b9c308a_o.png",
+      "id_image": "tour_5293953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387517_33199fa54e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387517_2d95d5e3e4_o.png",
+      "id_image": "tour_827056"
+    }
+  ]
+}

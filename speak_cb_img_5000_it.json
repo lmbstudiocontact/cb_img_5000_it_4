@@ -1,0 +1,144 @@
+{
+  "english": "speak",
+  "phat_am": "spiːk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói, phát ra lời",
+          "definition": "to say (words) or talk",
+          "world_new": [
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He can’t speak"
+            },
+            {
+              "ex_of_definition": "He spoke a few words to us.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói chuyện",
+          "definition": "(often with toor American with) to talk or converse",
+          "world_new": [
+            "talk",
+            "converse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can I speak to/with you for a moment?",
+              "world_new": [
+                "I",
+                "moment"
+              ]
+            },
+            {
+              "ex_of_definition": "We spoke for hours about it.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói được",
+          "definition": "to (be able to) talk in (a language)",
+          "world_new": [
+            "talk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She speaks Russian."
+            }
+          ]
+        },
+        {
+          "mean_english": "nói rõ, chứng tỏ",
+          "definition": "to tell or make known (one’s thoughts, the truth etc)",
+          "world_new": [
+            "tell",
+            "truth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I always speak my mind.",
+              "world_new": [
+                "I",
+                "my",
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phát biểu, diễn thuyết",
+          "definition": "to make a speech, address an audience",
+          "world_new": [
+            "speech",
+            "address",
+            "audience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Prime Minister spoke on unemployment.",
+              "world_new": [
+                "spoke",
+                "unemployment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He records, the marks imply, what she says: he writes, she speaks.",
+    "Very generally speaking, it is to enable the knowledge and exercise of sensorimotor contingencies.",
+    "They are also aware that some church leaders have spoken out against injustice.",
+    "Without speaking directly to one another, they provide an instructive study of antithetical positions on freedoms of expression.",
+    "The division of small tribes from larger ones - is spoken of as ukudabuka.",
+    "The relationship between signed and spoken languages is a central concern here.",
+    "They lack all the hesitations and pronunciation errors common to spoken language usage.",
+    "Three of his sons spoke in his defence."
+  ],
+  "list_see_also": [
+    "speaker",
+    "speaking",
+    "spoken",
+    "-spoken",
+    "generally speaking",
+    "speak for itself/themselves",
+    "speak out",
+    "speak up",
+    "to speak of"
+  ],
+  "list_browse": [
+    "spasm",
+    "spastic",
+    "spatula",
+    "spawn",
+    "speak",
+    "speak for itself/themselves",
+    "speak one’s mind",
+    "speak out",
+    "speak out of turn"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324756_b905303e16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324756_573034fe00_o.png",
+      "id_image": "speak_1442369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679954_fc7c7e184a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679954_d173d78ca6_o.png",
+      "id_image": "speak_4462909"
+    }
+  ]
+}

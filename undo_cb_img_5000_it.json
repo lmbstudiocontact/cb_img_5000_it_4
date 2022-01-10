@@ -1,0 +1,83 @@
+{
+  "english": "undo",
+  "phat_am": "anˈduː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tháo, gỡ, cởi",
+          "definition": "to unfasten or untie",
+          "world_new": [
+            "unfasten",
+            "untie"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you undo the knot in this string?",
+              "world_new": [
+                "knot",
+                "string"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xóa bỏ, phá hủy",
+          "definition": "to reverse, or destroy, the effect of",
+          "world_new": [
+            "reverse",
+            "destroy",
+            "effect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The evil that he did can never be undone.",
+              "world_new": [
+                "evil",
+                "undone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once this land is built upon, the development cannot be undone.",
+    "In fact, what is to be done under the scheme cannot be undone at a stroke and is bound to go for some years.",
+    "The prediction here is that success at undoing the gliding error pattern should result automatically in the loss of the harmony error pattern without direct treatment on the latter.",
+    "We should leave nothing undone to see that the quality is preserved.",
+    "Many of these people live in fear of their past coming to the surface, and of much that they have done being undone.",
+    "All the good work of the last few years will have been undone and it will all have been to no avail.",
+    "There are many things that are very desirable, and very productive, too, but which must be left undone for the time being.",
+    "In many cases, then, what they say they want to do in the daytime is undone overnight."
+  ],
+  "list_see_also": [
+    "undoing",
+    "undone"
+  ],
+  "list_browse": [
+    "underwear",
+    "underworld",
+    "undesirable",
+    "undivided",
+    "undo",
+    "undoing",
+    "undone",
+    "undoubted",
+    "undoubtedly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090775_39625003be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090775_6174d3358d_o.png",
+      "id_image": "undo_4563937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708089_03088c37d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708089_1b85c30e5d_o.png",
+      "id_image": "undo_6010152"
+    }
+  ]
+}

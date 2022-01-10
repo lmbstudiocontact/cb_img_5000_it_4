@@ -1,0 +1,73 @@
+{
+  "english": "tactic",
+  "phat_am": "ˈtæktik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sách lược",
+          "definition": "a method or plan for achieving something",
+          "world_new": [
+            "method",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The opposition have accused the government of employing delaying tactics.",
+              "world_new": [
+                "opposition",
+                "government",
+                "tactics"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A set of goals for simulation-based exercises is suggested, and some tactics for meeting these goals are introduced.",
+    "Most traditional news outlets focused primarily on military tactics and the political ramifications of the attacks.",
+    "Since natural enemies are an important source of mortality, conservation biological control is a tactic to be considered.",
+    "Family court and rabbinical court judges employ both direct and indirect tactics to promote agreement between the divorcing spouses.",
+    "An additional patient-blaming tactic is to ascribe psychological causes as the source of pain.",
+    "The practice of cover cropping is such a tactic, providing many services to agroecosystems, including improved soil quality, increased nutrient cycling and pest management1.",
+    "The new allied tactic of a defensive league against ideological principles was, he thought, a greater insanity than the ideology itself.",
+    "This tactic has had the result of often leaving the left and the (authentic) centre without a visible enemy, thus leading to miscalculation and frustration."
+  ],
+  "list_see_also": [
+    "tactics",
+    "tactical",
+    "tactically",
+    "tactician"
+  ],
+  "list_browse": [
+    "tact",
+    "tactful",
+    "tactfully",
+    "tactfulness",
+    "tactic",
+    "tactical",
+    "tactically",
+    "tactician",
+    "tactics"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065280_a91a2557a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065280_2baaf05ce8_o.png",
+      "id_image": "tactic_2721537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373147_94e1bc17ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373147_c2b0e453e4_o.png",
+      "id_image": "tactic_4443643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683464_524c2d02f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683464_52dbdb0d6d_o.png",
+      "id_image": "tactic_4695194"
+    }
+  ]
+}

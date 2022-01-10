@@ -1,0 +1,55 @@
+{
+  "english": "spicy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có nêm gia vị",
+          "definition": "tasting or smelling of spices",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spicy cake",
+              "world_new": [
+                "cake"
+              ]
+            },
+            {
+              "ex_of_definition": "He complained that the sausages were too spicy for him."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spherical",
+    "spice",
+    "spiced",
+    "spiciness",
+    "spicy",
+    "spider",
+    "spike",
+    "spiked",
+    "spikiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060730_bed0d2909b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060730_448acdfae6_o.png",
+      "id_image": "spicy_4589912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323821_cef68ffd53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323821_57862983c3_o.png",
+      "id_image": "spicy_5495442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060705_d7d5fe03f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060705_3d5041632b_o.png",
+      "id_image": "spicy_5495572"
+    }
+  ]
+}

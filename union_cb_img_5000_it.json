@@ -1,0 +1,104 @@
+{
+  "english": "union",
+  "phat_am": "ˈjuːnjən",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự hợp nhất, sự kết hợp",
+          "definition": "the act of uniting or process of being united",
+          "world_new": [
+            "act",
+            "process",
+            "united"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Union between the two countries would be impossible.",
+              "world_new": [
+                "impossible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự kết hôn, hôn nhân",
+          "definition": "the state of being united, eg in marriage, friendship etc",
+          "world_new": [
+            "state",
+            "united",
+            "marriage",
+            "friendship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their marriage was a perfect union.",
+              "world_new": [
+                "marriage",
+                "perfect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hội, hiệp hội",
+          "definition": "a club or association",
+          "world_new": [
+            "club",
+            "association"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The European Union.",
+              "world_new": [
+                "European"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Even then, the threat of political change created strong disagreements between the medical trade unions and the opposition political parties.",
+    "Although the canonical interpretation is closed under intersections, it is not closed under unions.",
+    "The result is that unions have much greater success organizing workers in industries that feature complete labor contracts.",
+    "Institutions of civil society, including trade unions, churches and voluntary associations, were also intimately involved in the development of the administration of the welfare state.",
+    "Capital accepts the development of a large public insurance system in exchange for the unions' moderation and the availability of a well-qualified labour force.",
+    "On the one hand, they accurately recognize that the government's support for the employers forced the unions to temper their wage demands (p. 106-7).",
+    "Few trade unions existed and those which did had a handful of members and very little influence.",
+    "How were the unions' links to political parties established ?"
+  ],
+  "list_see_also": [
+    "Union Jack"
+  ],
+  "list_browse": [
+    "unintelligible",
+    "uninterested",
+    "uninterrupted",
+    "uninvited",
+    "union",
+    "Union Jack",
+    "unique",
+    "unisex",
+    "unison"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467733_e793048934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467733_793072efcd_o.png",
+      "id_image": "union_1070250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467708_95e66626d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467708_5ccdc698a1_o.png",
+      "id_image": "union_2694549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707624_905b310085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707624_a2d8e16339_o.png",
+      "id_image": "union_4960752"
+    }
+  ]
+}

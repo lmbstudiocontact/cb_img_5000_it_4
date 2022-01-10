@@ -1,0 +1,215 @@
+{
+  "english": "sail",
+  "phat_am": "seil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cánh buồm",
+          "definition": "a sheet of strong cloth spread to catch the wind, by which a ship is driven forward",
+          "world_new": [
+            "sheet",
+            "strong",
+            "cloth",
+            "spread",
+            "catch",
+            "wind",
+            "ship",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are hoisting the sails."
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyến đi xa bằng thuyền buồm",
+          "definition": "a journey in a ship",
+          "world_new": [
+            "journey",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sail in his yacht",
+              "world_new": [
+                "yacht"
+              ]
+            },
+            {
+              "ex_of_definition": "a week’s sail to the island.",
+              "world_new": [
+                "island"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản hứng gió (ở cối xay gió)",
+          "definition": "an arm of a windmill.",
+          "world_new": [
+            "arm",
+            "windmill"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy bằng buồm",
+          "definition": "(of a ship) to be moved by sails",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The yacht sailed away.",
+              "world_new": [
+                "yacht"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều khiển (thuyền buồm)",
+          "definition": "to steer or navigate a ship or boat",
+          "world_new": [
+            "steer",
+            "navigate",
+            "ship",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sailed (the boat) to the island.",
+              "world_new": [
+                "island"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi thuyền buồm",
+          "definition": "to go in a ship or boat (with or without sails)",
+          "world_new": [
+            "ship",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve never sailed through the Mediterranean.",
+              "world_new": [
+                "Mediterranean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi biển, chạy trên biển",
+          "definition": "to begin a voyage",
+          "world_new": [
+            "begin",
+            "voyage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The ship sails today",
+              "world_new": [
+                "ship"
+              ]
+            },
+            {
+              "ex_of_definition": "My aunt sailed today.",
+              "world_new": [
+                "aunt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi (du lịch) bằng đường biển",
+          "definition": "to travel on (the sea etc) in a ship",
+          "world_new": [
+            "travel",
+            "sea",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sailed the North Sea."
+            }
+          ]
+        },
+        {
+          "mean_english": "lướt, trôi, lao, vượt qua…",
+          "definition": "to move steadily and easily",
+          "world_new": [
+            "move",
+            "steadily",
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Clouds sailed across the sky",
+              "world_new": [
+                "across",
+                "sky"
+              ]
+            },
+            {
+              "ex_of_definition": "He sailed through his exams"
+            },
+            {
+              "ex_of_definition": "She sailed into the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He took the wind out of my sails.",
+    "The ship sailed with 12 lorries on board and their drivers.",
+    "On the opposite bank of the river lies a castle or fortified village, while in front, four sails are once again sketched in with a singularly free hand.",
+    "They were more likely to report swimming, sailing or contact with animals.",
+    "The airfoil theory predicts some interesting characteristics of sails.",
+    "What is sauce for the goose is sauce for expression refers to a ship or boat sailing the gander.",
+    "She sails under a safe-conduct accorded by the belligerents.",
+    "The ice prevented ships from sailing just as the weather often prevented airplanes from flying."
+  ],
+  "list_see_also": [
+    "sailboard",
+    "sailboat",
+    "sailing",
+    "sailing-",
+    "sailor",
+    "in full sail"
+  ],
+  "list_browse": [
+    "sage",
+    "sagely",
+    "Sagittarius",
+    "sago",
+    "sail",
+    "sailboard",
+    "sailboat",
+    "sailing",
+    "sailor"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452148_2f3485aa1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452148_5932c86379_o.png",
+      "id_image": "sail_1949309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692654_bb835d8c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692654_10f0ea3abf_o.png",
+      "id_image": "sail_859139"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "english": "tourist",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khách du lịch",
+          "definition": "a person who travels for pleasure",
+          "world_new": [
+            "person",
+            "travels",
+            "pleasure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "London is usually full of tourists",
+              "world_new": [
+                "full"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the tourist industry.",
+              "world_new": [
+                "industry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Meeting local idioms and new words in different countries adds to tourists' fun.",
+    "We must remember that those interviewed were tourists, and local people may have given a much less positive response.",
+    "According to the findings of this study, 90% of tourists want to buy organic products directly during their trip.",
+    "The self-confidence of local people, traditional culture preservation, and different cultural experiences shared with tourists can also be contributed to such an activity.",
+    "Border guards should not treat tourists too discourteously and sometimes should waive the letter of the law.",
+    "In the performance, they represent immigrants, tourists, refugees, or the homeless.",
+    "Once settled i in a destination area, retired residents adopt a relatively settled lifestyle, certainly in comparison with the tourists who visit the same areas.",
+    "The authors suggest a concentration of tourists when visiting southern giant petrel breeding sites to reduce repeated heart-rate increases and behavioural changes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "toupee",
+    "tour",
+    "tour guide",
+    "tourism",
+    "tourist",
+    "tourist guide",
+    "tournament",
+    "tourniquet",
+    "tout"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387252_19c49f17be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387252_0078e53570_o.png",
+      "id_image": "tourist_4891414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697429_ce2fa62345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697429_709d4afed3_o.png",
+      "id_image": "tourist_5020871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079630_462cc2fce5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079630_3cc55450e4_o.png",
+      "id_image": "tourist_5406483"
+    }
+  ]
+}

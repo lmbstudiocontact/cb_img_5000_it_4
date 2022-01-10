@@ -1,0 +1,79 @@
+{
+  "english": "swirl",
+  "phat_am": "swəːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cuộn, xoáy, cuốn đi",
+          "definition": "to (cause to) move quickly, with a whirling or circling motion",
+          "world_new": [
+            "move",
+            "quickly",
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The leaves were swirled along the ground by the wind.",
+              "world_new": [
+                "ground",
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xoáy, hình xoáy",
+          "definition": "a whirling or circling motion or shape",
+          "world_new": [
+            "motion",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dancers came on stage in a swirl of colour/color.",
+              "world_new": [
+                "stage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A good deal of swirling occurred among the middling group, but there was little fundamental change or replacement by others.",
+    "Your thoughts turn to blazing camp fires and swirling skirts.",
+    "A temporal linear stability analysis has been carried out to predict the instability of a viscous liquid jet surrounded by a swirling air stream with three-dimensional disturbances.",
+    "Despite the upgrade, the storm was not well organized, with several smaller swirls rotating around a common cyclonic gyre.",
+    "She begins experiencing excruciating headaches and the room starts swirling around her.",
+    "There is a swirling jet fan near the plane.",
+    "However, certain immigrants feel threatened by the publicity that is swirling around them.",
+    "Occasionally a cloud would settle over the mountain top for a day or two sending cool mists swirling through the steep alleyways."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "swing bridge",
+    "swing door",
+    "swinging",
+    "swipe",
+    "swirl",
+    "swish",
+    "switch",
+    "switch on/off",
+    "switchback"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331856_e9f4dc3fb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331856_d0c4d9bd2f_o.png",
+      "id_image": "swirl_6006266"
+    }
+  ]
+}

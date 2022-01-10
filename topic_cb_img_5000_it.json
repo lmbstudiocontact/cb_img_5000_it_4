@@ -1,0 +1,64 @@
+{
+  "english": "topic",
+  "phat_am": "ˈtopik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chủ đề",
+          "definition": "something spoken or written about; a subject",
+          "world_new": [
+            "spoken",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They discussed the weather and other topics.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The topic of spindle-whorl classification and use has received considerable attention.",
+    "As well, qualitative research is frequently used in psychology as a way of generating informed hypotheses for a given topic.",
+    "At the same time, adverbial licensing is a rather difficult topic, so some loose ends in the presentation can be expected.",
+    "At a particular \"real\" moment, will doctor, nurse, patient, and family agree to what had been planned when the topic was \"theoretical\"?",
+    "In this article, the above topics are further studied.",
+    "The book is valuable to undergraduate students, but it can also be a quick refresher on the topic for some graduate students.",
+    "It remains a topic for future research how this model will apply to other languages.",
+    "Embodiment, a topic which returns throughout the book, is discussed first."
+  ],
+  "list_see_also": [
+    "topical",
+    "topically"
+  ],
+  "list_browse": [
+    "top-heavy",
+    "top-secret",
+    "topaz",
+    "topi",
+    "topic",
+    "topical",
+    "topically",
+    "topless",
+    "topmost"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343451_6107505e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343451_5b9f52f422_o.png",
+      "id_image": "topic_5455650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343421_2cd9e5d598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343421_d9364ca37b_o.png",
+      "id_image": "topic_5983898"
+    }
+  ]
+}

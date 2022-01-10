@@ -1,0 +1,144 @@
+{
+  "english": "tax",
+  "phat_am": "tӕks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thuế",
+          "definition": "money, eg a percentage of a person’s income or of the price of goods etc taken by the government to help pay for the running of the state",
+          "world_new": [
+            "money",
+            "percentage",
+            "income",
+            "price",
+            "goods",
+            "government",
+            "help",
+            "pay",
+            "running",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "income tax",
+              "world_new": [
+                "income"
+              ]
+            },
+            {
+              "ex_of_definition": "a tax on tobacco.",
+              "world_new": [
+                "tobacco"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gánh nặng",
+          "definition": "a strain or burden",
+          "world_new": [
+            "strain",
+            "burden"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The continual noise was a tax on her nerves.",
+              "world_new": [
+                "continual",
+                "noise",
+                "nerves"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh thuế",
+          "definition": "to make (a person) pay (a) tax; to put a tax on (goods etc)",
+          "world_new": [
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is taxed on his income",
+              "world_new": [
+                "income"
+              ]
+            },
+            {
+              "ex_of_definition": "Alcohol is taxed."
+            }
+          ]
+        },
+        {
+          "mean_english": "đòi hỏi nặng nề",
+          "definition": "to put a strain on",
+          "world_new": [
+            "strain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t tax your strength!",
+              "world_new": [
+                "your",
+                "strength"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Any non-zero imposition of tax makes the high-efficiency boiler plus the baghouse the least-cost option.",
+    "However, the increased cost on capital plus the incurred tax burden raise the unit cost of producing the rural good.",
+    "In all the scenarios, the developed country pursues a domestic tax policy as part of its commitment to reduce emissions.",
+    "The key to arriving at consistent accounting is 'implicit tax ' inherent in public pension systems relying on mandatory contributions while being completely or partially unfunded.",
+    "An inefficient tax system could thus have survived if political rigidities prevented a ruler from changing it.",
+    "This was the point of the capital gains tax.",
+    "Once the pollution control board imposes a tax, the plants have to choose between options.",
+    "We argue that the driving force behind the evolution of indirect taxes lies in the relationship between government partisanship and the organization of economic institutions."
+  ],
+  "list_see_also": [
+    "taxable",
+    "taxation",
+    "taxing",
+    "tax-free",
+    "taxpayer",
+    "tax (someone) with"
+  ],
+  "list_browse": [
+    "taut",
+    "tauten",
+    "tavern",
+    "tawny",
+    "tax",
+    "tax (someone) with",
+    "tax-free",
+    "taxable",
+    "taxation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468813_7ed8f50611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468813_8d66c252fb_o.png",
+      "id_image": "tax_4539932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354076_68bb227993_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354076_e07032157c_o.png",
+      "id_image": "tax_6135608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354046_7a5b6fa9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354046_012d1e04a5_o.png",
+      "id_image": "tax_6296593"
+    }
+  ]
+}

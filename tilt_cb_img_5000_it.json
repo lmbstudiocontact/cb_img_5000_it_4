@@ -1,0 +1,94 @@
+{
+  "english": "tilt",
+  "phat_am": "tilt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tròng trành",
+          "definition": "to go or put (something) into a sloping or slanting position",
+          "world_new": [
+            "sloping",
+            "slanting",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tilted his chair backwards",
+              "world_new": [
+                "chair",
+                "backwards"
+              ]
+            },
+            {
+              "ex_of_definition": "The lamp tilted and fell.",
+              "world_new": [
+                "lamp",
+                "fell"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự nghiêng",
+          "definition": "a slant; a slanting position",
+          "world_new": [
+            "slanting",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The table is at a slight tilt.",
+              "world_new": [
+                "table",
+                "slight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the remaining 12 subjects, vasopressin elevated to an appropriate level for the corresponding hypotension that tilting induced.",
+    "In the present experiments, the whole tank was tilted at an angle to the horizontal.",
+    "Throughout 1968 the balance of payments still tilted heavily towards deficit, and sterling holders continued to diversify.",
+    "Though test-retest reliability was typically considered pre-requisite, any of the other criteria could tilt the ranking either upward or downward.",
+    "The expansion indicates the outward diffusion of the amplified vorticity concentrated within a tilting cross-vortex tube.",
+    "As the stretched tube moves downstream, the tilting becomes more pronounced with increasing time.",
+    "The classical tomography approach requires many pictures of the same particles tilted into different orientations.",
+    "The mirror is tilted in order to reinject the reflected beam along an optimal return path back into the gain region of the plasma."
+  ],
+  "list_see_also": [
+    "(at) full tilt"
+  ],
+  "list_browse": [
+    "tile",
+    "tiled",
+    "till",
+    "tiller",
+    "tilt",
+    "timber",
+    "time",
+    "time and (time) again",
+    "time bomb"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462348_023aa14910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462348_a7fb77d152_o.png",
+      "id_image": "tilt_1260013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084905_7ac50bb07e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084905_66cfb93e43_o.png",
+      "id_image": "tilt_4335020"
+    }
+  ]
+}

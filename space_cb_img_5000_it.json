@@ -1,0 +1,140 @@
+{
+  "english": "space",
+  "phat_am": "speis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khoảng trống, khoảng cách",
+          "definition": "a gap; an empty or uncovered place",
+          "world_new": [
+            "empty",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I couldn’t find a space for my car.",
+              "world_new": [
+                "I",
+                "find",
+                "my",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng, chỗ",
+          "definition": "room; the absence of objects; the area available for use",
+          "world_new": [
+            "absence",
+            "area",
+            "available"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you enough space to turn round?",
+              "world_new": [
+                "turn"
+              ]
+            },
+            {
+              "ex_of_definition": "Is there space for one more?"
+            }
+          ]
+        },
+        {
+          "mean_english": "không gian vũ trụ",
+          "definition": "(often outer space) the region outside the Earth’s atmosphere, in which all stars and other planets etc are situated",
+          "world_new": [
+            "region",
+            "outside",
+            "atmosphere",
+            "situated"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "travellers through space."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đặt cách nhau",
+          "definition": "(also space out) to set (things) apart from one another",
+          "world_new": [
+            "apart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spaced the rows of potatoes half a metre apart.",
+              "world_new": [
+                "half",
+                "metre",
+                "apart"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, the isometry between two foliations is equivalent to the conjugacy between the dihedral group actions on the covering spaces [10].",
+    "Offensive exhibitionism can also occur in private spaces.",
+    "He or she was more likely to be in their bedroom, and less involved in the activities that occurred in the public spaces.",
+    "They also know that they police these spaces at their peril.",
+    "Inter-word spaces are the visual equivalent of auditory segmentation, defining the boundary of attention.",
+    "Here, we are interested in the dynamical behavior of a sequence of maps, along a sequence of spaces.",
+    "However, even when people could manage their domestic spaces in a practical sense, phenomenologically nothing was the same.",
+    "Our metrics will be defined on several different spaces."
+  ],
+  "list_see_also": [
+    "spacing",
+    "spacious",
+    "spaciously",
+    "spaciousness",
+    "space-age",
+    "spacecraft",
+    "spaceship",
+    "spacesuit"
+  ],
+  "list_browse": [
+    "sow",
+    "soy",
+    "soy sauce",
+    "soya bean",
+    "space",
+    "space-age",
+    "spacecraft",
+    "spaceship",
+    "spacesuit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370067_a6a4bfed3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370067_e285becee5_o.png",
+      "id_image": "space_327430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440168_aa231cf7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440168_256c40c796_o.png",
+      "id_image": "space_501125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680264_ebd7d92b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680264_8d05dd312e_o.png",
+      "id_image": "space_5928391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680294_3947bfc106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680294_545bec1d1e_o.png",
+      "id_image": "space_749500"
+    }
+  ]
+}

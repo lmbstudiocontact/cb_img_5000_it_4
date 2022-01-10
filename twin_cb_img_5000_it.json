@@ -1,0 +1,86 @@
+{
+  "english": "twin",
+  "phat_am": "twin",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con sinh đôi",
+          "definition": "one of two children or animals born of the same mother at the same time",
+          "world_new": [
+            "mother",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave birth to twins",
+              "world_new": [
+                "birth"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) They have twin daughters."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái giống nhau",
+          "definition": "one of two similar or identical things",
+          "world_new": [
+            "similar",
+            "identical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her dress is the exact twin of mine.",
+              "world_new": [
+                "dress",
+                "exact"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Correlations for twins and their spouses were derived conditional on the length of the relationship.",
+    "The twins' half-brother needed a bone marrow transplant.",
+    "Genetic epidemiological studies - quasiexperimental studies of families, adoptees, and twins - can yield important data about the etiology of chronic fatigue.",
+    "A meta-analysis of estimated genetic and environmental effects on smoking behavior in male and female adult twins.",
+    "Data were collected from the twins and their parents during 1990 -1991 and rated on a 4-point-scale (often to never).",
+    "There were no signi®cant differences in any measures of neonatal outcome when breech-extracted twins were compared with second twins delivered by caesarean section.",
+    "A controlled study of brain structure in monozygotic twins concordant for schizophrenia.",
+    "The aim of the present study was to estimate the genetic contribution to the aetiology of self-reported eating disorders in a sample of representative twins."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "twice",
+    "twiddle",
+    "twig",
+    "twilight",
+    "twin",
+    "twine",
+    "twinge",
+    "twinkle",
+    "twirl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442768_a65a9b872e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442768_5d1250daab_o.png",
+      "id_image": "twin_2357113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327776_b57293a079_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327776_37c1972fef_o.png",
+      "id_image": "twin_4842325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682774_8528d73fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682774_1b31ecf25d_o.png",
+      "id_image": "twin_6254373"
+    }
+  ]
+}

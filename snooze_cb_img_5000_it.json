@@ -1,0 +1,82 @@
+{
+  "english": "snooze",
+  "phat_am": "snuːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngủ gà ngủ gật",
+          "definition": "to doze or sleep lightly",
+          "world_new": [
+            "doze",
+            "sleep",
+            "lightly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His grandfather was snoozing in his armchair.",
+              "world_new": [
+                "grandfather",
+                "armchair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một giấc ngủ ngắn",
+          "definition": "a short period of light sleep",
+          "world_new": [
+            "short",
+            "period",
+            "light",
+            "sleep"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was enjoying a quick snooze after lunch.",
+              "world_new": [
+                "quick",
+                "lunch"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Around the plinth are statues of four crouching lions, which are described as mourning, or snoozing.",
+    "Sheriffs can be wheeled into court, or cannot hear half the time, or may snooze.",
+    "I saw a cat snoozing quietly on it, and all those who had been electrocuted had their photographs hanging all round.",
+    "She also loves to sleep, hates to be waken up, and considers mankind's greatest invention to be the snooze button on her alarm clock.",
+    "The airport offers fuel services along with a small snack bar, a couple of hangars, mechanics, and pilot snooze room.",
+    "Weary for working several hours continuously, the animator decides to take a little snooze.",
+    "However, they are often lazy, and can be found snoozing in a patch of sunlight.",
+    "Xander shows up for the second shiftor rather, snoozing."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snobbishly",
+    "snobbishness",
+    "snooker",
+    "snoop",
+    "snooze",
+    "snore",
+    "snorkel",
+    "snort",
+    "snout"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684259_8558fe567e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684259_516bcda150_o.png",
+      "id_image": "snooze_3602457"
+    }
+  ]
+}

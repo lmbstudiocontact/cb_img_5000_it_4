@@ -1,0 +1,194 @@
+{
+  "english": "shade",
+  "phat_am": "ʃeid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bóng, bóng tối",
+          "definition": "slight darkness caused by the blocking of some light",
+          "world_new": [
+            "slight",
+            "darkness",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I prefer to sit in the shade rather than the sun.",
+              "world_new": [
+                "I",
+                "prefer",
+                "sit",
+                "rather",
+                "sun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bóng",
+          "definition": "the dark parts of a picture",
+          "world_new": [
+            "dark",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the clever use of light and shade in the portrait.",
+              "world_new": [
+                "clever",
+                "light",
+                "portrait"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỗ có bóng mát",
+          "definition": "something that screens or shelters from light or heat",
+          "world_new": [
+            "light",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a large sunshade",
+              "world_new": [
+                "large",
+                "sunshade"
+              ]
+            },
+            {
+              "ex_of_definition": "a shade for a light.",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chuyển dần màu",
+          "definition": "a variety of a colour/color; a slight difference",
+          "world_new": [
+            "variety",
+            "slight",
+            "difference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pretty shade of green",
+              "world_new": [
+                "pretty",
+                "green"
+              ]
+            },
+            {
+              "ex_of_definition": "shades of meaning.",
+              "world_new": [
+                "shades",
+                "meaning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "a slight amount",
+          "world_new": [
+            "slight",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The weather is a shade better today.",
+              "world_new": [
+                "weather",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "che bóng mát cho",
+          "definition": "(sometimes with from) to shelter from light or heat",
+          "world_new": [
+            "shelter",
+            "light",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put up his hand to shade his eyes.",
+              "world_new": [
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm tối sầm",
+          "definition": "to make darker",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should shade the foreground of that drawing.",
+              "world_new": [
+                "foreground",
+                "drawing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tô đậm, nhạt dần",
+          "definition": "(with into) to change very gradually eg from one colour/color to another.",
+          "world_new": [
+            "change",
+            "gradually"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In tropical moist forest, advance regeneration in the form of shade-suppressed seedlings is a major component of regrowth in new gaps.",
+    "Effect of shading on nonstructural carbohydrates and their turnover in culms and leaves during the grain filling period of spring wheat.",
+    "All studied individuals were isolated savanna trees that were not shaded by other trees.",
+    "Also, the shade plants tended to have 1-2 cell layers in the palisade mesophyll compared with 2-3 layers in sun plants.",
+    "Days after transfer from shaded to full daylight pretreated!",
+    "Therefore, dry forest species do not fit neatly into the shade-tolerant or shade-intolerant groups of species.",
+    "Open bars represent the cool dry season, shaded bars the hot-dry season and solid bars the rainy season.",
+    "The 6 conserved cysteine residues are shaded in light grey."
+  ],
+  "list_see_also": [
+    "shaded",
+    "shades",
+    "shading",
+    "shady",
+    "shadiness",
+    "put in the shade"
+  ],
+  "list_browse": [
+    "shack",
+    "shack up",
+    "shackle",
+    "shackles",
+    "shade",
+    "shaded",
+    "shades",
+    "shadiness",
+    "shading"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702629_095c2f32c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702629_3cdbf1525d_o.png",
+      "id_image": "shade_2130697"
+    }
+  ]
+}

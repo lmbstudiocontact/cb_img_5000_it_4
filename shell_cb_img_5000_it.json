@@ -1,0 +1,157 @@
+{
+  "english": "shell",
+  "phat_am": "ʃel",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vỏ, mai",
+          "definition": "the hard outer covering of a shellfish, egg, nut etc",
+          "world_new": [
+            "outer",
+            "covering",
+            "shellfish",
+            "egg",
+            "nut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an eggshell",
+              "world_new": [
+                "eggshell"
+              ]
+            },
+            {
+              "ex_of_definition": "A tortoise can pull its head and legs under its shell.",
+              "world_new": [
+                "tortoise",
+                "pull",
+                "its",
+                "head",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cấu trúc tạo nên khung hoặc vỏ",
+          "definition": "an outer covering or framework",
+          "world_new": [
+            "outer",
+            "covering",
+            "framework"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After the fire, all that was left was the burned-out shell of the building.",
+              "world_new": [
+                "fire",
+                "left",
+                "building"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả đạn pháo, đạn súng cối",
+          "definition": "a metal case filled with explosives and fired from a gun etc",
+          "world_new": [
+            "metal",
+            "case",
+            "filled",
+            "gun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A shell exploded right beside him.",
+              "world_new": [
+                "right"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bóc vỏ, lột vỏ",
+          "definition": "to remove from its shell or pod",
+          "world_new": [
+            "remove",
+            "its",
+            "pod"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have to shell peas before eating them."
+            }
+          ]
+        },
+        {
+          "mean_english": "bắn pháo, nã pháo",
+          "definition": "to fire explosive shells at",
+          "world_new": [
+            "fire",
+            "explosive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The army shelled the enemy mercilessly.",
+              "world_new": [
+                "army",
+                "enemy",
+                "mercilessly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Accounting for the heat removal in the contact area gives rise to another boundary condition, which holds true for thin shells: 1 d !",
+    "Mechanical presses to make oil from the shelled seeds exist locally, but machines to remove the shells do not.",
+    "Incidentally, these examples illustrate that actual shells generally have a variable thickness.",
+    "Five kilograms of cobs from each plot were dried, shelled and the g rain yield deter mined after adjustment to 13% water content.",
+    "The prevalence of spinose and sculptured shells is striking.",
+    "Based on the unfinished margins of some of the irregular beads, these were made from the whorl of marine shells.",
+    "As expected, near the nozzle 2 mm!, the flow consists of two distinct shells.",
+    "The concentric spherical shells, the so called \"onions,\" constitute a form of carbon consisting of spherical concentric layers of carbon shells."
+  ],
+  "list_see_also": [
+    "shellfish",
+    "come out of one’s shell",
+    "shell out"
+  ],
+  "list_browse": [
+    "sheet-lightning",
+    "sheik",
+    "sheikdom",
+    "shelf",
+    "shell",
+    "shell out",
+    "shellfish",
+    "shelter",
+    "sheltered"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082980_46af911274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082980_44f7cbe305_o.png",
+      "id_image": "shell_184328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700644_1dfd937506_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700644_10bc183128_o.png",
+      "id_image": "shell_4516023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700669_9cf6836f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700669_dc95da9dab_o.png",
+      "id_image": "shell_874945"
+    }
+  ]
+}

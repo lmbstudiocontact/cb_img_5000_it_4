@@ -1,0 +1,153 @@
+{
+  "english": "transfer",
+  "phat_am": "trӕnsˈfəː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dời",
+          "definition": "to remove to another place",
+          "world_new": [
+            "remove",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He transferred the letter from his briefcase to his pocket.",
+              "world_new": [
+                "letter",
+                "briefcase",
+                "pocket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển, dọn",
+          "definition": "to (cause to) move to another place, job, vehicle etc",
+          "world_new": [
+            "move",
+            "place",
+            "job",
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m transferring / They’re transferring me to the Bangkok office.",
+              "world_new": [
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển nhượng",
+          "definition": "to give to another person, especially legally",
+          "world_new": [
+            "person",
+            "legally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I intend to transfer the property to my son.",
+              "world_new": [
+                "I",
+                "intend",
+                "property",
+                "my",
+                "son"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự chuyển nhượng",
+          "definition": "the act of transferring",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The manager arranged for his transfer to another football club.",
+              "world_new": [
+                "manager",
+                "football",
+                "club"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "(nghệ thuật) bản đồ lại",
+          "definition": "a design, picture etc that can be transferred from one surface to another, eg from paper to material as a guide for embroidery.",
+          "world_new": [
+            "design",
+            "picture",
+            "surface",
+            "paper",
+            "material",
+            "guide",
+            "embroidery"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The energy taken up by the sorbent is transferred to the adsorbed substances, both water and acid molecules.",
+    "The final step is to show that there exists a weight system for which the transfers equal zero.",
+    "In most climate change impact studies, per-unit value estimates were more or less directly transferred from the study site.",
+    "At the same time, third instar larvae were transferred to the upper surface of the first fully opened mature leaf of individual plants.",
+    "A cache line consists of many cells, and we have assumed that the whole line would be transferred.",
+    "Even in the final period of our study, 1825-1849, almost two-thirds of the transfers between parents and children involved retirement.",
+    "In such cases seed tubers were dug up and transferred to a cooler place (see next section).",
+    "He found that if patients maintained independence to make transfers and to dress, even though their dementia was severe, they could maintain continence."
+  ],
+  "list_see_also": [
+    "transferable"
+  ],
+  "list_browse": [
+    "transaction",
+    "transatlantic",
+    "transcontinental",
+    "transcript",
+    "transfer",
+    "transferable",
+    "transform",
+    "transformation",
+    "transformer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693824_2a6bfdec52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693824_14a13956ef_o.png",
+      "id_image": "transfer_1349712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075685_e89093a67f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075685_9d6c476ec4_o.png",
+      "id_image": "transfer_1364961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693909_b0239a933f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693909_58f3b9a616_o.png",
+      "id_image": "transfer_296902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383657_4f641bb4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383657_c119ea5cb2_o.png",
+      "id_image": "transfer_855401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693839_3d89cc81e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693839_45ab775c4d_o.png",
+      "id_image": "transfer_901039"
+    }
+  ]
+}

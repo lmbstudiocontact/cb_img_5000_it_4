@@ -1,0 +1,98 @@
+{
+  "english": "stack",
+  "phat_am": "stӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cụm, chùm, đống",
+          "definition": "a large, usually neatly shaped, pile eg of hay, straw, wood etc",
+          "world_new": [
+            "large",
+            "neatly",
+            "shaped",
+            "pile",
+            "hay",
+            "straw",
+            "wood"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a haystack."
+            }
+          ]
+        },
+        {
+          "mean_english": "giá sách, kho sách",
+          "definition": "a set of shelves for books eg in a library.",
+          "world_new": [
+            "library"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chất thành đống",
+          "definition": "to arrange in a large, usually neat, pile",
+          "world_new": [
+            "arrange",
+            "large",
+            "neat",
+            "pile"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Stack the books up against the wall.",
+              "world_new": [
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The children stacked tins as for display in a supermarket.",
+    "The relative stabilities of alternative stacking conformers could be determined by differences in stacking free energies.",
+    "In this case stacks have a 6% overall performance advantage.",
+    "The mere presence of party ratio stacking indicates a partisan element in committee selection and drawing from the parties separately eliminates that element.",
+    "The first and foremost modification introduced into anchovy cones was the turning of the lamellar stacks by 90 deg, effectively producing receptors with end-on dichroism.",
+    "Let us recall the cutting and stacking construction of this dynamical system.",
+    "The authors of the guide have had the great advantage of direct access to the archives' stacks.",
+    "The storage problems occur because of the potentially large number and size of distinct stacks to which it might be necessary to attribute costs."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stability",
+    "stabilization",
+    "stabilize",
+    "stable",
+    "stack",
+    "stadium",
+    "staff",
+    "staffroom",
+    "stag"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395662_e2c54ece35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395662_92f6596664_o.png",
+      "id_image": "stack_1580485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705479_47ca6b8d45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705479_6d827dde07_o.png",
+      "id_image": "stack_2450181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465443_f949dc96ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465443_dfafecd104_o.png",
+      "id_image": "stack_3342140"
+    }
+  ]
+}

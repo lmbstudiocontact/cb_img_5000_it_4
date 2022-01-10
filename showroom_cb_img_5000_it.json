@@ -1,0 +1,68 @@
+{
+  "english": "showroom",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phòng trưng bày",
+          "definition": "a room where objects for sale etc are displayed for people to see",
+          "world_new": [
+            "room",
+            "sale",
+            "people",
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a car showroom.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But showrooms are often not listed in phone books, because the corporation prefers inquires to be directed to the regional depots.",
+    "Previously, it took over 5 years to bring a car from inception to showroom.",
+    "We are opposed to the removal of the corporation's rights to retail gas appliances and the proposed sale of showrooms to private enterprise.",
+    "Instead, there are to be warehouses, motorcar showrooms, and the like.",
+    "Up and down the country these showrooms are on prime sites in every high street and in all the new shopping precincts.",
+    "The argument that we must maintain highly expensive central high street showrooms for the payment of accounts does not hold water.",
+    "Accordingly, the order that shipped from the factory often failed to match the showroom samples the customer had seen when placing his or her order.",
+    "This addition will help to fill a gap and will bring products out of the backroom and into the showroom."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "showery",
+    "showground",
+    "showiness",
+    "showman",
+    "showroom",
+    "showy",
+    "shrapnel",
+    "shred",
+    "shredder"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341841_839a75b927_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341841_d970871ea1_o.png",
+      "id_image": "showroom_2421847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079250_ebd6c9d478_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079250_c62ef488ba_o.png",
+      "id_image": "showroom_3028570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341761_4495649085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341761_2df293f8fb_o.png",
+      "id_image": "showroom_5235605"
+    }
+  ]
+}

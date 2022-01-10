@@ -1,0 +1,108 @@
+{
+  "english": "roof",
+  "phat_am": "ruːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mái nhà",
+          "definition": "the top covering of a building etc",
+          "world_new": [
+            "top",
+            "covering",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a flat roof",
+              "world_new": [
+                "flat"
+              ]
+            },
+            {
+              "ex_of_definition": "a tiled roof",
+              "world_new": [
+                "tiled"
+              ]
+            },
+            {
+              "ex_of_definition": "the roof of a car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lợp mái nhà",
+          "definition": "to cover with a roof",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ll finish roofing the house next week.",
+              "world_new": [
+                "finish",
+                "roofing",
+                "house",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The roofs are 'green' planes, so that viewed from the upper storeys of adjacent properties they will give the appearance of terraced gardens.",
+    "The important 'fragments' are the walls, floors, ceilings and roofs and how they meet establishes so much of the space's character.",
+    "The buildings were quite large, relatively low, flat platforms that originally suppor ted perishable wattle-anddaub superstructures with thatched roofs.",
+    "Ownership of a house, furniture, roofs, front doors, windows and every other part of the house contribute to the pride of the owner.",
+    "Pitched roofs allowed a rise of half a storey height over one bay of 113 (3.43m) and could continue for another bay.",
+    "One of these posters shows a cluster of dwellings, large and small, with red-tiled roofs.",
+    "Technical innovations related to the construction of the building were set out originally in relation to the use of intelligent night cooling, and the roofing material.",
+    "They were scarcely even repairing the roofs to provide dry stables for their horses."
+  ],
+  "list_see_also": [
+    "roofing",
+    "roof rack",
+    "roof top",
+    "go through the roof / hit the roof",
+    "roof of the mouth"
+  ],
+  "list_browse": [
+    "romantic",
+    "romantically",
+    "romanticize",
+    "romp",
+    "roof",
+    "roof of the mouth",
+    "roof rack",
+    "roof top",
+    "roofing"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342741_479573d4cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342741_4a2fed99a3_o.png",
+      "id_image": "roof_1207146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387807_bd1aa8a42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387807_29c5425e68_o.png",
+      "id_image": "roof_252740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387787_eb0f2597df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387787_a404a394d4_o.png",
+      "id_image": "roof_313074"
+    }
+  ]
+}

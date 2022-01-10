@@ -1,0 +1,161 @@
+{
+  "english": "thin",
+  "phat_am": "θin",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mỏng",
+          "definition": "having a short distance between opposite sides",
+          "world_new": [
+            "short",
+            "distance",
+            "opposite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "thin paper",
+              "world_new": [
+                "paper"
+              ]
+            },
+            {
+              "ex_of_definition": "The walls of these houses are too thin."
+            }
+          ]
+        },
+        {
+          "mean_english": "gầy",
+          "definition": "(of people or animals) not fat",
+          "world_new": [
+            "people",
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She looks thin since her illness.",
+              "world_new": [
+                "looks",
+                "illness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "loãng",
+          "definition": "(of liquids, mixtures etc) not containing any solid matter; rather lacking in taste; (tasting as if) containing a lot of water or too much water",
+          "world_new": [
+            "solid",
+            "rather",
+            "water",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "thin soup.",
+              "world_new": [
+                "soup"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mỏng",
+          "definition": "not set closely together; not dense or crowded",
+          "world_new": [
+            "closely",
+            "dense",
+            "crowded"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His hair is getting rather thin.",
+              "world_new": [
+                "hair",
+                "rather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không thuyết phục",
+          "definition": "not convincing or believable",
+          "world_new": [
+            "convincing",
+            "believable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a thin excuse.",
+              "world_new": [
+                "excuse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho mỏng hơn",
+          "definition": "to make or become thin or thinner",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The crowd thinned after the parade was over.",
+              "world_new": [
+                "crowd",
+                "parade"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although these candidates are subsequently thinned to only k results, the process will no longer take constant time.",
+    "The wall of the left ventricle was again hypoplastic and thinned.",
+    "What saves the day is the idea of thinning.",
+    "Plants were thinned to two per pot six days after emergence.",
+    "Due to the sign in it is important to know that is positive for all materials that get thinner when stretched.",
+    "The ventricular wall is usually thinner than normal, particularly in patients undergoing surgery.",
+    "Trees that have not been thinned and have set a large crop will therefore tend to abscise far more fruits than trees that were thinned.",
+    "Seedlings were thinned to one plant per hole."
+  ],
+  "list_see_also": [
+    "thinly",
+    "thinness",
+    "thin air",
+    "thin-skinned",
+    "thin out"
+  ],
+  "list_browse": [
+    "thief",
+    "thieve",
+    "thigh",
+    "thimble",
+    "thin",
+    "thin air",
+    "thin out",
+    "thin-skinned",
+    "thine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704319_9233e7eee7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704319_04e005e46a_o.png",
+      "id_image": "thin_1466546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704299_13781015da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704299_f3846d860c_o.png",
+      "id_image": "thin_4637252"
+    }
+  ]
+}

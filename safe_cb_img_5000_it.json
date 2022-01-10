@@ -1,0 +1,179 @@
+{
+  "english": "safe",
+  "phat_am": "seif",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "an toàn",
+          "definition": "(opposite unsafe) protected, or free (from danger etc)",
+          "world_new": [
+            "protected",
+            "free",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children are safe from danger in the garden.",
+              "world_new": [
+                "danger",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có thể tin cậy",
+          "definition": "providing good protection",
+          "world_new": [
+            "protection"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should keep your money in a safe place.",
+              "world_new": [
+                "keep",
+                "your",
+                "money",
+                "place"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "an toàn",
+          "definition": "unharmed",
+          "world_new": [
+            "unharmed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The missing child has been found safe and well.",
+              "world_new": [
+                "missing",
+                "child",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vô hại, an toàn",
+          "definition": "not likely to cause harm",
+          "world_new": [
+            "likely",
+            "cause",
+            "harm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These pills are safe for children."
+            }
+          ]
+        },
+        {
+          "mean_english": "an toàn, đáng tin cậy",
+          "definition": "(of a person) reliable",
+          "world_new": [
+            "reliable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a safe driver",
+              "world_new": [
+                "driver"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s a very fast driver, but he’s safe enough.",
+              "world_new": [
+                "fast",
+                "driver"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tủ sắt , két sắt",
+          "definition": "a heavy metal chest or box in which money etc can be locked away safely",
+          "world_new": [
+            "heavy",
+            "metal",
+            "chest",
+            "box",
+            "money",
+            "safely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is a small safe hidden behind that picture on the wall.",
+              "world_new": [
+                "small",
+                "hidden",
+                "picture",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Below this limiting number of teeth, the arc radius can be slightly increased to bring down the stresses to a safer value.",
+    "A bypass tube graft may be safer, but does not deal with the site of coarctation itself (and perhaps potentiates to the late formation of aneurysms).",
+    "If however there is doubt about the success of the procedure it is always safer to have a functioning epidural so that emergency operative delivery can be performed, if required.",
+    "However, little research has been performed on creating new, safer spreadsheet systems.",
+    "Reputation systems are being powered by the participants themselves-the community-and work to create a safer community.",
+    "The mesh generates a more dense interconnection between the helicopters, which is safer and more robust.",
+    "More research must be directed to confirm this pattern and explain why current interventions might be effecting safer injecting practices among female injectors.",
+    "The method can automatically choose the easiest and safest route for an industrial robot from one position to another."
+  ],
+  "list_see_also": [
+    "safeness",
+    "safely",
+    "safety",
+    "safeguard",
+    "safety belt",
+    "safety lamp",
+    "safety measures",
+    "safety-pin",
+    "safety valve",
+    "be on the safe side",
+    ""
+  ],
+  "list_browse": [
+    "sadness",
+    "SAE",
+    "safari",
+    "safari park",
+    "safe",
+    "safe and sound",
+    "safeguard",
+    "safely",
+    "safeness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452508_7237089d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452508_d6edf9a8ec_o.png",
+      "id_image": "safe_2867912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692869_647cb286b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692869_e79a38aeb3_o.png",
+      "id_image": "safe_3064162"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337566_6a879e5e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337566_d4bf03167a_o.png",
+      "id_image": "safe_5448593"
+    }
+  ]
+}

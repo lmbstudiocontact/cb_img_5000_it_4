@@ -1,0 +1,85 @@
+{
+  "english": "satellite",
+  "phat_am": "ˈsӕtəlait",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vệ tinh",
+          "definition": "a smaller body that revolves around a planet",
+          "world_new": [
+            "body",
+            "planet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Moon is a satellite of the Earth."
+            }
+          ]
+        },
+        {
+          "mean_english": "vệ tinh nhân tạo",
+          "definition": "a man-made object fired into space to travel round usually the Earth",
+          "world_new": [
+            "man-made",
+            "object",
+            "space",
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a weather satellite.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One broad area of application is in the servicing, construction, and maintenance of satellites and large space structures in orbit.",
+    "In any case, the presence of such a plasmapause and its possible shape need further investigation using satellites.",
+    "The satellites will be define rigorously later.",
+    "They are intended to explore extensively our own solar system, including planets, satellites, comets and asteroids.",
+    "The use of micro satellites for genetic analysis of natural populations.",
+    "Such analysis finds application in medical imaging and in processing of photographs from aeroplanes and satellites and surveillance cameras.",
+    "Further developments in image processing occurred in the following years in the context of medical research and earth-orbiting satellites.",
+    "The problem dependent modification of standard genetic-algorithm concepts allows efficient decomposition of spectra in concrete physical terms, such as resonance and intercombination lines, dielectronic satellites, or prospective nuclear transitions."
+  ],
+  "list_see_also": [
+    "satellite dish",
+    "satellite navigation",
+    "satellite television"
+  ],
+  "list_browse": [
+    "Sat.",
+    "Satan",
+    "satanic",
+    "satchel",
+    "satellite",
+    "satellite dish",
+    "satellite navigation",
+    "satellite television",
+    "satin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689469_a20428a5e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689469_ee3c2007fd_o.png",
+      "id_image": "satellite_178537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334381_319918f7d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334381_fc957d5891_o.png",
+      "id_image": "satellite_309266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379197_77f6eebe9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379197_cda36772a0_o.png",
+      "id_image": "satellite_501951"
+    }
+  ]
+}

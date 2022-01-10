@@ -1,0 +1,62 @@
+{
+  "english": "sleeveless",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không có ống tay",
+          "definition": "without sleeves",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sleeveless dress.",
+              "world_new": [
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The women wear a collarless and sleeveless cloth to cover them from the shoulders to the knees.",
+    "By 1964, \"discotheque\" and the shorthand \"disco\" were used to describe a type of sleeveless dress used when going out to nightclubs.",
+    "A quilted sleeveless jacket was worn in cold weather.",
+    "The sleeve length is also variable, ranging from full-length or three-quarters to short-sleeved, cap sleeves or sleeveless.",
+    "The waistcoat could be sleeveless or have long sleeves.",
+    "In the early period of the game's development players often wore sleeveless lace-up tops which gradually disappeared between the 1960s and early 1980s.",
+    "Additionally, the sleeveless jerseys were abandoned for more traditional shirts.",
+    "Wearing shorts, sleeveless shirts or tanktops should be avoided."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sleepy",
+    "sleet",
+    "sleeve",
+    "-sleeved",
+    "sleeveless",
+    "sleigh",
+    "slender",
+    "slew",
+    "slice"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070500_3eafdb0c6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070500_fd14cde8da_o.png",
+      "id_image": "sleeveless_1826469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688694_ed65e66978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688694_d7d4ee4c85_o.png",
+      "id_image": "sleeveless_293190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448653_86f3694b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448653_e826306c3d_o.png",
+      "id_image": "sleeveless_2965267"
+    }
+  ]
+}

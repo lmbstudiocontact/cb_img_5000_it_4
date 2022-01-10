@@ -1,0 +1,62 @@
+{
+  "english": "selective",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có tuyển chọn",
+          "definition": "having the power of choice and using it, especially carefully",
+          "world_new": [
+            "power",
+            "choice",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is very selective about clothes.",
+              "world_new": [
+                "clothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Second, the high rate of follow-up participation reduces the risk of bias due to selective attrition.",
+    "A genetic constraint should be understood as a selective tradeoff between the new mutation and the existing genome.",
+    "The inherent connection between a functional turnover and selective replication is postulated but not argued for in the course of the article.",
+    "Selective recall from the set of available autobiographical memories may also be seen as a type of reconstruction of a person's history.",
+    "In the majority of these studies, samples were small, selective or included non-clinical subjects.",
+    "In four patients, it was placed through the brachiocephalic artery permitting selective perfusion of the brain during repair of the aortic arch.",
+    "But the argument from selective refutation can be misleading when it causes us to fail to notice that the surviving hypothesis has its own defects.",
+    "In so doing, these enzymes may have generated selective pressure to be retained and, therefore, broken free of the invasion-elimination cycle of most homing sequences."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "seizure",
+    "seldom",
+    "select",
+    "selection",
+    "selective",
+    "selectively",
+    "selectiveness",
+    "selector",
+    "self"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350941_9a17170d68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350941_8ba2ecff48_o.png",
+      "id_image": "selective_3317730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088065_b9a89d61ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088065_70dc78cbf4_o.png",
+      "id_image": "selective_943769"
+    }
+  ]
+}

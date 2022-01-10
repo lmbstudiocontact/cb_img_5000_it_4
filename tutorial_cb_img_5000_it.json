@@ -1,0 +1,86 @@
+{
+  "english": "tutorial",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc gia sư",
+          "definition": "of or concerning a tutor.",
+          "world_new": [
+            "concerning",
+            "tutor"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài giảng",
+          "definition": "a lesson by a tutor at a college or university",
+          "world_new": [
+            "lesson",
+            "tutor",
+            "college",
+            "university"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have lectures and tutorials in history.",
+              "world_new": [
+                "history"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This approach not only avoids the disadvantages of explicit tests, but also provides a more naturalistic measure of a tutorial intervention's effect on student learning.",
+    "As a result, we feel the time is ripe to provide a tutorial overview of the current state of the art in the second track.",
+    "To maintain such control, instruction was carried out through the medium of computerized tutorials.",
+    "The paper is long, but is strongly tutorial in style.",
+    "The basis of this tutorial paper were operational interpretations of some variants of default logic.",
+    "Individually many of these articles are, or have been, used by academics for structuring undergraduate reading assignments, tutorials or essay/dissertation work.",
+    "The general point here is that the entries in the methodological tutorials section tend to shortchange the language side of the brain - language connection.",
+    "Many of the models presented have already been implemented in this software and serve as a series of practical tutorials."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tusk",
+    "tut(-tut)",
+    "tutelage",
+    "tutor",
+    "tutorial",
+    "tutu",
+    "tuxedo",
+    "TV",
+    "twang"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064610_ec98651973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064610_4a9bfe4205_o.png",
+      "id_image": "tutorial_1440999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327926_4c97e4f572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327926_321eb54eb2_o.png",
+      "id_image": "tutorial_1441000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682959_2c838996d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682959_d83f71f351_o.png",
+      "id_image": "tutorial_2106659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682939_caa9a4b172_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682939_75a0fb03f7_o.png",
+      "id_image": "tutorial_2329332"
+    }
+  ]
+}

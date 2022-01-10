@@ -1,0 +1,64 @@
+{
+  "english": "surgical",
+  "phat_am": "ˈsəːdʒikəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc phẫu thuật",
+          "definition": "of, or by means of, surgery",
+          "world_new": [
+            "means",
+            "surgery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "surgical instruments"
+            },
+            {
+              "ex_of_definition": "He is in need of surgical treatment.",
+              "world_new": [
+                "treatment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Eight million female volunteers amassed supplies for soldiers and sailors, surgical dressings and garments for refugees.",
+    "A previous history of prolonged sepsis related to the surgical scar confused the diagnosis of her acute terminal illness.",
+    "She underwent a second cardiac catheterization to assess the surgical options.",
+    "Surgical options include fenestration (which benefits patients with high right atrium-left atrium gradient most), partial or complete takedown (associated with high risk), and cardiac transplantation.",
+    "The wound was irrigated with saline and closed in two layers with 3-0 silk (fascial plane) and surgical skin staples.",
+    "During the last 8 years, during which half of our patients underwent repair, no surgical mortality has occurred.",
+    "In addition, elimination of an additional surgical procedure may reduce complication rates and cost.",
+    "Over 10 different surgical methods are available to treat obesity, and there are several variants of these methods."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "surfing",
+    "surge",
+    "surgeon",
+    "surgery",
+    "surgical",
+    "surgically",
+    "surliness",
+    "surly",
+    "surmount"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335656_cde4e587d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335656_4c0726e996_o.png",
+      "id_image": "surgical_1225681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450573_0694414fc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450573_6ca5e45ab5_o.png",
+      "id_image": "surgical_4829559"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "english": "supplement",
+  "phat_am": "ˈsapləmənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phần bổ sung",
+          "definition": "an addition made to supply something lacking, or to correct errors etc",
+          "world_new": [
+            "addition",
+            "supply",
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A supplement to the dictionary is to be published next year.",
+              "world_new": [
+                "dictionary",
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "bổ sung",
+          "definition": "to make, or be, an addition to",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He does an evening job to supplement his wages.",
+              "world_new": [
+                "evening",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many ' rising men ' supplemented a core group of senior churchmen, ensuring that the commission was both intellectually highpowered and politically astute.",
+    "By comparison, reading supplemented with word-focused tasks yields better results.",
+    "Women with serum ferritin concentrations of > 80 mg/l are unlikely to require iron supplements.",
+    "After documenting the farmers' management style and practices, the team supplemented them with new technologies and tools for making observations and recording progress.",
+    "In the sample as a whole the median age at introduction of food supplements was 7 months.",
+    "Section 4 describes a simple interactive repair mechanism that supplements the interactive alignment process.",
+    "They therefore argue that connectionist models must be supplemented by a grammar.",
+    "In addition, these databases rarely index journal supplements, in which studies available as conference abstracts often appear."
+  ],
+  "list_see_also": [
+    "supplementary"
+  ],
+  "list_browse": [
+    "supervisor",
+    "supper",
+    "supper-time",
+    "supple",
+    "supplement",
+    "supplementary",
+    "suppleness",
+    "supplicant",
+    "supplication"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336911_01e6e5d41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336911_7ebdbd8dfc_o.png",
+      "id_image": "supplement_2885328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381942_e1edf0a571_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381942_e5e85055aa_o.png",
+      "id_image": "supplement_4669404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692174_dd756c8417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692174_764029f75f_o.png",
+      "id_image": "supplement_5220992"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "english": "scatter",
+  "phat_am": "ˈskӕtə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho chạy tán loạn",
+          "definition": "to (make) go or rush in different directions",
+          "world_new": [
+            "rush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sudden noise scattered the birds",
+              "world_new": [
+                "sudden",
+                "noise",
+                "scattered"
+              ]
+            },
+            {
+              "ex_of_definition": "The crowds scattered when the bomb exploded.",
+              "world_new": [
+                "scattered",
+                "bomb"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tung, rải , rắc , gieo",
+          "definition": "to throw loosely in different directions",
+          "world_new": [
+            "throw",
+            "loosely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The load from the overturned lorry was scattered over the road.",
+              "world_new": [
+                "load",
+                "lorry",
+                "scattered",
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "scattered",
+    "scattering",
+    "scatterbrain",
+    "scatterbrained"
+  ],
+  "list_browse": [
+    "scarp",
+    "scary",
+    "scathing",
+    "scathingly",
+    "scatter",
+    "scatterbrain",
+    "scatterbrained",
+    "scattered",
+    "scattering"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068540_dab0499636_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068540_24f47934bf_o.png",
+      "id_image": "scatter_1809506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446898_acc45614b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446898_00f066c1ee_o.png",
+      "id_image": "scatter_6001160"
+    }
+  ]
+}

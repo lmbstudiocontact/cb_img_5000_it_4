@@ -1,0 +1,45 @@
+{
+  "english": "trash",
+  "phat_am": "trӕʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rác",
+          "definition": "rubbish",
+          "world_new": [
+            "rubbish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Throw it away! It’s just trash."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "trashy",
+    "trashcan"
+  ],
+  "list_browse": [
+    "trapezius",
+    "trapezoid",
+    "trapper",
+    "trappings",
+    "trash",
+    "trashcan",
+    "trashy",
+    "trauma",
+    "travel"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691654_12a638f3e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691654_fc88ccc63b_o.png",
+      "id_image": "trash_548561"
+    }
+  ]
+}

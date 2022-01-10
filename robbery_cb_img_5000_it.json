@@ -1,0 +1,72 @@
+{
+  "english": "robbery",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tội ăn cướp",
+          "definition": "the act of robbing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Robbery is a serious crime",
+              "world_new": [
+                "serious",
+                "crime"
+              ]
+            },
+            {
+              "ex_of_definition": "He was charged with four robberies.",
+              "world_new": [
+                "charged"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It could be more lucrative to subsist by robbery than to seek work.",
+    "The robberies reported in our sample week were, moreover, not confined to the roads alone.",
+    "The final scene is set a month after the disastrous robbery.",
+    "The robberies were followed by the burning down of the building in the same year.",
+    "Willingness to fight, robbery, and rule breaking display qualities such as physical strength, bravery, and willingness to incur risks.",
+    "The rural population was already living in a society where administrative chaos was a minor inconvenience compared to robbery and general lawlessness.",
+    "Yet the new codes coincided with ongoing insecurity and a sharp increase in reported robberies.",
+    "While local people recognised that such brutality was undesirable, in the context of rampant armed robbery and police corruption, it was better than the alternatives."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "roast",
+    "roasting",
+    "rob",
+    "robber",
+    "robbery",
+    "robe",
+    "robed",
+    "robin",
+    "robot"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344571_cd728dc9bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344571_15538f5332_o.png",
+      "id_image": "robbery_2084060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459378_5999a9f455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459378_df106bbab3_o.png",
+      "id_image": "robbery_2650121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459348_f33f259342_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459348_722a2234b4_o.png",
+      "id_image": "robbery_4351782"
+    }
+  ]
+}

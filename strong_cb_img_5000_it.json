@@ -1,0 +1,175 @@
+{
+  "english": "strong",
+  "phat_am": "stroŋ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bền , vững, chắc chắn, kiên cố",
+          "definition": "firm, sound, or powerful, and therefore not easily broken, destroyed, attacked, defeated, resisted, or affected by weariness, illness etc",
+          "world_new": [
+            "firm",
+            "sound",
+            "powerful",
+            "therefore",
+            "easily",
+            "broken",
+            "defeated",
+            "affected",
+            "weariness",
+            "illness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "strong furniture",
+              "world_new": [
+                "furniture"
+              ]
+            },
+            {
+              "ex_of_definition": "a strong castle",
+              "world_new": [
+                "castle"
+              ]
+            },
+            {
+              "ex_of_definition": "a strong wind",
+              "world_new": [
+                "wind"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s a strong swimmer",
+              "world_new": [
+                "swimmer"
+              ]
+            },
+            {
+              "ex_of_definition": "He has a very strong will/personality"
+            },
+            {
+              "ex_of_definition": "He has never been very strong (= healthy)"
+            },
+            {
+              "ex_of_definition": "He is not strong enough to lift that heavy table.",
+              "world_new": [
+                "lift",
+                "heavy",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rõ rệt, nặng, mạnh",
+          "definition": "very noticeable; very intense",
+          "world_new": [
+            "intense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a strong colour",
+              "world_new": [
+                "colour"
+              ]
+            },
+            {
+              "ex_of_definition": "a strong smell.",
+              "world_new": [
+                "smell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đặc",
+          "definition": "containing a large amount of the flavouring/flavoring ingredient",
+          "world_new": [
+            "large",
+            "amount",
+            "ingredient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "strong tea.",
+              "world_new": [
+                "tea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giỏi, có khả năng",
+          "definition": "(of a group, force etc) numbering a particular amount",
+          "world_new": [
+            "group",
+            "force",
+            "particular",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An army 20,000 strong was advancing towards the town.",
+              "world_new": [
+                "army",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This is because vowels in both primarily and secondarily stressed syllables are rendered strong and not weakened.",
+    "The philosophy of these homes is characterized by a very strong emphasis on training the staff.",
+    "Recent studies have provided strong evidence in support of the above interpretation.",
+    "Although, in principle, strong objections may be raised against such direct comparisons, some qualitative results have been obtained.",
+    "In fact, strong reduction strategies are useful in all situations where symbolic matching has to be conducted in the scope of binders.",
+    "We may surmise that if the data collection and scoring procedures had been uniform across the three studies, the correlation would have been stronger.",
+    "The strong jets observed in this study most likely have their origin in the conversion of potential energy to vertical kinetic energy.",
+    "Patients' strong performance in word/picture matching tasks even in \"impaired\" categories may provide evidence for the causal link hypothesis."
+  ],
+  "list_see_also": [
+    "strongly",
+    "strength",
+    "strengthen",
+    "strongbox",
+    "strong drink",
+    "stronghold",
+    "strong language",
+    "strong-minded",
+    "strong point",
+    "strongroom",
+    ""
+  ],
+  "list_browse": [
+    "strive",
+    "stroke",
+    "stroll",
+    "stroller",
+    "strong",
+    "strong drink",
+    "strong language",
+    "strong point",
+    "strong-minded"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456728_43903d8d09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456728_e5de3f8792_o.png",
+      "id_image": "strong_5236732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386862_2260ce079b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386862_98cef74b1d_o.png",
+      "id_image": "strong_6171960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341881_bcba62e6fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341881_54cf69e849_o.png",
+      "id_image": "strong_755278"
+    }
+  ]
+}

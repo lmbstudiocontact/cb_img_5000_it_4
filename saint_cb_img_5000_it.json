@@ -1,0 +1,78 @@
+{
+  "english": "saint",
+  "phat_am": "seint",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vị thánh",
+          "definition": "(often abbreviated to St, especially when used in the names of places, plants etc) a title given especially by the Roman Catholic and Orthodox churches to a very good or holy person after his death",
+          "world_new": [
+            "title",
+            "Roman",
+            "holy",
+            "person",
+            "death"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Saint Matthew"
+            },
+            {
+              "ex_of_definition": "St John’s Road.",
+              "world_new": [
+                "St"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người thánh thiện",
+          "definition": "a very good, kind person",
+          "world_new": [
+            "kind",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You really are a saint to put up with her."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On saint-day celebrations (mawlids) and other festive occasions, public recitations make the poetry available to a larger audience.",
+    "He ran inside to get his brother, whom the saint rebuked.",
+    "The biographies do not condemn the linguistic transgression of the saint.",
+    "Relics embodied the saint in this world and gave patronage to the community that preserved them.",
+    "Chapter 3 addresses the dates and manner of celebrating the saints' feasts, as well as the various manifestations of personal devotion to saints.",
+    "The items dealing with specific aspects of the life of the saint, however, look as though their melodies might be original.",
+    "Two additional anecdotes cast the saint's interaction with urban space in a positive light.",
+    "Largely owing to this deft intertwining of popular and clerical elements, the collection, one of many such lives of saints, gained immediate and enduring popularity."
+  ],
+  "list_see_also": [
+    "saintly",
+    "saintliness"
+  ],
+  "list_browse": [
+    "sailboard",
+    "sailboat",
+    "sailing",
+    "sailor",
+    "saint",
+    "saintliness",
+    "saintly",
+    "sake",
+    "salad"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074165_71d1d02be4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074165_8062fcc2f0_o.png",
+      "id_image": "saint_2333251"
+    }
+  ]
+}

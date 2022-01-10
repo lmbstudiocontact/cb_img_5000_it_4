@@ -1,0 +1,63 @@
+{
+  "english": "spindle",
+  "phat_am": "ˈspindl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "trục quay",
+          "definition": "a thin pin on which something turns",
+          "world_new": [
+            "thin",
+            "pin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t turn on the radio any more, because the spindle of the control knob has broken.",
+              "world_new": [
+                "I",
+                "turn",
+                "radio",
+                "control",
+                "knob",
+                "broken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At this early stage the mitotic spindle is located some 50 m from the top of the blastodisc.",
+    "The topic of spindle-whorl classification and use has received considerable attention.",
+    "Indeed, spindle and chromosomes were still correctly located at this stage: they were anchored in the plasma membrane of the animal pole.",
+    "This effect occurs during cortical augmenting responses mimicking sleep spindles as well as during the self-sustained, post-augmenting activity.",
+    "Its rigid anti-vibration structure enables several technologies to be incorporated: laser, water jet, machining spindles or non-destructive controls.",
+    "The present study suggests that an active cortical network participates in disrupting the spindle activities.",
+    "Therefore, during spindle recovery chromosomes may be rearranged on the spindle and mistakes in the segregation between microtubules and chromosomes may occur.",
+    "It was of interest to us to examine whether inhibition of calmodulin would affect spindle formation and/or chromatin condensation and alignment."
+  ],
+  "list_see_also": [
+    "spindly"
+  ],
+  "list_browse": [
+    "spinach",
+    "spinal",
+    "spinal column",
+    "spinal cord",
+    "spindle",
+    "spindly",
+    "spine",
+    "spineless",
+    "spinner"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468588_5ec265c53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468588_e30a6b8b19_o.png",
+      "id_image": "spindle_2614687"
+    }
+  ]
+}

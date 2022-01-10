@@ -1,0 +1,87 @@
+{
+  "english": "toilet",
+  "phat_am": "ˈtoilit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà vệ sinh",
+          "definition": "(a room containing) a receptacle for the body’s waste matter, usually with a supply of water for washing this away; a lavatory",
+          "world_new": [
+            "room",
+            "receptacle",
+            "waste",
+            "matter",
+            "supply",
+            "water",
+            "washing",
+            "lavatory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you want to go to the toilet?",
+              "world_new": [
+                "want"
+              ]
+            },
+            {
+              "ex_of_definition": "Where is the ladies’ toilet?"
+            },
+            {
+              "ex_of_definition": "(also adjective) a toilet seat.",
+              "world_new": [
+                "seat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What's the difference between \"toilet paper\" and \"paper toilet\"?",
+    "All the toilets were furnished with marble walls and floorings.",
+    "Almost everything, from going to the toilet to sticking stars on a picture was supervised by an adult.",
+    "The inmates also still used worn-out buckets as toilets.",
+    "There are m packages and only one toilet.",
+    "His final curtain call was the tumble he took off his toilet, naked and with the hypodermic needle still stuck in his arm.",
+    "A lime-slaked hole in the ground served as a toilet.",
+    "The severity scores ranged from ' 0 ' (no personal care disability) to ' 11 ' (cannot feed themselves or go to the toilet without help)."
+  ],
+  "list_see_also": [
+    "toiletries",
+    "toilet bag",
+    "toilet paper",
+    "toilet roll",
+    "toilet water"
+  ],
+  "list_browse": [
+    "together",
+    "together with",
+    "togetherness",
+    "toil",
+    "toilet",
+    "toilet bag",
+    "toilet paper",
+    "toilet roll",
+    "toilet water"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390262_3966319b7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390262_b4fd210e26_o.png",
+      "id_image": "toilet_194432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345261_319fe636b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345261_0498e737cb_o.png",
+      "id_image": "toilet_456608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460073_56afccedbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460073_a7b8a8493b_o.png",
+      "id_image": "toilet_577986"
+    }
+  ]
+}

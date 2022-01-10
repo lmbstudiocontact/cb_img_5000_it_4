@@ -1,0 +1,175 @@
+{
+  "english": "storm",
+  "phat_am": "stoːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơn giông tố, bão",
+          "definition": "a violent disturbance in the air causing wind, rain, thunder etc",
+          "world_new": [
+            "violent",
+            "disturbance",
+            "air",
+            "wind",
+            "rain",
+            "thunder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rainstorm"
+            },
+            {
+              "ex_of_definition": "a thunderstorm"
+            },
+            {
+              "ex_of_definition": "a storm at sea",
+              "world_new": [
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "The roof was damaged by the storm.",
+              "world_new": [
+                "roof",
+                "damaged"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơn, trận",
+          "definition": "a violent outbreak of feeling etc",
+          "world_new": [
+            "violent",
+            "outbreak",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A storm of anger greeted his speech",
+              "world_new": [
+                "anger",
+                "speech"
+              ]
+            },
+            {
+              "ex_of_definition": "a storm of applause.",
+              "world_new": [
+                "applause"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quát tháo",
+          "definition": "to shout very loudly and angrily",
+          "world_new": [
+            "shout",
+            "loudly",
+            "angrily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stormed at her."
+            }
+          ]
+        },
+        {
+          "mean_english": "xông vào, lao ra",
+          "definition": "to move or stride in an angry manner",
+          "world_new": [
+            "move",
+            "stride",
+            "angry",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stormed out of the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đột chiếm",
+          "definition": "(of soldiers etc) to attack with great force, and capture (a building etc)",
+          "world_new": [
+            "attack",
+            "great",
+            "force",
+            "capture",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They stormed the castle.",
+              "world_new": [
+                "castle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A brief summary will be given of the working conditions in the aircraft, the observing conditions during the upcoming meteor storms, and the experiments performed during past missions.",
+    "The second section provides an excellent overview of papers on modelling, where the author pleads, very sensibly, for the use of worst-case scenarios rather than design storms.",
+    "The sonifications reinforced some known aspects of the particular storms.",
+    "We will experience the least effects here, and we can cope with storms, floods and extreme summer temperatures using our technology and our economy.",
+    "The impact of unforeseeable events like the major storms of this past winter are a case in point.",
+    "They recall that during storms, despite their best efforts, they were unable to coordinate their behavior effectively, and as a result, ever yone's safety was seriously put at risk.",
+    "The manual includes helpful advice on specific problems and issues such as crisis telephone calls and affect storms.",
+    "In the latter part of the nineteenth century the storms of the earlier part had largely blown themselves out."
+  ],
+  "list_see_also": [
+    "stormy",
+    "stormily",
+    "storminess",
+    "stormbound",
+    "a storm in a teacup",
+    "take by storm"
+  ],
+  "list_browse": [
+    "storekeeper",
+    "storey",
+    "-storeyed",
+    "stork",
+    "storm",
+    "stormbound",
+    "stormily",
+    "storminess",
+    "stormy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082165_65d58c6fab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082165_01f208fee2_o.png",
+      "id_image": "storm_1327638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389652_34c792c94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389652_2f86ca6145_o.png",
+      "id_image": "storm_263935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459468_6c61fcff03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459468_e33930ea59_o.png",
+      "id_image": "storm_4861678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344616_beab1f071c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344616_27d073627a_o.png",
+      "id_image": "storm_4968471"
+    }
+  ]
+}

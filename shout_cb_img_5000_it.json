@@ -1,0 +1,111 @@
+{
+  "english": "shout",
+  "phat_am": "ʃaut",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự la hét, sự hò hét",
+          "definition": "a loud cry or call",
+          "world_new": [
+            "loud",
+            "cry",
+            "call"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He heard a shout."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng gọi, tiếng kêu thét lớn",
+          "definition": "a loud burst (of laughter, cheering etc)",
+          "world_new": [
+            "loud",
+            "burst",
+            "laughter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A shout went up from the crowd when he scored a goal.",
+              "world_new": [
+                "crowd",
+                "goal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "la hét",
+          "definition": "to say very loudly",
+          "world_new": [
+            "loudly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shouted the message across the river",
+              "world_new": [
+                "message",
+                "across",
+                "river"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m not deaf – there’s no need to shout",
+              "world_new": [
+                "deaf"
+              ]
+            },
+            {
+              "ex_of_definition": "Calm down and stop shouting at each other.",
+              "world_new": [
+                "stop"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "That's why they cry and shout and wail.",
+    "Since shout appears in an unbounded dependency construction it occupies a discourse-prominent slot and functions as an island to suitable answers.",
+    "A significant loss in hearing (denoted by the interviewer having to shout during the interview) was also significantly associated with higher social care costs.",
+    "She screams, defending herself, and the hidden counsellor shouts in panic.",
+    "It is not uncommon for those who try to dominate the debate to be shouted down by others.",
+    "A lot of it had me shouting 'yes' or 'no' (equally loudly) at it - but it provoked a response.",
+    "There, these mobile communication centres are to be found on markets where the owner announces his services by shouting 'space-to-space'.",
+    "In the distance a sweep shouts, gesticulating, from a chimney-top, while two cats on a damp slate roof spit and shriek."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "should/would like",
+    "shoulder",
+    "shoulder to shoulder",
+    "shoulder-blade",
+    "shout",
+    "shove",
+    "shovel",
+    "shovelful",
+    "show"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342396_8a953cf16d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342396_cedb5dd95d_o.png",
+      "id_image": "shout_1128884"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387372_d3891bebb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387372_70d79434ac_o.png",
+      "id_image": "shout_1281707"
+    }
+  ]
+}

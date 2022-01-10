@@ -1,0 +1,166 @@
+{
+  "english": "tear",
+  "phat_am": "tiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nước mắt",
+          "definition": "a drop of liquid coming from the eye, as a result of emotion (especially sadness) or because something ( eg smoke) has irritated it",
+          "world_new": [
+            "drop",
+            "liquid",
+            "eye",
+            "result",
+            "emotion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "tears of joy/laughter/rage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khoét, xé",
+          "definition": "(sometimes with off etc) to make a split or hole in (something), intentionally or unintentionally, with a sudden or violent pulling action, or to remove (something) from its position by such an action or movement",
+          "world_new": [
+            "split",
+            "hole",
+            "intentionally",
+            "sudden",
+            "violent",
+            "action",
+            "remove",
+            "its",
+            "position",
+            "action",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tore the photograph into pieces",
+              "world_new": [
+                "photograph"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ve torn a hole in your jacket",
+              "world_new": [
+                "hole",
+                "your",
+                "jacket"
+              ]
+            },
+            {
+              "ex_of_definition": "I tore the picture out of a magazine.",
+              "world_new": [
+                "I",
+                "picture",
+                "magazine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rách",
+          "definition": "to become torn",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Newspapers tear easily.",
+              "world_new": [
+                "easily"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy",
+          "definition": "to rush",
+          "world_new": [
+            "rush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tore along the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết rách, vết thủng",
+          "definition": "a hole or split made by tearing",
+          "world_new": [
+            "hole",
+            "split"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a tear in my dress.",
+              "world_new": [
+                "my",
+                "dress"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The play concludes with a crowd of angry plebeians tearing him to pieces.",
+    "Planning processes could only follow the same path, torn between ideals and perceptions.",
+    "It can cause the metal to tear away from the mould walls resulting in a deformed casting.",
+    "There was no visible tear on the cardiac wall.",
+    "After a hearty lunch together, he shook hands with the students, who were in tears.",
+    "The performance in question moved me to tears on several occasions and then jolted me out of myself into laughter in an instant.",
+    "Ultimately, this analysis tears asunder the distinction between doubt and reasonable doubt.",
+    "The use of these accidental sounds relies partly upon our understanding them as coming out of the past and as resulting from wear and tear."
+  ],
+  "list_see_also": [
+    "tearful",
+    "tearfully",
+    "tearfulness",
+    "tear gas",
+    "tear-stained",
+    "in tears"
+  ],
+  "list_browse": [
+    "team spirit",
+    "team up",
+    "teamwork",
+    "teapot",
+    "tear",
+    "tear (oneself) away",
+    "tear gas",
+    "tear one’s hair",
+    "tear one’s hair out"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398367_7a2c8a8a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398367_75ff0e0f32_o.png",
+      "id_image": "tear_1650369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090740_896890a973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090740_d980ce9985_o.png",
+      "id_image": "tear_2911067"
+    }
+  ]
+}

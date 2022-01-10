@@ -1,0 +1,170 @@
+{
+  "english": "smell",
+  "phat_am": "smel",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khứu giác",
+          "definition": "the sense or power of being aware of things through one’s nose",
+          "world_new": [
+            "sense",
+            "power",
+            "aware",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My sister never had a good sense of smell.",
+              "world_new": [
+                "sister",
+                "sense"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mùi",
+          "definition": "the quality that is noticed by using this power",
+          "world_new": [
+            "quality",
+            "noticed",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pleasant smell",
+              "world_new": [
+                "pleasant"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s a strong smell of gas.",
+              "world_new": [
+                "strong",
+                "gas"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ngửi, sự hít",
+          "definition": "an act of using this power",
+          "world_new": [
+            "act",
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have a smell of this!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngửi thấy, đánh hơi thấy",
+          "definition": "to notice by using one’s nose",
+          "world_new": [
+            "notice",
+            "nose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I smell gas",
+              "world_new": [
+                "I",
+                "gas"
+              ]
+            },
+            {
+              "ex_of_definition": "I thought I smelt (something) burning.",
+              "world_new": [
+                "I",
+                "thought",
+                "I",
+                "smelt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có mùi khó chịu",
+          "definition": "to give off a smell",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The roses smelt beautiful",
+              "world_new": [
+                "smelt",
+                "beautiful"
+              ]
+            },
+            {
+              "ex_of_definition": "Her hands smelt of fish.",
+              "world_new": [
+                "smelt",
+                "fish"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hít, ngửi",
+          "definition": "to examine by using the sense of smell",
+          "world_new": [
+            "examine",
+            "sense"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let me smell those flowers."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These women may well have preferred the look and smell of symmetrical men but their culture did not allow them to act on these preferences.",
+    "Taste and smell could be practiced in the same space but should ideally have their own room and their own particular objects.",
+    "Many blind persons show exquisite sensitivity to sounds and smells, and those born without arms can attain remarkable skill in operating with their toes.",
+    "The senses of smell and taste are based on the same functional principles.",
+    "The stable and fireplace no longer smell or cause any other inconveniences to the inhabitants.",
+    "And, more generally, why is seeing red very different from hearing a sound or smelling a smell?",
+    "During choice experiments, bats investigated ripe seed and gall figs using sight and smell.",
+    "Needless to say, ancient dyers would have relied on their training, experience, and senses of sight and smell to produce the required results."
+  ],
+  "list_see_also": [
+    "-smelling",
+    "smelly",
+    "smelliness",
+    "smell out"
+  ],
+  "list_browse": [
+    "smash",
+    "smash hit",
+    "smashing",
+    "smear",
+    "smell",
+    "smell a rat",
+    "smell out",
+    "smelliness",
+    "-smelling"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068180_3f7577cfa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068180_3b7582ec3f_o.png",
+      "id_image": "smell_5967062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376177_00fc34bc72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376177_3286778287_o.png",
+      "id_image": "smell_5984035"
+    }
+  ]
+}

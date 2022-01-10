@@ -1,0 +1,96 @@
+{
+  "english": "street",
+  "phat_am": "striːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường phố",
+          "definition": "a road with houses, shops etc on one or both sides, in a town or village",
+          "world_new": [
+            "road",
+            "town",
+            "village"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the main shopping street",
+              "world_new": [
+                "main",
+                "shopping"
+              ]
+            },
+            {
+              "ex_of_definition": "I met her in the street.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phố",
+          "definition": "(abbreviated to Stwhen written) used in the names of certain roads",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her address is 4 Shakespeare St.",
+              "world_new": [
+                "address",
+                "St"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Only a few side streets intersect the thoroughfares.",
+    "Unsupervised young women on night-time streets could denote vice or vulnerability.",
+    "However, some shopping streets were built in response to government town plans, mainly for political reasons.",
+    "Plots and streets which display morphological coherence are used to de®ne the plan units, the boundaries of which are termed 'plan seams'.",
+    "The streets are of dirt, the electrical power is weak and there is no natural gas, sewer system, public lighting or garbage service.",
+    "Sandweiss then scrutinizes the varied ways in which city-dwellers used their homes and streets and, in turn, helped to define distinct neighbourhoods.",
+    "Such violent police intervention intensified strikes, with the result that work-place conflicts then extended into the slums and streets of mill towns.",
+    "The grid of streets and plots from which a city is composed, is like a net placed or thrown upon the ground."
+  ],
+  "list_see_also": [
+    "streetcar",
+    "street directory",
+    "be streets ahead of / better than",
+    "be up someone’s street",
+    "not to be in the same street as"
+  ],
+  "list_browse": [
+    "streaky",
+    "stream",
+    "streamer",
+    "streamlined",
+    "street",
+    "street directory",
+    "streetcar",
+    "strength",
+    "strengthen"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457823_537c8c0a42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457823_d0dd1c62da_o.png",
+      "id_image": "street_1580069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698344_cc4a8ee49b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698344_65c7d5fa9c_o.png",
+      "id_image": "street_327431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080520_4132aaf559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080520_5d1074fee8_o.png",
+      "id_image": "street_3310685"
+    }
+  ]
+}

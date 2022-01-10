@@ -1,0 +1,122 @@
+{
+  "english": "slash",
+  "phat_am": "slӕʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rạch, cắt",
+          "definition": "to make long cuts in (cloth etc)",
+          "world_new": [
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He slashed his victim’s face with a razor.",
+              "world_new": [
+                "face",
+                "razor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quất, quật",
+          "definition": "(with at) to strike out violently at (something)",
+          "world_new": [
+            "strike",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He slashed at the bush angrily with a stick.",
+              "world_new": [
+                "bush",
+                "angrily",
+                "stick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giảm, hạ bớt",
+          "definition": "to reduce greatly",
+          "world_new": [
+            "reduce",
+            "greatly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A notice in the shop window read ‘Prices slashed!’",
+              "world_new": [
+                "notice",
+                "shop",
+                "window",
+                "read"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vết chém , vết rạch",
+          "definition": "a long cut or slit",
+          "world_new": [
+            "long",
+            "cut",
+            "slit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The murder victim had several knife slashes across his chest.",
+              "world_new": [
+                "murder",
+                "victim",
+                "knife",
+                "across",
+                "chest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đống cành lá cắt",
+          "definition": "a sweeping blow.",
+          "world_new": [
+            "sweeping",
+            "blow"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slap",
+    "slap-happy",
+    "slapdash",
+    "slapstick",
+    "slash",
+    "slat",
+    "slate",
+    "slatted",
+    "slaughter"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689749_af700b7dec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689749_84341d3074_o.png",
+      "id_image": "slash_3602460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334621_7f32cfb21f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334621_8a4306b5fe_o.png",
+      "id_image": "slash_4334081"
+    }
+  ]
+}

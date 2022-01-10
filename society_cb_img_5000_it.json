@@ -1,0 +1,137 @@
+{
+  "english": "society",
+  "phat_am": "səˈsaiəti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xã hội",
+          "definition": "mankind considered as a whole",
+          "world_new": [
+            "mankind",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a danger to society.",
+              "world_new": [
+                "danger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng lớp, giai cấp xã hội",
+          "definition": "a particular group or part of mankind considered as a whole",
+          "world_new": [
+            "particular",
+            "group",
+            "part",
+            "mankind",
+            "whole"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "middle-class society"
+            },
+            {
+              "ex_of_definition": "modern western societies.",
+              "world_new": [
+                "modern",
+                "western"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoàn thể, hội",
+          "definition": "an association or club",
+          "world_new": [
+            "association",
+            "club"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a model railway society.",
+              "world_new": [
+                "model",
+                "railway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tầng lớp thượng lưu",
+          "definition": "the class of people who are wealthy, fashionable or of high rank in any area",
+          "world_new": [
+            "class",
+            "people",
+            "wealthy",
+            "fashionable",
+            "rank",
+            "area"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "high society."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giao du, sự giao thiệp",
+          "definition": "company or companionship",
+          "world_new": [
+            "company",
+            "companionship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I enjoy the society of young people.",
+              "world_new": [
+                "I",
+                "enjoy",
+                "young",
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Support for duelling in elite society was thus limited.",
+    "The party's electorate basically resembles the complexion of society.",
+    "People order their material surroundings in ways that suit their world-view, thus creating and manipulating their place in society.",
+    "This organic vision of society was shared by moralists and philosophers.",
+    "Ultimately the genre survives in the twenty-first century primarily in our university choruses and local choral societies.",
+    "Some medical specialty societies already are recognized as proponents of standards of care by health plans.",
+    "The multiple roles that people hold within their family, community, work, and society as a whole work to define their sense of self.",
+    "However, even if widespread neolithic societies did share a common set of problems it would be wrong to assume a common symbolic discourse."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "socialism",
+    "socialist",
+    "socialize",
+    "socially",
+    "society",
+    "sociological",
+    "sociologically",
+    "sociologist",
+    "sociology"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442668_2a8cb98f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442668_ce43abe800_o.png",
+      "id_image": "society_5999480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064285_3ff1d584c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064285_30b73bde8d_o.png",
+      "id_image": "society_6193871"
+    }
+  ]
+}

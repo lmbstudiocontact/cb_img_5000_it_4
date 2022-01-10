@@ -1,0 +1,82 @@
+{
+  "english": "summit",
+  "phat_am": "ˈsamit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đỉnh, điểm cao nhất",
+          "definition": "the highest point",
+          "world_new": [
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They reached the summit of the mountain at midday",
+              "world_new": [
+                "mountain",
+                "midday"
+              ]
+            },
+            {
+              "ex_of_definition": "At the age of thirty he was at the summit of his powers as a composer.",
+              "world_new": [
+                "age",
+                "composer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mức độ cao nhất",
+          "definition": "(of a conference etc) at the highest level of international negotiation, at which heads of state meet for discussion.",
+          "world_new": [
+            "conference",
+            "level",
+            "international",
+            "negotiation",
+            "heads",
+            "state",
+            "meet",
+            "discussion"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Individual summits are important, but they are not enough.",
+    "Among the many demonstrations, the mini-summits, the youth summits and various activities which are planned, there will be a major demonstration by the fishing community.",
+    "Nothing is achieved by much talking and putting on great summits and at the same time allocating less money.",
+    "We should keep in mind the achievement of the summit's aim, namely limiting the emission of harmful compounds.",
+    "Otherwise, we will have summits with no real content, and that would not be good either.",
+    "What plans he has to hold regular rail summits with the rail operators.",
+    "On the question of process, we must undoubtedly stop future summits being the trade equivalent of a travelling circus.",
+    "Competition at any price, runaway loss of security, cynical and relentless power struggles, consensuses reached at summits, behind closed doors: it is no longer acceptable!"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "summer camp",
+    "summerhouse",
+    "summertime",
+    "summery",
+    "summit",
+    "summon",
+    "sump",
+    "sumptuous",
+    "sun"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074940_d51104f6d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074940_5fd29498b0_o.png",
+      "id_image": "summit_2282493"
+    }
+  ]
+}

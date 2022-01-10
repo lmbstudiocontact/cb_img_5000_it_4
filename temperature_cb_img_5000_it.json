@@ -1,0 +1,89 @@
+{
+  "english": "temperature",
+  "phat_am": "ˈtemprətʃə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhiệt độ",
+          "definition": "the amount or degree of cold or heat",
+          "world_new": [
+            "amount",
+            "degree",
+            "cold",
+            "heat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The food must be kept at a low temperature.",
+              "world_new": [
+                "food",
+                "low"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sốt",
+          "definition": "a level of body heat that is higher than normal",
+          "world_new": [
+            "level",
+            "body",
+            "heat",
+            "normal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a temperature and wasn’t feeling well.",
+              "world_new": [
+                "feeling"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Variation in soil temperatures accounted for 96 and 99 % of the variation in tuber yield at varied population densities and sowing dates, respectively.",
+    "Moreover, cold temperatures are required to overcome the physiological block present in the embryos of seeds when freshly ripe.",
+    "However, these studies were undertaken in continental and septentrional conditions where distinct differences occur between summer and winter temperatures.",
+    "In the 1890s the deficit values rose reflecting high temperatures and low rainfall.",
+    "Higher temperatures may occur during the following situations.",
+    "The material of the inner shell matter is heated to high temperatures at comparatively weak compression by the action of a strong shock wave.",
+    "Instantaneous rates of mortality of adult pea aphids were greater at extreme high temperatures.",
+    "The effects on the soliton characteristics of magnetic field strength, wave propagation angle, and densities and temperatures of the plasma particles are analysed."
+  ],
+  "list_see_also": [
+    "take someone’s temperature"
+  ],
+  "list_browse": [
+    "temperament",
+    "temperamental",
+    "temperamentally",
+    "temperate",
+    "temperature",
+    "-tempered",
+    "tempest",
+    "tempestuous",
+    "tempestuously"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467303_4cd0c3ca51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467303_301913bd95_o.png",
+      "id_image": "temperature_1035456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707289_4d32c400c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707289_2ea7ed7caa_o.png",
+      "id_image": "temperature_1035457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352641_af6298d966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352641_5849a75195_o.png",
+      "id_image": "temperature_721128"
+    }
+  ]
+}

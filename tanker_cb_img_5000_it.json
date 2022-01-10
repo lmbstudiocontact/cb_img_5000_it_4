@@ -1,0 +1,77 @@
+{
+  "english": "tanker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tàu chở dầu",
+          "definition": "a ship or large lorry for carrying oil",
+          "world_new": [
+            "ship",
+            "large",
+            "lorry",
+            "oil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an oil tanker.",
+              "world_new": [
+                "oil"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "máy bay tiếp nhiên liệu",
+          "definition": "an aircraft used to transport fuel etc.",
+          "world_new": [
+            "aircraft",
+            "transport",
+            "fuel"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These 4500 rules were selected by domain experts as a relatively self-contained subset on the specific topic of oil tankers.",
+    "It is not proposed that the \"tankers\" themselves would do their own typing or make their own tea.",
+    "In recent years, private entrepreneurs have acquired mobile water tankers to deliver household water in urban settlements, often at quite expensive prices.",
+    "Thus, if an oil tanker has been introduced in the query, it will be referred to in the answer with the definite noun phrase 'the oil tanker'.",
+    "The results of the first collaborative study led to changes in tanker escort and navigation procedures.",
+    "In this picture the user has selected the 'new oil tanker' span.",
+    "Oil tankers were initially excluded from the embargo.",
+    "The text is redisplayed with 'a new oil tanker' instead of 'a ship'."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tango",
+    "tangram",
+    "tank",
+    "tankard",
+    "tanker",
+    "tanned",
+    "tanner",
+    "tannery",
+    "tantalize"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681909_3edc4fa051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681909_ff1d3c9327_o.png",
+      "id_image": "tanker_1658029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063730_0d2ef60e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063730_246d174b15_o.png",
+      "id_image": "tanker_3721954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371507_eb6d635583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371507_4cc8af365f_o.png",
+      "id_image": "tanker_6255376"
+    }
+  ]
+}

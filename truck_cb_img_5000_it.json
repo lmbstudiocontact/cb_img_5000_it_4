@@ -1,0 +1,69 @@
+{
+  "english": "truck",
+  "phat_am": "trak",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe tải",
+          "definition": "a lorry",
+          "world_new": [
+            "lorry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He drives a truck"
+            },
+            {
+              "ex_of_definition": "(also adjective) a truck-driver."
+            }
+          ]
+        },
+        {
+          "mean_english": "toa trần",
+          "definition": "a railway/railroad vehicle for carrying goods; car American",
+          "world_new": [
+            "vehicle"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The tank truck price has a significant, but relatively small, negative effect on total coping water demand.",
+    "Driving even a heavy truck only requires a low rate of energy expenditure but demands a high level of arousal and vigilance.",
+    "We have chosen to use average hauling time per unit of water consumed, from trucks and other sources separately, as independent explanatory variables.",
+    "Why were the money-paying masters so keen to end truck?",
+    "Combines could cost up to $3,000 and the owner had also to purchase a tractor, and a truck to haul grain to the elevator.",
+    "Contacts with papal officials through truck with the papal court brought curial officers close to their clients.",
+    "Strain- time curve induced in bridge girder by the passage of a truck.",
+    "Twelve of the pictures were filler items representing the following categories : grapes, hamburger, horse, tree, dinosaur, truck, fork, plane, bike, toothbrush, keys, and fish."
+  ],
+  "list_see_also": [
+    "trucker"
+  ],
+  "list_browse": [
+    "trowel",
+    "truancy",
+    "truant",
+    "truce",
+    "truck",
+    "trucker",
+    "truculent",
+    "trudge",
+    "true"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446663_52d9127245_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446663_fb89fa073f_o.png",
+      "id_image": "truck_298325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686629_a102991708_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686629_8dc2722925_o.png",
+      "id_image": "truck_698586"
+    }
+  ]
+}

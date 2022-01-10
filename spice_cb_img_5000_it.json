@@ -1,0 +1,115 @@
+{
+  "english": "spice",
+  "phat_am": "spais",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "gia vị",
+          "definition": "a usually strong-smelling, sharp-tasting vegetable substance used to flavour/flavor food (eg pepper or nutmeg)",
+          "world_new": [
+            "vegetable",
+            "substance",
+            "food",
+            "pepper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We added cinnamon and other spices.",
+              "world_new": [
+                "added",
+                "cinnamon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điều làm thêm hấp dẫn",
+          "definition": "anything that adds liveliness or interest",
+          "world_new": [
+            "liveliness",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her arrival added spice to the party.",
+              "world_new": [
+                "arrival",
+                "added",
+                "party"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho gia vị",
+          "definition": "to flavour/flavor with spice",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The curry had been heavily spiced.",
+              "world_new": [
+                "curry",
+                "heavily",
+                "spiced"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Due to the nature of the surviving records - mainly the bursars' accounts - the author concentrates on wine, imported iron and spices.",
+    "He was singularly innocent of the political manoeuvring which provides for some the spice of academic life.",
+    "It is the same with the fried fish, a little spice or pepper being blended with the oil.",
+    "The latter grow flue-cured and burley tobacco as their principal crops, though most also grow maize, other food crops, tree crops or spices.",
+    "These merchants generally traded in goods which could be kept for long periods of time and which were often brought from overseas, such as spices.",
+    "The exposition generally proceeds at the right pace, and is occasionally spiced with amusing or personal examples.",
+    "They have their special set of spices, of which salt and pepper are central.",
+    "Although there would be sufficient hardships and dangers and problems to give spice to life, there would be no utterly destructive and apparently vindictive evil."
+  ],
+  "list_see_also": [
+    "spiced",
+    "spicy",
+    "spiciness"
+  ],
+  "list_browse": [
+    "sperm",
+    "spermatozoon",
+    "sphere",
+    "spherical",
+    "spice",
+    "spiced",
+    "spiciness",
+    "spicy",
+    "spider"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368947_0b2b78300c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368947_5dc18c2bfe_o.png",
+      "id_image": "spice_1553048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679234_99f9614f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679234_ea5fb28a06_o.png",
+      "id_image": "spice_2230426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679214_3347bdb2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679214_829475d771_o.png",
+      "id_image": "spice_4993418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439073_a97a128f3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439073_c2af3143d9_o.png",
+      "id_image": "spice_5495595"
+    }
+  ]
+}

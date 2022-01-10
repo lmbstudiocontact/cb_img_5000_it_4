@@ -1,0 +1,65 @@
+{
+  "english": "soundproof",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cách âm",
+          "definition": "not allowing sound to pass in, out, or through",
+          "world_new": [
+            "sound",
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The walls are soundproof."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho cách âm",
+          "definition": "to make (walls, a room etc) soundproof.",
+          "world_new": [
+            "room"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In reply to the first question, we shall certainly see that the kiosks are soundproof.",
+    "I should like to ask about the position of tenants whose houses are to be soundproofed.",
+    "The experimenter stayed with the participant through the first 5-10 familiarisation trails, then left the soundproof chamber, and was not present during the rest of the experiment.",
+    "It may be more expensive in certain cases to have double-glazing, and in others it may be more expensive to have a soundproof barrier.",
+    "A hall for the band was built entirely by hand, by the parents, with three rooms which are all completely soundproof.",
+    "How much does he estimate it will cost to soundproof and air condition these houses?",
+    "Participants were tested individually in a soundproof room.",
+    "The subjects sat in a soundproof booth with the microphone about six inches from their mouths."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "soundless",
+    "soundlessly",
+    "soundly",
+    "soundness",
+    "soundproof",
+    "soundtrack",
+    "soup",
+    "sour",
+    "sour grapes"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370337_806ac4bc8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370337_64a0dcdd68_o.png",
+      "id_image": "soundproof_5760281"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "spectator",
+  "phat_am": "spekˈteitə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người xem, khán giả",
+          "definition": "a person who watches (an event)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fifty thousand spectators came to the match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The concrete performance will respect these agreements more or less independently of the weather, the actual spectators, omissions, variations, and so forth.",
+    "The scenic display was extraordinary and may well have consumed a large percentage of the spectators' attention.",
+    "The generous coverage appears thanks to a diligent spectator who recorded his impressions and sent them to the newspaper.",
+    "The spectator-listener employs strategies for listening in each particular musical situation.",
+    "The space described above had a distinct, 'sacred' quality, clearly demarcating the performers from the spectators.",
+    "They took advantage of new media and negotiated their way into early television showings in order to reach even greater numbers of spectators.",
+    "Moral agents become aware of social judgments by observing the spectators and then temper their action so as to maximize the possibility of sentiment confluence.",
+    "The actual spectators will be more or less receptive to the ways of perceiving or structuring the experience that these layers make possible simultaneously."
+  ],
+  "list_see_also": [
+    "spectate"
+  ],
+  "list_browse": [
+    "spectacles",
+    "spectacular",
+    "spectacularly",
+    "spectate",
+    "spectator",
+    "spectre",
+    "spectrum",
+    "speculate",
+    "speculation"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324491_14f4221883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324491_3168dae24c_o.png",
+      "id_image": "spectator_3967473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439518_ea8f8489fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439518_3933ba9860_o.png",
+      "id_image": "spectator_3967577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369312_e5c0ee2a75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369312_0223297071_o.png",
+      "id_image": "spectator_4016317"
+    }
+  ]
+}

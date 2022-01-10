@@ -1,0 +1,210 @@
+{
+  "english": "sweep",
+  "phat_am": "swiːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quét, chải",
+          "definition": "to clean (a room etc) using a brush or broom",
+          "world_new": [
+            "clean",
+            "room",
+            "brush",
+            "broom"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The room has been swept clean.",
+              "world_new": [
+                "room",
+                "clean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quét qua",
+          "definition": "to move as though with a brush",
+          "world_new": [
+            "move",
+            "brush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She swept the crumbs off the table with her hand",
+              "world_new": [
+                "table",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "The wave swept him overboard",
+              "world_new": [
+                "wave",
+                "overboard"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t get swept away by (= become over-enthusiastic about) the idea!",
+              "world_new": [
+                "become",
+                "idea"
+              ]
+            },
+            {
+              "ex_of_definition": "She swept aside my objections.",
+              "world_new": [
+                "aside",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lan ra, di chuyển nhanh trên một vùng",
+          "definition": "to move quickly over",
+          "world_new": [
+            "move",
+            "quickly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The disease/craze is sweeping the country.",
+              "world_new": [
+                "sweeping",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lướt nhanh, vút nhanh",
+          "definition": "to move swiftly or in a proud manner",
+          "world_new": [
+            "move",
+            "swiftly",
+            "proud",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "High winds sweep across the desert",
+              "world_new": [
+                "across",
+                "desert"
+              ]
+            },
+            {
+              "ex_of_definition": "She swept into my room without knocking on the door.",
+              "world_new": [
+                "my",
+                "room",
+                "door"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quét",
+          "definition": "an act of sweeping, or process of being swept, with a brush etc",
+          "world_new": [
+            "act",
+            "sweeping",
+            "process",
+            "brush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave the room a sweep.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "động tác cuốn, khoát",
+          "definition": "a sweeping movement",
+          "world_new": [
+            "sweeping",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He indicated the damage with a sweep of his hand.",
+              "world_new": [
+                "damage",
+                "hand"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người cạo ống khói",
+          "definition": "a person who cleans chimneys.",
+          "world_new": [
+            "person"
+          ]
+        },
+        {
+          "mean_english": "lối đánh cá ngựa được vơ cả",
+          "definition": "a sweepstake.",
+          "world_new": [
+            "sweepstake"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although the corporate organizations of lawyers, including the parlements, were swept away, revolutionary politics precluded the systematic elaboration of a new jurisprudence.",
+    "It arose in the wake of punk, which sought to sweep away what its proponents saw as the empty virtuosity of rock dinosaurs.",
+    "These pitches are then connected in descending sweeps from the highest semitone in the series, creating fast chromatic scales.",
+    "Finally, an excerpt including ascending and descending parts of the sweep is played.",
+    "Especially for an inexperienced reader, the interruption in processing necessitated by a return sweep could be disrupting.",
+    "Arthropods were also collected with a sweep net on three dates during 2002.",
+    "These are due to small perturbations in the thermal boundary layers being swept into the plumes by the large-scale flow.",
+    "Here, the surfactant is swept to the back of an advancing bubble and accumulates near the rear."
+  ],
+  "list_see_also": [
+    "sweeper",
+    "sweeping",
+    "sweeping-brush",
+    "at one/a sweep",
+    "sweep (someone) off his/her feet",
+    "sweep out",
+    "sweep the board",
+    "sweep under the carpet",
+    "sweep up"
+  ],
+  "list_browse": [
+    "sweatiness",
+    "sweatshirt",
+    "sweaty",
+    "swede",
+    "sweep",
+    "sweep (someone) off his/her feet",
+    "sweep out",
+    "sweep the board",
+    "sweep under the carpet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070170_19725b3485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070170_8775551a8c_o.png",
+      "id_image": "sweep_1286156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070145_a98e3b5011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070145_24ba59a3ab_o.png",
+      "id_image": "sweep_4371640"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "english": "short",
+  "phat_am": "ʃoːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ngắn",
+          "definition": "not long",
+          "world_new": [
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You look nice with your hair short",
+              "world_new": [
+                "look",
+                "nice",
+                "your",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you think my dress is too short?",
+              "world_new": [
+                "think",
+                "my",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thấp",
+          "definition": "not tall; smaller than usual",
+          "world_new": [
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a short man."
+            }
+          ]
+        },
+        {
+          "mean_english": "không tồn tại lâu",
+          "definition": "not lasting long; brief",
+          "world_new": [
+            "lasting",
+            "brief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a short film",
+              "world_new": [
+                "film"
+              ]
+            },
+            {
+              "ex_of_definition": "in a very short time",
+              "world_new": [
+                "time"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve a very short memory for details.",
+              "world_new": [
+                "memory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu",
+          "definition": "not as much as it should be",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When I checked my change, I found it was 20 cents short.",
+              "world_new": [
+                "I",
+                "checked",
+                "my",
+                "change",
+                "I",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu (tiền), cạn túi",
+          "definition": "(with of) not having enough (money etc)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most of us are short of money these days.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giòn",
+          "definition": "(of pastry) made so that it is crisp and crumbles easily.",
+          "world_new": [
+            "crisp",
+            "easily"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "bất thình lình",
+          "definition": "suddenly; abruptly",
+          "world_new": [
+            "abruptly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stopped short when he saw me.",
+              "world_new": [
+                "saw"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trước thời hạn chờ đợi",
+          "definition": "not as far as intended",
+          "world_new": [
+            "far"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The shot fell short.",
+              "world_new": [
+                "shot",
+                "fell"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In other words, visuo-spatial and verbal short-term retention systems use the same underlying mechanisms.",
+    "Following their emission, positrons travel for a short distance that is defined by their energy and the surrounding tissue.",
+    "Copies of the short forms and the normative tables appear in the appendices.",
+    "The second factor was identified as short-term verbal memory and included final syllable deletion in both languages.",
+    "In short, there appear to be two possible ways of generalising beyond the findings reported here.",
+    "Limited almost exclusively to problems of spatial perception, that analysis gives short shrift to even the most fundamental issues of psychological or physiological import.",
+    "After five familiarization trials, five short and five long lines were presented in random sequence.",
+    "After a short pause the two stimuli were given in reversed positions, again 25 choices were recorded and correct choices rewarded."
+  ],
+  "list_see_also": [
+    "shortness",
+    "shortage",
+    "shorten",
+    "shortening",
+    "shortly",
+    "shorts",
+    "shortbread",
+    "short-change",
+    "short circuit",
+    "shortcoming",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "shopping",
+    "shopping centre",
+    "shopping mall",
+    "shore",
+    "short",
+    "short and sweet",
+    "short circuit",
+    "short for",
+    "short of"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698194_129b52fccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698194_e741fb52a9_o.png",
+      "id_image": "short_184060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387922_118d44d610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387922_6efc303f9a_o.png",
+      "id_image": "short_2405662"
+    }
+  ]
+}

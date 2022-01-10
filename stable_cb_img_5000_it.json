@@ -1,0 +1,139 @@
+{
+  "english": "stable",
+  "phat_am": "ˈsteibl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vững chắc",
+          "definition": "firm and steady or well-balanced",
+          "world_new": [
+            "firm",
+            "steady"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This chair isn’t very stable.",
+              "world_new": [
+                "chair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiên định",
+          "definition": "firmly established and likely to last",
+          "world_new": [
+            "firmly",
+            "established",
+            "likely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stable government.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vững vàng",
+          "definition": "(of a person or his character) unlikely to become unreasonably upset or hysterical",
+          "world_new": [
+            "person",
+            "unlikely",
+            "become",
+            "upset",
+            "hysterical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s the only stable person in the whole family.",
+              "world_new": [
+                "person",
+                "whole",
+                "family"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ổn định, bền",
+          "definition": "(of a substance) not easily decomposed.",
+          "world_new": [
+            "easily"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chuồng ngựa",
+          "definition": "a building in which horses are kept.",
+          "world_new": [
+            "building"
+          ]
+        },
+        {
+          "mean_english": "cơ sở luyện ngựa đua",
+          "definition": "a horse-keeping establishment",
+          "world_new": [
+            "establishment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He runs the riding stables."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The close proximity of the stables to the residential quarters (in some cases they are part of the same building) is a fact much to be deprecated.",
+    "The forest is visited by thousands of people during the summer and has many horse stables around its borders.",
+    "Besides the tracks, the rail yard has several wooden stables dating from the nineteenth century.",
+    "Within stables a different pattern was evident.",
+    "I feel particularly interested in the case of stables.",
+    "The contents of the donation are always the same: a \"residency\" of one or two rooms; stables, gardens, or vineyards; and fields of around 1 to 5 hectares.",
+    "Only after they were stabled, watered and fed were the light-traps set.",
+    "They were scarcely even repairing the roofs to provide dry stables for their horses."
+  ],
+  "list_see_also": [
+    "stability",
+    "stabilize",
+    "stabilization"
+  ],
+  "list_browse": [
+    "stabbing",
+    "stability",
+    "stabilization",
+    "stabilize",
+    "stable",
+    "stack",
+    "stadium",
+    "staff",
+    "staffroom"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088195_52424b23b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088195_9eb2356466_o.png",
+      "id_image": "stable_5906668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088140_6e5915a7d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088140_e4b4970683_o.png",
+      "id_image": "stable_5966537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465503_f6ddbafda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465503_e1c10ce109_o.png",
+      "id_image": "stable_6264218"
+    }
+  ]
+}

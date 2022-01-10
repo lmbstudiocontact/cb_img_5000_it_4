@@ -1,0 +1,94 @@
+{
+  "english": "surf",
+  "phat_am": "səːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sóng vỗ",
+          "definition": "the foam made as waves break on rocks or on the shore",
+          "world_new": [
+            "foam",
+            "break",
+            "shore"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were playing in the white surf.",
+              "world_new": [
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lướt sóng",
+          "definition": "to ride on a surfboard as a sport.",
+          "world_new": [
+            "ride",
+            "surfboard",
+            "sport"
+          ]
+        },
+        {
+          "mean_english": "tìm kiếm trên mạng",
+          "definition": "to look for interesting sites on the Internet.",
+          "world_new": [
+            "look",
+            "interesting",
+            "Internet"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I know of youngsters left alone to eat a pre-packaged meal while watching television or surfing the internet on their bedroom computers.",
+    "British beaches can be dangerous, and not just because of heavy surf or sudden changes in wave and weather conditions.",
+    "Next day the ice had gone but heavy surf swamped the dinghy.",
+    "It does not matter whether these expectations arise passively (surfing) or as the result of prior attempts by the government actively to engineer a boom (manipulation).",
+    "In so doing, it strips cognition from any explanatory burden and describes it as a shallow structure that merely appears to surf on the waves of consciousness.",
+    "We have received no reports of injuries or danger to young swimmers from the operation of wind surf boards.",
+    "The young office employees' idea of playing sports is to surf or to play tennis.",
+    "While approaching the beach both boats were swamped in the surf, the outboard stalled and could not be restarted, and the whaleboat became immovably stranded on a sand bar."
+  ],
+  "list_see_also": [
+    "surfer",
+    "surfing",
+    "surfboard"
+  ],
+  "list_browse": [
+    "sure enough",
+    "sure-footed",
+    "surely",
+    "sureness",
+    "surf",
+    "surface",
+    "surface mail",
+    "surfboard",
+    "surfer"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336071_682969dc5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336071_39a2b82a29_o.png",
+      "id_image": "surf_2362580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381052_48b2cbd4ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381052_24ef541994_o.png",
+      "id_image": "surf_2808544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073035_bf476439c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073035_4f507a1052_o.png",
+      "id_image": "surf_453349"
+    }
+  ]
+}

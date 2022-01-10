@@ -1,0 +1,69 @@
+{
+  "english": "slum",
+  "phat_am": "slam",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà ổ chuột",
+          "definition": "a group of houses, blocks of flats, street etc where the conditions are dirty and overcrowded and the building(s) usually in a bad state",
+          "world_new": [
+            "group",
+            "street",
+            "dirty",
+            "overcrowded",
+            "bad",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That new block of flats is rapidly turning into a slum",
+              "world_new": [
+                "block",
+                "rapidly"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a slum dwelling.",
+              "world_new": [
+                "dwelling"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The great number of children without citizenship in the slums results largely from the fact that children are born of common-law marriages, and women run off, leaving their children behind.",
+    "Let us imagine that there is a dwelling in one of these slums to be cleared away.",
+    "Gentleman made reference to certain houses which were provided under a previous scheme, which, he said, had deteriorated into slums.",
+    "The authority was determined to clear away its slums and it made great sacrifices to do it.",
+    "They should also not forget to provide hotter houses for those who are now housed in slums.",
+    "The first thing you have to do in clearing away slums is to have a place to put the unfortunate people.",
+    "We hear quite a lot about slums and overcrowding, and about rats, bugs, mice, and other creatures.",
+    "The frequent police interventions caused disputes previously confined to the mill compound to now spill over on to the streets, bazaars and slums of the mill towns."
+  ],
+  "list_see_also": [
+    "the slums"
+  ],
+  "list_browse": [
+    "sluggish",
+    "sluggishly",
+    "sluggishness",
+    "sluice",
+    "slum",
+    "slumber",
+    "slump",
+    "slush",
+    "slushiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446988_881568c27a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446988_e4b6ac5ae0_o.png",
+      "id_image": "slum_5256588"
+    }
+  ]
+}

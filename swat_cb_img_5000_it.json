@@ -1,0 +1,89 @@
+{
+  "english": "swat",
+  "phat_am": "swot",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh mạnh, đập nát",
+          "definition": "to crush (a fly etc) by slapping it with something flat",
+          "world_new": [
+            "crush",
+            "fly",
+            "flat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swatted the fly with a folded newspaper.",
+              "world_new": [
+                "fly",
+                "folded",
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú đập mạnh",
+          "definition": "an act of swatting",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the wasp a swat.",
+              "world_new": [
+                "wasp"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As with the chimpanzees, orangutans use tools made from branches and leaves to scratch, scrape, wipe, sponge, swat, fan, hook, probe, scoop, pry, chisel, hammer, cover, cushion and amplify.",
+    "To use the full weight of company law in order to regulate small private companies is to use a sledgehammer to swat a fly.",
+    "The boy then gets even snottier, provoking his father to swat him with a belt.",
+    "She is nimble enough to swat a bee with a single swipe (and cut it in half), and on two occasions she defeats numerous armed men with little trouble.",
+    "The department also has an investigative division, administrative division, narcotics unit, school resource officer, and a swat team.",
+    "Compare them to the sober but ill senior citizens; the ones most religious-minded are swatted against the floor like flies where they fossilize.",
+    "Swat lies just 30 miles to the north, with the main road to that troubled valley running straight through town.",
+    "Black bears rarely attack when confronted by humans, and usually limit themselves to making mock charges, emitting blowing noises and swatting the ground with their forepaws."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "swank",
+    "swanky",
+    "swarm",
+    "swastika",
+    "swat",
+    "swathe",
+    "sway",
+    "swear",
+    "swear by"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071040_129cf6e8cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071040_dfed5a996f_o.png",
+      "id_image": "swat_1256822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378917_ccfd8df6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378917_737afc73e4_o.png",
+      "id_image": "swat_323969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449028_3affcbc529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449028_25f3a9594d_o.png",
+      "id_image": "swat_3856876"
+    }
+  ]
+}

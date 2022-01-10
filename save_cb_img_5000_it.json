@@ -1,0 +1,209 @@
+{
+  "english": "save",
+  "phat_am": "seiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cứu nguy",
+          "definition": "to rescue or bring out of danger",
+          "world_new": [
+            "rescue",
+            "bring",
+            "danger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He saved his friend from drowning",
+              "world_new": [
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "The house was burnt but he saved the pictures.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để dành, tiết kiệm",
+          "definition": "to keep (money etc) for future use",
+          "world_new": [
+            "keep",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s saving (his money) to buy a bicycle",
+              "world_new": [
+                "saving",
+                "buy",
+                "bicycle"
+              ]
+            },
+            {
+              "ex_of_definition": "They’re saving for a house.",
+              "world_new": [
+                "saving",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tránh, bớt",
+          "definition": "to prevent the using or wasting of (money, time, energy etc)",
+          "world_new": [
+            "prevent",
+            "time",
+            "energy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Frozen foods save a lot of trouble",
+              "world_new": [
+                "trouble"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll telephone and that will save me writing a letter.",
+              "world_new": [
+                "telephone",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngăn cản đối phương",
+          "definition": "in football etc, to prevent the opposing team from scoring a goal",
+          "world_new": [
+            "football",
+            "prevent",
+            "opposing",
+            "team",
+            "goal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The goalkeeper saved six goals.",
+              "world_new": [
+                "goalkeeper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cứu rỗi",
+          "definition": "to free from the power of sin and evil.",
+          "world_new": [
+            "free",
+            "power",
+            "sin",
+            "evil"
+          ]
+        },
+        {
+          "mean_english": "bảo lưu",
+          "definition": "to keep data in the computer.",
+          "world_new": [
+            "keep",
+            "data",
+            "computer"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phá bóng cứu nguy",
+          "definition": "(in football etc) an act of preventing the opposing team from scoring a goal.",
+          "world_new": [
+            "football",
+            "act",
+            "opposing",
+            "team",
+            "goal"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "trừ ra , ngoài ra",
+          "definition": "except",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All save him had gone"
+            },
+            {
+              "ex_of_definition": "We have no news save that the ship reached port safely.",
+              "world_new": [
+                "news",
+                "ship",
+                "port",
+                "safely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The pension literature has shown that workers often are extremely loss averse, avoid solving complex problems, and defer saving even though they know they should.",
+    "A significant portion of this could be saved and used to purchase land.",
+    "Moreover, new saving schemes would stimulate economic growth by boosting national savings rates.",
+    "Another attractive feature is the facility for saving data to a file or to print.",
+    "However, most policy discussions of nondiscrimination rules suggest that the rules are primarily designed to increase the amount of saving done by low-income employees.",
+    "In this case, the image transmitted by the mobile phone is saved directly onto the server's hard drive.",
+    "Second, my argument aggregates the good of lives saved.",
+    "Theism and infallibilism: can the marriage be saved ?"
+  ],
+  "list_see_also": [
+    "saver",
+    "saving",
+    "savings",
+    "savings and loan association",
+    "saviour",
+    "saving grace",
+    "savings account",
+    "savings bank",
+    "save up"
+  ],
+  "list_browse": [
+    "savagely",
+    "savageness",
+    "savagery",
+    "savanna",
+    "save",
+    "save one’s face",
+    "save up",
+    "save/waste time",
+    "saver"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378467_aa56ef73fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378467_d5e5048314_o.png",
+      "id_image": "save_2997223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378552_360636c83f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378552_be68768f8b_o.png",
+      "id_image": "save_333777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378507_be36b7dc84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378507_cde0ece95c_o.png",
+      "id_image": "save_364146"
+    }
+  ]
+}

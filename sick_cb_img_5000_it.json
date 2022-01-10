@@ -1,0 +1,172 @@
+{
+  "english": "sick",
+  "phat_am": "sik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dễ bị nôn ,buồn nôn",
+          "definition": "vomiting or inclined to vomit",
+          "world_new": [
+            "vomit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has been sick several times today",
+              "world_new": [
+                "times"
+              ]
+            },
+            {
+              "ex_of_definition": "I feel sick",
+              "world_new": [
+                "I",
+                "feel"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s inclined to be seasick/airsick/car-sick."
+            }
+          ]
+        },
+        {
+          "mean_english": "ốm, bị bệnh",
+          "definition": "ill",
+          "world_new": [
+            "ill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a sick man"
+            },
+            {
+              "ex_of_definition": "The doctor told me that my husband is very sick and may not live very long.",
+              "world_new": [
+                "doctor",
+                "my",
+                "husband",
+                "live",
+                "long"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chán ngấy",
+          "definition": "very tired (of); wishing to have no more (of)",
+          "world_new": [
+            "tired"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m sick of doing this"
+            },
+            {
+              "ex_of_definition": "I’m sick and tired of hearing about it!",
+              "world_new": [
+                "tired",
+                "hearing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đau khổ, chán ghét",
+          "definition": "affected by strong, unhappy or unpleasant feelings",
+          "world_new": [
+            "affected",
+            "strong",
+            "unhappy",
+            "unpleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was really sick at making that bad mistake.",
+              "world_new": [
+                "I",
+                "bad",
+                "mistake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chướng tai gai mắt",
+          "definition": "in bad taste",
+          "world_new": [
+            "bad",
+            "taste"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sick joke.",
+              "world_new": [
+                "joke"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "những gì bị nôn mửa ra",
+          "definition": "vomit",
+          "world_new": [
+            "vomit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bedclothes were covered with sick.",
+              "world_new": [
+                "bedclothes"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sicken",
+    "sickening",
+    "sickeningly",
+    "sickly",
+    "sickness",
+    "sick-leave",
+    "make (someone) sick",
+    "the sick",
+    "worried sick"
+  ],
+  "list_browse": [
+    "shy",
+    "shyly",
+    "shyness",
+    "sibling",
+    "sick",
+    "sick-leave",
+    "sicken",
+    "sickening",
+    "sickeningly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385537_68417affa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385537_414f287772_o.png",
+      "id_image": "sick_1128913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340546_b17a85e234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340546_627bc9cbff_o.png",
+      "id_image": "sick_2707348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340601_7ef4e4b06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340601_d0dd6bfa84_o.png",
+      "id_image": "sick_501135"
+    }
+  ]
+}

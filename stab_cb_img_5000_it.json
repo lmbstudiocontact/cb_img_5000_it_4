@@ -1,0 +1,81 @@
+{
+  "english": "stab",
+  "phat_am": "stab",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đâm ai bằng dao găm",
+          "definition": "to wound or pierce with a pointed instrument or weapon",
+          "world_new": [
+            "wound",
+            "pierce",
+            "pointed",
+            "instrument",
+            "weapon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stabbed him (through the heart / in the chest) with a dagger.",
+              "world_new": [
+                "heart",
+                "dagger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đâm bằng dao, vết thương do dao đâm",
+          "definition": "an act of stabbing or a piercing blow",
+          "world_new": [
+            "act",
+            "stabbing",
+            "piercing",
+            "blow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) a stab wound.",
+              "world_new": [
+                "wound"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "stabbing",
+    "stab (someone) in the back"
+  ],
+  "list_browse": [
+    "squirrel",
+    "squirt",
+    "Sr",
+    "St",
+    "stab",
+    "stab (someone) in the back",
+    "stabbing",
+    "stability",
+    "stabilization"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395877_00383c290c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395877_39768e92c1_o.png",
+      "id_image": "stab_1256819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395847_cf5efba31d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395847_e2b363e297_o.png",
+      "id_image": "stab_6084847"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "english": "spin",
+  "phat_am": "spin",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quay tròn",
+          "definition": "to (cause to) go round and round rapidly",
+          "world_new": [
+            "rapidly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spun round in surprise",
+              "world_new": [
+                "surprise"
+              ]
+            },
+            {
+              "ex_of_definition": "He spun the revolving door round and round.",
+              "world_new": [
+                "revolving",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xe chỉ, xe tơ",
+          "definition": "to form threads from (wool, cotton etc) by drawing out and twisting",
+          "world_new": [
+            "form",
+            "cotton",
+            "drawing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old woman was spinning (wool) in the corner of the room.",
+              "world_new": [
+                "old",
+                "corner",
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quay tròn",
+          "definition": "a whirling or turning motion",
+          "world_new": [
+            "motion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The patch of mud sent the car into a spin.",
+              "world_new": [
+                "patch",
+                "mud",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc đi chơi ngắn",
+          "definition": "a ride, especially on wheels",
+          "world_new": [
+            "ride"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After lunch we went for a spin in my new car.",
+              "world_new": [
+                "lunch",
+                "my",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All antibody dilutions were spun at 10000 g for 5 min before use.",
+    "Figure 2(b) shows the state of the spinning gait after the completion of one cycle.",
+    "What, for example, are we to make of the spinning glands of one of the scale-worm groups (the sigalionids), which produce fibres employed in tube-building?",
+    "In young worms 1 -3 weeks post infection (wpi) spines appear as buds with a serrated edge each having 1- 4 spikes per spine.",
+    "The raw jute passed through six different departments of a factory called batching, softening, preparing, spinning, weaving and sewing.",
+    "If a venture is a success, the company spins it off as a subsidiary.",
+    "Ferromagnetic couplings tend to align the spins, antiferromagnetic couplings make them point in opposite directions.",
+    "Here the number of male weavers - mostly of linen - had declined, and this presumably led to the loss of employment in spinning."
+  ],
+  "list_see_also": [
+    "spinner",
+    "spin doctor",
+    "spin-drier",
+    "spin out"
+  ],
+  "list_browse": [
+    "spikiness",
+    "spiky",
+    "spill",
+    "spill the beans",
+    "spin",
+    "spin doctor",
+    "spin out",
+    "spin-drier",
+    "spinach"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353971_253c2dc740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353971_6bb9f9e5fb_o.png",
+      "id_image": "spin_1547251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468683_3bd3817c44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468683_47d9c49776_o.png",
+      "id_image": "spin_2473177"
+    }
+  ]
+}

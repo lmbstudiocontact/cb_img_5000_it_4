@@ -1,0 +1,94 @@
+{
+  "english": "suggestion",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đề nghị",
+          "definition": "the act of suggesting.",
+          "world_new": [
+            "act"
+          ]
+        },
+        {
+          "mean_english": "sự gợi ý, đề xuất",
+          "definition": "something that is suggested; a proposal or idea",
+          "world_new": [
+            "proposal",
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Has anyone any other suggestions to make?"
+            },
+            {
+              "ex_of_definition": "What a clever suggestion!",
+              "world_new": [
+                "clever"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý ám thị",
+          "definition": "a slight trace or sign",
+          "world_new": [
+            "slight",
+            "trace",
+            "sign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a suggestion of boredom in his tone.",
+              "world_new": [
+                "boredom",
+                "tone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I offer five suggestions as to how this structural deficiency in engineering curricula can be corrected.",
+    "131 suggestions of a causal relationship between parent characteristics and child outcome are speculative.",
+    "We want to thank the referee for useful suggestions.",
+    "When asked for suggestions about encouraging research in primary care, the most frequent comments were about the need for protected time.",
+    "From several other individuals we received helpful suggestions acknowledged at appropriate places throughout the paper.",
+    "Of these suggestions, the most likely one is that of a holiday effect.",
+    "Section 8 reviews some closely related work, section 9 makes some suggestions for future work, and section 10 concludes.",
+    "The author would like to thank the referee for valuable comments and suggestions on the first version of this paper."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sugar-free",
+    "sugariness",
+    "sugary",
+    "suggest",
+    "suggestion",
+    "suicidal",
+    "suicidally",
+    "suicide",
+    "suit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453693_03db2152b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453693_f46913882f_o.png",
+      "id_image": "suggestion_2636211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075700_58de6b314e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075700_20592acb5b_o.png",
+      "id_image": "suggestion_4047066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075770_50574364ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075770_0e77196850_o.png",
+      "id_image": "suggestion_992644"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "superior",
+  "phat_am": "suˈpiəriə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cao hơn về cấp bâc, địa vị",
+          "definition": "(often with to) higher in rank, better, or greater, than",
+          "world_new": [
+            "rank",
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is a captain superior to a commander in the navy?",
+              "world_new": [
+                "captain",
+                "commander",
+                "navy"
+              ]
+            },
+            {
+              "ex_of_definition": "With his superior strength he managed to overwhelm his opponent.",
+              "world_new": [
+                "strength",
+                "overwhelm",
+                "opponent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giỏi hơn, tốt hơn",
+          "definition": "high, or above the average, in quality",
+          "world_new": [
+            "average",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "superior workmanship.",
+              "world_new": [
+                "workmanship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trịch thượng, làm cao",
+          "definition": "(of a person or his attitude) contemptuous or disdainful",
+          "world_new": [
+            "person",
+            "contemptuous",
+            "disdainful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a superior smile.",
+              "world_new": [
+                "smile"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người cấp trên, thượng cấp",
+          "definition": "a person who is better than, or higher in rank than, another or others",
+          "world_new": [
+            "person",
+            "better",
+            "rank"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The servant was dismissed for being rude to her superiors.",
+              "world_new": [
+                "servant",
+                "rude"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "superiority"
+  ],
+  "list_browse": [
+    "superhuman",
+    "superintend",
+    "superintendence",
+    "superintendent",
+    "superior",
+    "superiority",
+    "superlative",
+    "superman",
+    "supermarket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382302_8049df3393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382302_e666cecdce_o.png",
+      "id_image": "superior_994651"
+    }
+  ]
+}

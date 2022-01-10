@@ -1,0 +1,70 @@
+{
+  "english": "taxation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hệ thống thuế",
+          "definition": "the act or system of taxing",
+          "world_new": [
+            "act",
+            "system",
+            "taxing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "property taxation",
+              "world_new": [
+                "property"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) taxation rates."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Less predictable, but no less crucial, are the discussions of the king's council and royal taxation.",
+    "Physical evidence of racial differentiation had to wait until the boom of the 1890s provided sufficient taxation to implement segregated public services.",
+    "In this case, low taxation on unskilled labor motivates a large number of workers to forgo the premium and remain unskilled.",
+    "This research is of relevance to social security, taxation, family law and child support policies and administration.",
+    "Free of their corporatist commitments, social democratic governments have been found to limit the use of regressive indirect taxation in order to promote egalitarian outcomes.",
+    "An illustration of the difference in outlook between the two can be found in capital gains taxation.",
+    "Taxation of land values, which characterised the pre-1914 land question, had almost disappeared from political view by the end of the 1930s.",
+    "Its focus on land and its elimination of the human factor promised a rational basis of administration and an ' objective ' basis for taxation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tax",
+    "tax (someone) with",
+    "tax-free",
+    "taxable",
+    "taxation",
+    "taxi",
+    "taxi rank",
+    "taxidermist",
+    "taxidermy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708579_d796b2f3fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708579_363fd53f1e_o.png",
+      "id_image": "taxation_3053801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091325_f45f319bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091325_2563de1f1f_o.png",
+      "id_image": "taxation_3883073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398792_ec721212ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398792_443323b785_o.png",
+      "id_image": "taxation_4496658"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "english": "tight",
+  "phat_am": "tait",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chật",
+          "definition": "fitting very or too closely",
+          "world_new": [
+            "fitting",
+            "closely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I couldn’t open the box because the lid was too tight",
+              "world_new": [
+                "I",
+                "open",
+                "box",
+                "lid"
+              ]
+            },
+            {
+              "ex_of_definition": "My trousers are too tight.",
+              "world_new": [
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chặt",
+          "definition": "stretched to a great extent; not loose",
+          "world_new": [
+            "great",
+            "loose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made sure that the ropes were tight.",
+              "world_new": [
+                "sure"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiêm khắc",
+          "definition": "(of control etc) strict and very careful",
+          "world_new": [
+            "control",
+            "strict",
+            "careful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She keeps (a) tight control over her emotions.",
+              "world_new": [
+                "control"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có ít thời gian",
+          "definition": "not allowing much time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We hope to finish this next week but the schedule’s a bit tight.",
+              "world_new": [
+                "hope",
+                "finish",
+                "week",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chặt chẽ",
+          "definition": "(also tightly) closely; with no extra room or space",
+          "world_new": [
+            "extra",
+            "room",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bags were packed tight / tightly packed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "kín",
+          "definition": "sealed so as to keep (something) in or out, as in airtight, watertight",
+          "world_new": [
+            "keep"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Here, the issue is why popular protests rose so frequently despite tight political control by the government.",
+    "Observed cross-sectional distribution and its second-order approximation (tight borrowing constraint).",
+    "To ensure that benefits do not exceed contributions a tight limit has been set on eligibility and total payments.",
+    "For those who maintain an illusion of tight control, the book will be an eye-opener.",
+    "All wear the same below-the-knee dresses made out of the same fabric, with gathered tops and uncomfortably tight (and not terribly flattering) fitted waists.",
+    "His determined progression towards a tighter fit between services, structure and programme is analysed in impressive detail.",
+    "This tight link between concessions and mills is the reason for the inclusion of the harvest constraint in the model.",
+    "First, regularity of strophic constructions and tight rhyme schemes are especially cultivated by the troubadours to impose structure on an unruly vernacular language."
+  ],
+  "list_see_also": [
+    "-tight",
+    "tighten",
+    "tightness",
+    "tights",
+    "tight-fisted",
+    "tightrope",
+    "a tight corner/spot",
+    "tighten one’s belt"
+  ],
+  "list_browse": [
+    "tie in",
+    "tier",
+    "tiff",
+    "tiger",
+    "tight",
+    "tight-fisted",
+    "tighten",
+    "tighten one’s belt",
+    "tightness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462518_ca0fc4dcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462518_63c15d1516_o.png",
+      "id_image": "tights_2093998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462548_71b5e105da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462548_a335cd0afd_o.png",
+      "id_image": "tights_387415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085020_f2d7285a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085020_9d06e1e8c6_o.png",
+      "id_image": "tights_4321447"
+    }
+  ]
+}

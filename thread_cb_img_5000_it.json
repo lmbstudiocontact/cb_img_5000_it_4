@@ -1,0 +1,142 @@
+{
+  "english": "thread",
+  "phat_am": "θred",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sợi chỉ",
+          "definition": "a thin strand of cotton, wool, silk etc, especially when used for sewing",
+          "world_new": [
+            "thin",
+            "strand",
+            "cotton",
+            "wool",
+            "silk",
+            "sewing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a needle and some thread.",
+              "world_new": [
+                "needle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường ren xoáy ốc",
+          "definition": "the spiral ridge around a screw",
+          "world_new": [
+            "spiral",
+            "ridge",
+            "screw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This screw has a worn thread.",
+              "world_new": [
+                "screw",
+                "worn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng, mạch",
+          "definition": "the connection between the various events or details (in a story, account etc)",
+          "world_new": [
+            "connection",
+            "various",
+            "story",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve lost the thread of what he’s saying.",
+              "world_new": [
+                "lost"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuôn chỉ",
+          "definition": "to pass a thread through",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I cannot thread this needle",
+              "world_new": [
+                "I",
+                "needle"
+              ]
+            },
+            {
+              "ex_of_definition": "The child was threading beads.",
+              "world_new": [
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lách, luồn lách",
+          "definition": "to make (one’s way) through",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She threaded her way through the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Two tailor-made barriers, the start barrier and the stop barrier, realize all necessary synchronization among threads.",
+    "Neural organization is a bold and ambitious attempt to outline some of the common threads in the constant flux of neuroscience research.",
+    "The financial threads were gathered in their hands.",
+    "Based on this information a cost model for the available skeletons, possibly nested, is used to select a decomposition and mapping of parallel threads.",
+    "If the sparks occur after k levels, processor 0 must process k nodes, and the threads are divided between 2k queues.",
+    "Messages can be addressed to other agents, and there is support in the specifications for connecting individual messages into conversational threads.",
+    "Many users currently use threads even smaller than this.",
+    "The third chapter brings together many of the threads of the first two by developing the idea of 'object'."
+  ],
+  "list_see_also": [
+    "threadbare"
+  ],
+  "list_browse": [
+    "thousands of",
+    "thousandth",
+    "thrash",
+    "thrashing",
+    "thread",
+    "threadbare",
+    "threat",
+    "threaten",
+    "three"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086510_8acb3d7f0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086510_5cbc061cdf_o.png",
+      "id_image": "thread_4301333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703889_fcf89d2d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703889_6b5e7edd72_o.png",
+      "id_image": "thread_6306789"
+    }
+  ]
+}

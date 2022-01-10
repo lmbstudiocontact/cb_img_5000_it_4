@@ -1,0 +1,108 @@
+{
+  "english": "transport",
+  "phat_am": "trӕnsˈpoːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vận chuyển",
+          "definition": "to carry (goods, passengers etc) from one place to another",
+          "world_new": [
+            "carry",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The goods were transported by air",
+              "world_new": [
+                "goods",
+                "air"
+              ]
+            },
+            {
+              "ex_of_definition": "A bus transported us from the airport to the city.",
+              "world_new": [
+                "bus",
+                "airport",
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "sự vận chuyển",
+          "definition": "the process of transporting or being transported",
+          "world_new": [
+            "process"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "road transport",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "My husband is using my car, so I have no (means of) transport.",
+              "world_new": [
+                "husband",
+                "my",
+                "car",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Of the 20 survey respondents who claimed that they were not dependent on others for transport, 15 were men.",
+    "Transport of ionizing radiation in terrestrial-like exoplanet atmospheres.",
+    "These experiments demonstrated good transport properties and verified the theoretical modeling.",
+    "Granulocyte-macrophage colonystimulating factor promotes glucose transport and blastomere viability in murine preimplantation embryos.",
+    "The object is lifted, transported to the right, and released.",
+    "It has been found that radiation transport plays an essential role at stagnation phase, determining the final distribution of density and temperature.",
+    "Studies of transport of atmospheric pollutants often require treatment of nonhomogeneous and non-stationary flows.",
+    "In order to calculate the hyperbolic part of the equations we took one of the algorithms of the flux corrected transport [36]."
+  ],
+  "list_see_also": [
+    "transportable",
+    "transportation",
+    "transporter"
+  ],
+  "list_browse": [
+    "transparently",
+    "transpiration",
+    "transpire",
+    "transplant",
+    "transport",
+    "transportable",
+    "transportation",
+    "transporter",
+    "transvestism"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451633_64de65065c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451633_ed6ee0c897_o.png",
+      "id_image": "transport_4636444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691989_7258d42852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691989_266b001ce8_o.png",
+      "id_image": "transport_4660752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381777_dc0dff7b3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381777_3c17a18a69_o.png",
+      "id_image": "transport_848548"
+    }
+  ]
+}

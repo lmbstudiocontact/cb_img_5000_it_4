@@ -1,0 +1,169 @@
+{
+  "english": "sense",
+  "phat_am": "sens",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giác quan",
+          "definition": "one of the five powers (hearing, taste, sight, smell, touch) by which a person or animal feels or notices",
+          "world_new": [
+            "taste",
+            "sight",
+            "smell",
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dogs have an acute sense of hearing.",
+              "world_new": [
+                "acute",
+                "hearing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm giác, tri giác",
+          "definition": "a feeling",
+          "world_new": [
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has an exaggerated sense of his own importance.",
+              "world_new": [
+                "importance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý thức",
+          "definition": "an awareness of (something)",
+          "world_new": [
+            "awareness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a well-developed musical sense",
+              "world_new": [
+                "musical"
+              ]
+            },
+            {
+              "ex_of_definition": "She has no sense of humour.",
+              "world_new": [
+                "humour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khả năng phán đoán",
+          "definition": "good judgement",
+          "world_new": [
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can rely on him – he has plenty of sense.",
+              "world_new": [
+                "rely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghĩa, ý nghĩa",
+          "definition": "a meaning (of a word)",
+          "world_new": [
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some words have several senses.",
+              "world_new": [
+                "senses"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ý nghĩa",
+          "definition": "something which is meaningful",
+          "world_new": [
+            "meaningful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you make sense of her letter?",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảm thấy",
+          "definition": "to feel, become aware of, or realize",
+          "world_new": [
+            "feel",
+            "become",
+            "aware",
+            "realize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sensed that she disapproved."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We focused on remote sensing instrumentation for reasons that will become apparent.",
+    "In many instances, the researchers sensed that their partners lacked certainty about what they really wanted the researchers to do.",
+    "Thus, efficient sensing ability and communications with its host computer are critical for its real-time control.",
+    "In addition, we also assume that each sensing action appears in at most one k-proposition.",
+    "The latter property holds because that q does not contain an action that senses an already known-to-be-true literal.",
+    "We also acknowledge the need to implement sensing on individual robots to obtain local state information.",
+    "The lexicon stores several fields for each word, of which the two most important are the tag data and the word senses.",
+    "In such cases, the rigidity of the tube will cause large disturbances to the flexible elements for sensing."
+  ],
+  "list_see_also": [
+    "senseless",
+    "senselessly",
+    "senselessness",
+    "sensor",
+    "sensory",
+    "senses",
+    "sixth sense"
+  ],
+  "list_browse": [
+    "seniority",
+    "sensation",
+    "sensational",
+    "sensationally",
+    "sense",
+    "senseless",
+    "senselessly",
+    "senselessness",
+    "senses"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394917_9a6e228a3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394917_5b10c1039a_o.png",
+      "id_image": "sense_2503758"
+    }
+  ]
+}

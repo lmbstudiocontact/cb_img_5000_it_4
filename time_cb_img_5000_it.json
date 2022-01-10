@@ -1,0 +1,284 @@
+{
+  "english": "time",
+  "phat_am": "taim",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thời gian trong ngày",
+          "definition": "the hour of the day",
+          "world_new": [
+            "hour",
+            "day"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What time is it?"
+            },
+            {
+              "ex_of_definition": "Can your child tell the time yet?",
+              "world_new": [
+                "your",
+                "child",
+                "tell",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời gian được tính bằng đơn vị năm, tháng, ngày",
+          "definition": "the passage of days, years, events etc",
+          "world_new": [
+            "passage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "time and space",
+              "world_new": [
+                "space"
+              ]
+            },
+            {
+              "ex_of_definition": "Time will tell.",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời điểm",
+          "definition": "a point at which, or period during which, something happens",
+          "world_new": [
+            "point",
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "at the time of his wedding",
+              "world_new": [
+                "wedding"
+              ]
+            },
+            {
+              "ex_of_definition": "breakfast time.",
+              "world_new": [
+                "breakfast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoảng thời gian nào đó",
+          "definition": "the quantity of minutes, hours, days etc, eg spent in, or available for, a particular activity etc",
+          "world_new": [
+            "quantity",
+            "spent",
+            "available",
+            "particular",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This won’t take much time to do"
+            },
+            {
+              "ex_of_definition": "I enjoyed the time I spent in Paris",
+              "world_new": [
+                "I",
+                "I",
+                "spent"
+              ]
+            },
+            {
+              "ex_of_definition": "At the end of the exam, the supervisor called ‘Your time is up!’",
+              "world_new": [
+                "supervisor"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời điểm thích hợp",
+          "definition": "a suitable moment or period",
+          "world_new": [
+            "suitable",
+            "moment",
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Now is the time to ask him.",
+              "world_new": [
+                "ask"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lần",
+          "definition": "one of a number occasions",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s been to France four times.",
+              "world_new": [
+                "times"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giai đoạn, thời kỳ",
+          "definition": "a period characterized by a particular quality in a person’s life, experience etc",
+          "world_new": [
+            "period",
+            "particular",
+            "quality",
+            "life",
+            "experience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went through an unhappy time when she died",
+              "world_new": [
+                "unhappy"
+              ]
+            },
+            {
+              "ex_of_definition": "We had some good times together.",
+              "world_new": [
+                "times"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhịp",
+          "definition": "the speed at which a piece of music should be played; tempo",
+          "world_new": [
+            "speed",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in slow time.",
+              "world_new": [
+                "slow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tính thời gian",
+          "definition": "to measure the time taken by (a happening, event etc) or by (a person, in doing something)",
+          "world_new": [
+            "measure",
+            "happening",
+            "event",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He timed the journey.",
+              "world_new": [
+                "journey"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chọn thời điểm",
+          "definition": "to choose a particular time for",
+          "world_new": [
+            "choose",
+            "particular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You timed your arrival beautifully!",
+              "world_new": [
+                "your",
+                "arrival",
+                "beautifully"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Mortality rates were more variable over time on edges than interiors, and there was no evidence of time lags in mortality.",
+    "The comparative study is based on the accuracy, robustness, processing time and easiness of the implementation.",
+    "We can easily modify this definition, however, to accommodate also the selection of multiple sources at a time.",
+    "He then says nothing for some time about any employment.",
+    "We fixed a maximum running time of 12,000 s (about 3 h) for each test.",
+    "This procedure was repeated 1,000 times to give that number of estimates of the monkey population.",
+    "This predicate repeats the body of a program any given number of times.",
+    "One difficulty is to be sure that only one actuator moves at a time."
+  ],
+  "list_see_also": [
+    "timeless",
+    "timelessly",
+    "timelessness",
+    "timely",
+    "timeliness",
+    "timer",
+    "times",
+    "timing",
+    "time bomb",
+    "time-consuming",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "till",
+    "tiller",
+    "tilt",
+    "timber",
+    "time",
+    "time and (time) again",
+    "time bomb",
+    "time limit",
+    "time off"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347441_352c09fed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347441_5109377c4c_o.png",
+      "id_image": "time_1211040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392457_cb8e546ae3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392457_19fac67194_o.png",
+      "id_image": "time_868194"
+    }
+  ]
+}

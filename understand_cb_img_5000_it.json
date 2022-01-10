@@ -1,0 +1,117 @@
+{
+  "english": "understand",
+  "phat_am": "andəˈstӕnd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hiểu được ý",
+          "definition": "to see or know the meaning of (something)",
+          "world_new": [
+            "see",
+            "know",
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t understand his absence",
+              "world_new": [
+                "I",
+                "absence"
+              ]
+            },
+            {
+              "ex_of_definition": "Speak slowly to foreigners so that they’ll understand you.",
+              "world_new": [
+                "slowly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hiểu, nhận thức được",
+          "definition": "to know (eg a person) thoroughly",
+          "world_new": [
+            "know",
+            "thoroughly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She understands children/dogs."
+            }
+          ]
+        },
+        {
+          "mean_english": "hiểu, nhận ra",
+          "definition": "to learn or realize (something), eg from information received",
+          "world_new": [
+            "learn",
+            "realize",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At first I didn’t understand how ill she was",
+              "world_new": [
+                "I",
+                "ill"
+              ]
+            },
+            {
+              "ex_of_definition": "I understood that you were planning to leave today.",
+              "world_new": [
+                "I",
+                "planning",
+                "leave"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To achieve this, governments must come to a clearer understanding the role of stakeholder input in governance strategies and of associated metagovernance issues.",
+    "Preparation for the end of life and the role of communication in understanding anticipated physical changes and spiritual changes involve the whole family.",
+    "The distinction between activation and integration has profound implications for predicting and understanding interactions between event codes.",
+    "Thus, institutional design emerges as a factor in understanding lobbying success.",
+    "The first step in understanding the phenomenon is to name it.",
+    "Alternatively, understanding false belief may be enhanced, but more modestly.",
+    "In the event that they understood only part of a sentence, they were to write out as many words as they could identify.",
+    "A key to understanding the debacle of anti-nuclear reform lies in the past history of the movement itself."
+  ],
+  "list_see_also": [
+    "understandable",
+    "understanding",
+    "make (oneself) understood"
+  ],
+  "list_browse": [
+    "underrate",
+    "undersell",
+    "undershirt",
+    "underside",
+    "understand",
+    "understandable",
+    "understanding",
+    "understate",
+    "understatement"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398667_bf61266c29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398667_3a7e3b51c5_o.png",
+      "id_image": "understand_2196303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353691_4f70ed0429_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353691_5657b51fc1_o.png",
+      "id_image": "understand_5361244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398632_6f84fb2977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398632_f703396747_o.png",
+      "id_image": "understand_6159589"
+    }
+  ]
+}

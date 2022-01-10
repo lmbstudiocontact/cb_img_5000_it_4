@@ -1,0 +1,84 @@
+{
+  "english": "squat",
+  "phat_am": "skwot",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngồi xổm",
+          "definition": "to sit down on the heels or in a crouching position",
+          "world_new": [
+            "sit",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The beggar squatted all day in the market place.",
+              "world_new": [
+                "beggar",
+                "day",
+                "market",
+                "place"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "béo lùn",
+          "definition": "short and fat; dumpy",
+          "world_new": [
+            "short",
+            "dumpy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a squat little man"
+            },
+            {
+              "ex_of_definition": "an ugly, squat building.",
+              "world_new": [
+                "ugly",
+                "building"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "squared",
+    "squarely",
+    "squash",
+    "squashy",
+    "squat",
+    "squawk",
+    "squeak",
+    "squeakily",
+    "squeakiness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396272_651d43d53f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396272_5a77c03cd9_o.png",
+      "id_image": "squat_2307865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088700_54d8c30dd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088700_dd3ebdf4d4_o.png",
+      "id_image": "squat_3043290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705974_7531fb29af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705974_efb5d6bdd4_o.png",
+      "id_image": "squat_3476385"
+    }
+  ]
+}

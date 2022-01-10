@@ -1,0 +1,104 @@
+{
+  "english": "roller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con lăn",
+          "definition": "any of a number of tube-shaped objects, or machines fitted with one or more such objects, for flattening, crushing, printing etc",
+          "world_new": [
+            "number",
+            "crushing",
+            "printing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garden roller",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "a road-roller."
+            }
+          ]
+        },
+        {
+          "mean_english": "ống cuộn",
+          "definition": "a small tube-shaped object on which hair is wound to curl it",
+          "world_new": [
+            "small",
+            "object",
+            "hair",
+            "wound",
+            "curl"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her hair was in rollers.",
+              "world_new": [
+                "hair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trục lăn",
+          "definition": "a small solid wheel or cylinder on which something can be rolled along.",
+          "world_new": [
+            "small",
+            "solid",
+            "wheel",
+            "cylinder"
+          ]
+        },
+        {
+          "mean_english": "đợt sóng cuồn cuộn",
+          "definition": "a long large wave on the sea.",
+          "world_new": [
+            "long",
+            "large",
+            "wave",
+            "sea"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The speed is changed depending on the position of the adjustable roller.",
+    "Oxygenated blood was infused into a carotid artery via roller pump.",
+    "Patients can be traumatized by roller-coaster rides where hopes are built and crushed contemporaneously.",
+    "The direction of relative motion of the shafts is reversed when the roller is moved past the center of the disk.",
+    "Most of the performances of the structure now depend on the sphere diameter and no longer on the roller diameter.",
+    "A force is applied to the adjustable roller in order to change its position on the splined shaft.",
+    "For the wounded actor, these ups and downs have the quality of a diabolical roller-coaster: highs of inflated grandiosity followed by lows of deep depression.",
+    "The rotation of the adjustable roller that is in contact with the friction disk."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "roll",
+    "roll in",
+    "roll up",
+    "roll-call",
+    "roller",
+    "roller coaster",
+    "roller-skate",
+    "rolling",
+    "rolling-pin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343376_b12366eeea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343376_dc2758f73c_o.png",
+      "id_image": "roller_1833232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698639_3f91068b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698639_8b47fe9489_o.png",
+      "id_image": "roller_408416"
+    }
+  ]
+}

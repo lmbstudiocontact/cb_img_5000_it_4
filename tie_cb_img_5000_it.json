@@ -1,0 +1,203 @@
+{
+  "english": "tie",
+  "phat_am": "tai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buộc, cột",
+          "definition": "(often with to, on etc) to fasten with a string, rope etc",
+          "world_new": [
+            "fasten",
+            "string",
+            "rope"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tied the horse to a tree",
+              "world_new": [
+                "horse",
+                "tree"
+              ]
+            },
+            {
+              "ex_of_definition": "The parcel was tied with string",
+              "world_new": [
+                "parcel",
+                "string"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t like this job – I hate being tied to a desk.",
+              "world_new": [
+                "I",
+                "job",
+                "I",
+                "hate",
+                "desk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thắt",
+          "definition": "to fasten by knotting; to make a knot in",
+          "world_new": [
+            "fasten",
+            "knot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tied his shoelaces."
+            }
+          ]
+        },
+        {
+          "mean_english": "cài",
+          "definition": "to be joined by a knot etc",
+          "world_new": [
+            "knot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The belt of this dress ties at the front.",
+              "world_new": [
+                "belt",
+                "dress",
+                "front"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tỷ số hòa",
+          "definition": "to score the same number of points etc (in a game, competition etc)",
+          "world_new": [
+            "score",
+            "number",
+            "points",
+            "game",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Three people tied for first place.",
+              "world_new": [
+                "people",
+                "place"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cà vạt",
+          "definition": "a strip of material worn tied round the neck under the collar of a shirt",
+          "world_new": [
+            "strip",
+            "material",
+            "worn",
+            "neck",
+            "collar",
+            "shirt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wore a shirt and tie.",
+              "world_new": [
+                "shirt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự liên kết",
+          "definition": "something that joins",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ties of friendship.",
+              "world_new": [
+                "friendship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết quả hòa",
+          "definition": "an equal score or result (in a game, competition etc); a draw",
+          "world_new": [
+            "equal",
+            "score",
+            "result",
+            "game",
+            "competition",
+            "draw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The game ended in a tie.",
+              "world_new": [
+                "game"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trận đấu",
+          "definition": "a game or match to be played",
+          "world_new": [
+            "game",
+            "match"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their fourth round tie is due to be played next Wednesday.",
+              "world_new": [
+                "due",
+                "Wednesday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Others are so closely tied to elected politicians that they lack substantial independence.",
+    "The collective results suggest that neural populations, rather than the individual cell, determine the spatial proper ties of its receptive field.",
+    "To begin, venues are directly tied to policy solutions, and advocacy groups do have preferences in this regard.",
+    "Chapter 2 focuses on the impact of genetics on evolutionary biology and recent research that ties issues in evolution to developmental biology.",
+    "Moreover, such priming effects are tied to representations in the brain.",
+    "In this rubric, the political is released from a necessary tie to centralized governance and simply represents itself as a social production.",
+    "Each group had its own culture and language and had its own affirmative action policies tied to it.",
+    "He advocated nurturing the sociocultural and political orientations he believed were tied to the identity of the state."
+  ],
+  "list_see_also": [
+    "be tied up",
+    "tie (someone) down",
+    "tie in"
+  ],
+  "list_browse": [
+    "tidily",
+    "tidiness",
+    "tidings",
+    "tidy",
+    "tie",
+    "tie (someone) down",
+    "tie in",
+    "tier",
+    "tiff"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347931_3a65f0a1b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347931_299a8e2fb6_o.png",
+      "id_image": "tie_343341"
+    }
+  ]
+}

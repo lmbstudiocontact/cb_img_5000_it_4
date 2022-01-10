@@ -1,0 +1,101 @@
+{
+  "english": "swamp",
+  "phat_am": "swomp",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đầm lầy",
+          "definition": "(an area of) wet, marshy ground",
+          "world_new": [
+            "area",
+            "wet",
+            "marshy",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These trees grow best in swamp(s).",
+              "world_new": [
+                "grow",
+                "best"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm ngập nước, làm ướt đẫm",
+          "definition": "to cover or fill with water",
+          "world_new": [
+            "cover",
+            "fill",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A great wave swamped the deck.",
+              "world_new": [
+                "great",
+                "wave",
+                "deck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The area of shoreline swamps declined exponentially with increasing wave exposure.",
+    "The macroscopic vegetation of freshwater lochs, swamps and associated fens.",
+    "Change continues, but it is bounded change - until something erodes or swamps the mechanisms of reproduction that generate institutional continuity.",
+    "The distinction may be that water actively circulates in the v'rzea, while swamps tend to lie under stagnant water a prone to anoxia.",
+    "To the west, claystones and coals are more frequent, indicating that damming had resulted in the formation of localized swamps and lakes.",
+    "Functional improvements are especially difficult to demonstrate, as the changes permitted by release of spasticity may be swamped by other impairments.",
+    "Coastal mangrove swamps around the northern and southern shores of the harbour were almost completely cleared.",
+    "On the adaptive value of reproductive synchrony as a predator swamping strategy."
+  ],
+  "list_see_also": [
+    "swampy",
+    "swampiness"
+  ],
+  "list_browse": [
+    "swagger",
+    "swallow",
+    "swallow one’s pride",
+    "swallow up",
+    "swamp",
+    "swampiness",
+    "swampy",
+    "swan",
+    "swan song"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449368_e68ba6844f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449368_fe2fdc647f_o.png",
+      "id_image": "swamp_3038918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449303_0a04792e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449303_8ec34e2c30_o.png",
+      "id_image": "swamp_3075129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379127_9ede752dee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379127_50978fe189_o.png",
+      "id_image": "swamp_3195866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071215_4a39cae00f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071215_9d8eb1e3f5_o.png",
+      "id_image": "swamp_4104401"
+    }
+  ]
+}

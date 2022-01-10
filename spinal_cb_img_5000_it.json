@@ -1,0 +1,55 @@
+{
+  "english": "spinal",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "liên quan đến xương sống",
+          "definition": "of or concerned with the backbone",
+          "world_new": [
+            "backbone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spinal injury.",
+              "world_new": [
+                "injury"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the flexible-dosage study in patients with spinal cord injury pain, 22% of pregabalin and 8% of placebo-treated patients were responders.",
+    "Similarly, the nerve injury-induced proinflammatory gene expression in the spinal cord is also reduced in the toll-like receptor 2 knockout mice.",
+    "Other brainstem neurons (not shown) send descending projections to the spinal cord to influence muscle tone and activity across the sleep-wake cycle.",
+    "It is reported that previous models had been based on neurons in the spinal cord, which were too mechanically similar to computers.",
+    "This paper describes a head-operated telerobot system (virtual headstick) suitable for individuals with high level spinal cord injuries.",
+    "If the gene product is released by transduced neurons it may enter both the spinal cord and the periphery.",
+    "He fell at the group home where he lives and sustained a spinal cord injury.",
+    "The patients represent a convenience sample taken from a population of patients who had received either a spinal cord stimulator or an implantable pain pump."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spin doctor",
+    "spin out",
+    "spin-drier",
+    "spinach",
+    "spinal",
+    "spinal column",
+    "spinal cord",
+    "spindle",
+    "spindly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468608_5b761b1e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468608_acd6e9865b_o.png",
+      "id_image": "spinal_1823747"
+    }
+  ]
+}

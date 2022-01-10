@@ -1,0 +1,175 @@
+{
+  "english": "tick",
+  "phat_am": "tik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng tích tắc",
+          "definition": "a regular sound, especially that of a watch, clock etc",
+          "world_new": [
+            "regular",
+            "sound",
+            "watch",
+            "clock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the steady tick of the clock.",
+              "world_new": [
+                "steady",
+                "clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một lát",
+          "definition": "a moment",
+          "world_new": [
+            "moment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wait a tick!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kêu tích tắc",
+          "definition": "to make a sound like this",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your watch ticks very loudly!",
+              "world_new": [
+                "watch",
+                "loudly"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu kiểm",
+          "definition": "a mark ( ) used to show that something is correct, has been noted etc",
+          "world_new": [
+            "mark",
+            "correct",
+            "noted"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If the answer is ‘yes’, put a tick in the box.",
+              "world_new": [
+                "answer",
+                "box"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh dấu",
+          "definition": "(often with off) to put this mark beside an item or name on a list etc",
+          "world_new": [
+            "mark",
+            "item",
+            "name",
+            "list"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She ticked everything off on the list.",
+              "world_new": [
+                "list"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con bét, con ve",
+          "definition": "a type of small, blood-sucking insect",
+          "world_new": [
+            "type",
+            "small",
+            "insect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our dog has ticks.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Immunoglobulinbinding proteins in ticks : new target for vaccine development against a blood-feeding parasite.",
+    "Differences in survival of the ticks kept under the two conditions was not as wide as that of parasites kept under the two conditions.",
+    "The resulting partially fed ticks were allowed to continue engorgement on new, uninfected hosts (interrupted feeding).",
+    "Transmission of louping-ill virus between infected and uninfected ticks co-feeding on mountain hares.",
+    "Among mammals, immature ticks have been identified on a wide diversity of species, including elephant shrews, rodents, lagomorphs, hyraxes, carnivores, equids and ruminants.",
+    "Testosterone depresses innate and acquired resistance to ticks in natural rodent hosts : a force for aggregated distributions of parasites.",
+    "Both of these simulations used exactly the same number of ticks.",
+    "The differences concerning behaviour and physiology between nidiculous and non-nidiculous ticks are enormous especially in their host-finding behaviours."
+  ],
+  "list_see_also": [
+    "tick (someone) off",
+    "tick (someone) off",
+    "tick over",
+    "ticked off"
+  ],
+  "list_browse": [
+    "thyself",
+    "tiara",
+    "tibia",
+    "tic",
+    "tick",
+    "tick (someone) off",
+    "tick over",
+    "ticked off",
+    "ticket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463133_f8ca454dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463133_67b22c0e3d_o.png",
+      "id_image": "tick_2570144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702989_05573b9ce8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702989_061d7c7bf2_o.png",
+      "id_image": "tick_3390910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393127_979822b0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393127_693861576f_o.png",
+      "id_image": "tick_5387661"
+    }
+  ]
+}

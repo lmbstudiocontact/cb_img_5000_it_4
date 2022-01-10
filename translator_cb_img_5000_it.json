@@ -1,0 +1,65 @@
+{
+  "english": "translator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biên dịch viên",
+          "definition": "a person who translates",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a freelance translator.",
+              "world_new": [
+                "freelance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The new summary of the letter's contents is unusual for this translator; he only provides such a summary at one other place (248.16-27).",
+    "As we have already mentioned, primitive tasks refer to the basic actions carried out by translators when using dictionaries.",
+    "The translation has value and authority because its writers and translators possess legitimacy as figures of proven power and wisdom.",
+    "The translator requires information from the dictionary system by means of direct queries.",
+    "In four experiments, translators or bilinguals read sentences for repetition or for translation.",
+    "It may act as a translator, perform task allocation, or monitor progress, among other things.",
+    "There is also sometimes a purposeful editing while the translator was undertaking his work.",
+    "The danger here is two-fold: it not only makes life harder for translators but also extends to the employer, who may receive incorrect, misunderstood information."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "transitional",
+    "transitive",
+    "translate",
+    "translation",
+    "translator",
+    "translucence",
+    "translucency",
+    "translucent",
+    "transmission"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692724_ece59af16a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692724_fd3476c59c_o.png",
+      "id_image": "translator_309257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337386_ae3c129436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337386_fd45065ddb_o.png",
+      "id_image": "translator_4016168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337356_97d833cf36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337356_44bf5b6d70_o.png",
+      "id_image": "translator_6091120"
+    }
+  ]
+}

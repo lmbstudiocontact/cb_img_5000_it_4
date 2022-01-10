@@ -1,0 +1,172 @@
+{
+  "english": "stream",
+  "phat_am": "striːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dòng suối",
+          "definition": "a small river or brook",
+          "world_new": [
+            "small",
+            "river",
+            "brook"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He managed to jump across the stream.",
+              "world_new": [
+                "jump",
+                "across"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dòng, luồng",
+          "definition": "a flow of eg water, air etc",
+          "world_new": [
+            "flow",
+            "water",
+            "air"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A stream of water was pouring down the gutter",
+              "world_new": [
+                "water",
+                "gutter"
+              ]
+            },
+            {
+              "ex_of_definition": "A stream of people was coming out of the cinema",
+              "world_new": [
+                "people",
+                "cinema"
+              ]
+            },
+            {
+              "ex_of_definition": "He got into the wrong stream of traffic and uttered a stream of curses.",
+              "world_new": [
+                "wrong",
+                "traffic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiều nước chảy",
+          "definition": "the current of a river etc",
+          "world_new": [
+            "current",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was swimming against the stream.",
+              "world_new": [
+                "swimming"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớp, phân lớp",
+          "definition": "in schools, one of the classes into which children of the same age are divided according to ability.",
+          "world_new": [
+            "age",
+            "ability"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chảy, tuôn ra",
+          "definition": "to flow",
+          "world_new": [
+            "flow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tears streamed down her face",
+              "world_new": [
+                "face"
+              ]
+            },
+            {
+              "ex_of_definition": "Workers streamed out of the factory gates",
+              "world_new": [
+                "factory"
+              ]
+            },
+            {
+              "ex_of_definition": "Her hair streamed out in the wind.",
+              "world_new": [
+                "hair",
+                "wind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đưa vào lớp cùng trình độ",
+          "definition": "to divide schoolchildren into classes according to ability",
+          "world_new": [
+            "divide",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many people disapprove of streaming (children) in schools.",
+              "world_new": [
+                "people",
+                "disapprove"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the corridors the net line ran parallel to the stream and under the tree crowns.",
+    "A timed stream is easily converted to a finer time scale by inserting a certain number of ticks before each element.",
+    "Eels were sampled in the main stream at both sites which were similar in flow rate, stream width and substratum.",
+    "We will first tackle the problem of adapting single streams to different time scales.",
+    "They found that the amplitude of the dust-acoustic soliton structures decreases significantly with an increase in the dust streaming velocity.",
+    "The high nutritional quality of the detrital organic matter in our study stream may result from grazing by tadpoles which enhances nitrogen fluxes.",
+    "Thus, the speeds and phases of the two streams will diverge.",
+    "The electron number density profiles for the plasma around the wires, in the radial streams, and in the precursor are also in close agreement."
+  ],
+  "list_see_also": [
+    "streamer",
+    "streamlined"
+  ],
+  "list_browse": [
+    "strawberry",
+    "stray",
+    "streak",
+    "streaky",
+    "stream",
+    "streamer",
+    "streamlined",
+    "street",
+    "street directory"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698484_a49951be68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698484_7f3c5050fd_o.png",
+      "id_image": "stream_2368356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080715_0e2e949c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080715_23af018a44_o.png",
+      "id_image": "stream_390116"
+    }
+  ]
+}

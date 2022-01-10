@@ -1,0 +1,51 @@
+{
+  "english": "swimmer",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người bơi",
+          "definition": "a person who swims or who can swim",
+          "world_new": [
+            "person",
+            "swim"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a strong swimmer.",
+              "world_new": [
+                "strong"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "swig",
+    "swill",
+    "swill out",
+    "swim",
+    "swimmer",
+    "swimming",
+    "swimming bath",
+    "swimming trunks",
+    "swimsuit"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069250_6f139d44e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069250_94c221319c_o.png",
+      "id_image": "swimmer_1228266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332461_fd19f2a52d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332461_ae86893a33_o.png",
+      "id_image": "swimmer_3124505"
+    }
+  ]
+}

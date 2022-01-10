@@ -1,0 +1,123 @@
+{
+  "english": "search",
+  "phat_am": "səːtʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tìm kiếm",
+          "definition": "(often with for) to look for something by careful examination",
+          "world_new": [
+            "look",
+            "careful",
+            "examination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you searched through your pockets thoroughly?",
+              "world_new": [
+                "your",
+                "thoroughly"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve been searching for that book for weeks.",
+              "world_new": [
+                "searching",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lục soát",
+          "definition": "(of the police etc) to examine, looking for eg stolen goods",
+          "world_new": [
+            "police",
+            "examine",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was taken to the police station, searched and questioned.",
+              "world_new": [
+                "police",
+                "station"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lục soát",
+          "definition": "an act of searching",
+          "world_new": [
+            "act",
+            "searching"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His search did not take long.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Search for alternatives can similarly be random or ordered.",
+    "All coded data were stored on magnetic tape, and a general search programme enabled any desired set of tables to be produced.",
+    "Theories of cognition and the experimental tasks used to test those theories often conspire hand in hand to overlook limited search and stopping rules.",
+    "Truncated literature search strategies may often lead to uncertainty surrounding the conclusions of a review.",
+    "Our refined approaches will also exhibit some universality; we will demonstrate this by showing that they straightforwardly apply to random binary search trees as well.",
+    "In this paper, we will focus on recursive trees and binary search trees as underlying classes of trees.",
+    "Although no formal study of parasitoid behaviour was made, the search pattern of the parasitoids in this experiment appeared to be random.",
+    "This may be the most practical guide yet for music educators who are searching for authenticity in their world musics teaching."
+  ],
+  "list_see_also": [
+    "searcher",
+    "searching",
+    "searchingly",
+    "search engine",
+    "searchlight",
+    "search party",
+    "search warrant",
+    "in search of"
+  ],
+  "list_browse": [
+    "seaman",
+    "seamstress",
+    "séance",
+    "seaport",
+    "search",
+    "search engine",
+    "search party",
+    "search warrant",
+    "searcher"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680254_213815923d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680254_fd9d535df8_o.png",
+      "id_image": "search_122920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440068_13f7c89814_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440068_905e7bb0f5_o.png",
+      "id_image": "search_281408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369902_f929244cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369902_f3f83798a1_o.png",
+      "id_image": "search_326915"
+    }
+  ]
+}

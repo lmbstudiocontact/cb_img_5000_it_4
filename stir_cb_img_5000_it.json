@@ -1,0 +1,146 @@
+{
+  "english": "stir",
+  "phat_am": "stəː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "khuấy, quấy",
+          "definition": "to cause (a liquid stir) to be mixed especially by the constant circular movement of a spoon etc, in order to mix it",
+          "world_new": [
+            "cause",
+            "liquid",
+            "mixed",
+            "constant",
+            "circular",
+            "movement",
+            "spoon",
+            "order",
+            "mix"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put sugar and milk into his tea and stirred it",
+              "world_new": [
+                "sugar",
+                "milk",
+                "tea"
+              ]
+            },
+            {
+              "ex_of_definition": "She stirred the sugar into the mixture.",
+              "world_new": [
+                "sugar",
+                "mixture"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm lay động, chuyển động",
+          "definition": "to move, either slightly or vigorously",
+          "world_new": [
+            "move",
+            "slightly",
+            "vigorously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The breeze stirred her hair",
+              "world_new": [
+                "breeze",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "He stirred in his sleep",
+              "world_new": [
+                "sleep"
+              ]
+            },
+            {
+              "ex_of_definition": "Come on – stir yourselves!"
+            }
+          ]
+        },
+        {
+          "mean_english": "kích thích, kích động",
+          "definition": "to arouse or touch (a person or his feelings)",
+          "world_new": [
+            "arouse",
+            "touch",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was stirred by her story.",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự xôn xao",
+          "definition": "a fuss or disturbance",
+          "world_new": [
+            "fuss",
+            "disturbance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news caused a stir.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The vial was stirred using a magnetic stirrer for 5 min at 300 rpm and then 5 min at 150 rpm.",
+    "Perhaps the target article's stirring call for appropriate comparative methods will attract readers to research cited in this commentary.",
+    "The contents and washings were then suspended in 10 litres of 0.9% saline, from which a 10 or 20% subsample was taken while stirring.",
+    "The urban areas languished, however, with rising prices and limited employment opportunities stirring discontent.",
+    "Persevering in spite of hardships stirs the search for comforting life affirmations.",
+    "The latter stirs acoustic waves, which in turn can react back on the focusing process.",
+    "Feeling hopeful also stirred thoughts that a miracle could maybe take place after all.",
+    "The private meeting, the locked chest, the small number of keys and the unseen record, the finality of closure stirred imaginations."
+  ],
+  "list_see_also": [
+    "stirring",
+    "stir-fry",
+    "stir up"
+  ],
+  "list_browse": [
+    "stingy",
+    "stink",
+    "stipulate",
+    "stipulation",
+    "stir",
+    "stir up",
+    "stir-fry",
+    "stirring",
+    "stirrup"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461053_239b0f6dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461053_9a4c9a637e_o.png",
+      "id_image": "stir_1830851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460993_c07853d0a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460993_83654ffc76_o.png",
+      "id_image": "stir_5158727"
+    }
+  ]
+}

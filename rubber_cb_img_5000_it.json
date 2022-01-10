@@ -1,0 +1,102 @@
+{
+  "english": "rubber",
+  "phat_am": "ˈrabə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cao su",
+          "definition": "(also adjective) (of) a strong elastic substance made from the juice of certain plants (especially the rubber tree), or an artificial substitute for this",
+          "world_new": [
+            "strong",
+            "elastic",
+            "substance",
+            "juice",
+            "certain",
+            "artificial",
+            "substitute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Tyres are made of rubber"
+            },
+            {
+              "ex_of_definition": "rubber boots."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái tẩy",
+          "definition": "a piece of rubber used to rub out pencil etc marks; eraser American",
+          "world_new": [
+            "piece",
+            "rub",
+            "pencil"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pencil, a ruler and a rubber.",
+              "world_new": [
+                "pencil",
+                "ruler"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bao cao su",
+          "definition": "a condom.",
+          "world_new": [
+            "condom"
+          ]
+        },
+        {
+          "mean_english": "dây chun",
+          "definition": "a rubber band.",
+          "world_new": [
+            "band"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rubbery",
+    "rubber band",
+    "rubber stamp"
+  ],
+  "list_browse": [
+    "rub out",
+    "rub shoulders with",
+    "rub up",
+    "rub up the wrong way",
+    "rubber",
+    "rubber band",
+    "rubber stamp",
+    "rubbery",
+    "rubbish"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695674_b991693eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695674_575faf58eb_o.png",
+      "id_image": "rubber_1589262"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077585_944373f6a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077585_b1f5983558_o.png",
+      "id_image": "rubber_3944332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340276_946ff5dba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340276_fa992f6e17_o.png",
+      "id_image": "rubber_5234023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077510_f8a9a0dc9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077510_47a0b1e696_o.png",
+      "id_image": "rubber_5848636"
+    }
+  ]
+}

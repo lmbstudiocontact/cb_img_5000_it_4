@@ -1,0 +1,505 @@
+{
+  "english": "take",
+  "phat_am": "teik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cầm, nắm",
+          "definition": "(often with down, out etc) to reach out for and grasp, hold, lift, pull etc",
+          "world_new": [
+            "reach",
+            "grasp",
+            "hold",
+            "lift",
+            "pull"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took my hand",
+              "world_new": [
+                "my",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "He took the book down from the shelf",
+              "world_new": [
+                "book",
+                "shelf"
+              ]
+            },
+            {
+              "ex_of_definition": "He opened the drawer and took out a gun",
+              "world_new": [
+                "drawer",
+                "gun"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve had a tooth taken out.",
+              "world_new": [
+                "tooth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đem đi, lấy đi",
+          "definition": "(often with away, in, off, out etc) to carry, conduct or lead to another place",
+          "world_new": [
+            "carry",
+            "conduct",
+            "lead",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I took the books (back) to the library",
+              "world_new": [
+                "I",
+                "library"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s taking me with him"
+            },
+            {
+              "ex_of_definition": "Take her into my office",
+              "world_new": [
+                "my",
+                "office"
+              ]
+            },
+            {
+              "ex_of_definition": "The police took him away",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "I took the dog out for a walk",
+              "world_new": [
+                "I",
+                "dog",
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "He took her out for dinner.",
+              "world_new": [
+                "dinner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm, nhìn ngắm",
+          "definition": "to do or perform some action",
+          "world_new": [
+            "perform",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think I’ll take a walk",
+              "world_new": [
+                "I",
+                "think",
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "Will you take a look?",
+              "world_new": [
+                "look"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s going to take a bath",
+              "world_new": [
+                "bath"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận, mua, bán",
+          "definition": "to get, receive, buy, rent etc",
+          "world_new": [
+            "receive",
+            "buy",
+            "rent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m taking French lessons",
+              "world_new": [
+                "French"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll take three kilos of strawberries"
+            },
+            {
+              "ex_of_definition": "We took a house in London.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đồng ý nhận",
+          "definition": "(sometimes with back) to agree to have; to accept; He took my advice; They refused to take responsibility ; I won’t take that ( insult) from you!; I’m afraid we can’t take back goods bought in a sale .",
+          "world_new": [
+            "agree"
+          ]
+        },
+        {
+          "mean_english": "cần",
+          "definition": "to need or require",
+          "world_new": [
+            "require"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How long does it take you to go home?",
+              "world_new": [
+                "long",
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "It takes time to do a difficult job like this.",
+              "world_new": [
+                "time",
+                "difficult",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi",
+          "definition": "to travel by (bus etc)",
+          "world_new": [
+            "travel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m taking the next train to London",
+              "world_new": [
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "I took a taxi.",
+              "world_new": [
+                "I",
+                "taxi"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chứa được",
+          "definition": "to have enough space for",
+          "world_new": [
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car takes five people.",
+              "world_new": [
+                "car",
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ghi chép, chụp ảnh",
+          "definition": "to make a note, record etc",
+          "world_new": [
+            "note",
+            "record"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took a photograph of the castle",
+              "world_new": [
+                "photograph",
+                "castle"
+              ]
+            },
+            {
+              "ex_of_definition": "The nurse took the patient’s temperature.",
+              "world_new": [
+                "nurse",
+                "temperature"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy, dùng",
+          "definition": "to remove, use, occupy etc with or without permission",
+          "world_new": [
+            "remove",
+            "occupy",
+            "permission"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Someone’s taken my coat",
+              "world_new": [
+                "my",
+                "coat"
+              ]
+            },
+            {
+              "ex_of_definition": "He took all my money.",
+              "world_new": [
+                "my",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy làm ví dụ",
+          "definition": "to consider (as an example)",
+          "world_new": [
+            "consider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take John for example.",
+              "world_new": [
+                "example"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đạt được",
+          "definition": "to capture or win",
+          "world_new": [
+            "capture",
+            "win"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took the first prize.",
+              "world_new": [
+                "prize"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trừ đi",
+          "definition": "(often with away, from, off) to make less or smaller by a certain amount",
+          "world_new": [
+            "certain",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take (away) four from ten, and that leaves six."
+            }
+          ]
+        },
+        {
+          "mean_english": "nghĩ rằng, cho rằng",
+          "definition": "to suppose or think (that something is the case)",
+          "world_new": [
+            "suppose",
+            "think"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you take me for an idiot?",
+              "world_new": [
+                "idiot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn uống",
+          "definition": "to eat or drink",
+          "world_new": [
+            "eat",
+            "drink"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take these pills."
+            }
+          ]
+        },
+        {
+          "mean_english": "học, ứng xử",
+          "definition": "to conduct, lead or run; to be in charge or control of",
+          "world_new": [
+            "conduct",
+            "lead",
+            "charge",
+            "control"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Will you take the class/lecture/meeting this evening?",
+              "world_new": [
+                "evening"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp nhận, phản ứng",
+          "definition": "to consider or react or behave to (something) in a certain way",
+          "world_new": [
+            "consider",
+            "react",
+            "behave",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took the news calmly.",
+              "world_new": [
+                "news",
+                "calmly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm thấy",
+          "definition": "to feel",
+          "world_new": [
+            "feel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He took pleasure/pride / a delight / an interest in his work.",
+              "world_new": [
+                "delight",
+                "interest",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi vào",
+          "definition": "to go down or go into (a road)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Take the second road on the left.",
+              "world_new": [
+                "road",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số tiền thu được",
+          "definition": "the amount of money taken in a shop etc; takings",
+          "world_new": [
+            "amount",
+            "money",
+            "shop",
+            "takings"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What was the take today?"
+            }
+          ]
+        },
+        {
+          "mean_english": "cảnh quay",
+          "definition": "the filming of a single scene in a cinema film",
+          "world_new": [
+            "single",
+            "scene",
+            "cinema",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After five takes, the director was satisfied.",
+              "world_new": [
+                "director",
+                "satisfied"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All photographs were taken using identical camera settings.",
+    "The two players alternately take new edges, one edge per move.",
+    "Take the three-person game introduced above and suppose the players' beliefs are as specified.",
+    "An ordinary industrial robot hanging over the workcell suspended by an iron portal takes care of hexapod translocations.",
+    "The analysis was permitted to continue for 114 generations and this took approximately 24 hr in total.",
+    "As the project progresses it is the pupils that take on the responsibility for the entire process, not the teachers or leaders.",
+    "Placing and orientation of the camera for taking the pictures followed the same method as described for 38-mm photographs.",
+    "They plotted out the area and drew up plans before taking it over."
+  ],
+  "list_see_also": [
+    "taker",
+    "takings",
+    "take-away",
+    "be taken up with",
+    "be taken with/by",
+    "take after",
+    "take back",
+    "take down",
+    "take an examination/test",
+    "take (someone) for",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "tails",
+    "tailwind",
+    "taint",
+    "tainted",
+    "take",
+    "take (someone or something) seriously",
+    "take (someone) at his/her word",
+    "take (someone) down a peg (or two)",
+    "take (someone) for"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064355_9e902c276e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064355_a9429557b4_o.png",
+      "id_image": "take_4151825"
+    }
+  ]
+}

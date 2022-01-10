@@ -1,0 +1,234 @@
+{
+  "english": "stone",
+  "phat_am": "stəun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đá",
+          "definition": "(also adjective) (of) the material of which rocks are composed",
+          "world_new": [
+            "material",
+            "composed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "limestone",
+              "world_new": [
+                "limestone"
+              ]
+            },
+            {
+              "ex_of_definition": "sandstone",
+              "world_new": [
+                "sandstone"
+              ]
+            },
+            {
+              "ex_of_definition": "a stone house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "stone walls"
+            },
+            {
+              "ex_of_definition": "In early times, men made tools out of stone.",
+              "world_new": [
+                "times"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cục đá có bất kì hình dáng nào",
+          "definition": "a piece of this, of any shape or size",
+          "world_new": [
+            "piece",
+            "shape",
+            "size"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He threw a stone at the dog.",
+              "world_new": [
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hòn đá được đục, đẽo để dùng vào một mục đích riêng",
+          "definition": "a piece of this shaped for a special purpose",
+          "world_new": [
+            "piece",
+            "shaped",
+            "special",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tombstone",
+              "world_new": [
+                "tombstone"
+              ]
+            },
+            {
+              "ex_of_definition": "paving-stones"
+            },
+            {
+              "ex_of_definition": "a grindstone.",
+              "world_new": [
+                "grindstone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đá quý, ngọc",
+          "definition": "a gem or jewel",
+          "world_new": [
+            "gem",
+            "jewel"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lost the stone out of her ring",
+              "world_new": [
+                "lost",
+                "ring"
+              ]
+            },
+            {
+              "ex_of_definition": "diamonds, rubies and other stones.",
+              "world_new": [
+                "diamonds"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hạt",
+          "definition": "the hard shell containing the nut or seed in some fruits eg peaches and cherries",
+          "world_new": [
+            "shell",
+            "nut",
+            "seed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cherry-stone."
+            }
+          ]
+        },
+        {
+          "mean_english": "xtôn",
+          "definition": "a measure of weight still used in Britain, equal to 6.35 kilogrammes",
+          "world_new": [
+            "measure",
+            "weight",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She weighs 9.5 stone."
+            }
+          ]
+        },
+        {
+          "mean_english": "sỏi",
+          "definition": "a piece of hard material that forms in the kidney, bladder etc and causes pain",
+          "world_new": [
+            "piece",
+            "material",
+            "kidney",
+            "bladder",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a kidney stone",
+              "world_new": [
+                "kidney"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ném đá vào ai, nói xấu, vu cáo",
+          "definition": "to throw stones at, especially as a ritual punishment",
+          "world_new": [
+            "throw",
+            "ritual",
+            "punishment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Saint Stephen was stoned to death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy hạt ra",
+          "definition": "to remove the stones from (fruit)",
+          "world_new": [
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She washed and stoned the cherries."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "stony",
+    "stonily",
+    "stoniness",
+    "stone-cold",
+    "stoneware",
+    "stonework",
+    "leave no stone unturned",
+    "a stone’s throw"
+  ],
+  "list_browse": [
+    "stoma",
+    "stomach",
+    "stomachache",
+    "stomp",
+    "stone",
+    "stone-cold",
+    "stoneware",
+    "stonework",
+    "stonily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460258_bf8a72ba7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460258_55c55f95af_o.png",
+      "id_image": "stone_5833180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460328_1faffd5e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460328_8656c335a4_o.png",
+      "id_image": "stone_721107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460288_13b159fb8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460288_725b10a6e4_o.png",
+      "id_image": "stone_826917"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "turnip",
+  "phat_am": "təːnip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cây củ cải",
+          "definition": "a type of plant with a large round root",
+          "world_new": [
+            "type",
+            "plant",
+            "large",
+            "root"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a field of turnips.",
+              "world_new": [
+                "field"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "củ cải",
+          "definition": "the root used as food",
+          "world_new": [
+            "root",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "roast turnip",
+              "world_new": [
+                "roast"
+              ]
+            },
+            {
+              "ex_of_definition": "Would you like some turnip?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In my part of the country, farmers have great faith in turnips.",
+    "They also want to know why some farmers got turnips while others did not.",
+    "Mature carrots, beets, turnips and swedes are all to be regarded as countable, but normally they are all sold by weight.",
+    "A lot of packers have been experimenting very successfully with stew packs—collections of sliced turnips, carrots, onions.",
+    "The object is to get more sheep fed on turnips.",
+    "We had evidence that many of these holders had even to do night watching in order to keep the deer off their turnips.",
+    "In a state of grave emergency we are dealing with carrots and turnips and asparagus.",
+    "All our kale, turnips and swedes were being attacked."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turn up one’s nose at",
+    "turn-up",
+    "turn/use something to your advantage",
+    "turning-point",
+    "turnip",
+    "turnover",
+    "turnpike",
+    "turnstile",
+    "turntable"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683304_008173e6e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683304_e52c393646_o.png",
+      "id_image": "turnip_1135490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372952_4600e65bbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372952_19e903ec7c_o.png",
+      "id_image": "turnip_3137014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064945_1b1b660c5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064945_5778078c69_o.png",
+      "id_image": "turnip_3944078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064980_78cf0fcf5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064980_ea1274a92f_o.png",
+      "id_image": "turnip_435089"
+    }
+  ]
+}

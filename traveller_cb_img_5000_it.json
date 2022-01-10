@@ -1,0 +1,66 @@
+{
+  "english": "traveller",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người đi du lịch",
+          "definition": "a person who travels",
+          "world_new": [
+            "person",
+            "travels"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a weary traveller.",
+              "world_new": [
+                "weary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, we believe that a careful analysis should be done to determine which travellers should be vaccinated.",
+    "In the office, immigration agents recorded the passage of travellers not known to be permanent residents of the adjoining villages.",
+    "Our results show that these travellers might simultaneously practice both preventive and risk behaviours.",
+    "European travellers may have been familiar with the commonplace analogy of the king as father of the realm with the subjects as his children.",
+    "The travellers approach through a dawn landscape filled with bird-song, sights of towering mountains, and the sound of people working in the rice fields.",
+    "Literary scholars have brought new perspectives to the way in which travellers' accounts reflect literary forms and rhetorical strategies.",
+    "The potential inflation of geographical spread due to lack of differentiation between business and leisure travellers is of concern.",
+    "The language barrier represented another pressure, since the traveller could be the victim of interpreters or informers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "travel",
+    "travel agency",
+    "travel agent",
+    "travel light",
+    "traveller",
+    "traveller’s cheque",
+    "traveller’s palm",
+    "travelogue",
+    "travels"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450903_199809df36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450903_5fb264d094_o.png",
+      "id_image": "traveller_1995341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335876_251e4b826b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335876_2591ea40b2_o.png",
+      "id_image": "traveller_1995343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450843_f77384692b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450843_20dd3103be_o.png",
+      "id_image": "traveller_4683607"
+    }
+  ]
+}

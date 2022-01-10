@@ -1,0 +1,147 @@
+{
+  "english": "sketch",
+  "phat_am": "sketʃ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bức phác họa",
+          "definition": "a rough plan, drawing or painting",
+          "world_new": [
+            "rough",
+            "plan",
+            "drawing",
+            "painting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made several sketches before starting the portrait.",
+              "world_new": [
+                "portrait"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bảng tóm tắt",
+          "definition": "a short (written or spoken) account without many details",
+          "world_new": [
+            "short",
+            "account"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The book began with a sketch of the author’s life.",
+              "world_new": [
+                "book",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vở ca kịch ngắn",
+          "definition": "a short play, dramatic scene etc",
+          "world_new": [
+            "short",
+            "play",
+            "dramatic",
+            "scene"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a comedy sketch.",
+              "world_new": [
+                "comedy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vẽ phác",
+          "definition": "to draw, describe, or plan without completing the details",
+          "world_new": [
+            "draw",
+            "describe",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sketched a number of possible future scenarios.",
+              "world_new": [
+                "number",
+                "possible",
+                "future"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phác thảo, phác họa",
+          "definition": "to make rough drawings, paintings etc",
+          "world_new": [
+            "rough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sketches as a hobby.",
+              "world_new": [
+                "hobby"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I therefore want to begin by sketching out the contours of early modern queenship, before turning my attention to the books under review.",
+    "Usually the conclusions from the previous chapters sit uneasily with thumbnail sketches of recent and expected future developments.",
+    "Trends in private and foreign investment are also sketched in this chapter.",
+    "He does his conceptualizing with watercolour sketches and with models photographed under anticipated lighting conditions.",
+    "Disregarding many important implementation issues, we examine in this article complexity bounds and other more mathematical aspects of the program transformation task sketched above.",
+    "The next section sketches out a well-established set of political practices and considers how maboresho has affected it.",
+    "The generalisation of this paper to mixed sketches would be far from trivial.",
+    "First, the nature of the diagnostic process is sketched."
+  ],
+  "list_see_also": [
+    "sketchy",
+    "sketchily",
+    "sketchiness",
+    "sketchbook"
+  ],
+  "list_browse": [
+    "skating rink",
+    "skeletal",
+    "skeleton",
+    "skeleton key",
+    "sketch",
+    "sketchbook",
+    "sketchily",
+    "sketchiness",
+    "sketchy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380987_10d39e50dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380987_eab1fba3a7_o.png",
+      "id_image": "sketch_1589269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450853_f5a7523356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450853_ed259d3cba_o.png",
+      "id_image": "sketch_2722267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335946_966cdd12e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335946_09ed762297_o.png",
+      "id_image": "sketch_448718"
+    }
+  ]
+}

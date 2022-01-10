@@ -1,0 +1,178 @@
+{
+  "english": "shape",
+  "phat_am": "ʃeip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình thù",
+          "definition": "the external form or outline of anything",
+          "world_new": [
+            "external",
+            "form",
+            "outline"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People are all (of) different shapes and sizes"
+            },
+            {
+              "ex_of_definition": "The house is built in the shape of a letter L.",
+              "world_new": [
+                "house",
+                "letter",
+                "L"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hình bóng mờ ảo",
+          "definition": "an indistinct form",
+          "world_new": [
+            "indistinct",
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I saw a large shape in front of me in the darkness.",
+              "world_new": [
+                "I",
+                "saw",
+                "large",
+                "front",
+                "darkness"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình trạng, trạng thái",
+          "definition": "condition or state",
+          "world_new": [
+            "condition",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re in better physical shape than I am.",
+              "world_new": [
+                "better",
+                "physical",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nặn, đẽo, gọt",
+          "definition": "to make into a certain shape, to form or model",
+          "world_new": [
+            "certain",
+            "form",
+            "model"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shaped the dough into three separate loaves.",
+              "world_new": [
+                "shaped",
+                "dough",
+                "separate"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định hướng",
+          "definition": "to influence the nature of strongly",
+          "world_new": [
+            "influence",
+            "nature",
+            "strongly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This event shaped his whole life.",
+              "world_new": [
+                "event",
+                "shaped",
+                "whole",
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiến triển, phát triển",
+          "definition": "(sometimes with up) to develop",
+          "world_new": [
+            "develop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The team is shaping (up) well.",
+              "world_new": [
+                "team"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The structural context, such as the layout of the building, also shaped social interaction.",
+    "The first three chapters develop this interdisciplinary approach by shaping a theoretical framework to guide the five case studies in subsequent chapters.",
+    "Indeed, people's social and psychological attributes shape their behaviour but, in many ways, behaviour is only partially predictable.",
+    "Figure 6 shows the temporal behavior of the radiation temperature and the laser pulse shape.",
+    "Integrated topology and shape optimization in structural design.",
+    "Most of these studies emphasize the correspondence between an object and a hand shape.",
+    "Furthermore, shape can be easily perceived and does not require experience with the object, unlike function or other non-perceptual attributes.",
+    "The present study requires no prescribed entrance conditions, and permits solution for completely arbitrary shape."
+  ],
+  "list_see_also": [
+    "shaped",
+    "shapeless",
+    "shapelessness",
+    "shapely",
+    "shapeliness",
+    "in any shape (or form)",
+    "out of shape",
+    "take shape"
+  ],
+  "list_browse": [
+    "shamrock",
+    "shandy",
+    "shank",
+    "shanty",
+    "shape",
+    "shaped",
+    "shapeless",
+    "shapelessness",
+    "shapeliness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084645_6145968a90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084645_4a0c6f3bf5_o.png",
+      "id_image": "shape_1607349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702034_d3f573d50e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702034_8d1dc0c3ab_o.png",
+      "id_image": "shape_2844476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392267_82502328c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392267_b9c25a5985_o.png",
+      "id_image": "shape_802078"
+    }
+  ]
+}

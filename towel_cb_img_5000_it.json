@@ -1,0 +1,96 @@
+{
+  "english": "towel",
+  "phat_am": "ˈtauəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khăn",
+          "definition": "a piece of any of several types of absorbent cloth or paper for drying oneself, dishes etc after washing etc",
+          "world_new": [
+            "piece",
+            "absorbent",
+            "cloth",
+            "paper",
+            "washing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After her swim, she dried herself with a towel",
+              "world_new": [
+                "swim",
+                "dried"
+              ]
+            },
+            {
+              "ex_of_definition": "a roll of paper kitchen towels.",
+              "world_new": [
+                "roll",
+                "paper",
+                "kitchen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lau khô",
+          "definition": "to rub with a towel",
+          "world_new": [
+            "rub"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was busy toweling herself dry.",
+              "world_new": [
+                "busy",
+                "dry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I would certainly wish him a series of very cool wet towels to wrap round his head when he is doing this series of sums.",
+    "I have to cover my face with paper towels and run through to my office.",
+    "There are questions such as the sizing of blankets and towels and sheets.",
+    "The number of coupons needed for towels has just been halved in order to allow more for everybody.",
+    "I am having inquiries made about the suggestion that medium and large sized towels are more difficult to obtain than the smaller ones.",
+    "The provision made here is for clean towels and soap.",
+    "Their families would have to bring in the grub and possibly towels, soap and everthing else.",
+    "Is this company going to get its towels?"
+  ],
+  "list_see_also": [
+    "towelling"
+  ],
+  "list_browse": [
+    "tourniquet",
+    "tout",
+    "tow",
+    "towards",
+    "towel",
+    "towelling",
+    "tower",
+    "tower block",
+    "towering"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079325_aa8d4abeb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079325_4fa0a7d932_o.png",
+      "id_image": "towel_123360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456718_9f57bab0ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456718_98cef74b1d_o.png",
+      "id_image": "towel_167942"
+    }
+  ]
+}

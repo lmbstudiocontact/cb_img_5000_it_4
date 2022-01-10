@@ -1,0 +1,126 @@
+{
+  "english": "scramble",
+  "phat_am": "ˈskrӕmbl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bò, trườn",
+          "definition": "to crawl or climb quickly, using arms and legs",
+          "world_new": [
+            "crawl",
+            "climb",
+            "quickly",
+            "arms"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They scrambled up the slope",
+              "world_new": [
+                "slope"
+              ]
+            },
+            {
+              "ex_of_definition": "He scrambled over the rocks."
+            }
+          ]
+        },
+        {
+          "mean_english": "leo trèo, trườn",
+          "definition": "to move hastily",
+          "world_new": [
+            "move",
+            "hastily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scrambled to his feet."
+            }
+          ]
+        },
+        {
+          "mean_english": "tranh giành",
+          "definition": "(with for) to rush, or struggle with others, to get",
+          "world_new": [
+            "rush",
+            "struggle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boys scrambled for the ball.",
+              "world_new": [
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đổi tần số",
+          "definition": "to distort (a telephone message etc) so that it can only be received and understood with a special receiver.",
+          "world_new": [
+            "distort",
+            "telephone",
+            "message",
+            "special",
+            "receiver"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tranh cướp",
+          "definition": "(sometimes with for) an act of scrambling; a rush or struggle",
+          "world_new": [
+            "act",
+            "rush",
+            "struggle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a scramble for the best bargains.",
+              "world_new": [
+                "best"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Again, agencies scrambled to make placements, because now they earned money by doing so.",
+    "Where scrambling begins: triggering object scrambling in early language acquisition.",
+    "In addition, for both groups, the omission rate difference between or and pour was smaller when the text was scrambled than when it was displayed normally.",
+    "As well as signalling the heterogeneity of the collage elements through typographical layout, he stretches and scrambles familiar forms, breaking them, splitting them open and stitching them onto other genres.",
+    "The first three chapters are mainly concerned with the interaction of scrambling and discourse features.",
+    "The problem was that when the gentry perceived that the religious orders inevitably would be dissolved, they scrambled for a share of the loot rather than trying to defend them.",
+    "Topicalization, focalization, lexical insertion, and scrambling.",
+    "Rather than organizing ideologies, they scrambled them, presenting a disorderly clutch of perspectives within their own idiosyncratic personae."
+  ],
+  "list_see_also": [
+    "scrambler",
+    "scrambled egg"
+  ],
+  "list_browse": [
+    "scowl",
+    "Scrabble",
+    "scragginess",
+    "scraggy",
+    "scramble",
+    "scrambled egg",
+    "scrambler",
+    "scrap",
+    "scrapbook"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064895_918e31dfe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064895_940be1bb11_o.png",
+      "id_image": "scramble_4882869"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "smile",
+  "phat_am": "smail",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "mỉm cười",
+          "definition": "to show pleasure, amusement etc by turning up the corners of the mouth",
+          "world_new": [
+            "pleasure",
+            "amusement",
+            "mouth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He smiled warmly at her as he shook hands",
+              "world_new": [
+                "warmly"
+              ]
+            },
+            {
+              "ex_of_definition": "They all smiled politely at the joke",
+              "world_new": [
+                "politely",
+                "joke"
+              ]
+            },
+            {
+              "ex_of_definition": "He asked her what she was smiling at.",
+              "world_new": [
+                "smiling"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nụ cười",
+          "definition": "an act of smiling, or the resulting facial expression",
+          "world_new": [
+            "act",
+            "smiling",
+            "facial",
+            "expression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘How do you do?’ he said with a smile"
+            },
+            {
+              "ex_of_definition": "the happy smiles of the children.",
+              "world_new": [
+                "happy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Young people stared uncomprehendingly; the middleaged remembered some, but would not think of reviving them in conversation; only the old smiled nostalgically.",
+    "I smiled and one to another, without having occasion to go into a boat.",
+    "The publisher smiled at the illustrator of the writers who was dressed colorfully.",
+    "She smiles and continues to talk to the child 60 s!.",
+    "The hypocritical smiles are cracking the overdone make-up of its faces and facades held uneasily by feeble cardboard props.",
+    "As with the smiling face, we may also have evolved to subconsciously fixate on certain key features when viewing a face in pain.",
+    "Emotional lability may be suddenly triggered by stimuli that normally would arouse only minor emotions, such as smiling at the patient.",
+    "One of the eighteen faces smiled at me."
+  ],
+  "list_see_also": [
+    "smiling",
+    "be all smiles"
+  ],
+  "list_browse": [
+    "smelliness",
+    "-smelling",
+    "smelly",
+    "smelt",
+    "smile",
+    "smiling",
+    "smirk",
+    "smith",
+    "smithy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446373_c033d3b38c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446373_cf607ce454_o.png",
+      "id_image": "smile_1451316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376037_8713b95a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376037_1f477a2647_o.png",
+      "id_image": "smile_3842804"
+    }
+  ]
+}

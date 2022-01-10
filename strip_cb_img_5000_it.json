@@ -1,0 +1,187 @@
+{
+  "english": "strip",
+  "phat_am": "strip",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tước, lột",
+          "definition": "to remove the covering from something",
+          "world_new": [
+            "remove",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stripped the old varnish off the wall",
+              "world_new": [
+                "old",
+                "varnish",
+                "wall"
+              ]
+            },
+            {
+              "ex_of_definition": "He stripped the branch (of its bark) with his knife.",
+              "world_new": [
+                "branch",
+                "its",
+                "knife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cởi quần áo",
+          "definition": "to undress",
+          "world_new": [
+            "undress"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stripped the child (naked) and put him in the bath",
+              "world_new": [
+                "child",
+                "bath"
+              ]
+            },
+            {
+              "ex_of_definition": "He stripped and dived into the water",
+              "world_new": [
+                "water"
+              ]
+            },
+            {
+              "ex_of_definition": "They were told to strip to the waist.",
+              "world_new": [
+                "waist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dọn sạch, chuyển đi",
+          "definition": "to remove the contents of (a house etc)",
+          "world_new": [
+            "remove",
+            "contents",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house/room was stripped bare / stripped of its furnishings",
+              "world_new": [
+                "bare",
+                "its",
+                "furnishings"
+              ]
+            },
+            {
+              "ex_of_definition": "They stripped the house of all its furnishings.",
+              "world_new": [
+                "house",
+                "its",
+                "furnishings"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tước, lột, lấy đi",
+          "definition": "to deprive (a person) of something",
+          "world_new": [
+            "deprive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The officer was stripped of his rank for misconduct.",
+              "world_new": [
+                "officer",
+                "rank",
+                "misconduct"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "mảnh",
+          "definition": "a long narrow piece of (eg cloth, ground etc)",
+          "world_new": [
+            "long",
+            "narrow",
+            "piece",
+            "cloth",
+            "ground"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a strip of paper.",
+              "world_new": [
+                "paper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "truyện tranh vui",
+          "definition": "a strip cartoon.",
+          "world_new": [
+            "cartoon"
+          ]
+        },
+        {
+          "mean_english": "quần áo có màu sắc riêng của đội bóng đá",
+          "definition": "a footballer’s shirt, shorts, socks etc",
+          "world_new": [
+            "shirt",
+            "shorts"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The team has a red and white strip.",
+              "world_new": [
+                "team",
+                "red",
+                "white"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "strip cartoon",
+    "strip-lighting",
+    "striptease",
+    "strip off"
+  ],
+  "list_browse": [
+    "stringently",
+    "stringiness",
+    "strings",
+    "stringy",
+    "strip",
+    "strip cartoon",
+    "strip off",
+    "strip-lighting",
+    "stripe"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387157_bff7165a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387157_43a772686b_o.png",
+      "id_image": "strip_2748770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342221_2ce883c4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342221_3ab109705b_o.png",
+      "id_image": "strip_508742"
+    }
+  ]
+}

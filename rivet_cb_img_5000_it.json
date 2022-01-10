@@ -1,0 +1,107 @@
+{
+  "english": "rivet",
+  "phat_am": "ˈrivit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đinh tán",
+          "definition": "a sort of metal nail; a bolt for fastening plates of metal together eg when building the sides of a ship",
+          "world_new": [
+            "sort",
+            "metal",
+            "bolt",
+            "fastening",
+            "metal",
+            "building",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The handles are fixed on with brass rivets.",
+              "world_new": [
+                "fixed",
+                "brass"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đóng đinh tán",
+          "definition": "to fasten with rivets",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They riveted the sheets of metal together.",
+              "world_new": [
+                "metal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gắn chặt",
+          "definition": "to fix firmly",
+          "world_new": [
+            "fix",
+            "firmly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood riveted to the spot with fear",
+              "world_new": [
+                "spot",
+                "fear"
+              ]
+            },
+            {
+              "ex_of_definition": "His eyes were riveted on the television.",
+              "world_new": [
+                "television"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "From the riveting to the mundane, much of adult conversation concerns talk about the absent : for example, scheming in world politics, planning trips abroad, or gossiping with friends.",
+    "To hear a song again is not only to hear structure but that structure as totally fixed and riveted to larger auditory scaffolding.",
+    "However, oil companies are taxed differently from companies that make rivets, for example.",
+    "The surveyor ordered a doubling plate to be riveted over the hole in the hull, and the ship was allowed to go to sea.",
+    "During my apprenticeship we progressed from using rivets to join plates together to welded sections, built in a shed.",
+    "I went into the shed where the platers worked and saw a machine punching out holes for the rivets to go into the plates.",
+    "In my local authority, it is the second type, the ones which are fixed with rivets.",
+    "The riveter used to be the kingpin of the yards, concerned with hammering in the rivets which held the plates and sections together."
+  ],
+  "list_see_also": [
+    "riveter"
+  ],
+  "list_browse": [
+    "rivalry",
+    "river",
+    "river bed",
+    "riverside",
+    "rivet",
+    "riveter",
+    "road",
+    "road map",
+    "road rage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389992_1c11b4dba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389992_6bc2db649d_o.png",
+      "id_image": "rivet_1638543"
+    }
+  ]
+}

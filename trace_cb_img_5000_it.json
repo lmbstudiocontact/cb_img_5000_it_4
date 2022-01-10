@@ -1,0 +1,154 @@
+{
+  "english": "trace",
+  "phat_am": "treis",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu tích",
+          "definition": "a mark or sign left by something",
+          "world_new": [
+            "mark",
+            "sign",
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were traces of egg on the plate",
+              "world_new": [
+                "egg",
+                "plate"
+              ]
+            },
+            {
+              "ex_of_definition": "There’s still no trace of the missing child.",
+              "world_new": [
+                "missing",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một chút",
+          "definition": "a small amount",
+          "world_new": [
+            "small",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Traces of poison were found in the cup.",
+              "world_new": [
+                "poison",
+                "found",
+                "cup"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "truy tìm",
+          "definition": "to follow or discover by means of clues, evidence etc",
+          "world_new": [
+            "follow",
+            "discover",
+            "means",
+            "evidence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police have traced him to London",
+              "world_new": [
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "The source of the infection has not yet been traced.",
+              "world_new": [
+                "source",
+                "infection",
+                "yet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vẽ can, đồ lại",
+          "definition": "to make a copy of (a picture etc) by putting transparent paper over it and drawing the outline etc",
+          "world_new": [
+            "copy",
+            "picture",
+            "transparent",
+            "paper",
+            "drawing",
+            "outline"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I traced the map.",
+              "world_new": [
+                "I",
+                "map"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The growth of the economy is traced over time, taking into account population growth, capital accumulation, and technical change.",
+    "Further, where deaths are recorded without precision, we do not always find a trace of these in the death register.",
+    "Indeed, we can, in fact, confidently trace hyper-rhoticity back to at least the eighteenth century.",
+    "The partial beam divergence values, one can calculate from the present geometry (distance of the source to the detector), and trace the spread.",
+    "Ultimately the origin of the discrepancies can be traced back in part to whether the centromeric and pericentromeric insertion sites are considered in the analysis.",
+    "Analytical precision is better than 0.5 % for major elements and 5 % for trace elements.",
+    "On closer viewing, the individual boards and the grain of the timber are revealed as traces of construction.",
+    "These traces themselves represent primary (bio)information about the original changeable environment."
+  ],
+  "list_see_also": [
+    "tracing",
+    "trace elements",
+    "tracing paper"
+  ],
+  "list_browse": [
+    "townsfolk",
+    "toxic",
+    "toxin",
+    "toy",
+    "trace",
+    "trace elements",
+    "trachea",
+    "tracing",
+    "tracing paper"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696534_c521019c82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696534_6c0a1b17dd_o.png",
+      "id_image": "trace_1548341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456068_5a7762ca9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456068_6f5cb53b47_o.png",
+      "id_image": "trace_1772536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341341_6a9025951f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341341_eaa9589493_o.png",
+      "id_image": "trace_583647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078730_38b2414356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078730_d2e0f1873e_o.png",
+      "id_image": "trace_593528"
+    }
+  ]
+}

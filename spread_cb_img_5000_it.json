@@ -1,0 +1,193 @@
+{
+  "english": "spread",
+  "phat_am": "spred",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giăng, bày ra",
+          "definition": "to (cause to) go (often more widely or more thinly) over a surface",
+          "world_new": [
+            "widely",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spread honey thickly on her toast.",
+              "world_new": [
+                "honey",
+                "thickly",
+                "toast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rải",
+          "definition": "to cover (a surface with something)",
+          "world_new": [
+            "cover",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She spread the bread with jam.",
+              "world_new": [
+                "bread",
+                "jam"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lan truyền",
+          "definition": "to (cause to) reach a wider area, affect a larger number of people etc",
+          "world_new": [
+            "reach",
+            "area",
+            "affect",
+            "number",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news spread through the village very quickly.",
+              "world_new": [
+                "news",
+                "village",
+                "quickly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "truyền bá",
+          "definition": "to distribute over a wide area, period of time etc",
+          "world_new": [
+            "distribute",
+            "wide",
+            "area",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The exams were spread over a period of ten days.",
+              "world_new": [
+                "period"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kéo, giăng",
+          "definition": "to open out",
+          "world_new": [
+            "open"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spread the map on the table.",
+              "world_new": [
+                "map",
+                "table"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự phổ biến",
+          "definition": "the process of reaching a wider area, affecting more people etc",
+          "world_new": [
+            "process",
+            "area",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the spread of information/television"
+            },
+            {
+              "ex_of_definition": "the spread of crime among schoolchildren.",
+              "world_new": [
+                "crime"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự rải",
+          "definition": "something to be spread on bread etc",
+          "world_new": [
+            "bread"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have some chicken spread.",
+              "world_new": [
+                "chicken"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dải rộng",
+          "definition": "the space or time covered (by something) or the extent of spreading",
+          "world_new": [
+            "space",
+            "time",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spread of several miles."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By spreading the angular momentum over a large region, a constant au/ay is reached within the turbulent fluid.",
+    "As a result of these works, it has been obtained that a shock wave spreading through a turbulized layer leads to turbulent mixing intensification.",
+    "Protectionist fallacies had all been exposed, enlightenment was spreading, and landlords' resistance simply encouraged the build-up of more pressure for revenge.",
+    "There was even some evidence of a 'wave of darkening' spreading from the waning polar cap towards the equator.",
+    "The range of automatic spreading activation in word priming.",
+    "Our results suggested a nerve damage signaling that spreads in the nervous system to induce expression of the critical p38 mitogen-activated protein kinase.",
+    "Light spreading across fibres is minimized by inserting ' dark ' absorbing fibres (called extra-mural absorbers), which restrict optical cross-talk between pixels.",
+    "We speculate that norovirus was spreading symptomatically and asymptomatically among the bakery employees, resulting in contamination of wedding cakes."
+  ],
+  "list_see_also": [
+    "spreadsheet",
+    "spread out"
+  ],
+  "list_browse": [
+    "sprain",
+    "sprawl",
+    "sprawling",
+    "spray",
+    "spread",
+    "spread out",
+    "spreadsheet",
+    "sprig",
+    "spring"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352516_b391b0d4e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352516_d8bf87f6a5_o.png",
+      "id_image": "spread_2707427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352486_7d6d1f2082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352486_717549e669_o.png",
+      "id_image": "spread_2746312"
+    }
+  ]
+}

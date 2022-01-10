@@ -1,0 +1,152 @@
+{
+  "english": "sport",
+  "phat_am": "spoːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thể thao",
+          "definition": "games or competitions involving physical activity",
+          "world_new": [
+            "games",
+            "physical",
+            "activity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s very keen on sport of all kinds.",
+              "world_new": [
+                "keen"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "môn thể thao",
+          "definition": "a particular game or amusement of this kind",
+          "world_new": [
+            "particular",
+            "game",
+            "amusement",
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hunting, shooting and fishing are not sports I enjoy.",
+              "world_new": [
+                "fishing",
+                "sports",
+                "I",
+                "enjoy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người có tinh thần độ lượng",
+          "definition": "a good-natured and obliging person",
+          "world_new": [
+            "good-natured",
+            "obliging",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a good sport to agree to do that for us!",
+              "world_new": [
+                "agree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự giải trí, trò vui",
+          "definition": "fun; amusement",
+          "world_new": [
+            "amusement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I only did it for sport.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chưng diện",
+          "definition": "to wear, especially in public",
+          "world_new": [
+            "wear",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sporting a pink tie.",
+              "world_new": [
+                "sporting",
+                "pink",
+                "tie"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An emphasis on circus, that most athletic of art forms, seemed very appropriate to accompany a major international sporting event.",
+    "Note that, in order to minimize the sports we need to do, preferences are expressed on the negated facts.",
+    "Certainly there was little opposition from the agricultural trade unions to blood sports.",
+    "She says that her knee hurt when she was young, and doctors told her parents and schoolteachers never to let her play sports.",
+    "Seasons with the sea-horses; or, sporting adventures in the northern seas.",
+    "One large shopping, sports and entertainments centre can give better services to the 100 000 people than the two old smaller centres.",
+    "During the 1960s sports and social change were on a collision course - especially around the issue of racial equality and justice.",
+    "We currently recommend abstention from competitive or strenuous sports for the majority of patients with hypertrophic cardiomyopathy."
+  ],
+  "list_see_also": [
+    "sporting",
+    "sports",
+    "sporty",
+    "sports car",
+    "sports jacket",
+    "sportsman",
+    "sportswear",
+    "a sporting chance"
+  ],
+  "list_browse": [
+    "spoonful",
+    "sporadic",
+    "sporadically",
+    "spore",
+    "sport",
+    "sporting",
+    "sports",
+    "sports car",
+    "sports jacket"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352771_7ee72b8469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352771_21a15bf244_o.png",
+      "id_image": "sport_4669567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397642_a2bb90dd3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397642_6755a5c008_o.png",
+      "id_image": "sport_5558314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397617_026f8758b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397617_b0f7bb725c_o.png",
+      "id_image": "sport_6183790"
+    }
+  ]
+}

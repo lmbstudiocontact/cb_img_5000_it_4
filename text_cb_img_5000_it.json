@@ -1,0 +1,104 @@
+{
+  "english": "text",
+  "phat_am": "tekst",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nguyên văn",
+          "definition": "in a book, the written or printed words, as opposed to the illustrations, notes etc",
+          "world_new": [
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "First the text was printed, then the drawings added.",
+              "world_new": [
+                "added"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoạn trích từ kinh thánh",
+          "definition": "a passage from the Bible about which a sermon is preached",
+          "world_new": [
+            "passage",
+            "Bible",
+            "sermon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He preached on a text from St John’s gospel.",
+              "world_new": [
+                "St",
+                "gospel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh máy",
+          "definition": "to send a written message to someone using a mobile phone/cell phone",
+          "world_new": [
+            "send",
+            "message",
+            "mobile",
+            "phone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Could you text me his address?",
+              "world_new": [
+                "address"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, it is unclear why the editorial comments have not been integrated into the text.",
+    "In comparison to ordinary conversations, less common words are employed in both informational and narrative texts.",
+    "Little that happened there found its way into classical texts, their epigraphy is typically meager, and so they are known above all by archaeology.",
+    "The result is a mass of quantitative material, covered in 159 statistical tables, with much more data included in the text.",
+    "Typically, this resulted in reduced quantity produced but had no effect on the rated quality of the texts.",
+    "From each of these four programs and for each grade, three reading texts were selected at random.",
+    "Although acknowledging scholarship that challenges the reading of texts about women as straightforward evidence of female piety, he chooses to do so anyway.",
+    "One reason that learning to parse text may present a challenge is because, unlike speech, printed text conveys few direct prosodic cues."
+  ],
+  "list_see_also": [
+    "textbook",
+    "text message"
+  ],
+  "list_browse": [
+    "testimony",
+    "testosterone",
+    "tetanus",
+    "tether",
+    "text",
+    "text message",
+    "textbook",
+    "textile",
+    "texture"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088135_7d6b23c6e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088135_7248254a16_o.png",
+      "id_image": "text_165046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705519_468b9138e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705519_4e23a14a13_o.png",
+      "id_image": "text_551095"
+    }
+  ]
+}

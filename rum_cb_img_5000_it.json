@@ -1,0 +1,70 @@
+{
+  "english": "rum",
+  "phat_am": "ram",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "rượu rom",
+          "definition": "a type of alcoholic drink, a spirit made from sugar cane",
+          "world_new": [
+            "type",
+            "alcoholic",
+            "drink",
+            "spirit",
+            "sugar",
+            "cane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of rum.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This goes for instance for rum and tobacco.",
+    "There are important preferential arrangements for sugar, bananas and rum.",
+    "Production and trade aspects are effectively combined with the social history of rum consumption.",
+    "I think you would do that if you gave the men a fair amount of money for the rum they did not take up.",
+    "In times of blizzard or snow we get an issue of cocoa or rum.",
+    "They have hitherto got the rum automatically, and alternatively had to ask for the money allowance.",
+    "The timing of the phasing out of the restrictions will be a matter for consultation with the rum interests.",
+    "The only reason for watering down rum to make \"grog\" is that it cannot be kept."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rule the roost",
+    "ruled",
+    "ruler",
+    "ruling",
+    "rum",
+    "rumba",
+    "rumble",
+    "ruminant",
+    "rummage"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454258_b73989b0cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454258_80be8d5cde_o.png",
+      "id_image": "rum_1355973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076470_3a27be8068_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076470_43583d5a0c_o.png",
+      "id_image": "rum_2454602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694509_8dfd4c9b8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694509_cde5506c48_o.png",
+      "id_image": "rum_920565"
+    }
+  ]
+}

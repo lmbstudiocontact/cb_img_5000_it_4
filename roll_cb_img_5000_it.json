@@ -1,0 +1,468 @@
+{
+  "english": "roll",
+  "phat_am": "rəul",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súc; cuộn",
+          "definition": "anything flat (eg a piece of paper, a carpet) rolled into the shape of a tube, wound round a tube etc",
+          "world_new": [
+            "flat",
+            "piece",
+            "paper",
+            "shape",
+            "tube",
+            "wound",
+            "tube"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a roll of kitchen foil",
+              "world_new": [
+                "kitchen",
+                "foil"
+              ]
+            },
+            {
+              "ex_of_definition": "a toilet roll.",
+              "world_new": [
+                "toilet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ổ bánh mỳ nhỏ",
+          "definition": "a small piece of baked bread dough, used eg for sandwiches",
+          "world_new": [
+            "small",
+            "piece",
+            "baked",
+            "bread",
+            "dough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a cheese roll.",
+              "world_new": [
+                "cheese"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự cuộn mình",
+          "definition": "an act of rolling",
+          "world_new": [
+            "act",
+            "rolling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our dog loves a roll on the grass.",
+              "world_new": [
+                "dog",
+                "grass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lắc lư",
+          "definition": "a ship’s action of rocking from side to side",
+          "world_new": [
+            "action",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She said that the roll of the ship made her feel ill.",
+              "world_new": [
+                "ship",
+                "feel",
+                "ill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng sấm vang rền",
+          "definition": "a long low sound",
+          "world_new": [
+            "long",
+            "low",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the roll of thunder.",
+              "world_new": [
+                "thunder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lằn thịt",
+          "definition": "a thick mass of flesh",
+          "world_new": [
+            "thick",
+            "mass",
+            "flesh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d like to get rid of these rolls of fat round my waist.",
+              "world_new": [
+                "rid",
+                "fat",
+                "my",
+                "waist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những hồi trống",
+          "definition": "a series of quick beats (on a drum).",
+          "world_new": [
+            "series",
+            "quick"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lăn",
+          "definition": "to move by turning over like a wheel or ball",
+          "world_new": [
+            "move",
+            "wheel",
+            "ball"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The coin/pencil rolled under the table",
+              "world_new": [
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "He rolled the ball towards the puppy",
+              "world_new": [
+                "ball"
+              ]
+            },
+            {
+              "ex_of_definition": "The ball rolled away.",
+              "world_new": [
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đẩy; lăn",
+          "definition": "to move on wheels, rollers etc",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children rolled the cart up the hill, then let it roll back down again.",
+              "world_new": [
+                "cart",
+                "hill",
+                "let"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộn thành ống",
+          "definition": "to form (a piece of paper, a carpet) into the shape of a tube by winding",
+          "world_new": [
+            "form",
+            "piece",
+            "paper",
+            "shape",
+            "tube",
+            "winding"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Help me to roll the carpet back.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộn; đẩy",
+          "definition": "(of a person or animal in a lying position) to turn over",
+          "world_new": [
+            "person",
+            "animal",
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor rolled the patient (over) on to his side",
+              "world_new": [
+                "doctor",
+                "patient",
+                "side"
+              ]
+            },
+            {
+              "ex_of_definition": "The dog rolled on to its back.",
+              "world_new": [
+                "dog",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nặn",
+          "definition": "to shape (clay etc) into a ball or cylinder by turning it about between the hands",
+          "world_new": [
+            "shape",
+            "ball",
+            "cylinder"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rolled the clay into a ball.",
+              "world_new": [
+                "clay",
+                "ball"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quấn",
+          "definition": "to cover with something by rolling",
+          "world_new": [
+            "cover",
+            "rolling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the little girl’s dress caught fire, they rolled her in a blanket.",
+              "world_new": [
+                "dress",
+                "fire",
+                "blanket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phẳng",
+          "definition": "to make (something) flat or flatter by rolling something heavy over it",
+          "world_new": [
+            "flat",
+            "flatter",
+            "rolling",
+            "heavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The lawn needs rolling",
+              "world_new": [
+                "lawn",
+                "rolling"
+              ]
+            },
+            {
+              "ex_of_definition": "Roll the pastry (out) into a rectangle about 5mm thick.",
+              "world_new": [
+                "pastry",
+                "rectangle",
+                "thick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lắc lư",
+          "definition": "(of a ship) to rock from side to side while travelling forwards",
+          "world_new": [
+            "rock",
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The storm made the ship roll.",
+              "world_new": [
+                "storm",
+                "ship"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếng vang rền",
+          "definition": "to make a series of low sounds",
+          "world_new": [
+            "series",
+            "low"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thunder rolled",
+              "world_new": [
+                "thunder"
+              ]
+            },
+            {
+              "ex_of_definition": "The drums rolled."
+            }
+          ]
+        },
+        {
+          "mean_english": "trợn tròn mắt",
+          "definition": "to move (one’s eyes) round in a circle to express fear, surprise etc",
+          "world_new": [
+            "move",
+            "circle",
+            "express",
+            "fear",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She rolled her eyes in consternation.",
+              "world_new": [
+                "consternation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi du lịch bằng xe hơi",
+          "definition": "to travel in a car etc",
+          "world_new": [
+            "travel",
+            "car"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were rolling along merrily when a tyre burst.",
+              "world_new": [
+                "rolling",
+                "merrily",
+                "tyre",
+                "burst"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sóng cuồn cuộn",
+          "definition": "(of waves, rivers etc) to move gently and steadily",
+          "world_new": [
+            "move",
+            "gently",
+            "steadily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The waves rolled in to the shore.",
+              "world_new": [
+                "shore"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trôi qua",
+          "definition": "(of time) to pass",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Months rolled by."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "danh sách",
+          "definition": "a list of names, eg of pupils in a school etc",
+          "world_new": [
+            "list",
+            "school"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are nine hundred pupils on the roll."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Curves 1 and 2 are two extremes of observed trajectories stabilizing to roll cells with a negative flow direction.",
+    "For large fluid depths and small temperature differences only circular plan-form rolls were observed.",
+    "This general criterion not only allows one to optimize the force distribution but also indirectly insures the stability by minimizing roll and pitch angles.",
+    "By sheer accident, an empty trolley, nobody aboard, is starting to roll down a certain track.",
+    "His flow was anisotropic in the form of steady periodically arranged two-dimensional rolls.",
+    "The swing process cannot be carried any further, and the rolling boundary method is applied.",
+    "The intervention group was a closed cohort group where no rolling admissions were allowed into the group after treatment had commenced.",
+    "The two inner sheets are first intermittently roll-seam welded with a cross pattern while the two outer sheets are periphery welded."
+  ],
+  "list_see_also": [
+    "roller",
+    "rolling",
+    "roller coaster",
+    "roller-skate",
+    "rolling-pin",
+    "roll in",
+    "roll up"
+  ],
+  "list_browse": [
+    "rodeo",
+    "roe",
+    "rogue",
+    "rôle",
+    "roll",
+    "roll in",
+    "roll up",
+    "roll-call",
+    "roller"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080965_0ca7eba83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080965_db278577b5_o.png",
+      "id_image": "roll_168640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458218_0c5500842a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458218_4fe12be5eb_o.png",
+      "id_image": "roll_2797804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343506_a53d44b883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343506_705b9e0f7a_o.png",
+      "id_image": "roll_4809552"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "english": "tack",
+  "phat_am": "tӕk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đinh mũ",
+          "definition": "a short nail with a broad flat head",
+          "world_new": [
+            "short",
+            "nail",
+            "broad",
+            "flat",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a carpet tack.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường khâu lược",
+          "definition": "in sewing, a large, temporary stitch used to hold material together while it is being sewn together properly.",
+          "world_new": [
+            "sewing",
+            "large",
+            "temporary",
+            "stitch",
+            "hold",
+            "material",
+            "properly"
+          ]
+        },
+        {
+          "mean_english": "dây néo góc buồm",
+          "definition": "in sailing, a movement diagonally against the wind",
+          "world_new": [
+            "sailing",
+            "movement",
+            "diagonally",
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We sailed on an easterly tack.",
+              "world_new": [
+                "easterly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đường lối",
+          "definition": "a direction or course",
+          "world_new": [
+            "direction",
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "After they moved, their lives took a different tack.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đính; đóng",
+          "definition": "(with down, on etc) to fasten (with tacks)",
+          "world_new": [
+            "fasten"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I tacked the carpet down",
+              "world_new": [
+                "I",
+                "carpet"
+              ]
+            },
+            {
+              "ex_of_definition": "She tacked the material together.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "néo cột buồm",
+          "definition": "(of sailing-boats) to move diagonally (backwards and forwards) against the wind",
+          "world_new": [
+            "move",
+            "diagonally",
+            "wind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boat tacked into harbour.",
+              "world_new": [
+                "boat",
+                "harbour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, we must come down from first principles to brass tacks.",
+    "Let us come down to brass tacks about this matter.",
+    "In the main perhaps this was not technical tacking, but it was tacking in the spirit, if not in the letter.",
+    "Brass tacks, in my view, in this case were meat.",
+    "We have also said that in the long term, you really do need to get down to brass tacks.",
+    "I disagree with those who say that if we tacked something on to this building it would ruin it.",
+    "Much of what he tacked on was thoroughly mischievous.",
+    "I wanted to bring the matter to actualities and down to brass tacks."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tablespoonful",
+    "tablet",
+    "tabloid",
+    "taboo",
+    "tack",
+    "tackle",
+    "tact",
+    "tactful",
+    "tactfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443613_164273db21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443613_562b673365_o.png",
+      "id_image": "tack_1014667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443563_f9afa03439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443563_6dc9bb9d9e_o.png",
+      "id_image": "tack_1180290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328546_bec9107e1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328546_1305d55719_o.png",
+      "id_image": "tack_2052642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443473_8b88b274fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443473_d4c7fe4f56_o.png",
+      "id_image": "tack_3391752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683714_77bca1f8fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683714_0993063d35_o.png",
+      "id_image": "tack_732408"
+    }
+  ]
+}

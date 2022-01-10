@@ -1,0 +1,119 @@
+{
+  "english": "turf",
+  "phat_am": "təːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lớp đất có cỏ",
+          "definition": "rough grass and the earth it grows out of",
+          "world_new": [
+            "rough",
+            "grass",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked across the springy turf.",
+              "world_new": [
+                "across",
+                "springy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cỏ",
+          "definition": "(a usually square piece of) grass and earth",
+          "world_new": [
+            "square",
+            "piece",
+            "grass",
+            "earth"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We laid turf in our garden to make a lawn.",
+              "world_new": [
+                "our",
+                "garden",
+                "lawn"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trồng cỏ",
+          "definition": "to cover with turf(s)",
+          "world_new": [
+            "cover"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are going to turf that part of the garden.",
+              "world_new": [
+                "part",
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đuổi đi, ném đi",
+          "definition": "to throw",
+          "world_new": [
+            "throw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We turfed him out of the house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Contractors have been turfed out, and often penalised.",
+    "Perhaps the most influential factor of these involves a voter mobilisation strategy for electoral success or a turf war within the state apparatus.",
+    "The extreme width of the pitch was created when the old running track was turfed over.",
+    "In this way, the parasite may remain in the seed bank when heather is too old and quickly reappears after management, such as mowing, turf-cutting or burning.",
+    "A period of conf lict and confrontation over turf and equipment ensued.",
+    "The viaduct will be turfed over until the funding for the extension and planning permission have been granted.",
+    "They make aggressive moves in drug dealing and expansion, often employing more pushers than they can protect and controlling more turfs than they can defend.",
+    "Why should railway-men who have been engaged all their lives in building steam locomotives be turfed out?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "turbo-",
+    "turbulence",
+    "turbulent",
+    "turbulently",
+    "turf",
+    "turkey",
+    "turmoil",
+    "turn",
+    "turn a blind eye"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443713_2819b9b1b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443713_513fe917b1_o.png",
+      "id_image": "turf_2296441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373447_7656099519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373447_5c51cb4a4b_o.png",
+      "id_image": "turf_4977795"
+    }
+  ]
+}

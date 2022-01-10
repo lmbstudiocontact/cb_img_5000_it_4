@@ -1,0 +1,71 @@
+{
+  "english": "sailor",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thủy thủ",
+          "definition": "a member of a ship’s crew whose job is helping to sail a ship",
+          "world_new": [
+            "member",
+            "crew",
+            "job",
+            "helping",
+            "sail",
+            "ship"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sailor in the merchant navy.",
+              "world_new": [
+                "merchant",
+                "navy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the main we have transported sailors, thus relieving merchant ships of a very great demand.",
+    "To sailors, this area was known as the doldrums or the horse latitudes.",
+    "The necessity for soldiers, sailors and explorers to carry food over long periods of time restricted both the quantity and quality of the food available to them.",
+    "The navy also procured and issued the uniforms, deducting their cost from the sailors' pay.",
+    "Great gaps have been torn in the life of the sailor's wife.",
+    "The past seemed to offer inspiration and guidance for a new generation of soldiers and sailors, and useful propaganda for those who agitated for war.",
+    "I am asking here why the sailors' and soldiers' money.",
+    "The sailors wore their wealth conspicuously and clearly enjoyed a strong sense of fraternity."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sail",
+    "sailboard",
+    "sailboat",
+    "sailing",
+    "sailor",
+    "saint",
+    "saintliness",
+    "saintly",
+    "sake"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074255_b6f15aa7d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074255_ceea91d524_o.png",
+      "id_image": "sailor_4436814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074215_c1c688cbd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074215_4956c943d4_o.png",
+      "id_image": "sailor_5052563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074200_3d79ffc47b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074200_8cb1fe953a_o.png",
+      "id_image": "sailor_6150489"
+    }
+  ]
+}

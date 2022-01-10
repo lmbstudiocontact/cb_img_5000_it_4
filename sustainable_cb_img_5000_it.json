@@ -1,0 +1,85 @@
+{
+  "english": "sustainable",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không làm hại môi trường",
+          "definition": "able to continue without harming the environment",
+          "world_new": [
+            "continue",
+            "environment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sustainable farming.",
+              "world_new": [
+                "farming"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bền vững",
+          "definition": "able to continue for a long period of time",
+          "world_new": [
+            "continue",
+            "long",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sustainable growth in the economy.",
+              "world_new": [
+                "growth",
+                "economy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With steadily increasing demand for palm oil, the authors suggest that a major opportunity exists for environmentally and socially sustainable expansion of smallholder production.",
+    "In the other 'old' villages, mutual participation is still sustainable, but it is not sure whether this will be the case in the future.",
+    "With long fallow periods and large areas of undisturbed forests, swidden agriculture does provide a balanced, sustainable system.",
+    "Evaluating projects and assessing a sustainable development in imperfect economies.",
+    "The operations are set up to cut timber from 1,000 hectares of rainforest in an ecologically sustainable manner.",
+    "Macroeconomic adjustments should stimulate sustainable developments rather than furthering unsustainability; where they do lead to environmental degradation, compensatory projects might provide a short-term retrofitting option.",
+    "Approaches to developing sustainable extraction systems for tropical forest products.",
+    "The cost of meeting these standards to the industry can be regarded as the cost of environmentally sustainable industrial development."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "suspiciously",
+    "suspiciousness",
+    "sustain",
+    "sustainability",
+    "sustainable",
+    "sustainably",
+    "SW",
+    "swag",
+    "swagger"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449768_39c7678c76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449768_4cf51b5c5d_o.png",
+      "id_image": "sustainable_4459308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071675_735bd78093_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071675_9d0b8ae0c4_o.png",
+      "id_image": "sustainable_4661006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334656_a93901c8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334656_6bf7a9624f_o.png",
+      "id_image": "sustainable_5011128"
+    }
+  ]
+}

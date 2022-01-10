@@ -1,0 +1,76 @@
+{
+  "english": "router",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bộ định tuyến",
+          "definition": "an electronic device that enables packets of data to be moved between computers or computer networks in an efficient way",
+          "world_new": [
+            "electronic",
+            "device",
+            "data",
+            "computer",
+            "efficient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The router will choose the best route for the data packet so that you receive the information quickly.",
+              "world_new": [
+                "choose",
+                "best",
+                "route",
+                "data",
+                "packet",
+                "receive",
+                "information",
+                "quickly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This sum includes managed services such as routers and firewalls as well as costs for 24-hour/7 day network access.",
+    "Thus, load balancing is not based on traffic load, but rather on the number of hosts that will use each gateway router.",
+    "The infrastructure components currently being procured using public funds are routers, a switch, a server, printers and modems, together with the necessary software licences.",
+    "A typical service provider's network is a collection of switches and routers connected through optical fiber.",
+    "The mechanism can be used with a router to cut ellipses from board material.",
+    "This left one router to carry all traffic.",
+    "One packet comes back, through the router, which transmits it wirelessly to the game console.",
+    "On wireless routers with detachable antennas, it is possible to improve range by fitting upgraded antennas which have higher gain in particular directions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rousing",
+    "rout",
+    "route",
+    "route march",
+    "router",
+    "routine",
+    "rove",
+    "rover",
+    "roving"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455793_0d73ef09bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455793_ac151e9c97_o.png",
+      "id_image": "router_294640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385917_41e97660a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385917_5933a108ea_o.png",
+      "id_image": "router_657952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078260_ae69ac65ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078260_9b863a252e_o.png",
+      "id_image": "router_741374"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "stripe",
+  "phat_am": "straip",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sọc vằn, viền",
+          "definition": "a band of colour /color etc",
+          "world_new": [
+            "band",
+            "colour"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wallpaper was grey with broad green stripes",
+              "world_new": [
+                "wallpaper",
+                "grey",
+                "broad",
+                "green"
+              ]
+            },
+            {
+              "ex_of_definition": "A zebra has black and white stripes.",
+              "world_new": [
+                "zebra",
+                "black",
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vạch quân hàm, lon",
+          "definition": "a (usually V-shaped) badge worn on an army uniform to show rank.",
+          "world_new": [
+            "badge",
+            "worn",
+            "army",
+            "uniform",
+            "rank"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Do we challenge each other's identity as 'scientists' of various stripes in hooting contests typical of intellectuals?",
+    "We found direction sensitivity only within thick stripes, orientation sensitivity mainly in thick stripes and interstripes, and spectral sensitivity mainly in thin stripes.",
+    "Reports of incomplete neutralisation and near mergers have puzzled linguists of all stripes.",
+    "Positive length summation was relatively more frequent in thick stripes and interstripes, and negative length 0size summation in thin stripes.",
+    "A model for the formation of ocular dominance stripes.",
+    "The officers wore red uniforms with gold and silver stripes on their cuffs and silver plates indicating their rank.",
+    "In our view, the joint selectivity data provides an additional means to characterize the differences between stripes (see below).",
+    "The longitudinal stripes of the thorax are faint and the abdomen, which is more pyriform than that of the male, has a slightly golden attachment."
+  ],
+  "list_see_also": [
+    "striped",
+    "stripy"
+  ],
+  "list_browse": [
+    "strip",
+    "strip cartoon",
+    "strip off",
+    "strip-lighting",
+    "stripe",
+    "striped",
+    "stripling",
+    "striptease",
+    "stripy"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079550_29c45275f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079550_53a05af709_o.png",
+      "id_image": "stripe_6006695"
+    }
+  ]
+}

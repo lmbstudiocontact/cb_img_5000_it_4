@@ -1,0 +1,109 @@
+{
+  "english": "scheme",
+  "phat_am": "skiːm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kế hoạch",
+          "definition": "a plan or arrangement; a way of doing something",
+          "world_new": [
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a colour scheme for the room",
+              "world_new": [
+                "colour",
+                "room"
+              ]
+            },
+            {
+              "ex_of_definition": "There are various schemes for improving the roads.",
+              "world_new": [
+                "various"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "âm mưu",
+          "definition": "a (usually secret) dishonest plan",
+          "world_new": [
+            "dishonest",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His schemes to steal the money were discovered.",
+              "world_new": [
+                "steal",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có âm mưu",
+          "definition": "to make (especially dishonest) schemes",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was punished for scheming against the President",
+              "world_new": [
+                "scheming"
+              ]
+            },
+            {
+              "ex_of_definition": "They have all been scheming for my dismissal.",
+              "world_new": [
+                "scheming",
+                "my",
+                "dismissal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "schematic",
+    "schematically",
+    "schemer",
+    "scheming"
+  ],
+  "list_browse": [
+    "sceptre",
+    "schedule",
+    "schematic",
+    "schematically",
+    "scheme",
+    "schemer",
+    "scheming",
+    "schizophrenia",
+    "schizophrenic"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330691_d58b5bcc62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330691_6c3436e0e8_o.png",
+      "id_image": "scheme_1353770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375342_60ab5f558e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375342_8cffd63238_o.png",
+      "id_image": "scheme_5640136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067550_6b808968f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067550_2f1b7c24af_o.png",
+      "id_image": "scheme_603856"
+    }
+  ]
+}

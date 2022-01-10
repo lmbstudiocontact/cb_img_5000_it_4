@@ -1,0 +1,125 @@
+{
+  "english": "spirit",
+  "phat_am": "ˈspirit",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tinh thần, linh hồn",
+          "definition": "a principle or emotion which makes someone act",
+          "world_new": [
+            "principle",
+            "emotion",
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The spirit of kindness seems to be lacking in the world nowadays.",
+              "world_new": [
+                "kindness",
+                "world",
+                "nowadays"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "linh hồn, hồn ma",
+          "definition": "a person’s mind, will, personality etc thought of as distinct from the body, or as remaining alive eg as a ghost when the body dies",
+          "world_new": [
+            "mind",
+            "personality",
+            "thought",
+            "distinct",
+            "body",
+            "alive",
+            "ghost",
+            "body"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Our great leader may be dead, but his spirit still lives on",
+              "world_new": [
+                "great",
+                "leader",
+                "dead"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the spirit world",
+              "world_new": [
+                "world"
+              ]
+            },
+            {
+              "ex_of_definition": "Evil spirits have taken possession of him.",
+              "world_new": [
+                "spirits",
+                "possession"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lòng can đảm, tính hăng hái",
+          "definition": "liveliness; courage",
+          "world_new": [
+            "courage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He acted with spirit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Talent is perhaps closest in spirit to gate.",
+    "It was in that spirit that we undertook our task.",
+    "As against professionalism, then, politeness was allied with the spirit of the amateur.",
+    "The idea is thus close in spirit to the proposals described above.",
+    "But it was unscholarly, in the sense that doubtful and questionable matter was accepted in an uncritical spirit and interspersed among documents of reliable authenticity.",
+    "The first part of this study deals with identification of these spirits with their modern counterparts.",
+    "They belong instead to a spirit realm and, since they lack souls, they gain power over humans.",
+    "The spirit displayed a scroll containing a lengthy summary of his expedition."
+  ],
+  "list_see_also": [
+    "spirited",
+    "spiritedly",
+    "spirits",
+    "spiritual",
+    "spiritually",
+    "spirit level"
+  ],
+  "list_browse": [
+    "spiny",
+    "spiral",
+    "spirally",
+    "spire",
+    "spirit",
+    "spirit level",
+    "spirited",
+    "spiritedly",
+    "spirits"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091075_e1dbac648a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091075_08b1a0ed04_o.png",
+      "id_image": "spirit_1635969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353631_fbae4a0660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353631_ac46b56548_o.png",
+      "id_image": "spirit_2210185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398627_19729795af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398627_f3f19d06d2_o.png",
+      "id_image": "spirit_861636"
+    }
+  ]
+}

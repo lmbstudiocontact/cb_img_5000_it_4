@@ -1,0 +1,68 @@
+{
+  "english": "sceptic",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người đa nghi",
+          "definition": "a person who is unwilling to believe",
+          "world_new": [
+            "person",
+            "unwilling",
+            "believe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most people now accept this theory, but there are a few sceptics/skeptics.",
+              "world_new": [
+                "people",
+                "accept",
+                "theory"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The sceptics of deliberative democracy are justified in their caution.",
+    "Year 6 is the time for the sceptic who says the scare is exaggerated.",
+    "The sceptic might already be alert, if not alarmed.",
+    "For the sceptics, diffuse interests are largely powerless.",
+    "In one sense, however, the sceptics do correctly identify one characteristic of the project.",
+    "But he was also that peculiar creature, a convinced sceptic.",
+    "The sceptic's watchword is relevance, but the question then is relevance to what?",
+    "He was aware of the implausibility of internationalism ever gaining a complete victory, and in this sense he was a sceptic."
+  ],
+  "list_see_also": [
+    "sceptical",
+    "sceptically",
+    "scepticism"
+  ],
+  "list_browse": [
+    "scenery",
+    "scenic",
+    "scent",
+    "scented",
+    "sceptic",
+    "sceptical",
+    "sceptically",
+    "scepticism",
+    "sceptre"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446123_6f63606c98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446123_7f7ef1f439_o.png",
+      "id_image": "sceptic_1316899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446078_c1e843c3b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446078_bd41223c47_o.png",
+      "id_image": "sceptic_1747662"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "english": "round",
+  "phat_am": "raund",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tròn",
+          "definition": "shaped like a circle or globe",
+          "world_new": [
+            "shaped",
+            "circle",
+            "globe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a round hole",
+              "world_new": [
+                "hole"
+              ]
+            },
+            {
+              "ex_of_definition": "a round stone",
+              "world_new": [
+                "stone"
+              ]
+            },
+            {
+              "ex_of_definition": "This plate isn’t quite round.",
+              "world_new": [
+                "plate",
+                "quite"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bụ bẫm",
+          "definition": "rather fat; plump",
+          "world_new": [
+            "rather",
+            "plump"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a round face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "theo chiều ngược lại",
+          "definition": "in the opposite direction",
+          "world_new": [
+            "opposite",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He turned round."
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng tròn",
+          "definition": "in a circle",
+          "world_new": [
+            "circle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They all stood round and listened"
+            },
+            {
+              "ex_of_definition": "A wheel goes round",
+              "world_new": [
+                "wheel"
+              ]
+            },
+            {
+              "ex_of_definition": "All (the) year round.",
+              "world_new": [
+                "year"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo vòng tròn",
+          "definition": "from one person to another",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They passed the letter round",
+              "world_new": [
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "The news went round.",
+              "world_new": [
+                "news"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi một vòng",
+          "definition": "from place to place",
+          "world_new": [
+            "place",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We drove round for a while."
+            }
+          ]
+        },
+        {
+          "mean_english": "chu vi",
+          "definition": "in circumference",
+          "world_new": [
+            "circumference"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tree measured two metres round.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tới thăm một gia đình",
+          "definition": "to a particular place, usually a person’s home",
+          "world_new": [
+            "particular",
+            "place",
+            "home"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you coming round (to our house) tonight?",
+              "world_new": [
+                "our",
+                "tonight"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "xung quanh",
+          "definition": "on all sides of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was a wall round the garden",
+              "world_new": [
+                "wall",
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "He looked round the room.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng quanh",
+          "definition": "passing all sides of (and returning to the starting-place)",
+          "world_new": [
+            "passing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They ran round the tree.",
+              "world_new": [
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng về",
+          "definition": "changing direction at",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He came round the corner.",
+              "world_new": [
+                "corner"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khắp nơi",
+          "definition": "in or to all parts of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The news spread all round the town.",
+              "world_new": [
+                "news",
+                "spread",
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự quay vòng",
+          "definition": "a complete circuit",
+          "world_new": [
+            "complete",
+            "circuit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a round of drinks (= one for everyone present)"
+            },
+            {
+              "ex_of_definition": "a round of golf.",
+              "world_new": [
+                "golf"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyến đi",
+          "definition": "a regular journey one takes to do one’s work",
+          "world_new": [
+            "regular",
+            "journey",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a postman’s round."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tán thưởng",
+          "definition": "a burst of cheering, shooting etc",
+          "world_new": [
+            "burst"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They gave him a round of applause",
+              "world_new": [
+                "applause"
+              ]
+            },
+            {
+              "ex_of_definition": "The soldier fired several rounds.",
+              "world_new": [
+                "soldier",
+                "rounds"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viên đạn",
+          "definition": "a single bullet, shell etc",
+          "world_new": [
+            "single",
+            "bullet",
+            "shell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "five hundred rounds of ammunition.",
+              "world_new": [
+                "rounds",
+                "ammunition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng thi đấu",
+          "definition": "a stage in a competition etc",
+          "world_new": [
+            "stage",
+            "competition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The winners of the first round will go through to the next."
+            }
+          ]
+        },
+        {
+          "mean_english": "ca nông (âm nhạc)",
+          "definition": "a type of song sung by several singers singing the same tune starting in succession.",
+          "world_new": [
+            "type",
+            "song",
+            "singing",
+            "tune",
+            "succession"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi vòng quanh",
+          "definition": "to go round",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car rounded the corner.",
+              "world_new": [
+                "car",
+                "rounded",
+                "corner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rounded",
+    "rounders",
+    "roundly",
+    "roundness",
+    "rounds",
+    "all-round",
+    "all-rounder",
+    "roundabout",
+    "round figures/numbers",
+    "round-shouldered",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "roughen",
+    "roughly",
+    "roughness",
+    "roulette",
+    "round",
+    "round about",
+    "round figures/numbers",
+    "round off",
+    "round on"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456168_7ccd0f87e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456168_49f61be415_o.png",
+      "id_image": "round_2421597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386292_fd36e0edf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386292_38bb491ef8_o.png",
+      "id_image": "round_2736128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078655_08b3e8aea8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078655_6d3f9a0089_o.png",
+      "id_image": "round_6006261"
+    }
+  ]
+}

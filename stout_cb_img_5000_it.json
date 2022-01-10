@@ -1,0 +1,120 @@
+{
+  "english": "stout",
+  "phat_am": "staut",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khỏe, bền",
+          "definition": "strong or thick",
+          "world_new": [
+            "strong",
+            "thick"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a stout stick.",
+              "world_new": [
+                "stick"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dũng cảm",
+          "definition": "brave and resolute",
+          "world_new": [
+            "brave",
+            "resolute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "stout resistance",
+              "world_new": [
+                "resistance"
+              ]
+            },
+            {
+              "ex_of_definition": "stout opposition.",
+              "world_new": [
+                "opposition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mập mạp",
+          "definition": "fat",
+          "world_new": [
+            "fat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s getting stout."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "loại bia đen, nặng",
+          "definition": "a dark, strong type of beer",
+          "world_new": [
+            "dark",
+            "strong",
+            "type",
+            "beer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a bottle of stout.",
+              "world_new": [
+                "bottle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The body is densely covered with stout spines or hooks, which are directed posteriorly.",
+    "In the 20th century many oatmeal stouts contained only a minimal amount of oats.",
+    "Early on the goal was to create outstanding ales, porters, and stouts.",
+    "The cirrus pouch is small and stout, lying immediately and entirely in front of the ventral sucker.",
+    "There is still division and debate on whether stouts should be a separate style from porter.",
+    "The number of relatively stout, primary dendrites was fewer, although a great many fine branches radiated sinuously from the soma.",
+    "The chelae (claws) are unequal: the right claw is stouter, and the left claw is narrower.",
+    "The term besom is now mostly reserved for a traditionally constructed broom, made from a bundle of twigs tied to a stouter pole."
+  ],
+  "list_see_also": [
+    "stout-hearted"
+  ],
+  "list_browse": [
+    "stormily",
+    "storminess",
+    "stormy",
+    "story",
+    "stout",
+    "stout-hearted",
+    "stove",
+    "stow",
+    "stow away"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344436_4f1205863c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344436_81069a2837_o.png",
+      "id_image": "stout_2534084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081830_7010f28288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081830_19701abdaa_o.png",
+      "id_image": "stout_2534088"
+    }
+  ]
+}

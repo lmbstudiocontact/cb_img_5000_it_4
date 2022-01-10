@@ -1,0 +1,191 @@
+{
+  "english": "sign",
+  "phat_am": "sain",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dấu hiệu, kí hiệu",
+          "definition": "a mark used to mean something; a symbol",
+          "world_new": [
+            "mark",
+            "mean",
+            "symbol"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "+ is the sign for addition.",
+              "world_new": [
+                "addition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu hiện",
+          "definition": "a notice set up to give information (a shopkeeper’s name, the direction of a town etc) to the public",
+          "world_new": [
+            "notice",
+            "information",
+            "name",
+            "direction",
+            "town",
+            "public"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a road sign.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ra hiệu",
+          "definition": "a movement (eg a nod, wave of the hand) used to mean or represent something",
+          "world_new": [
+            "movement",
+            "nod",
+            "wave",
+            "mean",
+            "represent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a sign to me to keep still.",
+              "world_new": [
+                "keep"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu hiệu; biểu hiện",
+          "definition": "a piece of evidence suggesting that something is present or about to come",
+          "world_new": [
+            "piece",
+            "evidence",
+            "present"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were no signs of life at the house and he was afraid they were away",
+              "world_new": [
+                "life",
+                "house",
+                "afraid"
+              ]
+            },
+            {
+              "ex_of_definition": "Clouds are often a sign of rain.",
+              "world_new": [
+                "rain"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ký",
+          "definition": "to write one’s name (on)",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sign at the bottom, please.",
+              "world_new": [
+                "bottom",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ký tên",
+          "definition": "to write (one’s name) on a letter, document etc",
+          "world_new": [
+            "letter",
+            "document"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He signed his name on the document.",
+              "world_new": [
+                "name",
+                "document"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ra hiệu, làm hiệu",
+          "definition": "to make a movement of the head, hand etc in order to show one’s meaning",
+          "world_new": [
+            "movement",
+            "head",
+            "hand",
+            "order",
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She signed to me to say nothing."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, we did not code for stress, which is much less well understood in sign than in spoken languages and presents many difficulties for coding.",
+    "It represents the subcategorisation properties of a given sign.",
+    "The two types of effect of corruption on pollution may differ in sign.",
+    "The signs in front of the random variables represent the agents' movements in and out of each group.",
+    "Instead of deleting movement entirely she used linear movements as possibly the default feature for this slot in the phonological representation of the sign.",
+    "Thus, deaf readers learn vocabulary in print that they use in sign, and vice versa.",
+    "With recidivism often seen as one of the signs of the ' incorrigible ', petty property offenders were thus particularly vulnerable to be singled out.",
+    "Both signs could be reasonable depending on the avoidance measure being addressed."
+  ],
+  "list_see_also": [
+    "signboard",
+    "sign language",
+    "signpost",
+    "sign in",
+    "sign up"
+  ],
+  "list_browse": [
+    "sigh",
+    "sight",
+    "sightseeing",
+    "sightseer",
+    "sign",
+    "sign in",
+    "sign language",
+    "sign up",
+    "signal"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339826_f6460589b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339826_63eedd60a8_o.png",
+      "id_image": "sign_2358774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384702_c8953cc896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384702_dcbd4444d4_o.png",
+      "id_image": "sign_2431489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454688_fe666e4ee3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454688_990d78e42d_o.png",
+      "id_image": "sign_2834536"
+    }
+  ]
+}

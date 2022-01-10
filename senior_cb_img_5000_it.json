@@ -1,0 +1,100 @@
+{
+  "english": "senior",
+  "phat_am": "ˈsiːnjə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người lớn tuổi hơn, người chức cao hơn",
+          "definition": "(also adjective) (a person who is) older in years or higher in rank or authority",
+          "world_new": [
+            "person",
+            "rank",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John is senior to me by two years"
+            },
+            {
+              "ex_of_definition": "He is two years my senior",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "senior army officers.",
+              "world_new": [
+                "army"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "học sinh năm cuối trường trung học hoặc cao đẳng",
+          "definition": "a student in his/her last year in college or high school.",
+          "world_new": [
+            "student",
+            "year",
+            "college",
+            "school"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "là bố của người có cùng tên",
+          "definition": "(often abbreviated to Snr, Sror Sen.when written) used to indicate the father of a person who is alive and who has the same name",
+          "world_new": [
+            "indicate",
+            "father",
+            "person",
+            "alive",
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John Jones Senior."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "High schools have adapted to the dramatic increase in the senior population by introducing vocational subjects.",
+    "Each of these villages was, in turn, located in a broader territory under the charismatic leadership of a senior woman or man.",
+    "For giving help, few seniors assisted someone else during baby-sitting (12.4%), but the majority helped with household chores (74.5%).",
+    "Other time commitments reduce a senior's ability to do household tasks.",
+    "Each day 20 to 70 seniors visited the centre.",
+    "On the other hand, such policies have provoked grassroot activism and stimulated senior organisations in quite a few countries.",
+    "Assessing beliefs about the needs of senior citizens using the focus group interview : a qualitative approach.",
+    "By interviewing only senior partners you inevitably arrive not only at those relatively senior in years but those not educated in a cad environment."
+  ],
+  "list_see_also": [
+    "seniority",
+    "senior citizen"
+  ],
+  "list_browse": [
+    "send out",
+    "sender",
+    "senile",
+    "senility",
+    "senior",
+    "senior citizen",
+    "seniority",
+    "sensation",
+    "sensational"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087390_42d9457899_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087390_c341767605_o.png",
+      "id_image": "senior_5256035"
+    }
+  ]
+}

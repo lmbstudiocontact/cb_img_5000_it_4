@@ -1,0 +1,68 @@
+{
+  "english": "smoker",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "người hút thuốc",
+          "definition": "a person who smokes cigarettes etc",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When did you become a smoker?",
+              "world_new": [
+                "become"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s a pipe-smoker."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Otherwise, anyone, including shopkeepers, could continue retailing secretly the excess over personal requirements to unregistered smokers.",
+    "Thus, in the present study, the population of smokers may be \"self-selected\" for those negative symptoms that selegiline appears to remedy.",
+    "In the patient group, 39 persons were cigarette smokers v. 11 non-smokers.",
+    "None of the subjects were smokers or taking any medications, and they were either sedentary or recreationally active.",
+    "Groups that represent smokers play only a marginal role.",
+    "Among lifetime regular smokers, a quit attempt was defined as ever trying to quit or cut down on smoking or using tobacco.",
+    "Other findings are unexpected, and await confirmation by others such as the increased probability of onsets among smokers.",
+    "Genetic analyses were conducted using twin pairs who were concordant ever smokers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "smoke",
+    "smoke detector",
+    "smoked",
+    "smokeless",
+    "smoker",
+    "smokescreen",
+    "smokiness",
+    "smoking",
+    "smoky"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330876_34763c73b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330876_9e56b25d3f_o.png",
+      "id_image": "smoker_261772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375502_14581d87b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375502_8edcc11b17_o.png",
+      "id_image": "smoker_2934322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375452_90e9d452c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375452_e67d0379de_o.png",
+      "id_image": "smoker_4728075"
+    }
+  ]
+}

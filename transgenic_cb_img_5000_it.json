@@ -1,0 +1,76 @@
+{
+  "english": "transgenic",
+  "phat_am": "trænzˈdʒenik",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chuyển gen",
+          "definition": "(of an animal or plant) containing genetic material that has been artificially introduced from another species; genetically modified",
+          "world_new": [
+            "animal",
+            "genetic",
+            "material",
+            "artificially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the environmental impact of transgenic crops.",
+              "world_new": [
+                "environmental",
+                "impact"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Spontaneous diabetes mellitus in transgenic mice expressing human islet amyloid polypeptide.",
+    "Production of transgenic goats by pronuclear microinjection of in vitro produced zygotes derived from oocytes recovered by laparoscopy.",
+    "The third theme explores whether transgenic crops are necessary for the production of wildlife habitat and wilderness, and to feed the world's population.",
+    "While the potential for these environmental benefits from transgenic crops is real, it is as yet unrealized.",
+    "The authors explore the issues and linkages that associate transgenic crops with the environment.",
+    "Furthermore, no disease could be transmitted from these mice to either transgenic or non-transgenic mice.",
+    "Cloned transgenic offspring resulting from somatic cell nuclear transfer in the goat: oocytes derived from both follicle-stimulating hormone-stimulated and nonstimulated abattoir-derived ovaries.",
+    "As a result, the nodal length in larger axons (>1 mm) is significantly reduced in transgenic mice compared with their wild-type littermates."
+  ],
+  "list_see_also": [
+    "transgenically"
+  ],
+  "list_browse": [
+    "transformation",
+    "transformer",
+    "transfuse",
+    "transfusion",
+    "transgenic",
+    "transgenically",
+    "transistor",
+    "transit",
+    "transition"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337996_939438c4c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337996_5cccc2cfcb_o.png",
+      "id_image": "transgenic_3830424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693239_8e9a3b581c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693239_84617a75c7_o.png",
+      "id_image": "transgenic_6433222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337916_95b03e2e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337916_9bdd5c6d80_o.png",
+      "id_image": "transgenic_6433232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337876_566ee80100_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337876_061588027c_o.png",
+      "id_image": "transgenic_6433272"
+    }
+  ]
+}

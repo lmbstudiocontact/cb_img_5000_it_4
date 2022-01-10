@@ -1,0 +1,78 @@
+{
+  "english": "spike",
+  "phat_am": "spaik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "que nhọn, chấn song sắt đầu nhọn",
+          "definition": "a hard, thin, pointed object (of wood, metal etc)",
+          "world_new": [
+            "thin",
+            "pointed",
+            "object",
+            "wood",
+            "metal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The fence had long spikes on top.",
+              "world_new": [
+                "fence",
+                "long",
+                "top"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đinh đế giày",
+          "definition": "a pointed piece of metal attached to the sole of a shoe etc to prevent slipping.",
+          "world_new": [
+            "pointed",
+            "piece",
+            "metal",
+            "attached",
+            "sole",
+            "shoe",
+            "prevent"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For logistic convenience, dormancy in these trials was assessed by tests of sprouting in intact spikes rather than by germination of threshed grains.",
+    "Once maximum spike activity has occurred, exposure to higher concentrations of the odourant has no effect.",
+    "For each of four varieties, histograms depict the percentages of sprouted grains in intact, partially after-ripened spikes after seven days' misting with water (see text).",
+    "Transmission at the retino-geniculate synapse in cats is influenced by the structure of pre- and postsynaptic spike trains.",
+    "Normally, the laser spike occurs around the first pinching time and near stagnation.",
+    "The spike trains of neurons in sensory systems are certainly correlated with the structure of sensory input.",
+    "Trains of these \"spikes\" must, somehow, code for our perceptions, thoughts, and intentions.",
+    "However, when the visual pattern moved, synaptic and spike activity was dramatically modulated for specific directions of movement."
+  ],
+  "list_see_also": [
+    "spiked",
+    "spiky",
+    "spikiness"
+  ],
+  "list_browse": [
+    "spiced",
+    "spiciness",
+    "spicy",
+    "spider",
+    "spike",
+    "spiked",
+    "spikiness",
+    "spiky",
+    "spill"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354021_4372ab68fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354021_a9ed64ba33_o.png",
+      "id_image": "spike_5029618"
+    }
+  ]
+}

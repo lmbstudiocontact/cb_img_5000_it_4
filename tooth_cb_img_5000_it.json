@@ -1,0 +1,83 @@
+{
+  "english": "tooth",
+  "phat_am": "tuːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "răng",
+          "definition": "any of the hard, bone-like objects that grow in the mouth and are used for biting and chewing",
+          "world_new": [
+            "grow",
+            "mouth",
+            "biting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has had a tooth out at the dentist’s."
+            }
+          ]
+        },
+        {
+          "mean_english": "răng (lược)",
+          "definition": "something that looks or acts like a tooth",
+          "world_new": [
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the teeth of a comb/saw."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Was it the effect that milk was having on the teeth and bones of our young children?",
+    "They have no powers and no \"teeth\" of any sort.",
+    "Is not that kicking his friends in the teeth?",
+    "Both teeth and spectacles are things which people can do without.",
+    "If the teeth are so bad that the expenditure of that sum would not put them right, we prefer to dispense with the man's services.",
+    "In five or 10 years' time we shall give the commission those teeth, but it will be too late.",
+    "Then for sixteen minutes he directed it straight in the teeth of the wind over a given course of 400 yards.",
+    "Expert dental opinion is that the benefit of fluoride to the teeth of children and adults is continuous."
+  ],
+  "list_see_also": [
+    "teethe",
+    "toothless",
+    "toothy",
+    "toothache",
+    "toothbrush",
+    "toothpaste",
+    "toothpick",
+    "be/get etc long in the tooth",
+    "a fine-tooth comb",
+    "a sweet tooth",
+    ""
+  ],
+  "list_browse": [
+    "too bad",
+    "tool",
+    "toolbar",
+    "toot",
+    "tooth",
+    "tooth and nail",
+    "toothache",
+    "toothbrush",
+    "toothless"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081290_35da31f56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081290_38784fa970_o.png",
+      "id_image": "tooth_203140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081275_088e7ce3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081275_1e2f35e47f_o.png",
+      "id_image": "tooth_286559"
+    }
+  ]
+}

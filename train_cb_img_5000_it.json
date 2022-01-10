@@ -1,0 +1,213 @@
+{
+  "english": "train",
+  "phat_am": "trein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe lửa, tàu",
+          "definition": "a railway/railroad engine with its carriages and/or trucks",
+          "world_new": [
+            "engine",
+            "its"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I caught the train to London.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đuôi dài lê thê",
+          "definition": "a part of a long dress or robe that trails behind the wearer",
+          "world_new": [
+            "part",
+            "long",
+            "dress",
+            "robe",
+            "wearer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bride wore a dress with a train.",
+              "world_new": [
+                "bride",
+                "dress"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuỗi",
+          "definition": "a connected series",
+          "world_new": [
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Then began a train of events which ended in disaster.",
+              "world_new": [
+                "disaster"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng, đàn",
+          "definition": "a line of animals carrying people or baggage",
+          "world_new": [
+            "line",
+            "people",
+            "baggage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mule train",
+              "world_new": [
+                "mule"
+              ]
+            },
+            {
+              "ex_of_definition": "a baggage train.",
+              "world_new": [
+                "baggage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đào tạo",
+          "definition": "to prepare, be prepared, or prepare oneself, through instruction, practice, exercise etc, for a sport, job, profession etc",
+          "world_new": [
+            "prepare",
+            "prepared",
+            "prepare",
+            "instruction",
+            "practice",
+            "exercise",
+            "sport",
+            "job",
+            "profession"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was trained as a teacher",
+              "world_new": [
+                "I",
+                "trained",
+                "teacher"
+              ]
+            },
+            {
+              "ex_of_definition": "The racehorse was trained by my uncle.",
+              "world_new": [
+                "racehorse",
+                "trained",
+                "my",
+                "uncle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chĩa",
+          "definition": "to point or aim (a gun, telescope etc) in a particular direction",
+          "world_new": [
+            "point",
+            "aim",
+            "gun",
+            "telescope",
+            "particular",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He trained the gun on/at the soldiers.",
+              "world_new": [
+                "trained",
+                "gun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngả về, mọc theo chiều",
+          "definition": "to make (a tree, plant etc) grow in a particular direction",
+          "world_new": [
+            "tree",
+            "plant",
+            "grow",
+            "particular",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You could train the plant up the trellis.",
+              "world_new": [
+                "plant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Designers are rational agents trained to follow rational methods.",
+    "An evaluation of peer coping-skills training for childhood aggression.",
+    "The spike trains of neurons in sensory systems are certainly correlated with the structure of sensory input.",
+    "Coding was conducted by two coders, blind to group membership, who were trained to 90% agreement on all categories.",
+    "Point-to-point intra-rater and inter-rater reliability (by a person trained in phonetics) checks on initial consonants were conducted on 10 % of the data.",
+    "Concentrations of pumice clasts towards the base form trains of clasts that are traceable along the length of outcrops.",
+    "The students were subsequently trained in class for 4 weeks.",
+    "Do school-based social skills training programs prevent alcohol use among young people?"
+  ],
+  "list_see_also": [
+    "trained",
+    "trainee",
+    "trainer",
+    "training"
+  ],
+  "list_browse": [
+    "tragic",
+    "trail",
+    "trailer",
+    "trailer park",
+    "train",
+    "trained",
+    "trainee",
+    "trainer",
+    "training"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339891_6066407a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339891_c1110cf051_o.png",
+      "id_image": "train_613864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695034_c9ea55f46b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695034_e09b02e55a_o.png",
+      "id_image": "train_619160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454723_8d48322a20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454723_c5fe98c072_o.png",
+      "id_image": "train_870120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076945_8674bc6fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076945_29c6335be4_o.png",
+      "id_image": "train_952356"
+    }
+  ]
+}

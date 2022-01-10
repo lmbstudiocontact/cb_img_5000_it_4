@@ -1,0 +1,72 @@
+{
+  "english": "textile",
+  "phat_am": "ˈtekstail",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hàng dệt may",
+          "definition": "a cloth or fabric made by weaving",
+          "world_new": [
+            "cloth",
+            "fabric"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "woollen textiles",
+              "world_new": [
+                "woollen"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) the textile industry.",
+              "world_new": [
+                "industry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Textile workers laboured six days a week before, during and after the revolution.",
+    "Furthermore, he argues that many women found employment in the textile industry and in other trades, which gave them considerable economic independence.",
+    "With the second national textile contract in 1927, unions thus got the exclusive right to hire.",
+    "The eastern belt, the predominant industrial labour area, is the city of chimneys of the textile mills.",
+    "This representation of rich textiles and fabrics served to heighten the illusion of the grandeur, the splendour and the power of the king.",
+    "By the end of the century there were four large textile mills running in the city.",
+    "Not all proletarian textile families had a similarly comfortable life.",
+    "In textile and jute industries, sardars were labour contractors and their status depended on how many labour hands they brought to the industry."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tether",
+    "text",
+    "text message",
+    "textbook",
+    "textile",
+    "texture",
+    "than",
+    "thank",
+    "thank goodness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465473_af1b1b77e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465473_cdb9f90dca_o.png",
+      "id_image": "textile_1466542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395627_e06b21ca27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395627_0fe991b4f6_o.png",
+      "id_image": "textile_2818430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350906_42fdbf9a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350906_c1b8497218_o.png",
+      "id_image": "textile_5231955"
+    }
+  ]
+}

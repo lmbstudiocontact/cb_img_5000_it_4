@@ -1,0 +1,91 @@
+{
+  "english": "solder",
+  "phat_am": "ˈsəuldə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hợp kim, chất hàn",
+          "definition": "melted metal or alloy used to join one piece of metal to another.",
+          "world_new": [
+            "metal",
+            "alloy",
+            "join",
+            "piece",
+            "metal"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hàn, hàn gắn",
+          "definition": "to join (two or more pieces of metal) with solder",
+          "world_new": [
+            "join"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He soldered the broken wire back on to the transistor",
+              "world_new": [
+                "broken",
+                "wire",
+                "transistor"
+              ]
+            },
+            {
+              "ex_of_definition": "I’d like to learn how to solder.",
+              "world_new": [
+                "learn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Holes may be formed in the base film to allow component leads to pass through for interconnection, normally by soldering.",
+    "Apple was soldering chips directly to boards, and could not easily change out a bad chip if one was found.",
+    "Construction consists of stamped and milled pieces, soldered together.",
+    "Once committed, the solders acted with unexampled courage and dedication which has rightly earned them praise from many quarters both at home and abroad.",
+    "Leads from the loop were passed under the skin and under the aluminum crown through a short piece of shrink tubing, where they were soldered to subminiature connecting pins.",
+    "However, if they are first plated they are more easily soldered.",
+    "Although they are two separate awards, in some cases the holders soldered them together.",
+    "Flash parts can be programmed before being soldered on to a board, or even purchased pre-programmed."
+  ],
+  "list_see_also": [
+    "soldering iron"
+  ],
+  "list_browse": [
+    "solar power",
+    "solar system",
+    "solar wind",
+    "solar-powered",
+    "solder",
+    "soldering iron",
+    "soldier",
+    "soldier on",
+    "sole"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326611_9a05471a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326611_2f3cea3e4c_o.png",
+      "id_image": "solder_2332876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063475_43f54433ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063475_bd991b5ed0_o.png",
+      "id_image": "solder_2472930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326636_7c7f605a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326636_d2659e1cf0_o.png",
+      "id_image": "solder_471759"
+    }
+  ]
+}

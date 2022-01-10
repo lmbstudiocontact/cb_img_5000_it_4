@@ -1,0 +1,58 @@
+{
+  "english": "simplify",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đơn giản hoá",
+          "definition": "to make simpler",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you simplify your language a little?",
+              "world_new": [
+                "your",
+                "language"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This simplifies the problem significantly, where very complex scenarios are reduced to simple equivalent scenarios.",
+    "Variables within time points were permitted to correlate; however, these relations are not shown to simplify presentation.",
+    "The use of bounding volumes allows to simplify the mathematical representation and reduces the computational complexity.",
+    "The application of these assays to the current prevention strategies will simplify the prevention practice and rationalise the use of antibiotics.",
+    "The effects of simplified and elaborated texts on foreign language reading comprehension.",
+    "Both are elegant surveys of familiar ground and both summarize complex arguments without ever simplifying them.",
+    "This leads to a large tensor product which can then be simplified using the techniques from the preceding section.",
+    "And the complexity of the whole acoustic system can be 'dumbed down' with the elimination of the body resonances, simplifying feature recognition."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "simpleton",
+    "simplicity",
+    "simplification",
+    "simplified",
+    "simplify",
+    "simplistic",
+    "simplistically",
+    "simply",
+    "simulate"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338346_8f8fd632e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338346_8576210151_o.png",
+      "id_image": "simplify_5184298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453308_a3457341f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453308_0b0415c00c_o.png",
+      "id_image": "simplify_5398110"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "english": "stock",
+  "phat_am": "stok",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kho dự trữ",
+          "definition": "a store of goods in a shop, warehouse etc",
+          "world_new": [
+            "store",
+            "goods",
+            "shop",
+            "warehouse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Buy while stocks last!",
+              "world_new": [
+                "stocks"
+              ]
+            },
+            {
+              "ex_of_definition": "The tools you require are in / out of stock (= available / not available).",
+              "world_new": [
+                "require",
+                "available"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hàng dự trữ",
+          "definition": "a supply of something",
+          "world_new": [
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We bought a large stock of food for the camping trip.",
+              "world_new": [
+                "large",
+                "food",
+                "camping",
+                "trip"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vật nuôi",
+          "definition": "farm animals",
+          "world_new": [
+            "farm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He would like to purchase more (live) stock.",
+              "world_new": [
+                "purchase"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công trái",
+          "definition": "money lent to the government or to a business company at a fixed interest",
+          "world_new": [
+            "money",
+            "lent",
+            "government",
+            "business",
+            "company",
+            "fixed",
+            "interest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "government stock",
+              "world_new": [
+                "government"
+              ]
+            },
+            {
+              "ex_of_definition": "He has $20,000 in stocks and shares.",
+              "world_new": [
+                "stocks"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nước hầm xương",
+          "definition": "liquid obtained by boiling meat, bones etc and used for making soup etc",
+          "world_new": [
+            "liquid",
+            "meat",
+            "soup"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "beef/vegetable stock."
+            }
+          ]
+        },
+        {
+          "mean_english": "bệ đỡ, tay cầm",
+          "definition": "the handle of a whip, rifle etc.",
+          "world_new": [
+            "handle",
+            "whip",
+            "rifle"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thường dùng, thông thường",
+          "definition": "common; usual",
+          "world_new": [
+            "usual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "stock sizes of shoes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp",
+          "definition": "to keep a supply of for sale",
+          "world_new": [
+            "keep",
+            "supply",
+            "sale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Does this shop stock writing-paper?",
+              "world_new": [
+                "shop"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tích trữ vào kho",
+          "definition": "to supply (a shop, farm etc) with goods, animals etc",
+          "world_new": [
+            "supply",
+            "shop",
+            "farm",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He cannot afford to stock his farm.",
+              "world_new": [
+                "afford",
+                "farm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "stockist",
+    "stocks",
+    "stockbroker",
+    "stock exchange",
+    "stock market",
+    "stockpile",
+    "stock-still",
+    "stock-taking",
+    "stock up",
+    "take stock"
+  ],
+  "list_browse": [
+    "stitch",
+    "stitch up",
+    "stitching",
+    "stoat",
+    "stock",
+    "stock exchange",
+    "stock market",
+    "stock up",
+    "stock-still"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390917_eaf2fe7cd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390917_ab9d02cb9c_o.png",
+      "id_image": "stock_179150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460678_ae1f547d30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460678_4cc7dc7118_o.png",
+      "id_image": "stock_2361757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345926_dde3b8c464_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345926_2c5d17762f_o.png",
+      "id_image": "stock_819483"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "snowflake",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bông tuyết",
+          "definition": "one of the soft, light flakes composed of groups of crystals, in which snow falls",
+          "world_new": [
+            "soft",
+            "light",
+            "composed",
+            "snow",
+            "falls"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A few large snowflakes began to fall from the sky.",
+              "world_new": [
+                "large",
+                "fall",
+                "sky"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snowdrift",
+    "snowdrop",
+    "snowed under",
+    "snowfall",
+    "snowflake",
+    "snowman",
+    "snowstorm",
+    "snowy",
+    "Snr"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443673_8dc8000641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443673_186d2b6f64_o.png",
+      "id_image": "snowflake_2204370"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373407_8cd5e99fb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373407_b86a649186_o.png",
+      "id_image": "snowflake_6118697"
+    }
+  ]
+}

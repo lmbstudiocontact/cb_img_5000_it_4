@@ -1,0 +1,57 @@
+{
+  "english": "spiritual",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc tâm, linh hồn con người, thuộc giáo hội",
+          "definition": "of one’s spirit or soul, or of one’s religious beliefs",
+          "world_new": [
+            "spirit",
+            "soul",
+            "religious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spiritual leader.",
+              "world_new": [
+                "leader"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spirit level",
+    "spirited",
+    "spiritedly",
+    "spirits",
+    "spiritual",
+    "spiritually",
+    "spit",
+    "spite",
+    "spiteful"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708264_4e7c79bfa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708264_64bd5b7883_o.png",
+      "id_image": "spiritual_1900286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353531_2033aa101a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353531_6d0cda2718_o.png",
+      "id_image": "spiritual_3700222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090940_f9c2dfc082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090940_804cc63870_o.png",
+      "id_image": "spiritual_5100568"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "separation",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chia cắt",
+          "definition": "the act of separating or the state or period of being separated",
+          "world_new": [
+            "act",
+            "state",
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were together again after a separation of three years."
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ly thân",
+          "definition": "a (legal) arrangement by which a husband and wife remain married but live separately.",
+          "world_new": [
+            "arrangement",
+            "husband",
+            "wife",
+            "remain",
+            "married",
+            "live",
+            "separately"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, possible separations among populations were examined using multivariate approaches.",
+    "Their appreciation of the separation of structural and behavioral information and the explicit rendering of model assumptions was illustrated by the positive response.",
+    "Certainly, over a long historical period it might be expected that unrecorded separations would have diminished as a proportion of all marriage breakdowns.",
+    "Physically, this is because, on average, the mean shear causes larger separation between particle pairs so that larger eddies disperse them.",
+    "Consequently, the fluctuating velocity histories felt by the two points are identical, except at the endpoints, and the separation between the two does not change.",
+    "Moreover, the properties owned by ' young' elderly people may accommodate people of the same age group who require new housing because of divorce and separation.",
+    "Parental loss was defined as either death or separation from a parent prior to age 17.",
+    "It can be seen that the streamlines do not intersect the cylinder surface downstream of separation."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "separate up",
+    "separately",
+    "separateness",
+    "separates",
+    "separation",
+    "separatism",
+    "separatist",
+    "sepia",
+    "Sept"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349836_7b17309c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349836_3704776942_o.png",
+      "id_image": "separation_2911700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087135_31e2c6687d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087135_0270f7a130_o.png",
+      "id_image": "separation_505790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394567_e4bf7bf617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394567_cd08c6aff4_o.png",
+      "id_image": "separation_5526459"
+    }
+  ]
+}

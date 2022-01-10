@@ -1,0 +1,93 @@
+{
+  "english": "skid",
+  "phat_am": "skid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chèn ,chặn",
+          "definition": "to slide accidentally sideways",
+          "world_new": [
+            "slide",
+            "accidentally",
+            "sideways"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His back wheel skidded and he fell off his bike.",
+              "world_new": [
+                "wheel",
+                "fell"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự trượt",
+          "definition": "an accidental slide sideways",
+          "world_new": [
+            "accidental",
+            "slide",
+            "sideways"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lost control of the car and it went into a skid.",
+              "world_new": [
+                "lost",
+                "control",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái chèn, cái chặn",
+          "definition": "a wedge etc put under a wheel to check it on a steep place.",
+          "world_new": [
+            "wedge",
+            "wheel",
+            "check",
+            "steep",
+            "place"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "That minimum surface depth is to ensure that there is sufficient skid resistance.",
+    "The skidding cost model was used to estimate the skidding cost for one cubic metre of wood extracted over different skidding distances.",
+    "By employing these models, the mean values of the contributing factors to the models can be determined and thus predict the operation time and cost of skidding and loading.",
+    "Each skid incorporates a transmitter, which is essential for the manufacturing facility to monitor the location of each car body.",
+    "The new robotic skid wash system was designed to take away the need to outsource the cleaning process and fit neatly and unobtrusively into the paint shop cycle.",
+    "It is important to ensure that we have the right skidding resistance.",
+    "With the new skid-wash system however, the transmitter is permanently fixed and the robots are programmed to clean with care around the device.",
+    "Logging gaps were found by walking the skid trails and locating old tree stumps."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ski run",
+    "ski slope",
+    "ski tow",
+    "ski track",
+    "skid",
+    "skier",
+    "skiing",
+    "skilful",
+    "skilfully"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450608_8d6e5c53a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450608_b3203967f0_o.png",
+      "id_image": "skid_5727806"
+    }
+  ]
+}

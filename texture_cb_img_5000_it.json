@@ -1,0 +1,72 @@
+{
+  "english": "texture",
+  "phat_am": "ˈtekstjuə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kết cấu",
+          "definition": "the way something feels when touched, eaten etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the texture of wood/stone/skin."
+            }
+          ]
+        },
+        {
+          "mean_english": "kết cấu",
+          "definition": "the way that a piece of cloth looks or feels, caused by the way in which it is woven",
+          "world_new": [
+            "piece",
+            "cloth",
+            "looks"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the loose texture of this material.",
+              "world_new": [
+                "loose",
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A string-based method to recognize symbols and structural textures in architectural plans.",
+    "Spaces of pitch, spaces of rhythms, spaces of textures, among others, can be candidates for formalisation.",
+    "Lithologies are generally meta-granite and meta-microgranite and show granular, microgranular and poikilitic textures.",
+    "On the other hand, a ver y accurate model may not be particularly realistic because colours and textures are not shown.",
+    "His system can generate algorithmic arts from a set of abstract images, textures, and patterns.",
+    "All samples with ophitic relics exhibit corona textures; all these samples are undeformed.",
+    "The two stylistic worlds coalesce in busy textures as the music reaches a second climax.",
+    "509 poikilitic intercumulus textures that have not been destroyed by later overgrowths, indicating that a sulphide liquid was an integral component of the magma."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "text",
+    "text message",
+    "textbook",
+    "textile",
+    "texture",
+    "than",
+    "thank",
+    "thank goodness",
+    "thank heavens"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705409_7ec25140d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705409_b8e07970fc_o.png",
+      "id_image": "texture_2845074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705389_924dc4dbe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705389_0d514d98b8_o.png",
+      "id_image": "texture_5003145"
+    }
+  ]
+}

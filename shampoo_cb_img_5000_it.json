@@ -1,0 +1,123 @@
+{
+  "english": "shampoo",
+  "phat_am": "ʃӕmˈpuː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dầu gội đầu, dầu rửa thảm",
+          "definition": "a soapy liquid or other substance for washing the hair and scalp or for cleaning carpets, upholstery etc",
+          "world_new": [
+            "soapy",
+            "liquid",
+            "substance",
+            "washing",
+            "hair",
+            "scalp",
+            "upholstery"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a special shampoo for greasy hair",
+              "world_new": [
+                "special",
+                "greasy",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "carpet shampoo.",
+              "world_new": [
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự gội đầu, sự rửa thảm",
+          "definition": "an act of washing etc with shampoo",
+          "world_new": [
+            "act",
+            "washing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a shampoo and set at the hairdresser’s.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gội đầu, rửa thảm",
+          "definition": "to wash or clean with shampoo",
+          "world_new": [
+            "wash",
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She shampoos her hair every day",
+              "world_new": [
+                "hair",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "We shampooed the rugs yesterday.",
+              "world_new": [
+                "yesterday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Hempseed oil has found some limited use in the production of soaps, shampoos and detergents.",
+    "Antichlors are sometimes added to shampoos for treating hair after swimming in chlorinated water.",
+    "Demodectic mange with secondary infection is treated with antibiotics and medicated shampoos.",
+    "Antiseptic and antibiotic shampoos (chlorhexidine or benzoyl peroxide) are used to manage further secondary bacterial infection.",
+    "Many women, if they knew what went on, would not use the cosmetics and shampoos that are now available.",
+    "Dandruff shampoos often contain sodium dodecyl sulfate, a noted skin irritant.",
+    "Sessions included shampooing, oiling, combing, braiding, and twisting, plus adding accessories.",
+    "Because of its effect on skin cells, salicylic acid is used in several shampoos to treat dandruff."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shamefulness",
+    "shameless",
+    "shamelessly",
+    "shamelessness",
+    "shampoo",
+    "shamrock",
+    "shandy",
+    "shank",
+    "shanty"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462153_ab15ca5ecf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462153_6480827b29_o.png",
+      "id_image": "shampoo_4157623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392352_883f2b2837_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392352_6e2ed62ee8_o.png",
+      "id_image": "shampoo_4310660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462078_db6fc71532_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462078_c0551de0a9_o.png",
+      "id_image": "shampoo_6075408"
+    }
+  ]
+}

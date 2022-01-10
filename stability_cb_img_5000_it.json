@@ -1,0 +1,61 @@
+{
+  "english": "stability",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự ổn định, sự kiên định",
+          "definition": "the quality of being stable",
+          "world_new": [
+            "quality",
+            "stable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "economic stability",
+              "world_new": [
+                "economic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As the proposed algorithm uses terrain information which is obtained in real time, the turnover stability index is changed each time.",
+    "Because my research started out by locating sufficient conditions for stability in heterogeneous capital goods models, and that problem still fascinates me to this day.",
+    "The pathways through which mammalian cells maintain telomere stability are beginning to come into focus.",
+    "A precise analysis of the stability of the degenerate zero solution would also be of interest.",
+    "In other words, this analysis does not negate previous findings that opinion change and attitude stability vary by political sophistication.",
+    "If hemodynamic stability can be achieved, sinus rhythm returns in the vast majority of patients spontaneously within a few days after surgery.",
+    "Low roost-site fidelity in pallid bats: associated factors and effect on group stability.",
+    "The self-preserving downward-concave profile used here defines a far more realistic base state, and makes possible a formal stability analysis."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "St",
+    "stab",
+    "stab (someone) in the back",
+    "stabbing",
+    "stability",
+    "stabilization",
+    "stabilize",
+    "stable",
+    "stack"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705619_12302827ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705619_8742e5c84e_o.png",
+      "id_image": "stability_4813539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395757_c2fb98151b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395757_856884da4f_o.png",
+      "id_image": "stability_4827338"
+    }
+  ]
+}

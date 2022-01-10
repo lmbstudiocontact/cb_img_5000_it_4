@@ -1,0 +1,58 @@
+{
+  "english": "textbook",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sách giáo khoa",
+          "definition": "a book used in teaching, giving the main facts about a subject",
+          "world_new": [
+            "book",
+            "teaching",
+            "main",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a history textbook.",
+              "world_new": [
+                "history"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A precise definition of convergence and further details can be found in standard textbooks.",
+    "The students felt that projectbased instruction prevented them from lear ning from the teacher and textbooks and from focusing on language skills.",
+    "Much feminist attention has been focused on the sexist bias of many of the textbooks used in schools.",
+    "The search for a new standard in micropalaeontology textbooks continues.",
+    "The theory of commodity demand was designed originally to study the consumer who appears today in elementary economics textbooks.",
+    "Perhaps not surprisingly, written assessment gets most space, though assessment of talk gets slightly more attention than in most textbooks.",
+    "Despite being faced with a complex and rapidly evolving society, the prejudice that is apparent on the pages of textbooks threatens to stultify research.",
+    "As is usual in textbooks, the historical development of an idea is collapsed so that it emerges complete all at once."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tetanus",
+    "tether",
+    "text",
+    "text message",
+    "textbook",
+    "textile",
+    "texture",
+    "than",
+    "thank"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395667_8858f43e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395667_7a4cd891f2_o.png",
+      "id_image": "textbook_1690992"
+    }
+  ]
+}

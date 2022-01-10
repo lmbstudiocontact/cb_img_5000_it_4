@@ -1,0 +1,104 @@
+{
+  "english": "soak",
+  "phat_am": "səuk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngâm nhúng",
+          "definition": "to (let) stand in a liquid",
+          "world_new": [
+            "stand",
+            "liquid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She soaked the clothes overnight in soapy water.",
+              "world_new": [
+                "soaked",
+                "clothes",
+                "overnight",
+                "soapy",
+                "water"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm ướt sũng",
+          "definition": "to make very wet",
+          "world_new": [
+            "wet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That shower has completely soaked my clothes.",
+              "world_new": [
+                "shower",
+                "completely",
+                "soaked",
+                "my",
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngấm qua",
+          "definition": "(with in, into, through etc) (of a liquid) to penetrate",
+          "world_new": [
+            "penetrate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The blood from his wound has soaked right through the bandage.",
+              "world_new": [
+                "blood",
+                "wound",
+                "soaked",
+                "right",
+                "bandage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "soaked",
+    "-soaked",
+    "soaking",
+    "soaking wet",
+    "soak up"
+  ],
+  "list_browse": [
+    "so that",
+    "so to say/speak",
+    "so-called",
+    "so-so",
+    "soak",
+    "soak up",
+    "soaked",
+    "soaked/wet through",
+    "soaking"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443153_aa4c53d9b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443153_b54a0bb04c_o.png",
+      "id_image": "soak_2099975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443108_89c23d98bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443108_9294c2e05e_o.png",
+      "id_image": "soak_3219344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683114_bf17292494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683114_3939173882_o.png",
+      "id_image": "soak_3953731"
+    }
+  ]
+}

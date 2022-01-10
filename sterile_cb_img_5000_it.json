@@ -1,0 +1,70 @@
+{
+  "english": "sterile",
+  "phat_am": "ˈsterail",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cằn cỗi, vô sinh",
+          "definition": "(of soil, plants, humans and other animals) unable to produce crops, seeds, children or young.",
+          "world_new": [
+            "soil",
+            "unable",
+            "produce",
+            "young"
+          ]
+        },
+        {
+          "mean_english": "vô trùng",
+          "definition": "free from germs",
+          "world_new": [
+            "free"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A surgeon’s equipment must be absolutely sterile.",
+              "world_new": [
+                "equipment",
+                "absolutely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In recording topography, the tendency has been to survey the earthworks in isolation, yielding aesthetic, yet largely sterile, sets of two-dimensional plans.",
+    "A work so conceived can have no emotional power; it is bound to be dull and sterile.",
+    "Specimens are extracted under clean and sterile conditions.",
+    "The uppermost flowers are usually light blue, small and sterile, whereas the flowers below are blackish blue with white recurved teeth.",
+    "Reproductive status was dichotomized for the analyses presented here; sterile trees lacked any reproductive structures while fertile trees had one or more reproductive structures.",
+    "This requirement causes controversy, since it does not recognize various sterile organisms as being alive.",
+    "The piece of jejunum was flushed with sterile saline, then further divided into 2 cm lengths.",
+    "Rather than attempting uniform area-wide, inundative releases of sterile males, it may be more cost-effective to preferentially target aggregated populations associated with livestock."
+  ],
+  "list_see_also": [
+    "sterility",
+    "sterilize",
+    "sterilization"
+  ],
+  "list_browse": [
+    "stereophonic",
+    "stereoscopic",
+    "stereotype",
+    "stereotypical",
+    "sterile",
+    "sterility",
+    "sterilization",
+    "sterilize",
+    "sterling"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084585_14db9f04bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084585_2974268150_o.png",
+      "id_image": "sterile_5903994"
+    }
+  ]
+}

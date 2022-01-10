@@ -1,0 +1,95 @@
+{
+  "english": "suitable",
+  "phat_am": "ˈsuːtəbl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phù hợp",
+          "definition": "right or appropriate for a purpose or occasion",
+          "world_new": [
+            "right",
+            "appropriate",
+            "purpose",
+            "occasion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I haven’t any suitable shoes for the wedding",
+              "world_new": [
+                "I",
+                "wedding"
+              ]
+            },
+            {
+              "ex_of_definition": "Those shoes are not suitable for walking in the country",
+              "world_new": [
+                "country"
+              ]
+            },
+            {
+              "ex_of_definition": "Many people applied for the job but not one of them was suitable.",
+              "world_new": [
+                "people",
+                "applied",
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiện nghi, thích hợp",
+          "definition": "convenient",
+          "world_new": [
+            "convenient"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must find a suitable day for our meeting.",
+              "world_new": [
+                "find",
+                "day",
+                "our",
+                "meeting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Location and stability of a newly established eccentric retinal locus suitable for reading, achieved through training of patients with a dense central scotoma.",
+    "Departments would on longer be responsible for delivering those services identified as suitable for delivery at arm's length.",
+    "Cognitively, children must develop the mental representations suitable for encoding the abstract relation between print and meanings.",
+    "Consequently, they are suitable for real-time controlling of uncertain robotic manipulators.",
+    "Thinking about language has become symbolic, with clear and non-ambiguous symbols highly suitable for producing symbolic and rule-like reasoning.",
+    "We have shown that the analysis by the meshless approach is suitable for objects represented as implicit surface models.",
+    "These assumptions hold in many realistic domains and are suitable for a broad class of applications.",
+    "Therefore, this model is suitable for the qualitative description of the indicated regimes."
+  ],
+  "list_see_also": [
+    "suitability",
+    "suitableness",
+    "suitably"
+  ],
+  "list_browse": [
+    "suit (someone) down to the ground",
+    "suit down to the ground",
+    "suit oneself",
+    "suitability",
+    "suitable",
+    "suitableness",
+    "suitably",
+    "suitcase",
+    "suite"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453393_abdff1c3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453393_268f4eddaa_o.png",
+      "id_image": "suitable_6281552"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "english": "scratch",
+  "phat_am": "skrӕtʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cào",
+          "definition": "to mark or hurt by drawing a sharp point across",
+          "world_new": [
+            "mark",
+            "hurt",
+            "drawing",
+            "sharp",
+            "point",
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cat scratched my hand",
+              "world_new": [
+                "cat",
+                "my",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "How did you scratch your leg?",
+              "world_new": [
+                "your",
+                "leg"
+              ]
+            },
+            {
+              "ex_of_definition": "I scratched myself on a rose bush.",
+              "world_new": [
+                "I",
+                "bush"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gãi",
+          "definition": "to rub to relieve itching",
+          "world_new": [
+            "rub",
+            "relieve"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should try not to scratch insect bites.",
+              "world_new": [
+                "try",
+                "insect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "viết nguệch ngoạc",
+          "definition": "to make by scratching",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scratched his name on the rock with a sharp stone.",
+              "world_new": [
+                "name",
+                "rock",
+                "sharp",
+                "stone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gạch xóa đi",
+          "definition": "to remove by scratching",
+          "world_new": [
+            "remove"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She threatened to scratch his eyes out."
+            }
+          ]
+        },
+        {
+          "mean_english": "rút lui",
+          "definition": "to withdraw from a game, race etc",
+          "world_new": [
+            "withdraw",
+            "game",
+            "race"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That horse has been scratched.",
+              "world_new": [
+                "horse"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng sột soạt",
+          "definition": "a mark, injury or sound made by scratching",
+          "world_new": [
+            "mark",
+            "injury",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "covered in scratches"
+            },
+            {
+              "ex_of_definition": "a scratch at the door.",
+              "world_new": [
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự trầy da",
+          "definition": "a slight wound",
+          "world_new": [
+            "slight",
+            "wound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hurt myself, but it’s only a scratch.",
+              "world_new": [
+                "I",
+                "hurt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vạch xuất phát",
+          "definition": "in certain races or competitions, the starting point for people with no handicap or advantage.",
+          "world_new": [
+            "certain",
+            "point",
+            "people",
+            "handicap",
+            "advantage"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After every refinement one could re-evaluate all the bounds from scratch but for efficiency it is desirable to specialise the constraint to the particular refinement.",
+    "And here bioethics has only scratched the surface.",
+    "In addition, some models incorporate different spatial and temporal database models to achieve the final objective, and others have proposed their modelling approach from scratch.",
+    "This toolkit approach avoids starting from scratch each time when constructing further projects and has speeded up development by 50% and 95%.",
+    "The numerous options can then be quickly evaluated without need to design each alternative from scratch.",
+    "Making an executable finger movement from scratch, however, requires a large amount of effort.",
+    "It operates on a field of entangled and confused parchments, on documents that have been scratched over and recopied many times' (p. 151-2).",
+    "We have merely scratched the surface of a range of theoretical approaches that can be explored within the context of priority in health care."
+  ],
+  "list_see_also": [
+    "scratchy",
+    "scratchiness",
+    "scratch the surface",
+    "start from scratch",
+    "up to scratch"
+  ],
+  "list_browse": [
+    "scraper",
+    "scrappily",
+    "scrappiness",
+    "scrappy",
+    "scratch",
+    "scratch the surface",
+    "scratchiness",
+    "scratchy",
+    "scrawl"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682819_4c5166201e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682819_e2d1c2eecd_o.png",
+      "id_image": "scratch_2372956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372397_a60cfb47b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372397_d5656834a5_o.png",
+      "id_image": "scratch_4243236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372372_f085e484cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372372_761b82bd09_o.png",
+      "id_image": "scratch_5052400"
+    }
+  ]
+}

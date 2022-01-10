@@ -1,0 +1,85 @@
+{
+  "english": "toe",
+  "phat_am": "təu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngón chân",
+          "definition": "one of the five finger-like end parts of the foot",
+          "world_new": [
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These tight shoes hurt my toes.",
+              "world_new": [
+                "tight",
+                "hurt",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mũi dầy",
+          "definition": "the front part of a shoe, sock etc",
+          "world_new": [
+            "front",
+            "part",
+            "shoe",
+            "sock"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a hole in the toe of my sock.",
+              "world_new": [
+                "hole",
+                "my",
+                "sock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Using this model, it was shown that applying toe-off force is more energy efficient than using hip torque alone.",
+    "Then the brother quickly pulled the string on the sister's toe.",
+    "Each foot has five toes, and below the feet is a conical peg base 6 cm long.",
+    "She said she was 'quite excited' about mentoring trainees because, it keeps you on your toes a bit.",
+    "The hands rest horizontally on the stomach but are rather separated, and no fingers are shown, nor are toes depicted on the feet.",
+    "Many blind persons show exquisite sensitivity to sounds and smells, and those born without arms can attain remarkable skill in operating with their toes.",
+    "The high foot has toe's z-position of 0.10 m and z-acceleration of 0.002 m/s2 in the middle term of the swing phase.",
+    "The feet have five toes each and rest on a ring below which extends a 16.5 cm long cylindrical peg base."
+  ],
+  "list_see_also": [
+    "toenail",
+    "toe the line"
+  ],
+  "list_browse": [
+    "today",
+    "toddle",
+    "toddler",
+    "toddy",
+    "toe",
+    "toe the line",
+    "toenail",
+    "toffee",
+    "toga"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345856_ba82b4ecc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345856_9e3e085d7d_o.png",
+      "id_image": "toe_2375360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083300_39fe5e5a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083300_7061b95178_o.png",
+      "id_image": "toe_2688365"
+    }
+  ]
+}

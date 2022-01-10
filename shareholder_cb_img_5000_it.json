@@ -1,0 +1,68 @@
+{
+  "english": "shareholder",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cổ đông",
+          "definition": "a person who owns shares in a business company",
+          "world_new": [
+            "person",
+            "business",
+            "company"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a major shareholder in the company.",
+              "world_new": [
+                "major",
+                "company"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These fortunate circumstances meant that the company could pay its shareholders their capital back and even distribute a per annum dividend of 2 per cent.",
+    "Superintendents of individual-run, enterprise-run and shareholder-run homes are more likely to describe the linkage as 'guidance'.",
+    "According to critics of the sector these profits were used to enrich the companies' shareholders through the payment of high dividends.",
+    "These transfers can be between the sponsoring company of a fund (shareholders) and the fund participants.",
+    "But we do have shareholders that have expectations of return, that of a high quality medical service.",
+    "It was the distribution of the ' surplus ' to non-producing shareholders which aroused trade union anger, rather than the creation of profits themselves.",
+    "We know that pension funds are not yet large shareholders of publicly traded firms in developing countries.",
+    "On the other hand, shareholders can put more shares in the hands of the worker and rely on his monitoring."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shapely",
+    "share",
+    "share and share alike",
+    "shared writing",
+    "shareholder",
+    "shark",
+    "sharp",
+    "sharp practice",
+    "sharp-witted"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461728_b75b324ce1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461728_c84a51337b_o.png",
+      "id_image": "shareholder_1622624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391822_6e49760b29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391822_3bb0a19f2c_o.png",
+      "id_image": "shareholder_2037534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701669_83e320cd94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701669_ecd2b458de_o.png",
+      "id_image": "shareholder_2590597"
+    }
+  ]
+}

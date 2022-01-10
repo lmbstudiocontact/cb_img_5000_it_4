@@ -1,0 +1,99 @@
+{
+  "english": "stumble",
+  "phat_am": "ˈstambl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sẩy chân, trượt chân",
+          "definition": "to strike the foot against something and lose one’s balance, or nearly fall",
+          "world_new": [
+            "strike",
+            "foot",
+            "lose",
+            "balance",
+            "nearly",
+            "fall"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stumbled over the edge of the carpet.",
+              "world_new": [
+                "edge",
+                "carpet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi loạng choạng",
+          "definition": "to walk unsteadily",
+          "world_new": [
+            "walk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stumbled along the track in the dark.",
+              "world_new": [
+                "track",
+                "dark"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngần ngại, lưỡng lự",
+          "definition": "to make mistakes, or hesitate in speaking, reading aloud etc",
+          "world_new": [
+            "hesitate",
+            "speaking",
+            "reading",
+            "aloud"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stumbles over his words when speaking in public.",
+              "world_new": [
+                "speaking",
+                "public"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Julian stumbles through the streets crazed with despair.",
+    "Modeling recovery from stumbles: preliminary data on variable selection and classification efficacy.",
+    "The stumbling blocks of disarming nations spring from the fears, imaginary as well as real, about defence.",
+    "Upon listening to the children read the text aloud, it was noticed that some children were hesitating and stumbling at line breaks.",
+    "Is it not conceivable that all of the actors, individual and communal, might have been stumbling, bumbling and muddling their various ways into some new order ?",
+    "One can say that they gazed at the stars and their feet stumbled on the ground.",
+    "I seemed to have stumbled on a way to gather data to generate plausible new ideas.",
+    "Very few utterances had stumbles or pauses, and these were not included in the statistical analysis."
+  ],
+  "list_see_also": [
+    "stumbling block",
+    "stumble across"
+  ],
+  "list_browse": [
+    "stuffily",
+    "stuffiness",
+    "stuffing",
+    "stuffy",
+    "stumble",
+    "stumble across",
+    "stumbling block",
+    "stump",
+    "stump up"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696219_29feb060af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696219_fd6e7b8588_o.png",
+      "id_image": "stumble_2557007"
+    }
+  ]
+}

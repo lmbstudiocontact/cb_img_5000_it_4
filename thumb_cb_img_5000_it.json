@@ -1,0 +1,102 @@
+{
+  "english": "thumb",
+  "phat_am": "θam",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngón tay cái",
+          "definition": "the short thick finger of the hand, set at a different angle from the other four",
+          "world_new": [
+            "short",
+            "thick",
+            "finger",
+            "hand",
+            "angle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The baby is sucking its thumb.",
+              "world_new": [
+                "baby",
+                "its"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần của găng tay bọc ngón tay cái",
+          "definition": "the part of a glove or mitten covering this finger.",
+          "world_new": [
+            "part",
+            "glove",
+            "mitten",
+            "covering",
+            "finger"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lật, giở",
+          "definition": "(often with through) to turn over (the pages of a book) with the thumb or fingers",
+          "world_new": [
+            "turn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was thumbing through the dictionary.",
+              "world_new": [
+                "dictionary"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My copy is already well thumbed.",
+    "Because he is zealous and energetic he does not sit twiddling his thumbs.",
+    "Officials should not, therefore, give a development the thumbs down in the face of a council's unanimous agreement.",
+    "The dictionary owned by a dyslexic person is always, like mine, very well thumbed.",
+    "From an evolutionary standpoint, upright bipedal ambulation, opposable thumbs and divided attention each are high order.",
+    "Finally, while publishing their desires for industrial peace and public welfare, they gouged prices and thumbed their noses at both proposed congressional and presidential strike settlement commissions.",
+    "Recollect that if children do not learn by fourteen to use their fingers, their fingers become thumbs.",
+    "What good is it to win an appeal if the education board just thumbs its nose?"
+  ],
+  "list_see_also": [
+    "thumbnail",
+    "thumbprint",
+    "thumbs-up",
+    "thumbtack",
+    "under someone’s thumb"
+  ],
+  "list_browse": [
+    "thrust",
+    "thrust on/upon",
+    "thud",
+    "thug",
+    "thumb",
+    "thumbnail",
+    "thumbprint",
+    "thumbs-up",
+    "thumbtack"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086015_2efd7d632c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086015_dcdc42ef63_o.png",
+      "id_image": "thumb_5387379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703389_89528004b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703389_e3935ed31e_o.png",
+      "id_image": "thumb_5613267"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "sandwich",
+  "phat_am": "ˈsӕnwidʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bánh xăng đuých",
+          "definition": "slices of bread etc with food between",
+          "world_new": [
+            "bread",
+            "food"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "cheese sandwiches.",
+              "world_new": [
+                "cheese"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "để vào giữa, kẹp vào giữa",
+          "definition": "to place or press between two objects etc",
+          "world_new": [
+            "place",
+            "press"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His car was sandwiched between two lorries.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To facilitate pupation, the leaf disc with the second instar larva was sandwiched between two fresh leaf discs.",
+    "The meal, comprising sandwiches and tea or soft drink was chosen as it is task oriented, requires provision of care and facilitation by the parent.",
+    "But sandwiched between these two chapters is an extremely informative and less guarded text.",
+    "It says that each tank would be covered with tiles made of strong plastic under which sandwich of different materials would be installed.",
+    "Formation of the sandwich must represent a late developmental event occurring subsequent to separation of the right and left atrioventricular junctions.",
+    "Residuals are verbs sandwiched between complements and raised infinitives.",
+    "She brought sandwiches and took them whenever she could.",
+    "In these structures the dome is made from a thin shell of curving timber members sandwiched between leadwork and plaster."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sandpaper",
+    "sandshoes",
+    "sandstone",
+    "sandstorm",
+    "sandwich",
+    "sandy",
+    "sane",
+    "sanely",
+    "sanitarium"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071870_252bc1ec00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071870_801c439e86_o.png",
+      "id_image": "sandwich_485666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689994_9ef542d3c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689994_5be1cfdb3e_o.png",
+      "id_image": "sandwich_736913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449923_6569570ecc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449923_2e44a040c8_o.png",
+      "id_image": "sandwich_786969"
+    }
+  ]
+}

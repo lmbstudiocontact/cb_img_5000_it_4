@@ -1,0 +1,91 @@
+{
+  "english": "stew",
+  "phat_am": "stjuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hầm, ninh",
+          "definition": "to cook (meat, fruit etc) by slowly boiling and simmering",
+          "world_new": [
+            "cook",
+            "fruit",
+            "slowly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She stewed apples"
+            },
+            {
+              "ex_of_definition": "The meat was stewing in the pan.",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "món hầm",
+          "definition": "(a dish of) stewed meat etc",
+          "world_new": [
+            "dish",
+            "meat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve made some beef stew.",
+              "world_new": [
+                "beef"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Flavourful soups and stews include shchi, borsch, ukha, solyanka and okroshka.",
+    "The laxing of the vowel, together with vocalization of the 0 l 0, elicited such incorrect forms as still, stew, stub, and even stuck.",
+    "The casserole is then stewed at a low temperature.",
+    "Consider a clay pot to be fully seasoned only after using it a couple of times cooking wet dishes like soups and stews etc.",
+    "Diners then break into the section of injera in front of them, tearing off pieces and dipping them into the stews.",
+    "Meat is prepared in many ways, as steaks, in stews, fondue, or as dried meat like beef jerky.",
+    "Heavy stews spiced with habanero and scotch bonnet chillies are popular and eaten with fufu.",
+    "They are mainly used in stews and sauces, as well as marinades for meats and chicken."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sternum",
+    "steroid",
+    "stethoscope",
+    "stevedore",
+    "stew",
+    "steward",
+    "stick",
+    "stick at",
+    "stick by"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461798_2a156b7a2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461798_c11f52ab15_o.png",
+      "id_image": "stew_3690235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084340_f6b3cc3d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084340_243486ced3_o.png",
+      "id_image": "stew_4834107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347006_cd4f519b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347006_b46999791e_o.png",
+      "id_image": "stew_661308"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "rugby",
+  "phat_am": "ˈraɡbi",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn bóng bầu dục",
+          "definition": "(also rugby football",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "abbreviation ruggerˈragə) a kind of football using an oval ball which can be carried.",
+              "world_new": [
+                "kind",
+                "football",
+                "oval",
+                "ball"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a rugby ball/player/match."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the middle of this training centre there is a wonderful sports field, with facilities for playing rugby, soccer and other sports.",
+    "A sample survey was done on rugby players, asking them about the latest change in the laws.",
+    "Like rugby teams grappling in a scrum, the parties engaged in a struggle for dominance.",
+    "That sort of thing is going on all over the country at rugby and football games.",
+    "Once it was over, rugby league barely mentioned the war.",
+    "I felt that the real trouble was that he was playing rugby and could not therefore understand the rules of either game.",
+    "The value of sport as a binding agent (and the continued performance of the haka in rugby games) has been challenged in recent years.",
+    "In fact, rugby of whatever code occupied a distant second place compared to the popularity of soccer with troops on active service."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "ruefulness",
+    "ruffian",
+    "ruffle",
+    "rug",
+    "rugby",
+    "rugged",
+    "ruggedly",
+    "ruggedness",
+    "ruin"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340001_ea0b959c9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340001_99bb2cb7c9_o.png",
+      "id_image": "rugby_412770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695174_dea4c717f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695174_50be7c4825_o.png",
+      "id_image": "rugby_4645886"
+    }
+  ]
+}

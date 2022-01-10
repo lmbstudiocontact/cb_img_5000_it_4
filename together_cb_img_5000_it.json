@@ -1,0 +1,100 @@
+{
+  "english": "together",
+  "phat_am": "təˈɡeðə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "cùng",
+          "definition": "with someone or something else; in company",
+          "world_new": [
+            "company"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They travelled together."
+            }
+          ]
+        },
+        {
+          "mean_english": "cùng lúc",
+          "definition": "at the same time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They all arrived together."
+            }
+          ]
+        },
+        {
+          "mean_english": "ghép lại",
+          "definition": "so as to be joined or united",
+          "world_new": [
+            "united"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He nailed/fitted/stuck the pieces of wood together.",
+              "world_new": [
+                "wood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giống nhau",
+          "definition": "by action with one or more other people",
+          "world_new": [
+            "action",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Together we persuaded him."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "togetherness",
+    "together with"
+  ],
+  "list_browse": [
+    "toe the line",
+    "toenail",
+    "toffee",
+    "toga",
+    "together",
+    "together with",
+    "togetherness",
+    "toil",
+    "toilet"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345681_2d272a6546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345681_77c1d865c1_o.png",
+      "id_image": "together_1622628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345651_d77c602ee4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345651_be422c40c5_o.png",
+      "id_image": "together_2865805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083045_d166c9f180_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083045_aaccb940a0_o.png",
+      "id_image": "together_2913429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083000_ed75738b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083000_63deed0714_o.png",
+      "id_image": "together_2913442"
+    }
+  ]
+}

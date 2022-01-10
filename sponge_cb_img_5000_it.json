@@ -1,0 +1,140 @@
+{
+  "english": "sponge",
+  "phat_am": "spandʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bọt biển",
+          "definition": "a type of sea animal, or its soft skeleton, which has many holes and is able to suck up and hold water.",
+          "world_new": [
+            "type",
+            "sea",
+            "animal",
+            "its",
+            "soft",
+            "skeleton",
+            "suck",
+            "hold",
+            "water"
+          ]
+        },
+        {
+          "mean_english": "miếng vải thấm nước",
+          "definition": "a piece of such a skeleton or a substitute, used for washing the body etc.",
+          "world_new": [
+            "piece",
+            "skeleton",
+            "substitute",
+            "washing",
+            "body"
+          ]
+        },
+        {
+          "mean_english": "bánh xốp",
+          "definition": "a sponge pudding or cake",
+          "world_new": [
+            "pudding",
+            "cake"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had jam sponge for dessert.",
+              "world_new": [
+                "jam",
+                "dessert"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự lau chùi bằng bọt biển",
+          "definition": "an act of wiping etc with a sponge",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give the table a quick sponge over, will you?",
+              "world_new": [
+                "table",
+                "quick"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lau chùi, cọ sạch bằng bọt biển",
+          "definition": "to wipe or clean with a sponge",
+          "world_new": [
+            "wipe",
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sponged the child’s face.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lấy được tiền, bòn rút",
+          "definition": "to get a living, money etc (from someone else)",
+          "world_new": [
+            "living",
+            "money"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s been sponging off/on us for years."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sponger",
+    "spongy",
+    "spongily",
+    "sponginess",
+    "sponge bag",
+    "sponge cake"
+  ],
+  "list_browse": [
+    "spoilt",
+    "spoke",
+    "spoken",
+    "spokesman",
+    "sponge",
+    "sponge bag",
+    "sponge cake",
+    "sponger",
+    "spongily"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467978_a224d6d990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467978_c4267bdbb9_o.png",
+      "id_image": "sponge_1619265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090575_c442023d53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090575_6cdbcf2875_o.png",
+      "id_image": "sponge_2203683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398107_97aa5f8c69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398107_1f50f67ae9_o.png",
+      "id_image": "sponge_5732176"
+    }
+  ]
+}

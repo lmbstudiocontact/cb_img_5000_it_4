@@ -1,0 +1,65 @@
+{
+  "english": "tabloid",
+  "phat_am": "ˈtabloid",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "báo khổ nhỏ",
+          "definition": "a newspaper with small pages, big headlines, a lot of pictures and light articles on popular subjects",
+          "world_new": [
+            "newspaper",
+            "small",
+            "big",
+            "headlines",
+            "light",
+            "popular"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(also adjective) tabloid journalism.",
+              "world_new": [
+                "journalism"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The surname is used 9 times in a broadsheet, only once in a tabloid.",
+    "Tabloid newspapers and general television are not strongly associated with measures of mediamalaise.",
+    "This vocabulary difference between broadsheets and tabloids is also shown by the verbs used in the verbs preceding the words 'to death'.",
+    "In the case of the print media there is a difference between broadsheet readers, on the one hand, and tabloid and non-readers, on the other.",
+    "Some newspapers will choose to be tabloids and cover crime, scandal, disaster, and soft news.",
+    "Moreover, these two items always occur in the tabloids without a gloss.",
+    "The tabloids, it seems, are not associated with mobilization, but then nor are they associated with much political malaise either.",
+    "It is a tabloid, but an authoritative one."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tablecloth",
+    "tablespoon",
+    "tablespoonful",
+    "tablet",
+    "tabloid",
+    "taboo",
+    "tack",
+    "tackle",
+    "tact"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373677_41643b7ff2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373677_644fd2da01_o.png",
+      "id_image": "tabloid_3966926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065725_9f4d6518e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065725_216aed56b8_o.png",
+      "id_image": "tabloid_4441544"
+    }
+  ]
+}

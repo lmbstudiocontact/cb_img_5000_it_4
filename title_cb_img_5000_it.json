@@ -1,0 +1,74 @@
+{
+  "english": "title",
+  "phat_am": "ˈtaitl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiêu đề",
+          "definition": "the name of a book, play, painting, piece of music etc",
+          "world_new": [
+            "name",
+            "book",
+            "play",
+            "painting",
+            "piece",
+            "music"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The title of the painting is ‘A Winter Evening’.",
+              "world_new": [
+                "painting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tước danh",
+          "definition": "a word such as ’Sir’, ’Lord’, ’Captain’, ’Professor’, ’Dr’ etc put before a person’s name to show rank, honour/honor, occupation etc",
+          "world_new": [
+            "name",
+            "rank",
+            "occupation"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "titled",
+    "title deed",
+    "title page",
+    "title role"
+  ],
+  "list_browse": [
+    "tissue",
+    "tissue paper",
+    "tit",
+    "titbit",
+    "title",
+    "title deed",
+    "title page",
+    "title role",
+    "titled"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461158_6df982bd1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461158_c301fedfb1_o.png",
+      "id_image": "title_2620548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461088_aba7e65ac2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461088_15e0045046_o.png",
+      "id_image": "title_2620574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461188_68eb653bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461188_e5448f8e98_o.png",
+      "id_image": "title_422137"
+    }
+  ]
+}

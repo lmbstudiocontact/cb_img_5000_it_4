@@ -1,0 +1,83 @@
+{
+  "english": "sunny",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nắng",
+          "definition": "filled with sunshine",
+          "world_new": [
+            "filled",
+            "sunshine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sunny weather.",
+              "world_new": [
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hớn hở, vui vẻ",
+          "definition": "cheerful and happy",
+          "world_new": [
+            "cheerful",
+            "happy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child has a sunny nature.",
+              "world_new": [
+                "child",
+                "nature"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Spring is generally overcast and often rainy, while summer continues to be rainy though is the sunniest time of year.",
+    "Sunny's father agrees, noting that he now accepts that his daughter was at fault for the disruption at the rock and roll show.",
+    "Under a principle of welfare maximization, for example, someone with a sunny disposition will benefit.",
+    "Scored for a full orchestra, it's a good-natured toccata that shakes itself awake with delicate tendrils of melody which pass around the orchestra as a sunny, summery pastorale gently emerges.",
+    "Reproductive sites were censused only during clear sunny conditions, with light wind (less than approximately 5 m s-1), between 10h00 and 13h00.",
+    "As the ice recedes in the spring, they remain on the edge of it, until they are once again on the shoreline during a sunnier season.",
+    "On sunny days during the mid-to-late wet season ripe pods twist open and eject their seeds.",
+    "Sunny's next few projects were extremely patriotic in nature and struck a chord with audiences across the country."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sunless",
+    "sunlight",
+    "sunlit",
+    "sunniness",
+    "sunny",
+    "sunrise",
+    "sunset",
+    "sunshade",
+    "sunshine"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452398_182e0ff356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452398_bd0a05be9d_o.png",
+      "id_image": "sunny_2204335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382537_e2b2ba1bc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382537_fd09007abb_o.png",
+      "id_image": "sunny_4647909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452313_b9e1f51ffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452313_71b40e59db_o.png",
+      "id_image": "sunny_4647931"
+    }
+  ]
+}

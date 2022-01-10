@@ -1,0 +1,127 @@
+{
+  "english": "slow",
+  "phat_am": "sləu",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chậm chạp",
+          "definition": "not fast; not moving quickly; taking a long time",
+          "world_new": [
+            "moving",
+            "long",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slow train",
+              "world_new": [
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "The service at that restaurant is very slow",
+              "world_new": [
+                "service",
+                "restaurant"
+              ]
+            },
+            {
+              "ex_of_definition": "He was very slow to offer help.",
+              "world_new": [
+                "offer",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chậm (thời gian)",
+          "definition": "(of a clock etc) showing a time earlier than the actual time; behind in time",
+          "world_new": [
+            "clock",
+            "time",
+            "actual",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My watch is five minutes slow.",
+              "world_new": [
+                "watch"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trì độn , không nhanh trí",
+          "definition": "not clever; not quick at learning",
+          "world_new": [
+            "quick",
+            "learning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s particularly slow at arithmetic.",
+              "world_new": [
+                "particularly",
+                "arithmetic"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm chậm lại, đi chậm lại",
+          "definition": "to make, or become slower",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car slowed to take the corner.",
+              "world_new": [
+                "car",
+                "corner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "slowly",
+    "slowness",
+    "slow motion",
+    "slow down/up"
+  ],
+  "list_browse": [
+    "sloppy",
+    "slot",
+    "slot machine",
+    "slouch",
+    "slow",
+    "slow down/up",
+    "slow motion",
+    "slowly",
+    "slowness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068885_461523b9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068885_8b6a6d333c_o.png",
+      "id_image": "slow_1455342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447123_0a6be9a4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447123_e1907de091_o.png",
+      "id_image": "slow_2674453"
+    }
+  ]
+}

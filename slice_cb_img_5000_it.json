@@ -1,0 +1,147 @@
+{
+  "english": "slice",
+  "phat_am": "slais",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miếng mỏng, lát mỏng",
+          "definition": "a thin broad piece (of something)",
+          "world_new": [
+            "thin",
+            "broad",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How many slices of meat would you like?",
+              "world_new": [
+                "meat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần, phần chia",
+          "definition": "a part or share",
+          "world_new": [
+            "part",
+            "share"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who got the largest slice of the profits?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt ra từng miếng mỏng",
+          "definition": "to cut into slices",
+          "world_new": [
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sliced the sausage/cucumber.",
+              "world_new": [
+                "sliced"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạng",
+          "definition": "to cut (as) with a sharp blade or knife",
+          "world_new": [
+            "cut",
+            "sharp",
+            "blade",
+            "knife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The blade slipped and sliced off the tip of his forefinger.",
+              "world_new": [
+                "blade",
+                "sliced",
+                "tip",
+                "forefinger"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh xoáy",
+          "definition": "in golf etc, to hit (a ball) in such a way that it curves away to the right (or in the case of a left-handed player, to the left)",
+          "world_new": [
+            "golf",
+            "hit",
+            "right",
+            "case",
+            "left-handed",
+            "player"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sliced her shot and the ball went into the bunker.",
+              "world_new": [
+                "sliced",
+                "shot",
+                "ball",
+                "bunker"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To investigate the contribution of these different inhibitory receptor types, we have applied the patch-clamp technique in acutely isolated slices of the adult mouse retina.",
+    "The eastward dip of these magmatic layers is consistent with an overall thrust-related emplacement history for these slices.",
+    "Specific antisera produced by direct immunization with slices of polyacrylamide gel containing small amounts of protein.",
+    "After running, gels were sliced horizontally into two, 3 mm thick layers.",
+    "Given that there are 30 different types of amacrine cells, it was not possible to unequivocally identify the cells a priori in the slices.",
+    "Moreover, only regions of slices where all retinal layers could be identified were used for quantification.",
+    "After washing with enzyme-free solution, slices were allowed to cool down to room temperature.",
+    "Our work is based on the use of over 100 slices that were studied with neurotracing techniques and field potential recordings."
+  ],
+  "list_see_also": [
+    "sliced",
+    "slicer"
+  ],
+  "list_browse": [
+    "sleeveless",
+    "sleigh",
+    "slender",
+    "slew",
+    "slice",
+    "sliced",
+    "slicer",
+    "slick",
+    "slickly"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378252_b6914908ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378252_f63d5d5260_o.png",
+      "id_image": "slice_1589430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448473_e8c6042398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448473_26abb20348_o.png",
+      "id_image": "slice_3390608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070290_b24158efeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070290_b755b2f274_o.png",
+      "id_image": "slice_448754"
+    }
+  ]
+}

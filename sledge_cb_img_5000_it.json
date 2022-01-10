@@ -1,0 +1,83 @@
+{
+  "english": "sledge",
+  "phat_am": "sledʒ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "xe trượt tuyết",
+          "definition": "(also, especially American, sledsled) a vehicle, usually with runners, made for sliding upon snow.",
+          "world_new": [
+            "vehicle",
+            "snow"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi bằng xe trượt tuyết",
+          "definition": "to ride on a sledge",
+          "world_new": [
+            "ride"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children were sledging all afternoon.",
+              "world_new": [
+                "afternoon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The planking for this was taken from the sledges.",
+    "You'll get dexterity with a sledge with time.",
+    "Tents, cookers, clothing, food for dogs, and dogs for food as well as the streamlined, light-weight sledge were all part of the system.",
+    "Perhaps the most important part of the sledgetraveller's outfit is the sledge itself.",
+    "The distance between these attachment points is 810mm, indicating the width of the sledge when assembled.",
+    "There was, however, little snow and the sledges began to collapse very soon.",
+    "While bad weather, poor ice, and sledging problems occurred, he was able to deal with them without suffering major disasters.",
+    "The written record described what it was to undertake sledge travelling but not how to do it."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slavery",
+    "slay",
+    "sleaze",
+    "sleazy",
+    "sledge",
+    "sledgehammer",
+    "sleek",
+    "sleekly",
+    "sleekness"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334256_29fe04f371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334256_918eef6415_o.png",
+      "id_image": "sledge_1403910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449288_66222b4787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449288_73f8f5a75f_o.png",
+      "id_image": "sledge_4861808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449213_ee5ac4309a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449213_2e0c35ff6c_o.png",
+      "id_image": "sledge_6235724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689249_3ac04b7bf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689249_96413b5274_o.png",
+      "id_image": "sledge_6263048"
+    }
+  ]
+}

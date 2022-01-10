@@ -1,0 +1,86 @@
+{
+  "english": "trowel",
+  "phat_am": "ˈtrauəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái xẻng",
+          "definition": "a tool like a small shovel, used in gardening",
+          "world_new": [
+            "tool",
+            "small",
+            "shovel",
+            "gardening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a garden trowel",
+              "world_new": [
+                "garden"
+              ]
+            },
+            {
+              "ex_of_definition": "He filled the flowerpot with earth, using a trowel.",
+              "world_new": [
+                "filled",
+                "earth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái bay",
+          "definition": "a tool with a flat blade, for spreading mortar, plaster etc.",
+          "world_new": [
+            "tool",
+            "flat",
+            "blade",
+            "mortar",
+            "plaster"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If he used a trowel, there was trouble from the unions.",
+    "The method used was similar to that in survey 1, except that some of the samples were taken with a hand trowel.",
+    "The trowel trades unions were much less likely to discriminate, because most of their skilled craftsmen were black.",
+    "To the haughty tune of hammer and trowel.",
+    "The trenches were then cleaned and smoothed by hand trowel.",
+    "The most distinctive characteristic of the goblin sharks is the long, trowel-shaped, beak-like snout, much longer than those of other sharks.",
+    "The application process involves using a small metal trowel which is heated over a fire.",
+    "The trowel is then run over the surface of the drywall, knocking off the stalactites and leaving the mottled finish."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "trouser suit",
+    "trouser-",
+    "trousers",
+    "trout",
+    "trowel",
+    "truancy",
+    "truant",
+    "truce",
+    "truck"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331771_8f728e1e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331771_41ae5683dd_o.png",
+      "id_image": "trowel_252706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446718_633e7afd68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446718_834a164916_o.png",
+      "id_image": "trowel_252708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686704_431cff809a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686704_2e0a85e5a4_o.png",
+      "id_image": "trowel_252709"
+    }
+  ]
+}

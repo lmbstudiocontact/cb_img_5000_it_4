@@ -1,0 +1,89 @@
+{
+  "english": "spectrum",
+  "phat_am": "ˈspektrəm",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình ảnh",
+          "definition": "the visible spectrum.",
+          "world_new": [
+            "visible"
+          ]
+        },
+        {
+          "mean_english": "một chuỗi đầy đủ, chuỗi rộng",
+          "definition": "the full range (of something)",
+          "world_new": [
+            "full",
+            "range"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The actress’s voice was capable of expressing the whole spectrum of emotion.",
+              "world_new": [
+                "voice",
+                "capable",
+                "whole",
+                "emotion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quang phổ",
+          "definition": "the entire range of radiation of different wavelengths, part of which (the visible spectrum) is normally visible to the naked eye.",
+          "world_new": [
+            "entire",
+            "range",
+            "radiation",
+            "part",
+            "normally",
+            "visible",
+            "naked",
+            "eye"
+          ]
+        },
+        {
+          "mean_english": "loạt những dải âm thanh tương tự quang phổ",
+          "definition": "a similar range of frequencies of sound (the sound spectrum).",
+          "world_new": [
+            "similar",
+            "range",
+            "sound"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The stability criterion and the characteristic oscillation frequency of the zonal flow are determined in terms of the spectra of turbulent fluctuations.",
+    "From these spectra it is possible to follow the absorbance of each polyyne species after irradiation.",
+    "Particularly interesting is the contribution of an a-helix to the spectra of lysozyme and a-lactalbumin.",
+    "X-ray spectra from high intensity subpicosecond laser produced plasmas.",
+    "Variance of the distributions of energy levels and of the transition arrays in atomic spectra.",
+    "Simple technique for measurement of energy spectra of ions from laser produced plasma.",
+    "We would like also to study the dynamic effect on the observed spectra.",
+    "Also, we observe that there is no qualitative change in the spectra when the sign of the chirp is changed while its magnitude is not."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "spectacularly",
+    "spectate",
+    "spectator",
+    "spectre",
+    "spectrum",
+    "speculate",
+    "speculation",
+    "speech",
+    "speech bubble"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324421_ec379d63ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324421_1e5d6f12bf_o.png",
+      "id_image": "spectrum_2285024"
+    }
+  ]
+}

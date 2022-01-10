@@ -1,0 +1,92 @@
+{
+  "english": "tunnel",
+  "phat_am": "ˈtanl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường hầm",
+          "definition": "a (usually man-made) underground passage, especially one cut through a hill or under a river",
+          "world_new": [
+            "underground",
+            "passage",
+            "cut",
+            "hill",
+            "river"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The road goes through a tunnel under the river.",
+              "world_new": [
+                "road",
+                "river"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xây dựng đường hầm",
+          "definition": "to make a tunnel",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They escaped from prison by tunnelling under the walls.",
+              "world_new": [
+                "prison"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All tunnels, their position of origin and length were recorded.",
+    "A method invented earlier in scanning tunnelling microscopy was applied to measure the motion of the cantilever.",
+    "The discovery of thrombus in the lateral tunnels in these 2 patients were incidental findings at routine echocardiography.",
+    "Three phases were designated according to tunnelling activity.",
+    "They complete their development and pupate at the beginning of their tunnels.",
+    "Modeling the kinetics of multistep tunneling processes is a straightforward problem that can be solved analytically without employing simplifying approximations.",
+    "When you look at these hangars from afar, you ask what these half-buried tunnels can be.",
+    "The percentage of stem tunnelled, internodes bored and cobs damaged did not significantly vary among treatments in the insecticide-treated plots (table 5)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tunelessness",
+    "tuner",
+    "tungsten",
+    "tunic",
+    "tunnel",
+    "turban",
+    "turbine",
+    "turbo-",
+    "turbulence"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684234_7c252ff509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684234_7b30bba14a_o.png",
+      "id_image": "tunnel_1185510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329241_dbaea4e7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329241_b0fe402c4f_o.png",
+      "id_image": "tunnel_1996240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329171_876200d13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329171_c1cf542f59_o.png",
+      "id_image": "tunnel_4300135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065945_99fd6f6732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065945_5f4d2421ea_o.png",
+      "id_image": "tunnel_5331778"
+    }
+  ]
+}

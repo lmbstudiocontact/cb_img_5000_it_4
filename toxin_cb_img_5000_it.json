@@ -1,0 +1,69 @@
+{
+  "english": "toxin",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độc tố",
+          "definition": "a poisonous substance of plant or animal origin, especially one produced by bacteria that causes disease",
+          "world_new": [
+            "poisonous",
+            "substance",
+            "plant",
+            "animal",
+            "origin",
+            "bacteria",
+            "disease"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Toxins in the bloodstream can cause a variety of health problems.",
+              "world_new": [
+                "bloodstream",
+                "cause",
+                "variety",
+                "health"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It is usually better to aim for incomplete but acceptable benefit than to attempt absolute control that requires excessive toxin use (see below).",
+    "Structured habitats and the evolution of anticompetitor toxins in bacteria.",
+    "Maternal causes of fetal distress include comorbidities, medications, recreational drugs, infections, metabolic abnormalities, toxins, hypothermia, and seizures.",
+    "Treatment should be aimed at ' removing the opportunity ' for these organisms to produce toxins.",
+    "Why the selection of resistance to anthropogenic toxins normally involves major gene changes : the limits of natural selection.",
+    "The serine protease inhibitor canonical loop conformation : examples found in extracellular hydrolases, toxins, cytokines and viral proteins.",
+    "Effect of tetrodotoxin (puffer fish toxin) on the central nervous system.",
+    "The amino acid sequences of the active sites in both toxins were also compared."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "town centre",
+    "town hall",
+    "townsfolk",
+    "toxic",
+    "toxin",
+    "toy",
+    "trace",
+    "trace elements",
+    "trachea"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079120_fb4ba83773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079120_a88c6b3a67_o.png",
+      "id_image": "toxic_4061417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386652_b2f83ebbde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386652_e4e4e46a0d_o.png",
+      "id_image": "toxin_4155953"
+    }
+  ]
+}

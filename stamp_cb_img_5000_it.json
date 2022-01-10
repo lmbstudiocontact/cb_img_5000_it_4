@@ -1,0 +1,194 @@
+{
+  "english": "stamp",
+  "phat_am": "stӕmp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giậm chân",
+          "definition": "to bring (the foot) down with force (on the ground)",
+          "world_new": [
+            "bring",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stamped his foot with rage",
+              "world_new": [
+                "foot",
+                "rage"
+              ]
+            },
+            {
+              "ex_of_definition": "She stamped on the insect.",
+              "world_new": [
+                "insect"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đóng dấu lên",
+          "definition": "to print or mark on to",
+          "world_new": [
+            "print",
+            "mark"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stamped the date at the top of his letter",
+              "world_new": [
+                "date",
+                "top",
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "The oranges were all stamped with the exporter’s name.",
+              "world_new": [
+                "name"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dán tem vào",
+          "definition": "to stick a postage stamp on (a letter etc)",
+          "world_new": [
+            "stick",
+            "postage",
+            "letter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve addressed the envelope but haven’t stamped it.",
+              "world_new": [
+                "envelope"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự, tiếng giậm chân",
+          "definition": "an act of stamping the foot",
+          "world_new": [
+            "act",
+            "foot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Give it to me!’ she shouted with a stamp of her foot.",
+              "world_new": [
+                "foot"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu, con dấu",
+          "definition": "the instrument used to stamp a design etc on a surface",
+          "world_new": [
+            "instrument",
+            "design",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He marked the date on the bill with a rubber date-stamp.",
+              "world_new": [
+                "marked",
+                "date",
+                "bill",
+                "rubber"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dấu bảo đảm",
+          "definition": "a postage stamp",
+          "world_new": [
+            "postage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stuck the stamps on the parcel",
+              "world_new": [
+                "parcel"
+              ]
+            },
+            {
+              "ex_of_definition": "He collects foreign stamps.",
+              "world_new": [
+                "foreign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhãn hiệu",
+          "definition": "a design etc made by stamping",
+          "world_new": [
+            "design"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All the goods bore the manufacturer’s stamp.",
+              "world_new": [
+                "goods",
+                "bore"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Layered on top of segmentation are the topic stamps themselves, in their relational contexts, at a phrasal level of granularity.",
+    "Instead, we impose some additional structure that allows us to allocate version stamps under a totally ordered scheme.",
+    "There was a substantial contrast between the line of communist propaganda, which preached fraternity between peoples, and the reality of relations stamped with paranoia.",
+    "In addition, 36.2% of the boys' families received public assistance or food stamps.",
+    "Like these, stamps showed the emblem of the lion and the sun and/or the portrait of the reigning monarch.",
+    "If you look very closely, next to the dimple, a number - 4283 - can be made out, stamped (not moulded) into the white plastic.",
+    "When low denominations ran short in the post offices higher denomination stamps were bisected, diagonally or vertically, and accepted for delivery.",
+    "He was the local tax assessor and collector and sub-distributor of stamps."
+  ],
+  "list_see_also": [
+    "stamp out"
+  ],
+  "list_browse": [
+    "stamen",
+    "stamina",
+    "stammer",
+    "stammerer",
+    "stamp",
+    "stamp out",
+    "stampede",
+    "stance",
+    "stand"
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464648_b75a06a058_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464648_7ccec6a4a9_o.png",
+      "id_image": "stamp_1151163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394822_8302c27557_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394822_6954e7ed9a_o.png",
+      "id_image": "stamp_445270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350006_e04615f155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350006_bf2e2e8081_o.png",
+      "id_image": "stamp_928907"
+    }
+  ]
+}
